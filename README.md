@@ -2,22 +2,22 @@
 
 Live, Mac-native replacement for the old `Itunes_Dashboard_26.xlsm` VBA workbook.
 
-Your Mac extracts the Apple Music library weekly → enriches any new artist with a country via MusicBrainz → rebuilds JSON aggregates → commits to git. GitHub Actions deploys the static dashboard to GitHub Pages on every push.
+Your Mac extracts the Apple Music library weekly → enriches any new artist with a country via MusicBrainz → rebuilds JSON aggregates → commits to git. GitHub Pages serves `dashboard/` directly on every push.
 
 The dashboard is a single static page (no build step) — it loads [Observable Plot](https://observablehq.com/plot/) and D3 from a CDN at runtime and fetches `dashboard/data/aggregates.json`.
 
 ## Flow
 
 ```
-  launchd (weekly)                        GitHub Actions
-        │                                       │
-        ▼                                       ▼
-  run_sync.sh                           upload dashboard/ → Pages
-  ├─ sync.py      (AppleScript → SQLite)
+  launchd (weekly)                         GitHub
+        │                                     │
+        ▼                                     ▼
+  run_sync.sh                           Pages (branch-based)
+  ├─ sync.py      (AppleScript → SQLite)      serves /dashboard on push
   ├─ enrich.py    (MusicBrainz + manual fallback)
   ├─ build_data.py (SQLite → data/aggregates/*.json
   │                       → dashboard/data/aggregates.json)
-  └─ git push ─────────────────────────────────→ GitHub
+  └─ git push ─────────────────────────→ github.com/benjaminbellman/music-dashboard
 ```
 
 ## Layout
@@ -46,7 +46,6 @@ dashboard/                         static site (deployed to GitHub Pages)
 
 run_sync.sh                        launchd entry point
 com.benjamin.musicdashboardsync.plist   # copy to ~/Library/LaunchAgents/
-.github/workflows/deploy.yml       # Pages deploy
 ```
 
 ## One-time setup
@@ -81,8 +80,9 @@ bash run_sync.sh                               # on-demand refresh: extract → 
 ## GitHub Pages deploy
 
 1. Create the repo on GitHub (`music-dashboard`) and push main.
-2. **Repo Settings → Pages → Source = "GitHub Actions"**.
-3. Every push that touches `dashboard/**` runs `.github/workflows/deploy.yml`.
+2. **Repo Settings → Pages → Source = "Deploy from a branch"**
+3. **Branch = `main`**, **Folder = `/dashboard`** → Save.
+4. Every push to `main` re-deploys within ~1 minute.
 
 ## Scheduling the weekly sync
 
