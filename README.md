@@ -2,9 +2,9 @@
 
 Live, Mac-native replacement for the old `Itunes_Dashboard_26.xlsm` VBA workbook.
 
-Your Mac extracts the Apple Music library weekly → enriches any new artist with a country via MusicBrainz → rebuilds JSON aggregates → commits to git. GitHub Pages serves `dashboard/` directly on every push.
+Your Mac extracts the Apple Music library weekly → enriches any new artist with a country via MusicBrainz → rebuilds JSON aggregates → commits to git. GitHub Pages serves `docs/` directly on every push.
 
-The dashboard is a single static page (no build step) — it loads [Observable Plot](https://observablehq.com/plot/) and D3 from a CDN at runtime and fetches `dashboard/data/aggregates.json`.
+The dashboard is a single static page (no build step) — it loads [Observable Plot](https://observablehq.com/plot/) and D3 from a CDN at runtime and fetches `docs/data/aggregates.json`.
 
 ## Flow
 
@@ -13,10 +13,10 @@ The dashboard is a single static page (no build step) — it loads [Observable P
         │                                     │
         ▼                                     ▼
   run_sync.sh                           Pages (branch-based)
-  ├─ sync.py      (AppleScript → SQLite)      serves /dashboard on push
+  ├─ sync.py      (AppleScript → SQLite)      serves /docs on push
   ├─ enrich.py    (MusicBrainz + manual fallback)
   ├─ build_data.py (SQLite → data/aggregates/*.json
-  │                       → dashboard/data/aggregates.json)
+  │                       → docs/data/aggregates.json)
   └─ git push ─────────────────────────→ github.com/benjaminbellman/music-dashboard
 ```
 
@@ -38,7 +38,7 @@ data/
   artist_country_seed.csv
   aggregates/*.json                one file per dashboard section (canonical)
 
-dashboard/                         static site (deployed to GitHub Pages)
+docs/                         static site (deployed to GitHub Pages)
   index.html                       shell with tabs
   app.js                           fetches aggregates, renders charts
   style.css                        dark purple theme
@@ -67,7 +67,7 @@ python3 -m venv .venv
 .venv/bin/python pipeline/build_data.py
 
 # Preview the dashboard locally
-cd dashboard && python3 -m http.server 8788     # open http://localhost:8788
+cd docs && python3 -m http.server 8788          # open http://localhost:8788
 ```
 
 ## Day-to-day
@@ -81,7 +81,7 @@ bash run_sync.sh                               # on-demand refresh: extract → 
 
 1. Create the repo on GitHub (`music-dashboard`) and push main.
 2. **Repo Settings → Pages → Source = "Deploy from a branch"**
-3. **Branch = `main`**, **Folder = `/dashboard`** → Save.
+3. **Branch = `main`**, **Folder = `/docs`** → Save.
 4. Every push to `main` re-deploys within ~1 minute.
 
 ## Scheduling the weekly sync

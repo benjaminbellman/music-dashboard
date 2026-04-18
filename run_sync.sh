@@ -23,8 +23,8 @@ VENV_PY="$PROJECT_DIR/.venv/bin/python"
 "$VENV_PY" pipeline/enrich.py      >> "$LOG" 2>&1 || echo "enrich failed (non-fatal)" >> "$LOG"
 "$VENV_PY" pipeline/build_data.py  >> "$LOG" 2>&1
 
-if [[ -n "$(git status --porcelain data/ dashboard/data/ 2>/dev/null || true)" ]]; then
-    git add data/ dashboard/data/
+if [[ -n "$(git status --porcelain data/ docs/data/ 2>/dev/null || true)" ]]; then
+    git add data/ docs/data/
     git -c user.email="sync@localhost" \
         -c user.name="music-dashboard sync" \
         commit -m "sync: $(date -u +%Y-%m-%dT%H:%MZ)" >> "$LOG" 2>&1

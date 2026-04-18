@@ -15,7 +15,7 @@ from db import connect
 
 ROOT = Path(__file__).resolve().parent.parent
 AGGREGATES_DIR = ROOT / "data" / "aggregates"
-DASHBOARD_DATA = ROOT / "dashboard" / "data"
+DASHBOARD_DATA = ROOT / "docs" / "data"
 
 _emitted: dict = {}
 
