@@ -65,71 +65,18 @@ window.addEventListener("hashchange", routeFromHash);
 });
 
 // ─────────────── Refresh button ───────────────
-// Tries to reach the local refresh-server (pipeline/refresh_server.py) at
-// http://127.0.0.1:8789. If /ping responds we show the button; otherwise
-// the dashboard is being viewed from a different machine and the button stays hidden.
-const REFRESH_HOST = "http://127.0.0.1:8789";
-
-async function initRefreshButton() {
+// The button is a plain <a> link to the local refresh-server's status page
+// (http://127.0.0.1:8789/). Cross-origin fetches from HTTPS to localhost are
+// blocked by Chrome's mixed-content / Private Network Access policy, but a
+// regular navigation is allowed. The localhost page handles the sync
+// internally (same-origin) and redirects back to the dashboard when done.
+//
+// We can't ping the server from this HTTPS page (same blocking rule), so the
+// button is always shown. If the server isn't running, clicking just opens a
+// "site can't be reached" tab — clear enough.
+function initRefreshButton() {
   const btn = document.getElementById("refresh-btn");
-  if (!btn) return;
-
-  let reachable = false;
-  try {
-    const ctl = new AbortController();
-    const timer = setTimeout(() => ctl.abort(), 1500);
-    const r = await fetch(`${REFRESH_HOST}/ping`, { signal: ctl.signal });
-    clearTimeout(timer);
-    reachable = r.ok;
-  } catch {
-    reachable = false;
-  }
-  if (!reachable) return;
-
-  btn.hidden = false;
-  btn.addEventListener("click", runRefresh);
-}
-
-async function runRefresh() {
-  const btn = document.getElementById("refresh-btn");
-  const label = btn.querySelector(".refresh-label");
-  const original = label.textContent;
-
-  btn.disabled = true;
-  btn.classList.add("syncing");
-  label.textContent = "Syncing… (2–3 min)";
-  showToast("Extracting your Music library, enriching new artists via MusicBrainz, rebuilding aggregates. Hang tight — usually 2–3 minutes.");
-
-  try {
-    const res = await fetch(`${REFRESH_HOST}/refresh`, { method: "POST" });
-    const body = await res.json().catch(() => ({}));
-    if (!res.ok || body.ok === false) {
-      throw new Error(body.error || body.stderr?.slice(-200) || `refresh-server returned ${res.status}`);
-    }
-    label.textContent = "Deploying…";
-    showToast("Sync committed & pushed. GitHub Pages redeploys in ~1 min — reloading shortly.", "success");
-    setTimeout(() => location.reload(), 75_000);
-  } catch (err) {
-    btn.classList.remove("syncing");
-    label.textContent = original;
-    btn.disabled = false;
-    showToast(
-      `Refresh failed: ${err.message}. Run this in Terminal instead:`,
-      "error",
-      `bash "/Users/benjaminbellman/Music Dashboard/run_sync.sh"`,
-    );
-  }
-}
-
-function showToast(msg, variant = "", code = "") {
-  const t = document.getElementById("refresh-toast");
-  if (!t) return;
-  t.className = `refresh-toast ${variant}`.trim();
-  t.innerHTML =
-    `<button aria-label="Dismiss">×</button>${msg}` +
-    (code ? `<code>${code}</code>` : "");
-  t.hidden = false;
-  t.querySelector("button").addEventListener("click", () => (t.hidden = true));
+  if (btn) btn.hidden = false;
 }
 
 // ─────────────── Overview ───────────────

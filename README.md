@@ -75,8 +75,22 @@ cd docs && python3 -m http.server 8788          # open http://localhost:8788
 ## Day-to-day
 
 ```sh
-bash run_sync.sh                               # on-demand refresh: extract → enrich → build → commit → push
+bash run_sync.sh                                    # on-demand refresh: extract → enrich → build → commit → push
 .venv/bin/python pipeline/enrich.py --interactive   # assign countries MusicBrainz couldn't resolve
+```
+
+There's also a **Refresh** button in the dashboard topbar. It appears only when
+your browser can reach the local refresh server
+(`pipeline/refresh_server.py`, loopback on `127.0.0.1:8789`). Clicking it triggers
+the same `run_sync.sh` flow, then reloads the page once GitHub Pages redeploys.
+When you view the dashboard from another device (phone, another laptop), the
+button stays hidden.
+
+Install the refresh-server launchd job once:
+
+```sh
+cp com.benjamin.musicdashboardrefresh.plist ~/Library/LaunchAgents/
+launchctl load ~/Library/LaunchAgents/com.benjamin.musicdashboardrefresh.plist
 ```
 
 ## GitHub Pages deploy

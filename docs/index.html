@@ -22,10 +22,11 @@
       <a href="#tracker" data-tab="tracker">Tracker</a>
       <a href="#pending" data-tab="pending">Pending</a>
     </nav>
-    <button id="refresh-btn" class="refresh-btn" hidden title="Run a fresh sync from your Mac">
+    <a id="refresh-btn" class="refresh-btn" href="http://127.0.0.1:8789/" target="_blank" rel="noopener"
+       title="Run a fresh sync from your Mac (only works when refresh-server is running locally)">
       <span class="refresh-dot" aria-hidden="true"></span>
       <span class="refresh-label">Refresh</span>
-    </button>
+    </a>
   </header>
 
   <div id="refresh-toast" class="refresh-toast" hidden></div>
