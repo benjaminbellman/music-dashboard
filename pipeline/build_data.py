@@ -137,17 +137,22 @@ def genre_plays(conn) -> list:
 
 
 def month_year(conn) -> dict:
-    """Sum of plays grouped by year-month of last_played.
+    """Sum of plays grouped by year-month a song was added to the library.
     Shape: { "2026": { "01": 412, "02": 389, ... }, ... }
+
+    Rationale: Apple Music gives us lifetime plays + when the song entered
+    the library. Most plays of a song happen in the months after it's added
+    (the "honeymoon" effect), so date_added is a much better proxy for "when
+    were you listening to this" than last_played would be.
     """
     out: dict[str, dict[str, int]] = {}
     for r in conn.execute(
         """
-        SELECT substr(last_played, 1, 4) AS y,
-               substr(last_played, 6, 2) AS m,
+        SELECT substr(date_added, 1, 4) AS y,
+               substr(date_added, 6, 2) AS m,
                SUM(plays) AS p
         FROM tracks_current
-        WHERE last_played IS NOT NULL
+        WHERE date_added IS NOT NULL
         GROUP BY y, m
         ORDER BY y, m
         """
@@ -157,19 +162,18 @@ def month_year(conn) -> dict:
 
 
 def year_artist(conn) -> list:
-    """Most-played primary_artist each year (by lifetime plays of songs whose
-    last_played falls in that year). This is a known approximation — Apple
-    Music gives us aggregate plays + a single 'last played' timestamp, not
-    per-year play history. The legacy xlsm uses the same heuristic.
-    """
+    """Most-played primary_artist per year-added (lifetime plays summed across
+    songs added in that year). This treats lifetime plays as a proxy for
+    "plays during the year I added the song" — true for the typical pattern
+    of binge-listening to new additions soon after adding."""
     rows = conn.execute(
         """
         WITH base AS (
-            SELECT substr(last_played, 1, 4) AS year,
-                   primary_artist            AS artist,
-                   SUM(plays)                AS plays
+            SELECT substr(date_added, 1, 4) AS year,
+                   primary_artist           AS artist,
+                   SUM(plays)               AS plays
             FROM tracks_current
-            WHERE last_played IS NOT NULL AND primary_artist <> ''
+            WHERE date_added IS NOT NULL AND primary_artist <> ''
             GROUP BY year, primary_artist
         ),
         ranked AS (
@@ -187,17 +191,16 @@ def year_artist(conn) -> list:
 
 
 def country_year(conn) -> dict:
-    """Sum of plays grouped by (year, country). Joins on primary_artist so
-    collaborations roll up to the lead artist's country."""
+    """Sum of plays grouped by (year-added, country)."""
     out: dict[str, list] = {}
     for r in conn.execute(
         """
-        SELECT substr(t.last_played, 1, 4) AS year,
+        SELECT substr(t.date_added, 1, 4) AS year,
                ac.country AS country,
                SUM(t.plays) AS plays
         FROM tracks_current t
         JOIN artist_country ac ON ac.artist = t.primary_artist
-        WHERE t.last_played IS NOT NULL
+        WHERE t.date_added IS NOT NULL
         GROUP BY year, country
         ORDER BY year DESC, plays DESC
         """

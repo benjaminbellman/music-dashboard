@@ -1,67 +1,117 @@
 [
   {
     "year": "2026",
-    "artist": "Daft Punk",
-    "plays": 1119
+    "artist": "Supermode",
+    "plays": 319
   },
   {
     "year": "2025",
-    "artist": "Bon Entendeur",
-    "plays": 1567
+    "artist": "Horalion",
+    "plays": 402
   },
   {
     "year": "2024",
-    "artist": "Daft Punk",
-    "plays": 1087
+    "artist": "Bon Entendeur",
+    "plays": 1236
   },
   {
     "year": "2023",
     "artist": "Daft Punk",
-    "plays": 592
+    "plays": 470
   },
   {
     "year": "2022",
-    "artist": "Chicago",
-    "plays": 374
+    "artist": "Tatsuro Yamashita",
+    "plays": 862
   },
   {
     "year": "2021",
-    "artist": "Jacques Brel",
-    "plays": 169
+    "artist": "Bon Entendeur",
+    "plays": 594
   },
   {
     "year": "2020",
-    "artist": "Pitbull",
-    "plays": 101
+    "artist": "Joe Dassin",
+    "plays": 1357
   },
   {
     "year": "2019",
-    "artist": "JAY Z",
-    "plays": 25
+    "artist": "Joe Dassin",
+    "plays": 1234
   },
   {
     "year": "2018",
-    "artist": "Benjamin Bellman",
-    "plays": 18
+    "artist": "Baddiel Skinner",
+    "plays": 1440
   },
   {
     "year": "2017",
-    "artist": "Wolfgang Amadeus Mozart",
-    "plays": 5
+    "artist": "Chicago",
+    "plays": 2623
   },
   {
     "year": "2016",
-    "artist": "Benjamin Bellman",
-    "plays": 5
+    "artist": "ABBA",
+    "plays": 763
   },
   {
     "year": "2015",
-    "artist": "Benjamin Bellman",
-    "plays": 5
+    "artist": "Coldplay",
+    "plays": 1175
   },
   {
     "year": "2014",
-    "artist": "Benjamin Bellman",
-    "plays": 17
+    "artist": "Daft Punk",
+    "plays": 1393
+  },
+  {
+    "year": "2013",
+    "artist": "Daft Punk",
+    "plays": 1056
+  },
+  {
+    "year": "2012",
+    "artist": "Derek & The Dominos",
+    "plays": 138
+  },
+  {
+    "year": "2011",
+    "artist": "Frank Sinatra",
+    "plays": 151
+  },
+  {
+    "year": "2010",
+    "artist": "KC & The Sunshine Band",
+    "plays": 118
+  },
+  {
+    "year": "2009",
+    "artist": "Daft Punk",
+    "plays": 49
+  },
+  {
+    "year": "2008",
+    "artist": "Daft Punk",
+    "plays": 181
+  },
+  {
+    "year": "2007",
+    "artist": "Natalie Imbruglia",
+    "plays": 39
+  },
+  {
+    "year": "2006",
+    "artist": "The Pogues",
+    "plays": 71
+  },
+  {
+    "year": "2005",
+    "artist": "ABBA",
+    "plays": 137
+  },
+  {
+    "year": "2004",
+    "artist": "Maroon 5",
+    "plays": 55
   }
 ]
