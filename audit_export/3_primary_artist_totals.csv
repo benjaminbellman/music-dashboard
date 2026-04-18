@@ -91,8 +91,8 @@ Desired,RU,4,329
 Boney M.,DE,5,326
 Armin van Buuren,NL,3,323
 MACROSS 82-99,MX,3,321
+Supermode,SE,1,320
 Alan Braxe & Fred Falke,FR,3,319
-Supermode,SE,1,319
 Mattyeux,FR,1,317
 Frankie Valli & The Four Seasons,US,4,316
 Marina Kaye,FR,2,314
@@ -303,7 +303,7 @@ Brigitte Bardot,FR,3,152
 Duck Sauce,CA,6,152
 Flume,AU,4,152
 The Pointer Sisters,US,2,152
-113,,1,151
+113,FR,1,151
 Frank Sinatra,US,8,151
 Gabrielle,GB,2,151
 MGMT,US,4,151
@@ -391,11 +391,11 @@ Rihanna,BB,6,127
 The Archies,US,1,127
 Tom Misch,GB,2,127
 Waze & Odyssey,GB,1,127
-Biggie,,2,126
+Biggie,US,2,126
 Hunter,FR,1,126
 Jawny,US,2,126
 September,SE,1,126
-DIVA FAUNE,,1,125
+DIVA FAUNE,FR,1,125
 Diana Ross,US,3,125
 Dj Antoine & The Beat Shakers,CH,1,125
 Onra,FR,2,125
@@ -403,7 +403,7 @@ RUdolph,US,3,125
 Aerosmith,US,5,124
 Bigflo & Oli & Julien Dorée,FR,1,124
 Florent Pagny,FR,3,124
-Gradur,,1,124
+Gradur,FR,1,124
 Grouplove,US,1,124
 Lola Disco,BR,2,124
 Nicky Romero,NL,2,124
@@ -436,7 +436,7 @@ Gotan Project,FR,2,116
 Patterns,FR,1,116
 Pretty Lights,US,1,116
 Richard Wagner,DE,1,116
-Soolking,,1,116
+Soolking,DZ,1,116
 Vanessa Paradis,FR,1,116
 Wolfgang Gartner,US,3,116
 Dusty Kid,IT,4,115
@@ -455,7 +455,7 @@ Swum,IL,1,112
 Crystal Atlantic,US,1,111
 Gotye,AU,2,111
 Jefferson Airplane,US,2,111
-Riton,,2,111
+Riton,GB,2,111
 Sarcastic Sounds,CA,1,111
 Spencer hunt,US,1,111
 Alphaville,DE,2,110
@@ -509,7 +509,7 @@ Johve,DK,1,102
 Le Nonsense,IT,2,102
 Ludacris,US,3,102
 Madeon,FR,2,102
-Steve Reich,,1,102
+Steve Reich,US,1,102
 The Killers,US,2,102
 Topic & Bebe Rexha,US,1,102
 Travis Scott,US,2,102
@@ -531,7 +531,7 @@ Galantis,SE,1,99
 Harry Styles,GB,4,99
 Heizzah,FI,1,99
 Hugh Atkin,AU,1,99
-Kygo,,2,99
+Kygo,NO,2,99
 Mell-o,US,1,99
 No Buses,JP,1,99
 Soitchy,US,1,99
@@ -540,7 +540,7 @@ Stevie Wonder,US,4,99
 Tony Stocker,AU,1,99
 Caravan Palace,FR,1,98
 Liz Callaway,US,1,98
-Martin Solveig,,3,98
+Martin Solveig,FR,3,98
 Placebo,GB,5,98
 Wulf Morpheus,US,1,98
 Aden Foyer,NO,1,97
@@ -682,7 +682,7 @@ Lou Rawls,US,1,80
 Offenbach,FR,2,80
 Yelle,FR,2,80
 Ace of Base,SE,2,79
-College,,1,79
+College,FR,1,79
 Deadmau5,CA,4,79
 Dwig,SI,1,79
 Kaoma,FR,1,79
@@ -785,7 +785,7 @@ John Grant,US,1,69
 Juniore,FR,1,69
 Louis Prima,US,2,69
 Mike Posner,US,2,69
-Naps,,1,69
+Naps,FR,1,69
 The Animals,GB,1,69
 Tracy Chapman,US,2,69
 McFadden & Whitehead,US,1,68
@@ -864,7 +864,7 @@ Aminé,US,1,63
 De Soffer & Les Bisous,FR,1,63
 Enrique Iglesias,ES,3,63
 Freeze Corleone 667,FR,1,63
-Giorgio Moroder,,1,63
+Giorgio Moroder,IT,1,63
 Junior Senior,DK,2,63
 Laura Branigan,US,2,63
 Marlena Shaw,US,1,63
@@ -910,7 +910,7 @@ Christophe Maé,FR,2,59
 Duke Ellington,US,1,59
 James,GB,1,59
 Korn,US,2,59
-Luis Fonsi,,1,59
+Luis Fonsi,PR,1,59
 Luna Blue,GB,1,59
 Makoto Matsushita,JP,1,59
 Nina Sky,US,1,59
@@ -925,7 +925,7 @@ De Palmas,FR,1,58
 Discobitch,FR,1,58
 Ed Sheeran,US,3,58
 Flamingosis,US,1,58
-Jill Scott,,1,58
+Jill Scott,US,1,58
 Las Ketchup,ES,1,58
 Miami Horror,AU,1,58
 Michael Franti & Spearhead,US,1,58
@@ -1019,7 +1019,7 @@ Taba Chake,IN,1,51
 Telephone,FR,2,51
 Tez Cadey,FR,1,51
 Axel Bauer,FR,2,50
-Baby Bash,,1,50
+Baby Bash,US,1,50
 Beyoncé,US,2,50
 Bloody Beetroots,IT,1,50
 Eddy de Pretto,FR,1,50
@@ -1132,17 +1132,17 @@ Fritz Kalkbrenner,DE,1,44
 Immortal Technique,US,2,44
 Kajagoogoo,GB,1,44
 MAGIC,CA,1,44
-Mike Candys,,1,44
+Mike Candys,CH,1,44
 Paris By Air,US,1,44
 Sofi Tukker,US,1,44
 The Association,US,1,44
 Wilson Pickett,US,1,44
 Bill Withers,US,2,43
 Cheb Mami & Sting,FR,1,43
-DJ Khaled,,1,43
+DJ Khaled,US,1,43
 Dr. Dre,US,2,43
 Fleur East,GB,1,43
-Hocus Pocus,,1,43
+Hocus Pocus,FR,1,43
 Jennifer Paige,US,1,43
 Joel Corry,,1,43
 John Frusciante,US,3,43
@@ -1267,12 +1267,12 @@ Hoobastank,US,1,37
 Iden Kai,MX,1,37
 JackLNDN,GB,1,37
 Justin Bieber,CA,1,37
-Koba LaD,,1,37
+Koba LaD,FR,1,37
 Marilyn Manson,US,2,37
 Muriel Dacq,FR,1,37
 O-Zone,MD,1,37
 O.A.R.,US,1,37
-Pedro Santos,,1,37
+Pedro Santos,BR,1,37
 René La Taupe,FR,1,37
 Sexion d'Assaut,FR,2,37
 Sophie Ellis Bextor,GB,1,37
@@ -1282,7 +1282,7 @@ Bada-Bing,GB,1,36
 Buggles,GB,1,36
 Cher Lloyd,GB,1,36
 Culture Club,GB,1,36
-Fitz,,2,36
+Fitz,US,2,36
 France Football Anthem,FR,1,36
 James Taylor,US,1,36
 Jennie (from BlackPink),KR,1,36
@@ -1343,7 +1343,7 @@ Randy Newman,US,1,33
 Rob Zombie,US,1,33
 Seinabo Sey,NO,1,33
 The Fielders,,1,33
-AlunaGeorge,,1,32
+AlunaGeorge,GB,1,32
 Cass Elliot,US,1,32
 Children of Zeal,US,1,32
 Darude,FI,2,32
@@ -1352,7 +1352,7 @@ Electronic,GB,1,32
 Ghost Beach,US,1,32
 I-Cube,FR,1,32
 LMFAO,US,3,32
-Mylo,,1,32
+Mylo,GB,1,32
 Natalie Cardone,FR,1,32
 Panic At the Disco,US,1,32
 Romeo et Juliette,FR,1,32
@@ -1466,10 +1466,10 @@ Fakear,FR,1,27
 Gigi D'Agostino,IT,1,27
 Icona Pop,SE,1,27
 Jacques Chirac,FR,1,27
-Jewelz,,1,27
+Jewelz,DE,1,27
 Madness,GB,1,27
 Marvin Gaye,NO,2,27
-Metro Boomin,,1,27
+Metro Boomin,US,1,27
 Nuane (feat. Aritus),GB,1,27
 Pharrell,US,2,27
 Ringo Starr,GB,1,27
@@ -1549,7 +1549,7 @@ Nick Lowe,GB,1,24
 Parvati Khan,IN,1,24
 Regrets,FR,1,24
 Robin Thicke,CA,1,24
-Spargo,,1,24
+Spargo,NL,1,24
 Tensnake & Purple Disco Machine,DE,1,24
 Tiga,CA,1,24
 WKND,DE,1,24
@@ -1567,7 +1567,7 @@ Cyndi Lauper,US,2,23
 DB Boulevard,IT,1,23
 Dickie Goodman,US,1,23
 Eddie Vedder,US,1,23
-Fred again..,,1,23
+Fred again..,GB,1,23
 Hoku,US,1,23
 Iron Maiden,GB,1,23
 Ludovico Einaudi,GB,1,23
@@ -1595,13 +1595,13 @@ Matt Houston,US,1,22
 Nancy Sinatra,US,2,22
 Nicky Youre & Dazy,US,1,22
 Plain White T's,US,1,22
-Public Enemy,,1,22
+Public Enemy,US,1,22
 Sam,,1,22
 Showtek,NL,1,22
 Taio Cruz,GB,1,22
 The Script,IE,1,22
 The Yardbirds,GB,1,22
-Tommy McCook,,1,22
+Tommy McCook,JM,1,22
 After The Fire,GB,1,21
 Alpharock,NL,1,21
 Aqua,DK,1,21
@@ -1699,7 +1699,7 @@ Hugues Aufray,FR,1,18
 Joywave,US,1,18
 KAMINI,FR,1,18
 Les Ultras-Boys,FR,1,18
-Mac Tyer,,2,18
+Mac Tyer,FR,2,18
 Melanie,US,1,18
 One Direction,GB,1,18
 Pinkpantheress,GB,1,18
@@ -1743,12 +1743,12 @@ Stereo MCs,GB,1,17
 The Bug,GB,1,17
 The Clash,GB,1,17
 The Outcast Owl & Home,US,1,17
-Tube,,1,17
+Tube,JP,1,17
 X Ambassadors,US,1,17
 30 Seconds To Mars,US,1,16
 Barney Stinson,US,1,16
 Berlioz,ZA,1,16
-Chet Faker,,1,16
+Chet Faker,AU,1,16
 Cilla Black,GB,1,16
 Daniele Vitale Sax,IT,1,16
 Eagle-Eye Cherry,SE,1,16
@@ -1824,7 +1824,7 @@ Gary Jules,US,1,14
 George Clinton Jr,US,1,14
 Jay Z,US,1,14
 Jean Schultheis,FR,1,14
-Joan Jett,,1,14
+Joan Jett,US,1,14
 Joe Blow,US,1,14
 Los Del Rio,ES,1,14
 Micky Green,AU,1,14
@@ -1884,7 +1884,7 @@ Israel Kamakawiwo'ole,US,1,12
 JJ,,1,12
 Janis Joplin,US,1,12
 Le top des Tout-P'tits,FR,1,12
-Mac Dre,,1,12
+Mac Dre,US,1,12
 Rossini,IT,1,12
 Seelenluft,CH,1,12
 Shaka Ponk,FR,1,12
@@ -1964,6 +1964,7 @@ Coolio,US,1,7
 "Eminem, Dr. Dre & 50 Cent",US,1,7
 Felix Jaehn,DE,1,7
 Josh tobin,US,1,7
+Maya,FR,1,7
 Oivia Newton John,AU,1,7
 Power Music,DE,1,7
 Pzk,FR,1,7
@@ -1978,7 +1979,6 @@ Gummibär,FR,1,6
 Jim Jamison,US,1,6
 John Denver & The Muppets,US,1,6
 MC Hammer,US,1,6
-Maya,FR,1,6
 Savage,US,1,6
 Spandau Ballet,GB,1,6
 White Stripes,US,1,6
@@ -1998,6 +1998,6 @@ Arvo Part,EE,1,3
 The Guess Who,CA,1,2
 The Strumbellas,CA,1,2
 Laufey,IS,1,1
+Luther Vandross,US,1,1
 Yael Naïm,IL,1,1
 Bad Musician,US,1,0
-Luther Vandross,US,1,0

@@ -60,6 +60,42 @@ def primary_artist(artist: str, canonical: set[str] | None = None) -> str:
 
     return head
 
+
+_SPLIT_ALL = re.compile(
+    r"\s+(?:&|feat\.?|ft\.?|with|vs\.?|and|/|x)\s+",
+    re.IGNORECASE,
+)
+
+
+def credited_artists(artist: str, canonical: set[str] | None = None) -> list[str]:
+    """List every artist that should be credited for a song.
+
+    The lead (primary_artist) is always credited. Other artists in the raw
+    string are credited only if they're in the canonical set — this avoids
+    creating phantom artists for ad-hoc featurings while still giving credit
+    when a known artist (The Weeknd, Daft Punk, Pharrell Williams) appears as
+    a feature on someone else's track.
+
+    If the FULL string is canonical (band like 'Polo & Pan'), it's the only
+    credit — we don't split into 'Polo' + 'Pan'.
+    """
+    if not artist:
+        return []
+    raw = artist.strip()
+    canonical = canonical or set()
+    primary = primary_artist(raw, canonical)
+
+    # Whole string is a canonical band name → credit it as one.
+    if primary == raw:
+        return [raw]
+
+    credits = [primary]
+    for atom in _SPLIT_ALL.split(raw):
+        a = atom.strip()
+        if a and a != primary and a in canonical and a not in credits:
+            credits.append(a)
+    return credits
+
 PROJECT_DIR = Path(__file__).resolve().parent
 APPLESCRIPT = PROJECT_DIR / "extract_library.applescript"
 
@@ -167,7 +203,7 @@ def _dedupe(rows: list[tuple]) -> list[tuple]:
     return [tuple(v) for v in merged.values()]
 
 
-def upsert_tracks(conn, rows: list[tuple]) -> None:
+def upsert_tracks(conn, rows: list[tuple], canonical: set[str]) -> None:
     with conn:
         conn.execute("DELETE FROM tracks_current")
         conn.executemany(
@@ -178,6 +214,17 @@ def upsert_tracks(conn, rows: list[tuple]) -> None:
             VALUES (?,?,?,?,?,?,?,?,?,?)
             """,
             rows,
+        )
+        # Rebuild the multi-artist credit table.
+        conn.execute("DELETE FROM track_artists")
+        credits = []
+        for r in rows:
+            tid, _song, raw_artist, _primary, *_rest = r
+            for a in credited_artists(raw_artist, canonical):
+                credits.append((tid, a))
+        conn.executemany(
+            "INSERT OR IGNORE INTO track_artists (track_id, artist) VALUES (?, ?)",
+            credits,
         )
 
 
@@ -229,7 +276,7 @@ def main() -> None:
         raise SystemExit("No rows parsed from AppleScript output; aborting.")
     rows = _dedupe(rows)
 
-    upsert_tracks(conn, rows)
+    upsert_tracks(conn, rows, canonical)
     append_snapshot(conn, rows)
     new_pending = queue_new_artists(conn)
 

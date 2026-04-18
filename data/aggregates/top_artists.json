@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "count": 96,
+      "count": 101,
       "country": "FR"
     },
     {
@@ -21,13 +21,13 @@
     {
       "rank": 4,
       "artist": "Coldplay",
-      "count": 30,
+      "count": 31,
       "country": "GB"
     },
     {
       "rank": 5,
       "artist": "Bon Entendeur",
-      "count": 27,
+      "count": 28,
       "country": "FR"
     },
     {
@@ -38,32 +38,32 @@
     },
     {
       "rank": 7,
-      "artist": "Joe Dassin",
+      "artist": "David Guetta",
       "count": 24,
       "country": "FR"
     },
     {
       "rank": 8,
-      "artist": "David Guetta",
-      "count": 23,
+      "artist": "Joe Dassin",
+      "count": 24,
       "country": "FR"
     },
     {
       "rank": 9,
       "artist": "Justice",
-      "count": 22,
+      "count": 23,
       "country": "FR"
     },
     {
       "rank": 10,
       "artist": "Dua Lipa",
-      "count": 21,
+      "count": 22,
       "country": "GB"
     },
     {
       "rank": 11,
       "artist": "Madonna",
-      "count": 21,
+      "count": 22,
       "country": "US"
     },
     {
@@ -119,19 +119,199 @@
       "artist": "ABBA",
       "count": 13,
       "country": "SE"
+    },
+    {
+      "rank": 21,
+      "artist": "Britney Spears",
+      "count": 13,
+      "country": "US"
+    },
+    {
+      "rank": 22,
+      "artist": "Michael Jackson",
+      "count": 13,
+      "country": "US"
+    },
+    {
+      "rank": 23,
+      "artist": "Queen",
+      "count": 13,
+      "country": "GB"
+    },
+    {
+      "rank": 24,
+      "artist": "Your Favorite Martian",
+      "count": 13,
+      "country": "US"
+    },
+    {
+      "rank": 25,
+      "artist": "Drake",
+      "count": 12,
+      "country": "CA"
+    },
+    {
+      "rank": 26,
+      "artist": "Fall Out Boy",
+      "count": 12,
+      "country": "US"
+    },
+    {
+      "rank": 27,
+      "artist": "MIKA",
+      "count": 12,
+      "country": "GB"
+    },
+    {
+      "rank": 28,
+      "artist": "Maroon 5",
+      "count": 12,
+      "country": "US"
+    },
+    {
+      "rank": 29,
+      "artist": "The Weeknd",
+      "count": 12,
+      "country": "CA"
+    },
+    {
+      "rank": 30,
+      "artist": "\"Weird Al\" Yankovic",
+      "count": 11,
+      "country": null
+    },
+    {
+      "rank": 31,
+      "artist": "AIR (Band)",
+      "count": 11,
+      "country": "FR"
+    },
+    {
+      "rank": 32,
+      "artist": "Calvin Harris",
+      "count": 11,
+      "country": "GB"
+    },
+    {
+      "rank": 33,
+      "artist": "Charles Aznavour",
+      "count": 11,
+      "country": "FR"
+    },
+    {
+      "rank": 34,
+      "artist": "Epic Rap Battles of History",
+      "count": 11,
+      "country": "US"
+    },
+    {
+      "rank": 35,
+      "artist": "Jacques Brel",
+      "count": 11,
+      "country": "FR"
+    },
+    {
+      "rank": 36,
+      "artist": "Linkin Park",
+      "count": 11,
+      "country": "US"
+    },
+    {
+      "rank": 37,
+      "artist": "Avicii",
+      "count": 10,
+      "country": "SE"
+    },
+    {
+      "rank": 38,
+      "artist": "Benny Benassi",
+      "count": 10,
+      "country": "IT"
+    },
+    {
+      "rank": 39,
+      "artist": "Beach Boys",
+      "count": 9,
+      "country": "US"
+    },
+    {
+      "rank": 40,
+      "artist": "Breaking Benjamin",
+      "count": 9,
+      "country": "GB"
+    },
+    {
+      "rank": 41,
+      "artist": "Disney",
+      "count": 9,
+      "country": "US"
+    },
+    {
+      "rank": 42,
+      "artist": "Eminem",
+      "count": 9,
+      "country": "US"
+    },
+    {
+      "rank": 43,
+      "artist": "Gesaffelstein",
+      "count": 9,
+      "country": "FR"
+    },
+    {
+      "rank": 44,
+      "artist": "Kanye West",
+      "count": 9,
+      "country": "US"
+    },
+    {
+      "rank": 45,
+      "artist": "Lifelike",
+      "count": 9,
+      "country": "FR"
+    },
+    {
+      "rank": 46,
+      "artist": "Pitbull",
+      "count": 9,
+      "country": "US"
+    },
+    {
+      "rank": 47,
+      "artist": "Shakira",
+      "count": 9,
+      "country": "CO"
+    },
+    {
+      "rank": 48,
+      "artist": "Tatsuro Yamashita",
+      "count": 9,
+      "country": "JP"
+    },
+    {
+      "rank": 49,
+      "artist": "The Lonely Island",
+      "count": 9,
+      "country": "US"
+    },
+    {
+      "rank": 50,
+      "artist": "Anri",
+      "count": 8,
+      "country": "JP"
     }
   ],
   "by_play_count": [
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4114,
+      "plays": 4523,
       "country": "FR"
     },
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3387,
+      "plays": 3521,
       "country": "FR"
     },
     {
@@ -149,13 +329,13 @@
     {
       "rank": 5,
       "artist": "Dua Lipa",
-      "plays": 2203,
+      "plays": 2383,
       "country": "GB"
     },
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 1993,
+      "plays": 2140,
       "country": "GB"
     },
     {
@@ -172,75 +352,255 @@
     },
     {
       "rank": 9,
+      "artist": "Lifelike",
+      "plays": 1273,
+      "country": "FR"
+    },
+    {
+      "rank": 10,
       "artist": "Supertramp",
       "plays": 1180,
       "country": "GB"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "artist": "Jacques Brel",
       "plays": 1148,
       "country": "FR"
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "artist": "Justice",
+      "plays": 1140,
+      "country": "FR"
+    },
+    {
+      "rank": 13,
+      "artist": "Charles Aznavour",
+      "plays": 1134,
+      "country": "FR"
+    },
+    {
+      "rank": 14,
       "artist": "Renaud",
       "plays": 1122,
       "country": "FR"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "artist": "PNL",
       "plays": 1085,
       "country": "FR"
     },
     {
-      "rank": 13,
-      "artist": "Justice",
-      "plays": 1081,
-      "country": "FR"
-    },
-    {
-      "rank": 14,
+      "rank": 16,
       "artist": "ABBA",
       "plays": 1044,
       "country": "SE"
     },
     {
-      "rank": 15,
+      "rank": 17,
+      "artist": "The Weeknd",
+      "plays": 1020,
+      "country": "CA"
+    },
+    {
+      "rank": 18,
       "artist": "Anri",
       "plays": 1011,
       "country": "JP"
     },
     {
-      "rank": 16,
-      "artist": "Charles Aznavour",
-      "plays": 1002,
-      "country": "FR"
-    },
-    {
-      "rank": 17,
-      "artist": "Lifelike",
-      "plays": 996,
-      "country": "FR"
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "artist": "Tatsuro Yamashita",
       "plays": 980,
       "country": "JP"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "artist": "Serge Gainsbourg",
       "plays": 957,
       "country": "FR"
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "artist": "David Guetta",
+      "plays": 908,
+      "country": "FR"
+    },
+    {
+      "rank": 22,
+      "artist": "Queen",
+      "plays": 900,
+      "country": "GB"
+    },
+    {
+      "rank": 23,
       "artist": "442oons",
       "plays": 898,
       "country": "GB"
+    },
+    {
+      "rank": 24,
+      "artist": "Beach Boys",
+      "plays": 898,
+      "country": "US"
+    },
+    {
+      "rank": 25,
+      "artist": "MIKA",
+      "plays": 891,
+      "country": "GB"
+    },
+    {
+      "rank": 26,
+      "artist": "Night Tempo",
+      "plays": 818,
+      "country": "KR"
+    },
+    {
+      "rank": 27,
+      "artist": "Synapson",
+      "plays": 802,
+      "country": "FR"
+    },
+    {
+      "rank": 28,
+      "artist": "Calvin Harris",
+      "plays": 793,
+      "country": "GB"
+    },
+    {
+      "rank": 29,
+      "artist": "Rucka Rucka Ali",
+      "plays": 793,
+      "country": "US"
+    },
+    {
+      "rank": 30,
+      "artist": "Gigamesh",
+      "plays": 787,
+      "country": "US"
+    },
+    {
+      "rank": 31,
+      "artist": "Pink Floyd",
+      "plays": 727,
+      "country": "GB"
+    },
+    {
+      "rank": 32,
+      "artist": "Purple Disco Machine",
+      "plays": 684,
+      "country": "DE"
+    },
+    {
+      "rank": 33,
+      "artist": "Maroon 5",
+      "plays": 673,
+      "country": "US"
+    },
+    {
+      "rank": 34,
+      "artist": "AIR (Band)",
+      "plays": 657,
+      "country": "FR"
+    },
+    {
+      "rank": 35,
+      "artist": "Calogero",
+      "plays": 656,
+      "country": "FR"
+    },
+    {
+      "rank": 36,
+      "artist": "Eric Prydz",
+      "plays": 632,
+      "country": "SE"
+    },
+    {
+      "rank": 37,
+      "artist": "L'Impératrice",
+      "plays": 629,
+      "country": "FR"
+    },
+    {
+      "rank": 38,
+      "artist": "The Beatles",
+      "plays": 626,
+      "country": "GB"
+    },
+    {
+      "rank": 39,
+      "artist": "Modern Talking",
+      "plays": 615,
+      "country": "DE"
+    },
+    {
+      "rank": 40,
+      "artist": "Kungs",
+      "plays": 609,
+      "country": "FR"
+    },
+    {
+      "rank": 41,
+      "artist": "Tame Impala",
+      "plays": 589,
+      "country": "AU"
+    },
+    {
+      "rank": 42,
+      "artist": "Drake",
+      "plays": 578,
+      "country": "CA"
+    },
+    {
+      "rank": 43,
+      "artist": "Johnny Cash",
+      "plays": 569,
+      "country": "US"
+    },
+    {
+      "rank": 44,
+      "artist": "Madonna",
+      "plays": 552,
+      "country": "US"
+    },
+    {
+      "rank": 45,
+      "artist": "Visitor",
+      "plays": 552,
+      "country": "AU"
+    },
+    {
+      "rank": 46,
+      "artist": "MACROSS 82-99",
+      "plays": 549,
+      "country": "MX"
+    },
+    {
+      "rank": 47,
+      "artist": "Bee Gees",
+      "plays": 528,
+      "country": "GB"
+    },
+    {
+      "rank": 48,
+      "artist": "Pitbull",
+      "plays": 527,
+      "country": "US"
+    },
+    {
+      "rank": 49,
+      "artist": "Electric Light Orchestra",
+      "plays": 526,
+      "country": "GB"
+    },
+    {
+      "rank": 50,
+      "artist": "Avicii",
+      "plays": 525,
+      "country": "SE"
     }
   ]
 }

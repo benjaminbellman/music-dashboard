@@ -26,6 +26,17 @@ CREATE INDEX IF NOT EXISTS idx_tracks_artist         ON tracks_current(artist);
 CREATE INDEX IF NOT EXISTS idx_tracks_primary_artist ON tracks_current(primary_artist);
 CREATE INDEX IF NOT EXISTS idx_tracks_genre          ON tracks_current(genre);
 
+-- One row per credited artist on a track. Used to give The Weeknd credit on
+-- "Doja Cat & The Weeknd" while keeping primary_artist for country totals
+-- (which would otherwise double-count plays).
+CREATE TABLE IF NOT EXISTS track_artists (
+    track_id  TEXT NOT NULL,
+    artist    TEXT NOT NULL,
+    PRIMARY KEY (track_id, artist)
+);
+
+CREATE INDEX IF NOT EXISTS idx_track_artists_artist ON track_artists(artist);
+
 CREATE TABLE IF NOT EXISTS snapshots (
     snapshot_date TEXT NOT NULL,
     track_id      TEXT NOT NULL,

@@ -1,67 +1,212 @@
 [
   {
     "artist": "\"Weird Al\" Yankovic",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "\"Weird Al\" Yankovic & Mike Kieffer",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
-    "artist": "113",
-    "attempts": 1,
-    "last_error": null
+    "artist": "All Hail the Silence",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Boy George",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Carte Blanq & Maxx Power",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Davioux",
+    "attempts": 2,
+    "last_error": "no match"
   },
   {
     "artist": "Dresage &  Slow Shiver",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Elton John, Dua Lipa",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Finger",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "G-Eazy",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "GEE LEE, Riton",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Garden City Movement  Lola Marsh",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Grant Smilie",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "JJ",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Joel Corry",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "K Camp",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Lost Frequencies  & Janieck Devy",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Lost Frequencies  & Kungs",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Mamas",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Mommy",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Omer Adam",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "One T  Cool T",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Ozuna, RedOne  & Maitre Gims",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Peter Bjorn",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Peter Paul",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Red Hot Chili Pepper ( Gamper",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Rhett",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Richy Sheehy",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Sam",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Shelco Garcia",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Siboy",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Siboy Feat Damso  & Bénash",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
-    "artist": "Spargo",
-    "attempts": 1,
-    "last_error": null
+    "artist": "Simon",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Soso maness",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Static",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "T.I",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "The Fielders",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "The Fugees",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   },
   {
     "artist": "Tiësto & Mabel",
-    "attempts": 1,
-    "last_error": null
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Tones",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Trails",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
+  },
+  {
+    "artist": "Yann Dulché",
+    "attempts": 2,
+    "last_error": "no confident match (best score=100)"
   }
 ]

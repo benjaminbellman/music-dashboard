@@ -64,19 +64,20 @@ def kpis(conn) -> dict:
 
 
 def top_artists(conn) -> dict:
-    """Group by primary_artist so collaborations roll up to the lead artist
-    (e.g. 'Bon Entendeur & X' counts toward 'Bon Entendeur')."""
+    """Top artists by song count and total plays. Uses track_artists so an
+    artist gets credit for every track they're listed on — features included.
+    'Doja Cat & The Weeknd' counts both Doja Cat and The Weeknd."""
     by_song = [
         {"rank": i + 1, "artist": r["artist"], "count": r["c"], "country": r["country"]}
         for i, r in enumerate(conn.execute(
             """
-            SELECT t.primary_artist AS artist, COUNT(*) AS c, ac.country
-            FROM tracks_current t
-            LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
-            WHERE t.primary_artist <> ''
-            GROUP BY t.primary_artist
-            ORDER BY c DESC, t.primary_artist
-            LIMIT 20
+            SELECT ta.artist, COUNT(DISTINCT ta.track_id) AS c, ac.country
+            FROM track_artists ta
+            LEFT JOIN artist_country ac ON ac.artist = ta.artist
+            WHERE ta.artist <> ''
+            GROUP BY ta.artist
+            ORDER BY c DESC, ta.artist
+            LIMIT 50
             """
         ))
     ]
@@ -84,13 +85,14 @@ def top_artists(conn) -> dict:
         {"rank": i + 1, "artist": r["artist"], "plays": r["p"], "country": r["country"]}
         for i, r in enumerate(conn.execute(
             """
-            SELECT t.primary_artist AS artist, SUM(t.plays) AS p, ac.country
-            FROM tracks_current t
-            LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
-            WHERE t.primary_artist <> ''
-            GROUP BY t.primary_artist
-            ORDER BY p DESC, t.primary_artist
-            LIMIT 20
+            SELECT ta.artist, SUM(t.plays) AS p, ac.country
+            FROM track_artists ta
+            JOIN tracks_current t ON t.track_id = ta.track_id
+            LEFT JOIN artist_country ac ON ac.artist = ta.artist
+            WHERE ta.artist <> ''
+            GROUP BY ta.artist
+            ORDER BY p DESC, ta.artist
+            LIMIT 50
             """
         ))
     ]
@@ -162,19 +164,19 @@ def month_year(conn) -> dict:
 
 
 def year_artist(conn) -> list:
-    """Most-played primary_artist per year-added (lifetime plays summed across
-    songs added in that year). This treats lifetime plays as a proxy for
-    "plays during the year I added the song" — true for the typical pattern
-    of binge-listening to new additions soon after adding."""
+    """Most-credited artist per year-added (lifetime plays summed across songs
+    added in that year, with credit going to every artist in the artist
+    column — features included)."""
     rows = conn.execute(
         """
         WITH base AS (
-            SELECT substr(date_added, 1, 4) AS year,
-                   primary_artist           AS artist,
-                   SUM(plays)               AS plays
-            FROM tracks_current
-            WHERE date_added IS NOT NULL AND primary_artist <> ''
-            GROUP BY year, primary_artist
+            SELECT substr(t.date_added, 1, 4) AS year,
+                   ta.artist                  AS artist,
+                   SUM(t.plays)               AS plays
+            FROM track_artists ta
+            JOIN tracks_current t ON t.track_id = ta.track_id
+            WHERE t.date_added IS NOT NULL AND ta.artist <> ''
+            GROUP BY year, ta.artist
         ),
         ranked AS (
             SELECT year, artist, plays,

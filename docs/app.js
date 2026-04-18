@@ -110,11 +110,11 @@ function renderOverview(data) {
     banner.innerHTML = `<strong>${n}</strong> artist${n === 1 ? "" : "s"} need a country assignment. <a href="#pending">Review →</a>`;
   }
 
-  mount("chart-artists-songs", plotBarH(data.top_artists.by_song_count, "count", "artist",
+  mount("chart-artists-songs", plotBarH(data.top_artists.by_song_count.slice(0, 20), "count", "artist",
     d => `${d.artist}${d.country ? " " + flag(d.country) : ""}: ${d.count} songs`,
     { xLabel: "Songs →", fill: "var(--accent)" }));
 
-  mount("chart-artists-plays", plotBarH(data.top_artists.by_play_count, "plays", "artist",
+  mount("chart-artists-plays", plotBarH(data.top_artists.by_play_count.slice(0, 20), "plays", "artist",
     d => `${d.artist}${d.country ? " " + flag(d.country) : ""}: ${d.plays.toLocaleString()} plays`,
     { xLabel: "Plays →", fill: "#c4b5fd" }));
 
