@@ -1,6 +1,8 @@
 # Music Dashboard
 
-Live, Mac-native replacement for the old `Itunes_Dashboard_26.xlsm` VBA workbook.
+**Live site: https://benjaminbellman.github.io/music-dashboard/**
+
+Mac-native replacement for the old `Itunes_Dashboard_26.xlsm` VBA workbook.
 
 Your Mac extracts the Apple Music library weekly → enriches any new artist with a country via MusicBrainz → rebuilds JSON aggregates → commits to git. GitHub Pages serves `docs/` directly on every push.
 
