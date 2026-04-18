@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Apple Music Stats</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">♪</span>
+      <span class="brand-text">Apple Music Stats</span>
+    </div>
+    <nav class="tabs">
+      <a href="#overview" data-tab="overview" class="active">Overview</a>
+      <a href="#artists" data-tab="artists">Artists</a>
+      <a href="#countries" data-tab="countries">Countries</a>
+      <a href="#timeline" data-tab="timeline">Timeline</a>
+      <a href="#genres" data-tab="genres">Genres</a>
+      <a href="#tracker" data-tab="tracker">Tracker</a>
+      <a href="#pending" data-tab="pending">Pending</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="loading-screen" id="loading">
+      <div class="spinner"></div>
+      <div>Loading your music stats…</div>
+    </section>
+
+    <!-- Overview -->
+    <section class="page" id="page-overview" hidden>
+      <div class="hero">
+        <h1>Apple Music Stats</h1>
+        <div class="sub" id="hero-sub"></div>
+      </div>
+      <div class="grid-kpi" id="kpi-grid"></div>
+      <div class="pending-banner" id="pending-banner" hidden></div>
+      <h2>Top artists</h2>
+      <div class="grid-2">
+        <div class="card"><h3>By song count</h3><div id="chart-artists-songs"></div></div>
+        <div class="card"><h3>By total plays</h3><div id="chart-artists-plays"></div></div>
+      </div>
+      <h2>Where your music comes from</h2>
+      <div class="grid-2">
+        <div class="card"><h3>Top countries</h3><div id="table-countries-overview"></div></div>
+        <div class="card"><h3>Plays by country</h3><div id="chart-countries-overview"></div></div>
+      </div>
+    </section>
+
+    <!-- Artists -->
+    <section class="page" id="page-artists" hidden>
+      <h1>Artists</h1>
+      <div class="card"><h2>Top 20 — by song count</h2><div id="table-artists-songs"></div></div>
+      <div class="card"><h2>Top 20 — by total plays</h2><div id="table-artists-plays"></div></div>
+    </section>
+
+    <!-- Countries -->
+    <section class="page" id="page-countries" hidden>
+      <h1>Countries</h1>
+      <div id="country-header" class="sub"></div>
+      <div class="card"><h2>Choropleth</h2><div id="chart-world-map"></div></div>
+      <div class="card"><h2>All countries</h2><div id="table-countries-all"></div></div>
+    </section>
+
+    <!-- Timeline -->
+    <section class="page" id="page-timeline" hidden>
+      <h1>Timeline</h1>
+      <div class="card"><h2>Plays by month × year</h2><div class="sub">Grouped by when songs were last played.</div><div id="chart-month-year"></div></div>
+      <div class="card"><h2>Artist of the year</h2><div class="sub">Artist with the most plays in each year.</div><div class="grid-cards" id="year-artists"></div></div>
+      <div class="card"><h2>Country × year</h2><div id="chart-country-year"></div></div>
+    </section>
+
+    <!-- Genres -->
+    <section class="page" id="page-genres" hidden>
+      <h1>Genres</h1>
+      <div class="sub" id="genres-sub"></div>
+      <div class="card"><h2>Top 15 by plays</h2><div id="chart-genres"></div></div>
+      <div class="card"><h2>All genres</h2><div id="table-genres"></div></div>
+    </section>
+
+    <!-- Tracker -->
+    <section class="page" id="page-tracker" hidden>
+      <h1>Artist &amp; Song Tracker</h1>
+      <div class="sub" id="tracker-sub"></div>
+      <div class="card">
+        <input id="tracker-search" class="search" placeholder="Search title, artist, album, genre…" />
+        <div id="table-tracker"></div>
+      </div>
+    </section>
+
+    <!-- Pending -->
+    <section class="page" id="page-pending" hidden>
+      <h1>Pending country assignments</h1>
+      <p>Artists MusicBrainz couldn't confidently resolve. To fill these in, run locally:</p>
+      <pre><code>cd "/Users/benjaminbellman/Music Dashboard"
+.venv/bin/python pipeline/enrich.py --interactive</code></pre>
+      <div id="pending-list"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>Built from SQLite snapshot · <span id="build-date"></span></span>
+    <span>·</span>
+    <a href="https://github.com/benjaminbellman/music-dashboard" rel="noopener">source</a>
+  </footer>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,246 @@
+{
+  "by_song_count": [
+    {
+      "rank": 1,
+      "artist": "Daft Punk",
+      "count": 79,
+      "country": "FR"
+    },
+    {
+      "rank": 2,
+      "artist": "Benjamin Bellman",
+      "count": 33,
+      "country": "FR"
+    },
+    {
+      "rank": 3,
+      "artist": "Rucka Rucka Ali",
+      "count": 33,
+      "country": "US"
+    },
+    {
+      "rank": 4,
+      "artist": "Coldplay",
+      "count": 28,
+      "country": "GB"
+    },
+    {
+      "rank": 5,
+      "artist": "Joe Dassin",
+      "count": 24,
+      "country": "FR"
+    },
+    {
+      "rank": 6,
+      "artist": "Pink Floyd",
+      "count": 24,
+      "country": "GB"
+    },
+    {
+      "rank": 7,
+      "artist": "Justice",
+      "count": 21,
+      "country": "FR"
+    },
+    {
+      "rank": 8,
+      "artist": "Madonna",
+      "count": 21,
+      "country": "US"
+    },
+    {
+      "rank": 9,
+      "artist": "Chicago",
+      "count": 20,
+      "country": "US"
+    },
+    {
+      "rank": 10,
+      "artist": "The Beatles",
+      "count": 20,
+      "country": "GB"
+    },
+    {
+      "rank": 11,
+      "artist": "Renaud",
+      "count": 19,
+      "country": "FR"
+    },
+    {
+      "rank": 12,
+      "artist": "David Guetta",
+      "count": 18,
+      "country": "FR"
+    },
+    {
+      "rank": 13,
+      "artist": "Polo & Pan",
+      "count": 17,
+      "country": "FR"
+    },
+    {
+      "rank": 14,
+      "artist": "PNL",
+      "count": 16,
+      "country": "FR"
+    },
+    {
+      "rank": 15,
+      "artist": "Synapson",
+      "count": 16,
+      "country": "FR"
+    },
+    {
+      "rank": 16,
+      "artist": "Dua Lipa",
+      "count": 15,
+      "country": "GB"
+    },
+    {
+      "rank": 17,
+      "artist": "Serge Gainsbourg",
+      "count": 15,
+      "country": "FR"
+    },
+    {
+      "rank": 18,
+      "artist": "442oons",
+      "count": 13,
+      "country": "GB"
+    },
+    {
+      "rank": 19,
+      "artist": "ABBA",
+      "count": 13,
+      "country": "SE"
+    },
+    {
+      "rank": 20,
+      "artist": "Bon Entendeur",
+      "count": 13,
+      "country": "FR"
+    }
+  ],
+  "by_play_count": [
+    {
+      "rank": 1,
+      "artist": "Daft Punk",
+      "plays": 3386,
+      "country": "FR"
+    },
+    {
+      "rank": 2,
+      "artist": "Joe Dassin",
+      "plays": 3227,
+      "country": "FR"
+    },
+    {
+      "rank": 3,
+      "artist": "Chicago",
+      "plays": 3149,
+      "country": "US"
+    },
+    {
+      "rank": 4,
+      "artist": "Polo & Pan",
+      "plays": 1836,
+      "country": "FR"
+    },
+    {
+      "rank": 5,
+      "artist": "Coldplay",
+      "plays": 1779,
+      "country": "GB"
+    },
+    {
+      "rank": 6,
+      "artist": "Baddiel Skinner",
+      "plays": 1588,
+      "country": "GB"
+    },
+    {
+      "rank": 7,
+      "artist": "Bon Entendeur",
+      "plays": 1464,
+      "country": "FR"
+    },
+    {
+      "rank": 8,
+      "artist": "Dua Lipa",
+      "plays": 1436,
+      "country": "GB"
+    },
+    {
+      "rank": 9,
+      "artist": "Supertramp",
+      "plays": 1180,
+      "country": "GB"
+    },
+    {
+      "rank": 10,
+      "artist": "Jacques Brel",
+      "plays": 1148,
+      "country": "FR"
+    },
+    {
+      "rank": 11,
+      "artist": "Renaud",
+      "plays": 1122,
+      "country": "FR"
+    },
+    {
+      "rank": 12,
+      "artist": "PNL",
+      "plays": 1085,
+      "country": "FR"
+    },
+    {
+      "rank": 13,
+      "artist": "ABBA",
+      "plays": 1042,
+      "country": "SE"
+    },
+    {
+      "rank": 14,
+      "artist": "Justice",
+      "plays": 1042,
+      "country": "FR"
+    },
+    {
+      "rank": 15,
+      "artist": "Charles Aznavour",
+      "plays": 1002,
+      "country": "FR"
+    },
+    {
+      "rank": 16,
+      "artist": "Lifelike",
+      "plays": 996,
+      "country": "FR"
+    },
+    {
+      "rank": 17,
+      "artist": "442oons",
+      "plays": 898,
+      "country": "GB"
+    },
+    {
+      "rank": 18,
+      "artist": "Beach Boys",
+      "plays": 898,
+      "country": "US"
+    },
+    {
+      "rank": 19,
+      "artist": "MIKA",
+      "plays": 889,
+      "country": "GB"
+    },
+    {
+      "rank": 20,
+      "artist": "Serge Gainsbourg",
+      "plays": 852,
+      "country": "FR"
+    }
+  ]
+}

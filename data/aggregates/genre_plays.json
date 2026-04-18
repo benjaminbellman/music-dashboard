@@ -1,0 +1,622 @@
+[
+  {
+    "genre": "Pop",
+    "plays": 34669,
+    "songs": 708
+  },
+  {
+    "genre": "Dance",
+    "plays": 29155,
+    "songs": 481
+  },
+  {
+    "genre": "Electronic",
+    "plays": 22832,
+    "songs": 386
+  },
+  {
+    "genre": "Variete Francaise",
+    "plays": 17852,
+    "songs": 280
+  },
+  {
+    "genre": "Alternative",
+    "plays": 13830,
+    "songs": 290
+  },
+  {
+    "genre": "Hip Hop/Rap",
+    "plays": 11486,
+    "songs": 260
+  },
+  {
+    "genre": "Rock",
+    "plays": 10617,
+    "songs": 281
+  },
+  {
+    "genre": "Soft Rock",
+    "plays": 6550,
+    "songs": 72
+  },
+  {
+    "genre": "Future Funk",
+    "plays": 5801,
+    "songs": 71
+  },
+  {
+    "genre": "Comedy",
+    "plays": 3884,
+    "songs": 125
+  },
+  {
+    "genre": "Lowfi",
+    "plays": 3864,
+    "songs": 47
+  },
+  {
+    "genre": "Disco",
+    "plays": 3745,
+    "songs": 61
+  },
+  {
+    "genre": "Oldies",
+    "plays": 3702,
+    "songs": 63
+  },
+  {
+    "genre": "Variété française",
+    "plays": 3411,
+    "songs": 24
+  },
+  {
+    "genre": "City Pop",
+    "plays": 3218,
+    "songs": 44
+  },
+  {
+    "genre": "Latin",
+    "plays": 2772,
+    "songs": 47
+  },
+  {
+    "genre": "Soundtrack",
+    "plays": 2696,
+    "songs": 69
+  },
+  {
+    "genre": "mashup",
+    "plays": 2689,
+    "songs": 69
+  },
+  {
+    "genre": "Britpop",
+    "plays": 2114,
+    "songs": 8
+  },
+  {
+    "genre": "French Pop",
+    "plays": 1641,
+    "songs": 45
+  },
+  {
+    "genre": "House",
+    "plays": 1519,
+    "songs": 28
+  },
+  {
+    "genre": "Hip-Hop/Rap",
+    "plays": 1221,
+    "songs": 40
+  },
+  {
+    "genre": "Country",
+    "plays": 1072,
+    "songs": 19
+  },
+  {
+    "genre": "Funk",
+    "plays": 911,
+    "songs": 12
+  },
+  {
+    "genre": "Folk",
+    "plays": 763,
+    "songs": 12
+  },
+  {
+    "genre": "Europop",
+    "plays": 731,
+    "songs": 14
+  },
+  {
+    "genre": "Vaporwave",
+    "plays": 716,
+    "songs": 8
+  },
+  {
+    "genre": "R&B/Soul",
+    "plays": 642,
+    "songs": 20
+  },
+  {
+    "genre": "Classic Rock",
+    "plays": 569,
+    "songs": 5
+  },
+  {
+    "genre": "Psychedlic Rock",
+    "plays": 463,
+    "songs": 10
+  },
+  {
+    "genre": "J-Pop",
+    "plays": 436,
+    "songs": 3
+  },
+  {
+    "genre": "Indie",
+    "plays": 421,
+    "songs": 7
+  },
+  {
+    "genre": "Indie Dance",
+    "plays": 411,
+    "songs": 7
+  },
+  {
+    "genre": "Jazz",
+    "plays": 343,
+    "songs": 10
+  },
+  {
+    "genre": "K-Pop",
+    "plays": 326,
+    "songs": 6
+  },
+  {
+    "genre": "World",
+    "plays": 319,
+    "songs": 4
+  },
+  {
+    "genre": "R & B",
+    "plays": 317,
+    "songs": 9
+  },
+  {
+    "genre": "Synthwave",
+    "plays": 293,
+    "songs": 20
+  },
+  {
+    "genre": "Classic Rock;Rock;Pop",
+    "plays": 277,
+    "songs": 2
+  },
+  {
+    "genre": "Holiday",
+    "plays": 254,
+    "songs": 3
+  },
+  {
+    "genre": "Other",
+    "plays": 244,
+    "songs": 11
+  },
+  {
+    "genre": "R&B",
+    "plays": 240,
+    "songs": 5
+  },
+  {
+    "genre": "Pop Rock",
+    "plays": 229,
+    "songs": 1
+  },
+  {
+    "genre": "Reggae",
+    "plays": 224,
+    "songs": 9
+  },
+  {
+    "genre": "Classical",
+    "plays": 215,
+    "songs": 16
+  },
+  {
+    "genre": "Dubstep",
+    "plays": 207,
+    "songs": 7
+  },
+  {
+    "genre": "Nu Disco / Funk",
+    "plays": 203,
+    "songs": 4
+  },
+  {
+    "genre": "Electroswing",
+    "plays": 197,
+    "songs": 4
+  },
+  {
+    "genre": "Arabic",
+    "plays": 193,
+    "songs": 1
+  },
+  {
+    "genre": "Metal",
+    "plays": 192,
+    "songs": 6
+  },
+  {
+    "genre": "Vocal",
+    "plays": 186,
+    "songs": 10
+  },
+  {
+    "genre": "Musique francophone",
+    "plays": 132,
+    "songs": 4
+  },
+  {
+    "genre": "Hip-hop/Rap",
+    "plays": 118,
+    "songs": 5
+  },
+  {
+    "genre": "Hard Rock",
+    "plays": 117,
+    "songs": 3
+  },
+  {
+    "genre": "House;Electronic;Dance;Club",
+    "plays": 116,
+    "songs": 1
+  },
+  {
+    "genre": "Hip-Hop",
+    "plays": 115,
+    "songs": 6
+  },
+  {
+    "genre": "Chanson",
+    "plays": 113,
+    "songs": 2
+  },
+  {
+    "genre": "Electronic;House;Dance;Techno",
+    "plays": 103,
+    "songs": 1
+  },
+  {
+    "genre": "Electronica",
+    "plays": 92,
+    "songs": 2
+  },
+  {
+    "genre": "Electronic;Jazz;Dance",
+    "plays": 83,
+    "songs": 1
+  },
+  {
+    "genre": "Reggaeton y Hip-Hop",
+    "plays": 83,
+    "songs": 2
+  },
+  {
+    "genre": "SovietWave",
+    "plays": 83,
+    "songs": 1
+  },
+  {
+    "genre": "Jazz;Swing;Easy Listening",
+    "plays": 80,
+    "songs": 1
+  },
+  {
+    "genre": "Tropical",
+    "plays": 79,
+    "songs": 1
+  },
+  {
+    "genre": "Electronique",
+    "plays": 77,
+    "songs": 2
+  },
+  {
+    "genre": "Trance",
+    "plays": 76,
+    "songs": 3
+  },
+  {
+    "genre": "Rock;Electronic",
+    "plays": 74,
+    "songs": 1
+  },
+  {
+    "genre": "Future House",
+    "plays": 68,
+    "songs": 1
+  },
+  {
+    "genre": "Pop Latino",
+    "plays": 67,
+    "songs": 2
+  },
+  {
+    "genre": "Dance;Trance;Tech",
+    "plays": 65,
+    "songs": 1
+  },
+  {
+    "genre": "Soul",
+    "plays": 65,
+    "songs": 2
+  },
+  {
+    "genre": "Musique pour enfants",
+    "plays": 64,
+    "songs": 3
+  },
+  {
+    "genre": "Blues",
+    "plays": 62,
+    "songs": 1
+  },
+  {
+    "genre": "Rap",
+    "plays": 61,
+    "songs": 6
+  },
+  {
+    "genre": "Alternative & Punk",
+    "plays": 59,
+    "songs": 4
+  },
+  {
+    "genre": "General Jazz",
+    "plays": 59,
+    "songs": 1
+  },
+  {
+    "genre": "Latino",
+    "plays": 58,
+    "songs": 1
+  },
+  {
+    "genre": "Rock/Pop",
+    "plays": 57,
+    "songs": 1
+  },
+  {
+    "genre": "Bandes originales",
+    "plays": 56,
+    "songs": 3
+  },
+  {
+    "genre": "Foreign",
+    "plays": 56,
+    "songs": 1
+  },
+  {
+    "genre": "Singer/Songwriter",
+    "plays": 56,
+    "songs": 2
+  },
+  {
+    "genre": "Summertime All The Time",
+    "plays": 56,
+    "songs": 1
+  },
+  {
+    "genre": "Soul and R&B",
+    "plays": 55,
+    "songs": 2
+  },
+  {
+    "genre": "Alternativo & Rock Latino",
+    "plays": 54,
+    "songs": 2
+  },
+  {
+    "genre": "Deep House",
+    "plays": 50,
+    "songs": 1
+  },
+  {
+    "genre": "Hip-Hop;Rap",
+    "plays": 49,
+    "songs": 1
+  },
+  {
+    "genre": "Melodic Deep House",
+    "plays": 45,
+    "songs": 1
+  },
+  {
+    "genre": "Laser Funk",
+    "plays": 43,
+    "songs": 1
+  },
+  {
+    "genre": "Club",
+    "plays": 42,
+    "songs": 1
+  },
+  {
+    "genre": "Kpop",
+    "plays": 42,
+    "songs": 1
+  },
+  {
+    "genre": "Nu-Metal",
+    "plays": 42,
+    "songs": 1
+  },
+  {
+    "genre": "Easy Listening",
+    "plays": 40,
+    "songs": 1
+  },
+  {
+    "genre": "Musique religieuse",
+    "plays": 39,
+    "songs": 1
+  },
+  {
+    "genre": "Rock;Alternative",
+    "plays": 39,
+    "songs": 1
+  },
+  {
+    "genre": "Alternative Punk",
+    "plays": 38,
+    "songs": 1
+  },
+  {
+    "genre": "AlternRock",
+    "plays": 37,
+    "songs": 1
+  },
+  {
+    "genre": "Summertime, All The Time",
+    "plays": 32,
+    "songs": 1
+  },
+  {
+    "genre": "Classical Music - Chamber Music",
+    "plays": 30,
+    "songs": 2
+  },
+  {
+    "genre": "Pop;Oldies;Classic Rock",
+    "plays": 30,
+    "songs": 1
+  },
+  {
+    "genre": "G-House",
+    "plays": 29,
+    "songs": 1
+  },
+  {
+    "genre": "New Age",
+    "plays": 29,
+    "songs": 2
+  },
+  {
+    "genre": "Rap & Hip-Hop",
+    "plays": 27,
+    "songs": 1
+  },
+  {
+    "genre": "#dance",
+    "plays": 25,
+    "songs": 1
+  },
+  {
+    "genre": "Alternative et rock latino",
+    "plays": 23,
+    "songs": 1
+  },
+  {
+    "genre": "Tropical_Garage",
+    "plays": 23,
+    "songs": 1
+  },
+  {
+    "genre": "Bass",
+    "plays": 20,
+    "songs": 1
+  },
+  {
+    "genre": "EDM",
+    "plays": 20,
+    "songs": 1
+  },
+  {
+    "genre": "user defined",
+    "plays": 19,
+    "songs": 1
+  },
+  {
+    "genre": "Gospel",
+    "plays": 18,
+    "songs": 1
+  },
+  {
+    "genre": "RAP FR / OTHERS",
+    "plays": 18,
+    "songs": 1
+  },
+  {
+    "genre": "Kygo",
+    "plays": 15,
+    "songs": 1
+  },
+  {
+    "genre": "Instrumental",
+    "plays": 13,
+    "songs": 1
+  },
+  {
+    "genre": "Rap/R&B",
+    "plays": 13,
+    "songs": 1
+  },
+  {
+    "genre": "Ambient",
+    "plays": 12,
+    "songs": 2
+  },
+  {
+    "genre": "Musiques du monde",
+    "plays": 12,
+    "songs": 1
+  },
+  {
+    "genre": "Punk Rock",
+    "plays": 11,
+    "songs": 1
+  },
+  {
+    "genre": "Humor",
+    "plays": 10,
+    "songs": 1
+  },
+  {
+    "genre": "Karaoke",
+    "plays": 10,
+    "songs": 1
+  },
+  {
+    "genre": "Punk",
+    "plays": 10,
+    "songs": 1
+  },
+  {
+    "genre": "Grunge",
+    "plays": 8,
+    "songs": 1
+  },
+  {
+    "genre": "Fitness & Workout",
+    "plays": 7,
+    "songs": 1
+  },
+  {
+    "genre": "Alternative Rap",
+    "plays": 6,
+    "songs": 1
+  },
+  {
+    "genre": "Brazilian",
+    "plays": 6,
+    "songs": 1
+  },
+  {
+    "genre": "Electronica/Dance",
+    "plays": 5,
+    "songs": 1
+  }
+]

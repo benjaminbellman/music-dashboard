@@ -1,0 +1,12 @@
+[project]
+name = "music-dashboard"
+version = "0.2.0"
+description = "Apple Music library → SQLite → Observable Framework dashboard"
+requires-python = ">=3.9"
+dependencies = [
+    "musicbrainzngs>=0.7.1",
+    "openpyxl>=3.1.0",
+]
+
+[project.optional-dependencies]
+bootstrap = ["openpyxl>=3.1.0"]

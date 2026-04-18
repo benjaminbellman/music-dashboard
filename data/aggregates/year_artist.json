@@ -1,0 +1,67 @@
+[
+  {
+    "year": "2026",
+    "artist": "Bon Entendeur",
+    "plays": 933
+  },
+  {
+    "year": "2025",
+    "artist": "Joe Dassin",
+    "plays": 1777
+  },
+  {
+    "year": "2024",
+    "artist": "Daft Punk",
+    "plays": 1014
+  },
+  {
+    "year": "2023",
+    "artist": "Daft Punk",
+    "plays": 553
+  },
+  {
+    "year": "2022",
+    "artist": "Chicago",
+    "plays": 374
+  },
+  {
+    "year": "2021",
+    "artist": "Jacques Brel",
+    "plays": 169
+  },
+  {
+    "year": "2020",
+    "artist": "Train",
+    "plays": 75
+  },
+  {
+    "year": "2019",
+    "artist": "JAY Z",
+    "plays": 25
+  },
+  {
+    "year": "2018",
+    "artist": "Benjamin Bellman",
+    "plays": 18
+  },
+  {
+    "year": "2017",
+    "artist": "Wolfgang Amadeus Mozart",
+    "plays": 5
+  },
+  {
+    "year": "2016",
+    "artist": "Benjamin Bellman",
+    "plays": 5
+  },
+  {
+    "year": "2015",
+    "artist": "Benjamin Bellman",
+    "plays": 5
+  },
+  {
+    "year": "2014",
+    "artist": "Benjamin Bellman",
+    "plays": 17
+  }
+]
