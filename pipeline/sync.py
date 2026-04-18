@@ -242,21 +242,34 @@ def append_snapshot(conn, rows: list[tuple]) -> None:
 def queue_new_artists(conn) -> int:
     """Put any primary_artist we've never seen in the country ledger into the
     pending queue. We key on primary_artist so collaborations roll up to the
-    lead artist instead of queueing every "X & Y" variant separately.
+    lead artist instead of queueing every "X & Y" variant separately. Also
+    clears any stale pending rows that have since been resolved.
     """
     ts = now_iso()
-    cursor = conn.execute(
-        """
-        INSERT OR IGNORE INTO artist_country_pending (artist, first_seen)
-        SELECT DISTINCT t.primary_artist, ?
-        FROM tracks_current t
-        LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
-        LEFT JOIN artist_country_pending p ON p.artist = t.primary_artist
-        WHERE ac.artist IS NULL AND p.artist IS NULL AND t.primary_artist <> ''
-        """,
-        (ts,),
-    )
-    conn.commit()
+    with conn:
+        # Clean stale: anything pending that's now in the ledger.
+        conn.execute(
+            "DELETE FROM artist_country_pending "
+            "WHERE artist IN (SELECT artist FROM artist_country)"
+        )
+        # Clean stale: anything pending that no longer appears in tracks_current
+        # (artist was renamed / song deleted / no longer in library).
+        conn.execute(
+            "DELETE FROM artist_country_pending "
+            "WHERE artist NOT IN (SELECT DISTINCT primary_artist FROM tracks_current)"
+        )
+        # Add any new ones.
+        cursor = conn.execute(
+            """
+            INSERT OR IGNORE INTO artist_country_pending (artist, first_seen)
+            SELECT DISTINCT t.primary_artist, ?
+            FROM tracks_current t
+            LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
+            LEFT JOIN artist_country_pending p ON p.artist = t.primary_artist
+            WHERE ac.artist IS NULL AND p.artist IS NULL AND t.primary_artist <> ''
+            """,
+            (ts,),
+        )
     return cursor.rowcount or 0
 
 

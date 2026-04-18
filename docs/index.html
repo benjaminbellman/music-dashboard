@@ -102,9 +102,15 @@
     <!-- Pending -->
     <section class="page" id="page-pending" hidden>
       <h1>Pending country assignments</h1>
-      <p>Artists MusicBrainz couldn't confidently resolve. To fill these in, run locally:</p>
-      <pre><code>cd "/Users/benjaminbellman/Music Dashboard"
-.venv/bin/python pipeline/enrich.py --interactive</code></pre>
+      <p>Artists without a country in the ledger. Two ways to fix:</p>
+      <p>
+        <a class="refresh-btn" href="http://127.0.0.1:8789/assign" target="_blank" rel="noopener" style="display:inline-flex">
+          <span class="refresh-dot" aria-hidden="true"></span>
+          <span class="refresh-label">Open assignment form</span>
+        </a>
+        <span class="sub" style="margin-left:0.5rem">— in your browser, only works on your Mac</span>
+      </p>
+      <p>Or in Terminal: <code style="background:var(--surface-2);padding:0.15rem 0.4rem;border-radius:4px">.venv/bin/python pipeline/enrich.py --interactive</code></p>
       <div id="pending-list"></div>
     </section>
   </main>

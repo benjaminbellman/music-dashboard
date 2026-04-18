@@ -11,14 +11,18 @@ CORS is restricted to the deployed dashboard origin plus local previews.
 
 from __future__ import annotations
 
+import datetime as dt
 import json
+import sqlite3
 import subprocess
 import threading
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from urllib.parse import parse_qs
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 SYNC_SCRIPT = PROJECT_DIR / "run_sync.sh"
+DB_PATH = PROJECT_DIR / "data" / "music.db"
 PORT = 8789
 
 ALLOWED_ORIGINS = {
@@ -116,6 +120,139 @@ const tick = setInterval(() => {
 _lock = threading.Lock()
 
 
+def _pending_artists() -> list[dict]:
+    conn = sqlite3.connect(str(DB_PATH))
+    conn.row_factory = sqlite3.Row
+    rows = conn.execute(
+        """
+        SELECT p.artist, COUNT(t.track_id) AS tracks, SUM(t.plays) AS plays
+        FROM artist_country_pending p
+        LEFT JOIN tracks_current t ON t.primary_artist = p.artist
+        GROUP BY p.artist
+        ORDER BY -SUM(t.plays), p.artist
+        """
+    ).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
+def _save_country(artist: str, country: str) -> None:
+    iso = country.strip().upper()
+    if len(iso) != 2 or not iso.isalpha():
+        raise ValueError(f"country must be 2 letters, got {country!r}")
+    ts = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+    conn = sqlite3.connect(str(DB_PATH))
+    with conn:
+        conn.execute(
+            "INSERT OR REPLACE INTO artist_country (artist, country, source, updated) "
+            "VALUES (?, ?, 'manual', ?)",
+            (artist, iso, ts),
+        )
+        conn.execute("DELETE FROM artist_country_pending WHERE artist = ?", (artist,))
+    conn.close()
+
+
+ASSIGN_PAGE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Assign countries — Music Dashboard</title>
+<style>
+  :root { color-scheme: dark; --accent: #a78bfa; --bg: #0b0814; --surface: #120f1f; --surface2: #1a1532; --border: #2a2440; --fg: #ede8f7; --muted: #8a83a6; }
+  body { font-family: -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--fg); margin: 0; padding: 2rem 1rem; }
+  main { max-width: 720px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; margin: 0 0 0.4rem; background: linear-gradient(135deg,#a78bfa,#ec4899); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  p.sub { color: var(--muted); margin: 0 0 1.5rem; }
+  .row { display: grid; grid-template-columns: 1fr 80px 90px; gap: 0.5rem; align-items: center; padding: 0.5rem 0.85rem; border-bottom: 1px solid var(--border); }
+  .row:hover { background: var(--surface); }
+  .row .name { font-weight: 500; }
+  .row .meta { font-size: 0.78rem; color: var(--muted); margin-top: 0.1rem; }
+  .row.saved { opacity: 0.45; }
+  .row.saved .saved-badge { color: #22c55e; font-size: 0.85rem; }
+  input[type="text"] { background: var(--surface2); border: 1px solid var(--border); color: var(--fg); padding: 0.4rem 0.55rem; border-radius: 6px; font-family: inherit; font-size: 0.9rem; width: 100%; text-transform: uppercase; }
+  input[type="text"]:focus { outline: 2px solid var(--accent); }
+  button { background: var(--accent); color: #0b0814; border: 0; padding: 0.4rem 0.65rem; border-radius: 6px; font-family: inherit; font-size: 0.85rem; font-weight: 600; cursor: pointer; }
+  button:hover:not(:disabled) { filter: brightness(1.1); }
+  button:disabled { opacity: 0.45; cursor: default; }
+  .toolbar { margin: 1.5rem 0; display: flex; gap: 0.6rem; }
+  .toolbar a, .toolbar button { background: var(--surface2); border: 1px solid var(--border); color: var(--fg); padding: 0.55rem 1rem; border-radius: 999px; text-decoration: none; font-size: 0.9rem; cursor: pointer; }
+  .toolbar a:hover, .toolbar button:hover { background: rgba(167,139,250,0.18); border-color: var(--accent); color: var(--accent); }
+  .empty { text-align: center; padding: 3rem; color: var(--muted); }
+  .legend { display: grid; grid-template-columns: 1fr 80px 90px; gap: 0.5rem; padding: 0 0.85rem 0.5rem; color: var(--muted); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Assign countries</h1>
+  <p class="sub">Pick the ISO 2-letter code (US, FR, GB, JP, …) for each new artist. Saves immediately to the local DB. Click "Sync &amp; publish" when you're done to push to GitHub.</p>
+
+  <div id="list">Loading…</div>
+
+  <div class="toolbar">
+    <button id="refresh-btn">Sync &amp; publish</button>
+    <a href="https://benjaminbellman.github.io/music-dashboard/">← Back to dashboard</a>
+  </div>
+</main>
+
+<script>
+const list = document.getElementById("list");
+
+async function load() {
+  const r = await fetch("/pending");
+  const pending = await r.json();
+  if (!pending.length) {
+    list.innerHTML = '<div class="empty">🎉 Nothing pending. Every artist has a country.</div>';
+    return;
+  }
+  list.innerHTML = '<div class="legend"><div>Artist</div><div>Country</div><div></div></div>' +
+    pending.map(p => `
+      <div class="row" data-artist="${escapeHTML(p.artist)}">
+        <div>
+          <div class="name">${escapeHTML(p.artist)}</div>
+          <div class="meta">${p.tracks || 0} track${p.tracks === 1 ? "" : "s"} · ${(p.plays || 0).toLocaleString()} plays</div>
+        </div>
+        <input type="text" maxlength="2" placeholder="FR" autocapitalize="characters" />
+        <button>Save</button>
+      </div>
+    `).join("");
+
+  list.querySelectorAll(".row").forEach(row => {
+    const input = row.querySelector("input");
+    const btn = row.querySelector("button");
+    const save = async () => {
+      const v = input.value.trim().toUpperCase();
+      if (!/^[A-Z]{2}$/.test(v)) { input.focus(); return; }
+      btn.disabled = true; btn.textContent = "Saving…";
+      const r = await fetch("/assign", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams({ artist: row.dataset.artist, country: v }),
+      });
+      if (r.ok) {
+        row.classList.add("saved");
+        btn.replaceWith(Object.assign(document.createElement("span"), { className: "saved-badge", textContent: "✓ Saved" }));
+      } else {
+        btn.disabled = false; btn.textContent = "Save"; alert("Save failed.");
+      }
+    };
+    btn.addEventListener("click", save);
+    input.addEventListener("keydown", e => e.key === "Enter" && save());
+  });
+}
+
+document.getElementById("refresh-btn").addEventListener("click", () => {
+  location.href = "/";
+});
+
+function escapeHTML(s) { return String(s ?? "").replace(/[&<>\"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c])); }
+
+load();
+</script>
+</body>
+</html>
+"""
+
+
 class Handler(BaseHTTPRequestHandler):
     def _write_cors(self) -> None:
         origin = self.headers.get("Origin", "")
@@ -146,6 +283,13 @@ class Handler(BaseHTTPRequestHandler):
             self._send_json(200, {"ok": True})
         elif path in ("", "/refresh"):
             self._send_html(STATUS_PAGE)
+        elif path == "/assign":
+            self._send_html(ASSIGN_PAGE)
+        elif path == "/pending":
+            try:
+                self._send_json(200, _pending_artists())
+            except Exception as e:  # noqa: BLE001
+                self._send_json(500, {"error": str(e)})
         else:
             self._send_json(404, {"error": "not found"})
 
@@ -160,6 +304,22 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(data)
 
     def do_POST(self) -> None:
+        if self.path.rstrip("/") == "/assign":
+            length = int(self.headers.get("Content-Length") or 0)
+            body_raw = self.rfile.read(length).decode("utf-8")
+            params = parse_qs(body_raw)
+            artist = (params.get("artist", [""])[0]).strip()
+            country = (params.get("country", [""])[0]).strip()
+            if not artist or not country:
+                self._send_json(400, {"error": "artist and country required"})
+                return
+            try:
+                _save_country(artist, country)
+                self._send_json(200, {"ok": True, "artist": artist, "country": country.upper()})
+            except Exception as e:  # noqa: BLE001
+                self._send_json(400, {"error": str(e)})
+            return
+
         if self.path.rstrip("/") not in ("/refresh", "/sync"):
             self._send_json(404, {"error": "not found"})
             return

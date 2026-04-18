@@ -13,6 +13,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }   /* override .loading-screen { display:flex } etc. */
 html, body {
   margin: 0;
   background: var(--bg);
