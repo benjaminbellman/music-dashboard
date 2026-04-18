@@ -64,16 +64,18 @@ def kpis(conn) -> dict:
 
 
 def top_artists(conn) -> dict:
+    """Group by primary_artist so collaborations roll up to the lead artist
+    (e.g. 'Bon Entendeur & X' counts toward 'Bon Entendeur')."""
     by_song = [
         {"rank": i + 1, "artist": r["artist"], "count": r["c"], "country": r["country"]}
         for i, r in enumerate(conn.execute(
             """
-            SELECT t.artist, COUNT(*) AS c, ac.country
+            SELECT t.primary_artist AS artist, COUNT(*) AS c, ac.country
             FROM tracks_current t
-            LEFT JOIN artist_country ac ON ac.artist = t.artist
-            WHERE t.artist <> ''
-            GROUP BY t.artist
-            ORDER BY c DESC, t.artist
+            LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
+            WHERE t.primary_artist <> ''
+            GROUP BY t.primary_artist
+            ORDER BY c DESC, t.primary_artist
             LIMIT 20
             """
         ))
@@ -82,12 +84,12 @@ def top_artists(conn) -> dict:
         {"rank": i + 1, "artist": r["artist"], "plays": r["p"], "country": r["country"]}
         for i, r in enumerate(conn.execute(
             """
-            SELECT t.artist, SUM(t.plays) AS p, ac.country
+            SELECT t.primary_artist AS artist, SUM(t.plays) AS p, ac.country
             FROM tracks_current t
-            LEFT JOIN artist_country ac ON ac.artist = t.artist
-            WHERE t.artist <> ''
-            GROUP BY t.artist
-            ORDER BY p DESC, t.artist
+            LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
+            WHERE t.primary_artist <> ''
+            GROUP BY t.primary_artist
+            ORDER BY p DESC, t.primary_artist
             LIMIT 20
             """
         ))
@@ -106,11 +108,11 @@ def country_plays(conn) -> list:
         for r in conn.execute(
             """
             SELECT ac.country,
-                   SUM(t.plays)                  AS plays,
-                   COUNT(DISTINCT t.artist)      AS artists,
-                   COUNT(*)                      AS songs
+                   SUM(t.plays)                       AS plays,
+                   COUNT(DISTINCT t.primary_artist)   AS artists,
+                   COUNT(*)                           AS songs
             FROM tracks_current t
-            JOIN artist_country ac ON ac.artist = t.artist
+            JOIN artist_country ac ON ac.artist = t.primary_artist
             GROUP BY ac.country
             ORDER BY plays DESC
             """
@@ -155,16 +157,20 @@ def month_year(conn) -> dict:
 
 
 def year_artist(conn) -> list:
-    """Most-played artist each year (by plays on songs last-played that year)."""
+    """Most-played primary_artist each year (by lifetime plays of songs whose
+    last_played falls in that year). This is a known approximation — Apple
+    Music gives us aggregate plays + a single 'last played' timestamp, not
+    per-year play history. The legacy xlsm uses the same heuristic.
+    """
     rows = conn.execute(
         """
         WITH base AS (
             SELECT substr(last_played, 1, 4) AS year,
-                   artist,
-                   SUM(plays) AS plays
+                   primary_artist            AS artist,
+                   SUM(plays)                AS plays
             FROM tracks_current
-            WHERE last_played IS NOT NULL AND artist <> ''
-            GROUP BY year, artist
+            WHERE last_played IS NOT NULL AND primary_artist <> ''
+            GROUP BY year, primary_artist
         ),
         ranked AS (
             SELECT year, artist, plays,
@@ -181,9 +187,8 @@ def year_artist(conn) -> list:
 
 
 def country_year(conn) -> dict:
-    """Sum of plays grouped by (year, country).
-    Shape: { "2026": [{"country":"FR","plays":...}, ...], ... }
-    """
+    """Sum of plays grouped by (year, country). Joins on primary_artist so
+    collaborations roll up to the lead artist's country."""
     out: dict[str, list] = {}
     for r in conn.execute(
         """
@@ -191,7 +196,7 @@ def country_year(conn) -> dict:
                ac.country AS country,
                SUM(t.plays) AS plays
         FROM tracks_current t
-        JOIN artist_country ac ON ac.artist = t.artist
+        JOIN artist_country ac ON ac.artist = t.primary_artist
         WHERE t.last_played IS NOT NULL
         GROUP BY year, country
         ORDER BY year DESC, plays DESC
@@ -202,7 +207,8 @@ def country_year(conn) -> dict:
 
 
 def tracks(conn) -> list:
-    """Full track list for the searchable tracker page."""
+    """Full track list for the searchable tracker page. Country lookup uses
+    primary_artist so collaborations get the lead artist's country."""
     return [
         {
             "song": r["song"],
@@ -220,7 +226,7 @@ def tracks(conn) -> list:
             SELECT t.song, t.artist, t.album, t.plays, t.duration_sec,
                    t.date_added, t.last_played, t.genre, ac.country
             FROM tracks_current t
-            LEFT JOIN artist_country ac ON ac.artist = t.artist
+            LEFT JOIN artist_country ac ON ac.artist = t.primary_artist
             ORDER BY t.plays DESC, t.artist, t.song
             """
         )

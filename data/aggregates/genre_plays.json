@@ -1,52 +1,52 @@
 [
   {
     "genre": "Pop",
-    "plays": 34669,
+    "plays": 34687,
     "songs": 708
   },
   {
     "genre": "Dance",
-    "plays": 29155,
+    "plays": 29161,
     "songs": 481
   },
   {
     "genre": "Electronic",
-    "plays": 22832,
+    "plays": 22837,
     "songs": 386
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17852,
+    "plays": 17856,
     "songs": 280
   },
   {
     "genre": "Alternative",
-    "plays": 13830,
+    "plays": 13833,
     "songs": 290
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11486,
+    "plays": 11487,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10617,
+    "plays": 10624,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6550,
+    "plays": 6554,
     "songs": 72
   },
   {
     "genre": "Future Funk",
-    "plays": 5801,
+    "plays": 5802,
     "songs": 71
   },
   {
     "genre": "Comedy",
-    "plays": 3884,
+    "plays": 3888,
     "songs": 125
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "genre": "Disco",
-    "plays": 3745,
+    "plays": 3753,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3702,
+    "plays": 3704,
     "songs": 63
   },
   {
     "genre": "Variété française",
-    "plays": 3411,
+    "plays": 3413,
     "songs": 24
   },
   {
@@ -81,17 +81,17 @@
   },
   {
     "genre": "Soundtrack",
-    "plays": 2696,
+    "plays": 2699,
     "songs": 69
   },
   {
     "genre": "mashup",
-    "plays": 2689,
+    "plays": 2693,
     "songs": 69
   },
   {
     "genre": "Britpop",
-    "plays": 2114,
+    "plays": 2115,
     "songs": 8
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "genre": "House",
-    "plays": 1519,
+    "plays": 1520,
     "songs": 28
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1221,
+    "plays": 1225,
     "songs": 40
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "genre": "R&B/Soul",
-    "plays": 642,
+    "plays": 643,
     "songs": 20
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "genre": "Jazz",
-    "plays": 343,
+    "plays": 344,
     "songs": 10
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "genre": "Reggae",
-    "plays": 224,
+    "plays": 225,
     "songs": 9
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "genre": "Dubstep",
-    "plays": 207,
+    "plays": 208,
     "songs": 7
   },
   {

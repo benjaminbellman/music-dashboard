@@ -3,171 +3,171 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "count": 79,
+      "count": 96,
       "country": "FR"
     },
     {
       "rank": 2,
+      "artist": "Rucka Rucka Ali",
+      "count": 34,
+      "country": "US"
+    },
+    {
+      "rank": 3,
       "artist": "Benjamin Bellman",
       "count": 33,
       "country": "FR"
     },
     {
-      "rank": 3,
-      "artist": "Rucka Rucka Ali",
-      "count": 33,
-      "country": "US"
-    },
-    {
       "rank": 4,
       "artist": "Coldplay",
-      "count": 28,
+      "count": 30,
       "country": "GB"
     },
     {
       "rank": 5,
-      "artist": "Joe Dassin",
-      "count": 24,
+      "artist": "Bon Entendeur",
+      "count": 27,
       "country": "FR"
     },
     {
       "rank": 6,
       "artist": "Pink Floyd",
-      "count": 24,
+      "count": 25,
       "country": "GB"
     },
     {
       "rank": 7,
-      "artist": "Justice",
-      "count": 21,
+      "artist": "Joe Dassin",
+      "count": 24,
       "country": "FR"
     },
     {
       "rank": 8,
+      "artist": "David Guetta",
+      "count": 23,
+      "country": "FR"
+    },
+    {
+      "rank": 9,
+      "artist": "Justice",
+      "count": 22,
+      "country": "FR"
+    },
+    {
+      "rank": 10,
+      "artist": "Dua Lipa",
+      "count": 21,
+      "country": "GB"
+    },
+    {
+      "rank": 11,
       "artist": "Madonna",
       "count": 21,
       "country": "US"
     },
     {
-      "rank": 9,
+      "rank": 12,
+      "artist": "The Beatles",
+      "count": 21,
+      "country": "GB"
+    },
+    {
+      "rank": 13,
       "artist": "Chicago",
       "count": 20,
       "country": "US"
     },
     {
-      "rank": 10,
-      "artist": "The Beatles",
-      "count": 20,
-      "country": "GB"
-    },
-    {
-      "rank": 11,
+      "rank": 14,
       "artist": "Renaud",
       "count": 19,
       "country": "FR"
     },
     {
-      "rank": 12,
-      "artist": "David Guetta",
+      "rank": 15,
+      "artist": "Serge Gainsbourg",
       "count": 18,
       "country": "FR"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "artist": "Polo & Pan",
       "count": 17,
       "country": "FR"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "artist": "PNL",
       "count": 16,
       "country": "FR"
     },
     {
-      "rank": 15,
+      "rank": 18,
       "artist": "Synapson",
       "count": 16,
       "country": "FR"
     },
     {
-      "rank": 16,
-      "artist": "Dua Lipa",
-      "count": 15,
-      "country": "GB"
-    },
-    {
-      "rank": 17,
-      "artist": "Serge Gainsbourg",
-      "count": 15,
-      "country": "FR"
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "artist": "442oons",
       "count": 13,
       "country": "GB"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "artist": "ABBA",
       "count": 13,
       "country": "SE"
-    },
-    {
-      "rank": 20,
-      "artist": "Bon Entendeur",
-      "count": 13,
-      "country": "FR"
     }
   ],
   "by_play_count": [
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 3386,
+      "plays": 4114,
       "country": "FR"
     },
     {
       "rank": 2,
-      "artist": "Joe Dassin",
-      "plays": 3227,
+      "artist": "Bon Entendeur",
+      "plays": 3387,
       "country": "FR"
     },
     {
       "rank": 3,
-      "artist": "Chicago",
-      "plays": 3149,
-      "country": "US"
+      "artist": "Joe Dassin",
+      "plays": 3230,
+      "country": "FR"
     },
     {
       "rank": 4,
+      "artist": "Chicago",
+      "plays": 3150,
+      "country": "US"
+    },
+    {
+      "rank": 5,
+      "artist": "Dua Lipa",
+      "plays": 2203,
+      "country": "GB"
+    },
+    {
+      "rank": 6,
+      "artist": "Coldplay",
+      "plays": 1993,
+      "country": "GB"
+    },
+    {
+      "rank": 7,
       "artist": "Polo & Pan",
       "plays": 1836,
       "country": "FR"
     },
     {
-      "rank": 5,
-      "artist": "Coldplay",
-      "plays": 1779,
-      "country": "GB"
-    },
-    {
-      "rank": 6,
-      "artist": "Baddiel Skinner",
-      "plays": 1588,
-      "country": "GB"
-    },
-    {
-      "rank": 7,
-      "artist": "Bon Entendeur",
-      "plays": 1464,
-      "country": "FR"
-    },
-    {
       "rank": 8,
-      "artist": "Dua Lipa",
-      "plays": 1436,
+      "artist": "Baddiel Skinner",
+      "plays": 1589,
       "country": "GB"
     },
     {
@@ -196,51 +196,51 @@
     },
     {
       "rank": 13,
-      "artist": "ABBA",
-      "plays": 1042,
-      "country": "SE"
-    },
-    {
-      "rank": 14,
       "artist": "Justice",
-      "plays": 1042,
+      "plays": 1081,
       "country": "FR"
     },
     {
+      "rank": 14,
+      "artist": "ABBA",
+      "plays": 1044,
+      "country": "SE"
+    },
+    {
       "rank": 15,
+      "artist": "Anri",
+      "plays": 1011,
+      "country": "JP"
+    },
+    {
+      "rank": 16,
       "artist": "Charles Aznavour",
       "plays": 1002,
       "country": "FR"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "artist": "Lifelike",
       "plays": 996,
       "country": "FR"
     },
     {
-      "rank": 17,
-      "artist": "442oons",
-      "plays": 898,
-      "country": "GB"
-    },
-    {
       "rank": 18,
-      "artist": "Beach Boys",
-      "plays": 898,
-      "country": "US"
+      "artist": "Tatsuro Yamashita",
+      "plays": 980,
+      "country": "JP"
     },
     {
       "rank": 19,
-      "artist": "MIKA",
-      "plays": 889,
-      "country": "GB"
+      "artist": "Serge Gainsbourg",
+      "plays": 957,
+      "country": "FR"
     },
     {
       "rank": 20,
-      "artist": "Serge Gainsbourg",
-      "plays": 852,
-      "country": "FR"
+      "artist": "442oons",
+      "plays": 898,
+      "country": "GB"
     }
   ]
 }

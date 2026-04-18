@@ -10,19 +10,21 @@ DB_PATH = Path(__file__).resolve().parent.parent / "data" / "music.db"
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS tracks_current (
-    track_id      TEXT PRIMARY KEY,
-    song          TEXT NOT NULL,
-    artist        TEXT NOT NULL,
-    album         TEXT,
-    duration_sec  INTEGER,
-    plays         INTEGER NOT NULL DEFAULT 0,
-    date_added    TEXT,
-    last_played   TEXT,
-    genre         TEXT
+    track_id        TEXT PRIMARY KEY,
+    song            TEXT NOT NULL,
+    artist          TEXT NOT NULL,
+    primary_artist  TEXT NOT NULL DEFAULT '',
+    album           TEXT,
+    duration_sec    INTEGER,
+    plays           INTEGER NOT NULL DEFAULT 0,
+    date_added      TEXT,
+    last_played     TEXT,
+    genre           TEXT
 );
 
-CREATE INDEX IF NOT EXISTS idx_tracks_artist ON tracks_current(artist);
-CREATE INDEX IF NOT EXISTS idx_tracks_genre  ON tracks_current(genre);
+CREATE INDEX IF NOT EXISTS idx_tracks_artist         ON tracks_current(artist);
+CREATE INDEX IF NOT EXISTS idx_tracks_primary_artist ON tracks_current(primary_artist);
+CREATE INDEX IF NOT EXISTS idx_tracks_genre          ON tracks_current(genre);
 
 CREATE TABLE IF NOT EXISTS snapshots (
     snapshot_date TEXT NOT NULL,
