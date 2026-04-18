@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.benjamin.musicdashboardrefresh</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/benjaminbellman/Music Dashboard/.venv/bin/python</string>
+        <string>/Users/benjaminbellman/Music Dashboard/pipeline/refresh_server.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/benjaminbellman/Music Dashboard</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/benjaminbellman/Music Dashboard/logs/refresh_server.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/benjaminbellman/Music Dashboard/logs/refresh_server.log</string>
+</dict>
+</plist>

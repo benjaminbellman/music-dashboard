@@ -22,7 +22,13 @@
       <a href="#tracker" data-tab="tracker">Tracker</a>
       <a href="#pending" data-tab="pending">Pending</a>
     </nav>
+    <button id="refresh-btn" class="refresh-btn" hidden title="Run a fresh sync from your Mac">
+      <span class="refresh-dot" aria-hidden="true"></span>
+      <span class="refresh-label">Refresh</span>
+    </button>
   </header>
+
+  <div id="refresh-toast" class="refresh-toast" hidden></div>
 
   <main id="main">
     <section class="loading-screen" id="loading">
