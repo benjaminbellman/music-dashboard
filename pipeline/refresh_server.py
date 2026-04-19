@@ -27,9 +27,8 @@ AGGREGATES_DIR = PROJECT_DIR / "data" / "aggregates"
 ANTHROPIC_KEY_FILE = PROJECT_DIR / "credentials" / "anthropic.key"
 PORT = 8789
 
-# Cheapest current Claude model. For a slightly smarter but ~4x pricier
-# option, swap to "claude-haiku-4-5-20251001".
-CLAUDE_MODEL = "claude-3-haiku-20240307"
+# Cheapest model available on this account (Haiku 3/3.5 were retired).
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 
 # Safety rails on Claude usage. Combine with a spend cap on the Anthropic
 # billing console for defence in depth.
@@ -37,9 +36,9 @@ ASK_MAX_COST_PER_DAY_USD = 0.50       # hard daily dollar cap
 ASK_MAX_Q_CHARS = 400
 ASK_LOG_FILE = PROJECT_DIR / "logs" / "ask.log"
 
-# Claude Haiku 3 pricing (USD per million tokens).
-_MODEL_IN_PRICE  = 0.25 / 1_000_000
-_MODEL_OUT_PRICE = 1.25 / 1_000_000
+# Claude Haiku 4.5 pricing (USD per million tokens).
+_MODEL_IN_PRICE  = 1.00 / 1_000_000
+_MODEL_OUT_PRICE = 5.00 / 1_000_000
 
 ALLOWED_ORIGINS = {
     "https://benjaminbellman.github.io",
@@ -251,7 +250,7 @@ def _ask_claude(question: str) -> dict:
         message = client.messages.create(
             model=CLAUDE_MODEL,
             max_tokens=1024,
-            system=system,   # Haiku 3 doesn't support prompt caching; pass plain string
+            system=system,
             messages=[{"role": "user", "content": question}],
         )
         text = "".join(block.text for block in message.content if hasattr(block, "text"))
