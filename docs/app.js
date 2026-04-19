@@ -834,6 +834,42 @@ function renderTracker(data) {
 
   input.addEventListener("input", e => { state.q = e.target.value; state.page = 0; render(); });
   render();
+
+  renderRecent(all);
+}
+
+// Recently played / recently added — two mini tables at the bottom of Tracker.
+function renderRecent(all) {
+  const recentCols = [
+    { key: "song", label: "Song" },
+    { key: "artist", label: "Artist" },
+    { key: "country", label: "", render: c => flag(c) },
+    { key: "plays", label: "Plays", num: true, render: fmtInt },
+  ];
+
+  const played = all
+    .filter(t => t.last_played)
+    .sort((a, b) => cmp(a.last_played, b.last_played) * -1)
+    .slice(0, 25)
+    .map(t => ({ ...t, when: t.last_played?.slice(0, 10) }));
+
+  const added = all
+    .filter(t => t.date_added)
+    .sort((a, b) => cmp(a.date_added, b.date_added) * -1)
+    .slice(0, 25)
+    .map(t => ({ ...t, when: t.date_added?.slice(0, 10) }));
+
+  const withDate = label => [
+    ...recentCols,
+    { key: "when", label },
+  ];
+
+  mount("table-recent-played", tableEl(played, withDate("Last played"), {
+    onRowClick: t => drillArtist(t.artist),
+  }));
+  mount("table-recent-added", tableEl(added, withDate("Added"), {
+    onRowClick: t => drillArtist(t.artist),
+  }));
 }
 
 // ─────────────── Pending ───────────────
