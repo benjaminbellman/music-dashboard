@@ -27,17 +27,19 @@ AGGREGATES_DIR = PROJECT_DIR / "data" / "aggregates"
 ANTHROPIC_KEY_FILE = PROJECT_DIR / "credentials" / "anthropic.key"
 PORT = 8789
 
-CLAUDE_MODEL = "claude-haiku-4-5-20251001"
+# Cheapest current Claude model. For a slightly smarter but ~4x pricier
+# option, swap to "claude-haiku-4-5-20251001".
+CLAUDE_MODEL = "claude-3-haiku-20240307"
 
 # Safety rails on Claude usage. Combine with a spend cap on the Anthropic
 # billing console for defence in depth.
-ASK_MAX_PER_DAY = 50
+ASK_MAX_COST_PER_DAY_USD = 0.50       # hard daily dollar cap
 ASK_MAX_Q_CHARS = 400
 ASK_LOG_FILE = PROJECT_DIR / "logs" / "ask.log"
 
-# Claude Haiku 4.5 pricing (USD per million tokens, as of 2026-04).
-_HAIKU_IN_PRICE  = 1.00 / 1_000_000
-_HAIKU_OUT_PRICE = 5.00 / 1_000_000
+# Claude Haiku 3 pricing (USD per million tokens).
+_MODEL_IN_PRICE  = 0.25 / 1_000_000
+_MODEL_OUT_PRICE = 1.25 / 1_000_000
 
 ALLOWED_ORIGINS = {
     "https://benjaminbellman.github.io",
@@ -150,24 +152,33 @@ def _pending_artists() -> list[dict]:
     return [dict(r) for r in rows]
 
 
-def _today_question_count() -> int:
-    """Count how many /ask calls succeeded today (based on ask.log)."""
+def _today_spent_usd() -> tuple[float, int]:
+    """Return (total cost today in USD, number of /ask calls today) from ask.log."""
     if not ASK_LOG_FILE.exists():
-        return 0
+        return 0.0, 0
     today = dt.date.today().isoformat()
+    total = 0.0
     count = 0
     try:
         for line in ASK_LOG_FILE.read_text().splitlines():
-            if line.startswith(today):
-                count += 1
+            if not line.startswith(today):
+                continue
+            count += 1
+            # Each line has a "cost=$<float>" field.
+            for part in line.split("\t"):
+                if part.startswith("cost=$"):
+                    try:
+                        total += float(part[6:])
+                    except ValueError:
+                        pass
     except Exception:  # noqa: BLE001
         pass
-    return count
+    return total, count
 
 
 def _log_question(question: str, tokens_in: int, tokens_out: int) -> None:
     ASK_LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
-    cost = tokens_in * _HAIKU_IN_PRICE + tokens_out * _HAIKU_OUT_PRICE
+    cost = tokens_in * _MODEL_IN_PRICE + tokens_out * _MODEL_OUT_PRICE
     line = (
         f"{dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()}\t"
         f"in={tokens_in}\tout={tokens_out}\tcost=${cost:.5f}\t"
@@ -193,12 +204,13 @@ def _ask_claude(question: str) -> dict:
     # Guardrails
     if len(question) > ASK_MAX_Q_CHARS:
         return {"error": f"Question is too long ({len(question)} chars). Limit is {ASK_MAX_Q_CHARS}."}
-    asked_today = _today_question_count()
-    if asked_today >= ASK_MAX_PER_DAY:
+    spent_today, asked_today = _today_spent_usd()
+    if spent_today >= ASK_MAX_COST_PER_DAY_USD:
         return {
             "error": (
-                f"Daily cap reached ({ASK_MAX_PER_DAY} questions today). "
-                f"Edit ASK_MAX_PER_DAY in pipeline/refresh_server.py to raise it."
+                f"Daily cost cap reached (${spent_today:.4f} of "
+                f"${ASK_MAX_COST_PER_DAY_USD:.2f} spent today). "
+                f"Edit ASK_MAX_COST_PER_DAY_USD in pipeline/refresh_server.py to raise it."
             )
         }
 
@@ -239,13 +251,13 @@ def _ask_claude(question: str) -> dict:
         message = client.messages.create(
             model=CLAUDE_MODEL,
             max_tokens=1024,
-            system=[{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}],
+            system=system,   # Haiku 3 doesn't support prompt caching; pass plain string
             messages=[{"role": "user", "content": question}],
         )
         text = "".join(block.text for block in message.content if hasattr(block, "text"))
         tin, tout = message.usage.input_tokens, message.usage.output_tokens
         _log_question(question, tin, tout)
-        cost = tin * _HAIKU_IN_PRICE + tout * _HAIKU_OUT_PRICE
+        cost = tin * _MODEL_IN_PRICE + tout * _MODEL_OUT_PRICE
         return {
             "answer": text,
             "model": message.model,
@@ -253,6 +265,8 @@ def _ask_claude(question: str) -> dict:
             "tokens_out": tout,
             "cost": cost,
             "asked_today": asked_today + 1,
+            "spent_today": spent_today + cost,
+            "cap_usd": ASK_MAX_COST_PER_DAY_USD,
         }
     except Exception as e:  # noqa: BLE001
         return {"error": f"Claude API error: {e}"}
@@ -481,8 +495,10 @@ class Handler(BaseHTTPRequestHandler):
                 text = (result["answer"]
                         .replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
                 meta = (
-                    f"{result['model']} · {result['tokens_in']} in / {result['tokens_out']} out tokens"
-                    f" · ≈ ${result['cost']:.4f} · {result['asked_today']}/{ASK_MAX_PER_DAY} today"
+                    f"{result['model']} · {result['tokens_in']} in / {result['tokens_out']} out"
+                    f" · this call ≈ ${result['cost']:.4f}"
+                    f" · today ${result['spent_today']:.4f} / ${result['cap_usd']:.2f}"
+                    f" ({result['asked_today']} questions)"
                 )
                 self._send_html(ask_page(question, text, meta))
         else:
