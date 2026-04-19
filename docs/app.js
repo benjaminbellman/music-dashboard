@@ -342,18 +342,23 @@ function renderTimeline(data) {
       rows.push({ year: +y, month: +m, plays });
     }
   }
-  mount("chart-month-year", Plot.plot({
-    marginLeft: 60, marginTop: 20, marginRight: 20, marginBottom: 40,
-    height: 900,
-    x: { label: "Year", tickFormat: d3.format("d") },
-    y: { label: null, domain: d3.range(1, 13), tickFormat: i => MONTHS[i-1] },
-    color: { scheme: "purples", type: "sqrt", legend: true, label: "Plays" },
-    style: { background: "transparent", color: "var(--fg)" },
-    marks: [
-      Plot.cell(rows, { x: "year", y: "month", fill: "plays", inset: 1,
-        tip: true, title: d => `${MONTHS[d.month-1]} ${d.year}: ${fmtInt(d.plays)} plays` })
-    ]
-  }));
+  {
+    const years = [...new Set(rows.map(r => r.year))].sort();
+    const width = Math.max(1400, 60 + 20 + years.length * 60);   // 60px per year min
+    mount("chart-month-year", Plot.plot({
+      marginLeft: 60, marginTop: 20, marginRight: 20, marginBottom: 40,
+      width,
+      height: 560,
+      x: { label: "Year", tickFormat: d3.format("d") },
+      y: { label: null, domain: d3.range(1, 13), tickFormat: i => MONTHS[i-1] },
+      color: { scheme: "purples", type: "sqrt", legend: true, label: "Plays" },
+      style: { background: "transparent", color: "var(--fg)" },
+      marks: [
+        Plot.cell(rows, { x: "year", y: "month", fill: "plays", inset: 1,
+          tip: true, title: d => `${MONTHS[d.month-1]} ${d.year}: ${fmtInt(d.plays)} plays` })
+      ]
+    }));
+  }
 
   // Artist of the year tiles — click to drill into all songs added that year
   const yearArtists = document.getElementById("year-artists");
@@ -376,18 +381,23 @@ function renderTimeline(data) {
   const topCountries = data.country_plays.slice(0, 15).map(d => d.country);
   const cyFiltered = cy.filter(d => topCountries.includes(d.country));
 
-  mount("chart-country-year", Plot.plot({
-    marginLeft: 100, marginTop: 20, marginRight: 20, marginBottom: 40,
-    height: 960,
-    x: { label: "Year", tickFormat: d3.format("d") },
-    y: { label: null, domain: topCountries, tickFormat: c => `${flag(c)} ${c}` },
-    color: { scheme: "purples", type: "sqrt", legend: true, label: "Plays" },
-    style: { background: "transparent", color: "var(--fg)" },
-    marks: [
-      Plot.cell(cyFiltered, { x: "year", y: "country", fill: "plays", inset: 1,
-        tip: true, title: d => `${flag(d.country)} ${countryName(d.country)} · ${d.year}: ${fmtInt(d.plays)} plays` })
-    ]
-  }));
+  {
+    const years = [...new Set(cyFiltered.map(r => r.year))].sort();
+    const width = Math.max(1400, 100 + 20 + years.length * 60);
+    mount("chart-country-year", Plot.plot({
+      marginLeft: 100, marginTop: 20, marginRight: 20, marginBottom: 40,
+      width,
+      height: 620,
+      x: { label: "Year", tickFormat: d3.format("d") },
+      y: { label: null, domain: topCountries, tickFormat: c => `${flag(c)} ${c}` },
+      color: { scheme: "purples", type: "sqrt", legend: true, label: "Plays" },
+      style: { background: "transparent", color: "var(--fg)" },
+      marks: [
+        Plot.cell(cyFiltered, { x: "year", y: "country", fill: "plays", inset: 1,
+          tip: true, title: d => `${flag(d.country)} ${countryName(d.country)} · ${d.year}: ${fmtInt(d.plays)} plays` })
+      ]
+    }));
+  }
 }
 
 // ─────────────── Genres ───────────────

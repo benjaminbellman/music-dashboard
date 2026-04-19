@@ -211,6 +211,13 @@ h3 { font-size: 1rem; margin: 0 0 0.75rem; color: var(--fg); }
 }
 .scroll-cap table { font-size: 0.9rem; }
 
+/* Timeline heatmaps are intentionally wider than the card; let them scroll */
+#chart-month-year, #chart-country-year {
+  overflow-x: auto;
+  max-width: 100%;
+}
+#chart-month-year svg, #chart-country-year svg { display: block; }
+
 /* Pie / donut + legend */
 .pie-wrap { display: flex; flex-direction: column; align-items: center; gap: 1rem; }
 .pie-wrap svg { max-width: 100%; height: auto; }
