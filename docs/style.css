@@ -195,6 +195,47 @@ h3 { font-size: 1rem; margin: 0 0 0.75rem; color: var(--fg); }
   gap: 1rem;
 }
 
+/* Genre page: pie on the left, scrollable list on the right */
+.grid-genre {
+  display: grid;
+  grid-template-columns: minmax(380px, 1fr) minmax(360px, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
+@media (max-width: 900px) {
+  .grid-genre { grid-template-columns: 1fr; }
+}
+.scroll-cap {
+  max-height: 640px;
+  overflow-y: auto;
+}
+.scroll-cap table { font-size: 0.9rem; }
+
+/* Pie / donut + legend */
+.pie-wrap { display: flex; flex-direction: column; align-items: center; gap: 1rem; }
+.pie-wrap svg { max-width: 100%; height: auto; }
+.pie-legend {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.2rem 0.6rem;
+  width: 100%;
+  margin-top: 0.25rem;
+}
+.pie-legend-item {
+  display: grid;
+  grid-template-columns: 14px 1fr auto;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+.pie-legend-item.clickable { cursor: pointer; }
+.pie-legend-item.clickable:hover { background: var(--accent-soft); color: var(--accent); }
+.pie-swatch { width: 12px; height: 12px; border-radius: 3px; }
+.pie-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pie-pct { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.78rem; }
+
 /* Year-artist tiles */
 .grid-cards {
   display: grid;

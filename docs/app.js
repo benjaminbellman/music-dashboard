@@ -393,19 +393,103 @@ function renderTimeline(data) {
 // ─────────────── Genres ───────────────
 function renderGenres(data) {
   const all = data.genre_plays;
+  const totalPlays = all.reduce((s, g) => s + g.plays, 0);
   document.getElementById("genres-sub").textContent =
-    `${all.length} distinct genres.`;
+    `${all.length} distinct genres · ${fmtInt(totalPlays)} plays.`;
 
-  const top15 = all.slice(0, 15);
-  mount("chart-genres", plotBarH(top15, "plays", "genre",
-    d => `${d.genre}: ${fmtInt(d.plays)} plays · ${d.songs} songs`,
-    { xLabel: "Plays →", fill: "var(--accent)" }));
+  mount("chart-genres", genreDonut(all));
 
   mount("table-genres", tableEl(all, [
     { key: "genre", label: "Genre" },
     { key: "plays", label: "Plays", num: true, render: fmtInt },
     { key: "songs", label: "Songs", num: true, render: fmtInt },
   ], { sortKey: "plays", sortDir: -1, onRowClick: r => drillGenre(r.genre) }));
+}
+
+const PIE_COLORS = [
+  "#a78bfa", "#ec4899", "#f472b6", "#c4b5fd", "#8b5cf6",
+  "#d8b4fe", "#f9a8d4", "#fb7185", "#fda4af", "#7c3aed",
+  "#9333ea", "#db2777",
+];
+
+function genreDonut(genres) {
+  const w = 380, h = 380;
+  const r = Math.min(w, h) / 2 - 8;
+  const inner = r * 0.58;
+
+  // Top 11 genres + bucket the rest as "Other"
+  const top = genres.slice(0, 11);
+  const tail = genres.slice(11);
+  const otherPlays = tail.reduce((s, g) => s + g.plays, 0);
+  const slices = otherPlays > 0
+    ? [...top, { genre: `Other (${tail.length})`, plays: otherPlays, _isOther: true }]
+    : top;
+  const total = slices.reduce((s, g) => s + g.plays, 0);
+
+  const color = d3.scaleOrdinal()
+    .domain(slices.map(d => d.genre))
+    .range(PIE_COLORS.slice(0, slices.length - (otherPlays > 0 ? 1 : 0)).concat(["#4b4564"]));
+
+  const pie = d3.pie().value(d => d.plays).sort(null);
+  const arc = d3.arc().innerRadius(inner).outerRadius(r).cornerRadius(2).padAngle(0.005);
+  const arcHover = d3.arc().innerRadius(inner).outerRadius(r + 8).cornerRadius(2).padAngle(0.005);
+
+  const svg = d3.create("svg")
+    .attr("viewBox", `${-w/2} ${-h/2} ${w} ${h}`)
+    .attr("style", "max-width:100%;height:auto;");
+
+  const arcs = svg.append("g").selectAll("path")
+    .data(pie(slices))
+    .join("path")
+    .attr("d", arc)
+    .attr("fill", d => color(d.data.genre))
+    .attr("stroke", "var(--bg)")
+    .attr("stroke-width", 2);
+
+  arcs
+    .style("cursor", d => d.data._isOther ? "default" : "pointer")
+    .on("mouseenter", function() { d3.select(this).transition().duration(120).attr("d", arcHover); })
+    .on("mouseleave", function() { d3.select(this).transition().duration(120).attr("d", arc); })
+    .on("click", (_e, d) => { if (!d.data._isOther) drillGenre(d.data.genre); });
+
+  arcs.append("title").text(d =>
+    `${d.data.genre}: ${fmtInt(d.data.plays)} plays (${(d.data.plays / total * 100).toFixed(1)}%)`);
+
+  // Center labels
+  const center = svg.append("g");
+  center.append("text")
+    .attr("text-anchor", "middle").attr("dy", "-0.1em")
+    .attr("fill", "var(--fg)")
+    .attr("font-size", "1.6rem").attr("font-weight", "600")
+    .text(fmtInt(total));
+  center.append("text")
+    .attr("text-anchor", "middle").attr("dy", "1.4em")
+    .attr("fill", "var(--muted)")
+    .attr("font-size", "0.78rem").attr("letter-spacing", "0.08em").attr("text-transform", "uppercase")
+    .text("total plays");
+
+  // Legend (paired columns under the donut)
+  const legend = document.createElement("div");
+  legend.className = "pie-legend";
+  legend.innerHTML = slices.map(d => {
+    const pct = (d.plays / total * 100).toFixed(1);
+    const safe = String(d.genre).replace(/"/g, "&quot;");
+    return `
+      <div class="pie-legend-item${d._isOther ? "" : " clickable"}" data-genre="${safe}">
+        <span class="pie-swatch" style="background:${color(d.genre)}"></span>
+        <span class="pie-name" title="${safe}">${safe}</span>
+        <span class="pie-pct">${pct}%</span>
+      </div>`;
+  }).join("");
+  legend.querySelectorAll(".clickable").forEach(el => {
+    el.addEventListener("click", () => drillGenre(el.dataset.genre));
+  });
+
+  const wrap = document.createElement("div");
+  wrap.className = "pie-wrap";
+  wrap.appendChild(svg.node());
+  wrap.appendChild(legend);
+  return wrap;
 }
 
 // ─────────────── Tracker ───────────────
