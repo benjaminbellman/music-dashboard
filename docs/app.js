@@ -398,6 +398,45 @@ function renderTimeline(data) {
       ]
     }));
   }
+
+  // Genres over time — stacked area
+  if (data.genre_year?.length) {
+    const gy = data.genre_year;
+    const years = [...new Set(gy.map(r => r.year))].sort();
+    const genres = [...new Set(gy.map(r => r.genre))];
+    // Stable order: most-played first (Other last)
+    const totals = {};
+    for (const r of gy) totals[r.genre] = (totals[r.genre] || 0) + r.plays;
+    const domain = genres.sort((a, b) => a === "Other" ? 1 : b === "Other" ? -1 : totals[b] - totals[a]);
+
+    const width = Math.max(1400, 60 + 20 + years.length * 60);
+    mount("chart-genre-year", Plot.plot({
+      marginLeft: 70, marginTop: 20, marginRight: 140, marginBottom: 40,
+      width,
+      height: 540,
+      x: { label: "Year added", tickFormat: d3.format("d"), ticks: years },
+      y: { label: "Plays", grid: true, tickFormat: d3.format(",") },
+      color: {
+        legend: true,
+        domain,
+        range: ["#a78bfa", "#ec4899", "#c4b5fd", "#f472b6", "#8b5cf6",
+                "#d8b4fe", "#fb7185", "#7c3aed", "#4b4564"],
+      },
+      style: { background: "transparent", color: "var(--fg)" },
+      marks: [
+        Plot.areaY(gy, {
+          x: "year",
+          y: "plays",
+          fill: "genre",
+          order: domain,
+          curve: "monotone-x",
+          tip: true,
+          title: d => `${d.genre} · ${d.year}: ${fmtInt(d.plays)} plays`,
+        }),
+        Plot.ruleY([0], { stroke: "var(--border)" }),
+      ],
+    }));
+  }
 }
 
 // ─────────────── Genres ───────────────

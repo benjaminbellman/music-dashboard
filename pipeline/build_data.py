@@ -192,6 +192,40 @@ def year_artist(conn) -> list:
     return [{"year": r["year"], "artist": r["artist"], "plays": r["plays"]} for r in rows]
 
 
+def genre_year(conn) -> dict:
+    """Plays aggregated by (year_added, genre). Top 8 genres kept explicitly,
+    everything else bucketed as 'Other' so a stacked area chart stays readable.
+    Shape: [{year, genre, plays}, ...]
+    """
+    # Top 8 genres by total plays across all time
+    top = [
+        r["genre"] for r in conn.execute(
+            """SELECT COALESCE(NULLIF(genre,''),'Unspecified') AS genre, SUM(plays) p
+               FROM tracks_current GROUP BY genre ORDER BY p DESC LIMIT 8"""
+        )
+    ]
+    rows = list(conn.execute(
+        """
+        SELECT substr(date_added, 1, 4) AS year,
+               COALESCE(NULLIF(genre, ''), 'Unspecified') AS genre,
+               SUM(plays) AS plays
+        FROM tracks_current
+        WHERE date_added IS NOT NULL
+        GROUP BY year, genre
+        ORDER BY year, genre
+        """
+    ))
+    # Bucket non-top into "Other"
+    agg: dict[tuple[str, str], int] = {}
+    for r in rows:
+        key = (r["year"], r["genre"] if r["genre"] in top else "Other")
+        agg[key] = agg.get(key, 0) + r["plays"]
+    return [
+        {"year": int(y), "genre": g, "plays": p}
+        for (y, g), p in sorted(agg.items())
+    ]
+
+
 def country_year(conn) -> dict:
     """Sum of plays grouped by (year-added, country)."""
     out: dict[str, list] = {}
@@ -268,6 +302,7 @@ def main() -> None:
     _write("month_year", month_year(conn))
     _write("year_artist", year_artist(conn))
     _write("country_year", country_year(conn))
+    _write("genre_year", genre_year(conn))
     _write("tracks", tracks(conn))
     _write("pending_artists", pending_artists(conn))
     _write_combined()
