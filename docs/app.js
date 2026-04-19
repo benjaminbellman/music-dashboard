@@ -343,14 +343,14 @@ function renderTimeline(data) {
     }
   }
   mount("chart-month-year", Plot.plot({
-    marginLeft: 50, marginTop: 20, marginRight: 20, marginBottom: 40,
-    height: 380,
+    marginLeft: 60, marginTop: 20, marginRight: 20, marginBottom: 40,
+    height: 700,
     x: { label: "Year", tickFormat: d3.format("d") },
     y: { label: null, domain: d3.range(1, 13), tickFormat: i => MONTHS[i-1] },
     color: { scheme: "purples", type: "sqrt", legend: true, label: "Plays" },
     style: { background: "transparent", color: "var(--fg)" },
     marks: [
-      Plot.cell(rows, { x: "year", y: "month", fill: "plays", inset: 0.5,
+      Plot.cell(rows, { x: "year", y: "month", fill: "plays", inset: 1,
         tip: true, title: d => `${MONTHS[d.month-1]} ${d.year}: ${fmtInt(d.plays)} plays` })
     ]
   }));
@@ -377,14 +377,14 @@ function renderTimeline(data) {
   const cyFiltered = cy.filter(d => topCountries.includes(d.country));
 
   mount("chart-country-year", Plot.plot({
-    marginLeft: 90, marginTop: 20, marginRight: 20, marginBottom: 40,
-    height: 420,
+    marginLeft: 100, marginTop: 20, marginRight: 20, marginBottom: 40,
+    height: 720,
     x: { label: "Year", tickFormat: d3.format("d") },
     y: { label: null, domain: topCountries, tickFormat: c => `${flag(c)} ${c}` },
     color: { scheme: "purples", type: "sqrt", legend: true, label: "Plays" },
     style: { background: "transparent", color: "var(--fg)" },
     marks: [
-      Plot.cell(cyFiltered, { x: "year", y: "country", fill: "plays", inset: 0.5,
+      Plot.cell(cyFiltered, { x: "year", y: "country", fill: "plays", inset: 1,
         tip: true, title: d => `${flag(d.country)} ${countryName(d.country)} · ${d.year}: ${fmtInt(d.plays)} plays` })
     ]
   }));
