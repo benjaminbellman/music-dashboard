@@ -146,39 +146,39 @@
     },
     {
       "rank": 25,
+      "artist": "\"Weird Al\" Yankovic",
+      "count": 12,
+      "country": "US"
+    },
+    {
+      "rank": 26,
       "artist": "Drake",
       "count": 12,
       "country": "CA"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "artist": "Fall Out Boy",
       "count": 12,
       "country": "US"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "artist": "MIKA",
       "count": 12,
       "country": "GB"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "artist": "Maroon 5",
       "count": 12,
       "country": "US"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "artist": "The Weeknd",
       "count": 12,
       "country": "CA"
-    },
-    {
-      "rank": 30,
-      "artist": "\"Weird Al\" Yankovic",
-      "count": 11,
-      "country": null
     },
     {
       "rank": 31,
