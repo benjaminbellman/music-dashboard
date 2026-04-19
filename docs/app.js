@@ -155,6 +155,17 @@ function drillGenre(g) {
     songs: songsByGenre(g),
   });
 }
+function drillGenreYear(g, year) {
+  const y = String(year);
+  const songs = _allTracks.filter(
+    t => (t.genre || "Unspecified") === g && (t.date_added || "").startsWith(y)
+  );
+  openDrill({
+    title: `${g} · ${year}`,
+    subtitle: `${g} songs added in ${year}`,
+    songs,
+  });
+}
 function drillYearAdded(year) {
   openDrill({
     title: `${year}`,
@@ -475,7 +486,7 @@ function renderYearGenreTiles(startYear = 2012, topN = 5) {
       <div class="year-genres-card">
         <div class="year-label">${y}</div>
         ${top.map(([g, plays]) => `
-          <div class="year-genre-row" data-genre="${String(g).replace(/"/g, "&quot;")}">
+          <div class="year-genre-row" data-genre="${String(g).replace(/"/g, "&quot;")}" data-year="${y}">
             <span class="genre-name" title="${String(g).replace(/"/g, "&quot;")}">${g}</span>
             <span class="genre-plays">${fmtInt(plays)}</span>
           </div>
@@ -484,7 +495,7 @@ function renderYearGenreTiles(startYear = 2012, topN = 5) {
     `;
   }).join("");
   container.querySelectorAll(".year-genre-row").forEach(el =>
-    el.addEventListener("click", () => drillGenre(el.dataset.genre))
+    el.addEventListener("click", () => drillGenreYear(el.dataset.genre, +el.dataset.year))
   );
 }
 
