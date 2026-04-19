@@ -76,9 +76,16 @@ function initDrillPanel() {
 }
 
 function closeDrill() {
-  document.getElementById("drill-panel")?.classList.remove("open");
-  document.getElementById("drill-overlay")?.classList.add("hidden");
-  document.getElementById("drill-overlay").hidden = true;
+  const panel = document.getElementById("drill-panel");
+  const ov = document.getElementById("drill-overlay");
+  if (panel) {
+    panel.classList.remove("open");
+    setTimeout(() => { panel.hidden = true; }, 250);   // wait for slide-out anim
+  }
+  if (ov) {
+    ov.classList.remove("open");
+    setTimeout(() => { ov.hidden = true; }, 250);
+  }
 }
 
 function openDrill({ title, subtitle, songs }) {
@@ -100,10 +107,16 @@ function openDrill({ title, subtitle, songs }) {
   const body = document.getElementById("drill-body");
   body.innerHTML = "";
   body.appendChild(tableEl(songs, cols));
-  document.getElementById("drill-panel").classList.add("open");
+
+  const panel = document.getElementById("drill-panel");
   const ov = document.getElementById("drill-overlay");
+  // Reveal both BEFORE adding .open so the transform animation actually runs.
+  panel.hidden = false;
   ov.hidden = false;
-  requestAnimationFrame(() => ov.classList.add("open"));
+  requestAnimationFrame(() => {
+    panel.classList.add("open");
+    ov.classList.add("open");
+  });
 }
 
 // Filter helpers
