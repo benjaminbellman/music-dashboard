@@ -29,6 +29,16 @@ PORT = 8789
 
 CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 
+# Safety rails on Claude usage. Combine with a spend cap on the Anthropic
+# billing console for defence in depth.
+ASK_MAX_PER_DAY = 50
+ASK_MAX_Q_CHARS = 400
+ASK_LOG_FILE = PROJECT_DIR / "logs" / "ask.log"
+
+# Claude Haiku 4.5 pricing (USD per million tokens, as of 2026-04).
+_HAIKU_IN_PRICE  = 1.00 / 1_000_000
+_HAIKU_OUT_PRICE = 5.00 / 1_000_000
+
 ALLOWED_ORIGINS = {
     "https://benjaminbellman.github.io",
     "http://localhost:8788",
@@ -140,6 +150,33 @@ def _pending_artists() -> list[dict]:
     return [dict(r) for r in rows]
 
 
+def _today_question_count() -> int:
+    """Count how many /ask calls succeeded today (based on ask.log)."""
+    if not ASK_LOG_FILE.exists():
+        return 0
+    today = dt.date.today().isoformat()
+    count = 0
+    try:
+        for line in ASK_LOG_FILE.read_text().splitlines():
+            if line.startswith(today):
+                count += 1
+    except Exception:  # noqa: BLE001
+        pass
+    return count
+
+
+def _log_question(question: str, tokens_in: int, tokens_out: int) -> None:
+    ASK_LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+    cost = tokens_in * _HAIKU_IN_PRICE + tokens_out * _HAIKU_OUT_PRICE
+    line = (
+        f"{dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()}\t"
+        f"in={tokens_in}\tout={tokens_out}\tcost=${cost:.5f}\t"
+        f"{question[:120].replace(chr(9), ' ').replace(chr(10), ' ')}\n"
+    )
+    with ASK_LOG_FILE.open("a") as f:
+        f.write(line)
+
+
 def _ask_claude(question: str) -> dict:
     """Send the user's question to Claude with library aggregates as context."""
     if not ANTHROPIC_KEY_FILE.exists():
@@ -152,6 +189,18 @@ def _ask_claude(question: str) -> dict:
     api_key = ANTHROPIC_KEY_FILE.read_text().strip()
     if not api_key:
         return {"error": "credentials/anthropic.key is empty."}
+
+    # Guardrails
+    if len(question) > ASK_MAX_Q_CHARS:
+        return {"error": f"Question is too long ({len(question)} chars). Limit is {ASK_MAX_Q_CHARS}."}
+    asked_today = _today_question_count()
+    if asked_today >= ASK_MAX_PER_DAY:
+        return {
+            "error": (
+                f"Daily cap reached ({ASK_MAX_PER_DAY} questions today). "
+                f"Edit ASK_MAX_PER_DAY in pipeline/refresh_server.py to raise it."
+            )
+        }
 
     # Build a compact context from the pre-computed aggregates.
     context_names = [
@@ -194,7 +243,17 @@ def _ask_claude(question: str) -> dict:
             messages=[{"role": "user", "content": question}],
         )
         text = "".join(block.text for block in message.content if hasattr(block, "text"))
-        return {"answer": text, "model": message.model, "tokens_in": message.usage.input_tokens, "tokens_out": message.usage.output_tokens}
+        tin, tout = message.usage.input_tokens, message.usage.output_tokens
+        _log_question(question, tin, tout)
+        cost = tin * _HAIKU_IN_PRICE + tout * _HAIKU_OUT_PRICE
+        return {
+            "answer": text,
+            "model": message.model,
+            "tokens_in": tin,
+            "tokens_out": tout,
+            "cost": cost,
+            "asked_today": asked_today + 1,
+        }
     except Exception as e:  # noqa: BLE001
         return {"error": f"Claude API error: {e}"}
 
@@ -421,7 +480,10 @@ class Handler(BaseHTTPRequestHandler):
                 # Simple safe rendering — Claude returns plain text; preserve newlines.
                 text = (result["answer"]
                         .replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
-                meta = f"{result['model']} · {result['tokens_in']} in / {result['tokens_out']} out tokens"
+                meta = (
+                    f"{result['model']} · {result['tokens_in']} in / {result['tokens_out']} out tokens"
+                    f" · ≈ ${result['cost']:.4f} · {result['asked_today']}/{ASK_MAX_PER_DAY} today"
+                )
                 self._send_html(ask_page(question, text, meta))
         else:
             self._send_json(404, {"error": "not found"})
