@@ -79,6 +79,22 @@ bash run_sync.sh                                    # on-demand refresh: extract
 .venv/bin/python pipeline/enrich.py --interactive   # assign countries MusicBrainz couldn't resolve
 ```
 
+### Ask Claude about your library (optional)
+
+The Insights tab has an "Ask Claude" box. It hits the refresh-server's
+`/ask` endpoint, which calls the Anthropic API with your aggregates as
+context. To enable:
+
+```sh
+mkdir -p credentials
+echo "sk-ant-your-key-here" > credentials/anthropic.key
+launchctl unload ~/Library/LaunchAgents/com.benjamin.musicdashboardrefresh.plist
+launchctl load   ~/Library/LaunchAgents/com.benjamin.musicdashboardrefresh.plist
+```
+
+`credentials/` is gitignored so the key never gets pushed. The dashboard
+works fine without it — the Ask card just shows the setup hint.
+
 There's also a **Refresh** button in the dashboard topbar. It appears only when
 your browser can reach the local refresh server
 (`pipeline/refresh_server.py`, loopback on `127.0.0.1:8789`). Clicking it triggers

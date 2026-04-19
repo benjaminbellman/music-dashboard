@@ -15,6 +15,7 @@
     </div>
     <nav class="tabs">
       <a href="#overview" data-tab="overview" class="active">Overview</a>
+      <a href="#insights" data-tab="insights">Insights</a>
       <a href="#artists" data-tab="artists">Artists</a>
       <a href="#countries" data-tab="countries">Countries</a>
       <a href="#timeline" data-tab="timeline">Timeline</a>
@@ -67,6 +68,44 @@
       <div class="grid-2">
         <div class="card"><h3>Top countries</h3><div id="table-countries-overview"></div></div>
         <div class="card"><h3>Plays by country</h3><div id="chart-countries-overview"></div></div>
+      </div>
+    </section>
+
+    <!-- Insights -->
+    <section class="page" id="page-insights" hidden>
+      <h1>Insights</h1>
+      <div class="grid-insights">
+        <div class="card insight-card">
+          <div class="insight-head">
+            <h2>Did you know?</h2>
+            <button id="fact-reroll" class="pill-btn" title="Another one">🎲 New fact</button>
+          </div>
+          <div id="insight-fact" class="insight-body">—</div>
+        </div>
+
+        <div class="card insight-card">
+          <h2>How your taste has evolved</h2>
+          <div id="insight-evolution" class="insight-body">—</div>
+        </div>
+
+        <div class="card insight-card insight-ask">
+          <h2>Ask Claude about your music</h2>
+          <form id="ask-form" action="http://127.0.0.1:8789/ask" method="GET" target="_blank">
+            <input type="text" name="q" required autocomplete="off"
+                   placeholder="e.g. What French artist was I most into in 2020?" />
+            <button type="submit">Ask →</button>
+          </form>
+          <div class="sub">
+            Opens a new tab on the local refresh server, which calls the Anthropic API
+            and returns the answer. Needs an API key in
+            <code>credentials/anthropic.key</code> on your Mac. See the README.
+          </div>
+          <div class="sub"><strong>Try:</strong>
+            <a href="#" class="example-ask">What's my most French year?</a> ·
+            <a href="#" class="example-ask">Which artist did I binge in 2017?</a> ·
+            <a href="#" class="example-ask">How did my genre mix change from 2018 to 2025?</a>
+          </div>
+        </div>
       </div>
     </section>
 

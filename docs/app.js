@@ -39,7 +39,7 @@ function showTab(name) {
 }
 function routeFromHash() {
   const h = location.hash.replace("#", "") || "overview";
-  const valid = ["overview","artists","countries","timeline","genres","tracker","pending"];
+  const valid = ["overview","insights","artists","countries","timeline","genres","tracker","pending"];
   showTab(valid.includes(h) ? h : "overview");
 }
 window.addEventListener("hashchange", routeFromHash);
@@ -61,10 +61,203 @@ window.addEventListener("hashchange", routeFromHash);
   renderGenres(data);
   renderTracker(data);
   renderPending(data);
+  renderInsights(data);
   initRefreshButton();
 })().catch(err => {
   document.getElementById("loading").innerHTML = `<div style="color:#fca5a5">Failed to load: ${err.message}</div>`;
 });
+
+// ─────────────── Insights ───────────────
+function renderInsights(data) {
+  const factEl = document.getElementById("insight-fact");
+  const rerollBtn = document.getElementById("fact-reroll");
+  const evolEl = document.getElementById("insight-evolution");
+
+  const facts = buildFacts(data);
+  const pickFact = () => {
+    if (!facts.length) { factEl.textContent = "Not enough data for fun facts yet."; return; }
+    factEl.innerHTML = facts[Math.floor(Math.random() * facts.length)];
+  };
+  pickFact();
+  rerollBtn?.addEventListener("click", pickFact);
+
+  evolEl.innerHTML = buildEvolution(data);
+
+  // Ask form: example chips pre-fill the input
+  const input = document.querySelector('#ask-form input[name="q"]');
+  document.querySelectorAll(".example-ask").forEach(a => {
+    a.addEventListener("click", e => {
+      e.preventDefault();
+      if (input) { input.value = a.textContent.trim(); input.focus(); }
+    });
+  });
+}
+
+function buildFacts(data) {
+  const k = data.kpis;
+  const tracks = data.tracks || [];
+  const topArtistsByPlays = data.top_artists?.by_play_count || [];
+  const topArtistsBySongs = data.top_artists?.by_song_count || [];
+  const topCountries = data.country_plays || [];
+  const topGenres = data.genre_plays || [];
+  const yearArtists = data.year_artist || [];
+  const facts = [];
+
+  // #1 all-time song
+  const topSong = [...tracks].sort((a, b) => (b.plays || 0) - (a.plays || 0))[0];
+  if (topSong) {
+    facts.push(`Your all-time #1 song is <strong>${escapeHTML(topSong.song)}</strong> by <strong>${escapeHTML(topSong.artist)}</strong>, played <strong>${fmtInt(topSong.plays)}</strong> times.`);
+  }
+
+  // Most-played artist overall
+  if (topArtistsByPlays[0]) {
+    const a = topArtistsByPlays[0];
+    facts.push(`You've played <strong>${escapeHTML(a.artist)}</strong> ${a.country ? flag(a.country) + " " : ""}<strong>${fmtInt(a.plays)}</strong> times across your library.`);
+  }
+
+  // Artist with the most songs
+  if (topArtistsBySongs[0]) {
+    const a = topArtistsBySongs[0];
+    facts.push(`<strong>${escapeHTML(a.artist)}</strong> has <strong>${a.count}</strong> songs in your library — more than any other artist.`);
+  }
+
+  // Top country by plays
+  if (topCountries[0]) {
+    const c = topCountries[0];
+    const pct = (c.plays / k.total_plays * 100).toFixed(0);
+    facts.push(`${flag(c.country)} <strong>${countryName(c.country)}</strong> dominates your library with <strong>${pct}%</strong> of all plays (${fmtInt(c.plays)} / ${fmtInt(k.total_plays)}).`);
+  }
+
+  // Number of countries
+  if (topCountries.length) {
+    facts.push(`Your library pulls from <strong>${topCountries.length} countries</strong> — the rarest is ${flag(topCountries.at(-1).country)} ${countryName(topCountries.at(-1).country)} with just ${topCountries.at(-1).plays} plays.`);
+  }
+
+  // Top genre
+  if (topGenres[0]) {
+    const g = topGenres[0];
+    const pct = (g.plays / k.total_plays * 100).toFixed(0);
+    facts.push(`<strong>${escapeHTML(g.genre)}</strong> is your top genre — <strong>${pct}%</strong> of plays (${fmtInt(g.plays)} across ${g.songs} songs).`);
+  }
+
+  // Biggest year addition
+  const byYearAdded = new Map();
+  for (const t of tracks) {
+    if (!t.date_added) continue;
+    const y = +t.date_added.slice(0, 4);
+    byYearAdded.set(y, (byYearAdded.get(y) || 0) + (t.plays || 0));
+  }
+  if (byYearAdded.size) {
+    const [year, plays] = [...byYearAdded.entries()].sort((a, b) => b[1] - a[1])[0];
+    facts.push(`Your biggest year was <strong>${year}</strong> — you added songs that year and have played them <strong>${fmtInt(plays)}</strong> times since.`);
+  }
+
+  // Year a genre exploded
+  const genreYear = data.genre_year || [];
+  if (genreYear.length) {
+    // Find the year+genre with the single highest plays (non-Other)
+    const best = genreYear.filter(r => r.genre !== "Other")
+      .sort((a, b) => b.plays - a.plays)[0];
+    if (best) {
+      facts.push(`<strong>${escapeHTML(best.genre)}</strong> peaked for you in <strong>${best.year}</strong> — ${fmtInt(best.plays)} plays from songs you added that year.`);
+    }
+  }
+
+  // Estimated listening time
+  const totalSec = tracks.reduce((s, t) => s + ((t.duration_sec || 0) * (t.plays || 0)), 0);
+  if (totalSec > 0) {
+    const h = Math.round(totalSec / 3600);
+    const days = (h / 24).toFixed(1);
+    facts.push(`Estimated total listening time: <strong>${fmtInt(h)} hours</strong> — about <strong>${days} days</strong> of nonstop music.`);
+  }
+
+  // Longest song you've actually played
+  const playedOnce = tracks.filter(t => (t.plays || 0) > 0 && t.duration_sec);
+  if (playedOnce.length) {
+    const longest = [...playedOnce].sort((a, b) => (b.duration_sec || 0) - (a.duration_sec || 0))[0];
+    const m = Math.floor((longest.duration_sec || 0) / 60), s = (longest.duration_sec || 0) % 60;
+    facts.push(`The longest song you've actually played is <strong>${escapeHTML(longest.song)}</strong> by ${escapeHTML(longest.artist)} — <strong>${m}m ${s}s</strong>, played ${longest.plays} time${longest.plays === 1 ? "" : "s"}.`);
+  }
+
+  // Yearly top-artist streak
+  const artistYears = new Map();
+  for (const ya of yearArtists) {
+    artistYears.set(ya.artist, (artistYears.get(ya.artist) || []).concat(ya.year));
+  }
+  for (const [artist, years] of artistYears) {
+    if (years.length >= 2) {
+      facts.push(`<strong>${escapeHTML(artist)}</strong> was your artist of the year in <strong>${years.length} different years</strong> (${years.sort().join(", ")}).`);
+      break;
+    }
+  }
+
+  // Median plays
+  if (k.median_plays) {
+    facts.push(`Half your songs have been played more than <strong>${k.median_plays}</strong> times, half less.`);
+  }
+
+  return facts;
+}
+
+function buildEvolution(data) {
+  const tracks = data.tracks || [];
+  const fenceEarly = 2018, fenceRecent = 2023;
+
+  function slice(from, to) {
+    return tracks.filter(t => {
+      const y = +((t.date_added || "").slice(0, 4));
+      return y >= from && y <= to;
+    });
+  }
+
+  function topBy(rows, keyFn, n = 1) {
+    const m = new Map();
+    for (const r of rows) {
+      const key = keyFn(r);
+      if (!key) continue;
+      m.set(key, (m.get(key) || 0) + (r.plays || 0));
+    }
+    return [...m.entries()].sort((a, b) => b[1] - a[1]).slice(0, n);
+  }
+
+  const early = slice(2004, fenceEarly);
+  const recent = slice(fenceRecent, 3000);
+
+  if (!early.length || !recent.length) {
+    return "Not enough history yet to compare eras — come back after a few more years of listening.";
+  }
+
+  const earlyTotal = early.reduce((s, t) => s + (t.plays || 0), 0);
+  const recentTotal = recent.reduce((s, t) => s + (t.plays || 0), 0);
+
+  const [genEarly] = topBy(early, t => t.genre || "Unspecified");
+  const [genRecent] = topBy(recent, t => t.genre || "Unspecified");
+  const [cEarly] = topBy(early, t => t.country);
+  const [cRecent] = topBy(recent, t => t.country);
+  const [aEarly] = topBy(early, t => t.artist);
+  const [aRecent] = topBy(recent, t => t.artist);
+
+  function pct(bucket, total) {
+    if (!bucket || !total) return "—";
+    return `${Math.round(bucket[1] / total * 100)}%`;
+  }
+
+  return `
+    <p>Between <strong>2004–${fenceEarly}</strong> (${fmtInt(earlyTotal)} plays), your library leaned on
+    <em>${escapeHTML(genEarly[0])}</em> (${pct(genEarly, earlyTotal)}),
+    ${cEarly ? `${flag(cEarly[0])} <em>${countryName(cEarly[0])}</em> artists (${pct(cEarly, earlyTotal)})` : ""},
+    with <em>${escapeHTML(aEarly[0])}</em> as the dominant name.</p>
+
+    <p>In <strong>${fenceRecent}–now</strong> (${fmtInt(recentTotal)} plays from new additions), you've shifted toward
+    <em>${escapeHTML(genRecent[0])}</em> (${pct(genRecent, recentTotal)}),
+    ${cRecent ? `${flag(cRecent[0])} <em>${countryName(cRecent[0])}</em> (${pct(cRecent, recentTotal)})` : ""},
+    and <em>${escapeHTML(aRecent[0])}</em> has become the artist you lean on most.</p>
+  `;
+}
+
+function escapeHTML(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
 
 // ─────────────── Drill-down panel ───────────────
 let _allTracks = [];

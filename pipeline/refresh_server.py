@@ -23,7 +23,11 @@ from urllib.parse import parse_qs
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 SYNC_SCRIPT = PROJECT_DIR / "run_sync.sh"
 DB_PATH = PROJECT_DIR / "data" / "music.db"
+AGGREGATES_DIR = PROJECT_DIR / "data" / "aggregates"
+ANTHROPIC_KEY_FILE = PROJECT_DIR / "credentials" / "anthropic.key"
 PORT = 8789
+
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 
 ALLOWED_ORIGINS = {
     "https://benjaminbellman.github.io",
@@ -136,6 +140,65 @@ def _pending_artists() -> list[dict]:
     return [dict(r) for r in rows]
 
 
+def _ask_claude(question: str) -> dict:
+    """Send the user's question to Claude with library aggregates as context."""
+    if not ANTHROPIC_KEY_FILE.exists():
+        return {
+            "error": (
+                "No Anthropic API key configured. Put your key in "
+                "`credentials/anthropic.key` (one line, no quotes) and try again."
+            )
+        }
+    api_key = ANTHROPIC_KEY_FILE.read_text().strip()
+    if not api_key:
+        return {"error": "credentials/anthropic.key is empty."}
+
+    # Build a compact context from the pre-computed aggregates.
+    context_names = [
+        "kpis", "top_artists", "country_plays", "genre_plays",
+        "genre_year", "year_artist", "country_year", "month_year",
+    ]
+    context_parts = []
+    for name in context_names:
+        p = AGGREGATES_DIR / f"{name}.json"
+        if p.exists():
+            context_parts.append(f"### {name}.json\n{p.read_text()}")
+    context = "\n\n".join(context_parts)
+
+    try:
+        import anthropic
+    except ImportError:
+        return {"error": "Python `anthropic` package not installed in .venv."}
+
+    client = anthropic.Anthropic(api_key=api_key)
+    system = (
+        "You are an analyst for the user's personal Apple Music library. "
+        "Use ONLY the JSON aggregates below to answer. Be concise, specific, "
+        "and quote actual numbers. If the question isn't answerable from the "
+        "data, say so plainly.\n\n"
+        "Notes on the data:\n"
+        "- All counts are lifetime plays as of the last sync.\n"
+        "- 'year' in year_artist / genre_year / country_year means the year "
+        "the song was ADDED to the library (proxy for 'when I was into it').\n"
+        "- Artists in top_artists.by_*_count already include multi-artist "
+        "credit: a song 'X & Y' contributes to both X and Y.\n"
+        "- country_plays uses the artist's country from a manual ledger.\n\n"
+        f"=== DATA ===\n{context}"
+    )
+
+    try:
+        message = client.messages.create(
+            model=CLAUDE_MODEL,
+            max_tokens=1024,
+            system=[{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}],
+            messages=[{"role": "user", "content": question}],
+        )
+        text = "".join(block.text for block in message.content if hasattr(block, "text"))
+        return {"answer": text, "model": message.model, "tokens_in": message.usage.input_tokens, "tokens_out": message.usage.output_tokens}
+    except Exception as e:  # noqa: BLE001
+        return {"error": f"Claude API error: {e}"}
+
+
 def _save_country(artist: str, country: str) -> None:
     iso = country.strip().upper()
     if len(iso) != 2 or not iso.isalpha():
@@ -150,6 +213,59 @@ def _save_country(artist: str, country: str) -> None:
         )
         conn.execute("DELETE FROM artist_country_pending WHERE artist = ?", (artist,))
     conn.close()
+
+
+def ask_page(question: str, answer_html: str, meta: str = "") -> str:
+    q = question.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Ask — Music Dashboard</title>
+<style>
+  :root {{ color-scheme: dark; --accent:#a78bfa; --bg:#0b0814; --surface:#120f1f; --surface2:#1a1532; --border:#2a2440; --fg:#ede8f7; --muted:#8a83a6; }}
+  body {{ font-family:-apple-system,system-ui,sans-serif; background:var(--bg); color:var(--fg); margin:0; padding:2.5rem 1rem; }}
+  main {{ max-width:760px; margin:0 auto; }}
+  h1 {{ font-size:1.6rem; margin:0 0 0.3rem;
+        background: linear-gradient(135deg,#a78bfa,#ec4899);
+        -webkit-background-clip: text; background-clip: text; color: transparent; }}
+  .q {{ color: var(--muted); margin-bottom: 1.5rem; font-size: 0.95rem; }}
+  .q em {{ color: var(--fg); font-style: normal; }}
+  .answer {{
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 10px;
+    padding: 1.2rem 1.4rem;
+    font-size: 1.04rem;
+    line-height: 1.65;
+    white-space: pre-wrap;
+  }}
+  .answer.err {{ border-left-color: #f87171; color: #fca5a5; }}
+  .meta {{ color: var(--muted); font-size: 0.78rem; margin-top: 0.9rem; }}
+  form {{ margin-top: 2rem; display: flex; gap: 0.5rem; }}
+  input[type=text] {{ flex:1; background:var(--surface2); border:1px solid var(--border); color:var(--fg); padding:0.6rem 0.9rem; border-radius:8px; font-family:inherit; font-size:0.95rem; }}
+  button {{ background:var(--accent); color:#0b0814; border:0; padding:0 1.1rem; border-radius:8px; font-weight:600; cursor:pointer; font-family:inherit; }}
+  a.back {{ display:inline-block; margin-top: 1.25rem; color: var(--muted); text-decoration: none; font-size: 0.85rem; }}
+  a.back:hover {{ color: var(--accent); }}
+</style>
+</head>
+<body>
+<main>
+  <h1>Ask</h1>
+  <div class="q"><em>{q}</em></div>
+  <div class="answer">{answer_html}</div>
+  {meta and f'<div class="meta">{meta}</div>' or ""}
+
+  <form action="/ask" method="GET">
+    <input type="text" name="q" placeholder="Ask another question…" autofocus />
+    <button type="submit">Ask →</button>
+  </form>
+  <a class="back" href="https://benjaminbellman.github.io/music-dashboard/#insights">← Back to dashboard</a>
+</main>
+</body>
+</html>
+"""
 
 
 ASSIGN_PAGE = """<!doctype html>
@@ -278,7 +394,9 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
 
     def do_GET(self) -> None:
-        path = self.path.rstrip("/")
+        from urllib.parse import urlparse, parse_qs
+        parsed = urlparse(self.path)
+        path = parsed.path.rstrip("/")
         if path == "/ping":
             self._send_json(200, {"ok": True})
         elif path in ("", "/refresh"):
@@ -290,6 +408,21 @@ class Handler(BaseHTTPRequestHandler):
                 self._send_json(200, _pending_artists())
             except Exception as e:  # noqa: BLE001
                 self._send_json(500, {"error": str(e)})
+        elif path == "/ask":
+            question = (parse_qs(parsed.query).get("q", [""])[0]).strip()
+            if not question:
+                self._send_html(ask_page("", "Type a question below to get started.", ""))
+                return
+            result = _ask_claude(question)
+            if "error" in result:
+                html = f'<span>{result["error"]}</span>'
+                self._send_html(ask_page(question, html).replace('class="answer"', 'class="answer err"'))
+            else:
+                # Simple safe rendering — Claude returns plain text; preserve newlines.
+                text = (result["answer"]
+                        .replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+                meta = f"{result['model']} · {result['tokens_in']} in / {result['tokens_out']} out tokens"
+                self._send_html(ask_page(question, text, meta))
         else:
             self._send_json(404, {"error": "not found"})
 
