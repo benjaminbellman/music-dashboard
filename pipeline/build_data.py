@@ -212,12 +212,19 @@ def country_year(conn) -> dict:
 
 
 def tracks(conn) -> list:
-    """Full track list for the searchable tracker page. Country lookup uses
-    primary_artist so collaborations get the lead artist's country."""
+    """Full track list for the searchable tracker + drill-downs.
+    Includes a `credits` array of every credited artist on each track so
+    the client can filter by artist regardless of who's listed first."""
+    credits_by_track: dict[str, list[str]] = {}
+    for r in conn.execute("SELECT track_id, artist FROM track_artists"):
+        credits_by_track.setdefault(r["track_id"], []).append(r["artist"])
+
     return [
         {
+            "id": r["track_id"],
             "song": r["song"],
             "artist": r["artist"],
+            "credits": credits_by_track.get(r["track_id"], []),
             "album": r["album"],
             "plays": r["plays"],
             "duration_sec": r["duration_sec"],
@@ -228,7 +235,7 @@ def tracks(conn) -> list:
         }
         for r in conn.execute(
             """
-            SELECT t.song, t.artist, t.album, t.plays, t.duration_sec,
+            SELECT t.track_id, t.song, t.artist, t.album, t.plays, t.duration_sec,
                    t.date_added, t.last_played, t.genre, ac.country
             FROM tracks_current t
             LEFT JOIN artist_country ac ON ac.artist = t.primary_artist

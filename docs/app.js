@@ -47,11 +47,13 @@ window.addEventListener("hashchange", routeFromHash);
 // ─────────────── Main ───────────────
 (async function main() {
   const data = await fetch("./data/aggregates.json", { cache: "no-cache" }).then(r => r.json());
+  _allTracks = data.tracks;
   document.getElementById("loading").hidden = true;
   document.querySelectorAll(".page").forEach(p => p.hidden = false);
   routeFromHash();
   document.getElementById("build-date").textContent = new Date().toISOString().slice(0, 10);
 
+  initDrillPanel();
   renderOverview(data);
   renderArtists(data);
   await renderCountries(data);
@@ -63,6 +65,90 @@ window.addEventListener("hashchange", routeFromHash);
 })().catch(err => {
   document.getElementById("loading").innerHTML = `<div style="color:#fca5a5">Failed to load: ${err.message}</div>`;
 });
+
+// ─────────────── Drill-down panel ───────────────
+let _allTracks = [];
+
+function initDrillPanel() {
+  document.getElementById("drill-close")?.addEventListener("click", closeDrill);
+  document.getElementById("drill-overlay")?.addEventListener("click", closeDrill);
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeDrill(); });
+}
+
+function closeDrill() {
+  document.getElementById("drill-panel")?.classList.remove("open");
+  document.getElementById("drill-overlay")?.classList.add("hidden");
+  document.getElementById("drill-overlay").hidden = true;
+}
+
+function openDrill({ title, subtitle, songs }) {
+  document.getElementById("drill-title").innerHTML = title;
+  document.getElementById("drill-sub").innerHTML = subtitle || "";
+  const totalPlays = songs.reduce((s, t) => s + (t.plays || 0), 0);
+  const artists = new Set(songs.flatMap(t => t.credits?.length ? t.credits : [t.artist])).size;
+  document.getElementById("drill-stats").innerHTML =
+    `<span><strong>${fmtInt(songs.length)}</strong> songs</span>` +
+    `<span><strong>${fmtInt(totalPlays)}</strong> plays</span>` +
+    `<span><strong>${fmtInt(artists)}</strong> artists</span>`;
+  const cols = [
+    { key: "song", label: "Song" },
+    { key: "artist", label: "Artist" },
+    { key: "plays", label: "Plays", num: true, render: fmtInt },
+    { key: "date_added", label: "Added", render: d => d ? d.slice(0, 7) : "" },
+  ];
+  songs.sort((a, b) => (b.plays || 0) - (a.plays || 0));
+  const body = document.getElementById("drill-body");
+  body.innerHTML = "";
+  body.appendChild(tableEl(songs, cols));
+  document.getElementById("drill-panel").classList.add("open");
+  const ov = document.getElementById("drill-overlay");
+  ov.hidden = false;
+  requestAnimationFrame(() => ov.classList.add("open"));
+}
+
+// Filter helpers
+function songsByCountry(cc) {
+  return _allTracks.filter(t => t.country === cc);
+}
+function songsByCreditedArtist(name) {
+  return _allTracks.filter(t => (t.credits?.includes(name)) || t.artist === name);
+}
+function songsByGenre(g) {
+  return _allTracks.filter(t => t.genre === g);
+}
+function songsByYearAdded(year) {
+  const y = String(year);
+  return _allTracks.filter(t => (t.date_added || "").startsWith(y));
+}
+
+function drillCountry(cc) {
+  openDrill({
+    title: `${flag(cc)} ${countryName(cc)}`,
+    subtitle: `Country drill — songs whose primary artist is from ${countryName(cc)}`,
+    songs: songsByCountry(cc),
+  });
+}
+function drillArtist(name) {
+  openDrill({
+    title: name,
+    subtitle: "Every song you've added by this artist (lead or featured)",
+    songs: songsByCreditedArtist(name),
+  });
+}
+function drillGenre(g) {
+  openDrill({
+    title: g,
+    subtitle: `All songs tagged ${g}`,
+    songs: songsByGenre(g),
+  });
+}
+function drillYearAdded(year) {
+  openDrill({
+    title: `${year}`,
+    subtitle: `Songs added to your library in ${year}`,
+    songs: songsByYearAdded(year),
+  });
+}
 
 // ─────────────── Refresh button ───────────────
 // The button is a plain <a> link to the local refresh-server's status page
@@ -124,7 +210,7 @@ function renderOverview(data) {
     { key: "plays", label: "Plays", num: true, render: fmtInt },
     { key: "artists", label: "Artists", num: true, render: fmtInt },
     { key: "songs", label: "Songs", num: true, render: fmtInt },
-  ]));
+  ], { onRowClick: r => drillCountry(r.country) }));
   mount("chart-countries-overview", plotBarH(topC, "plays", "country",
     d => `${flag(d.country)} ${countryName(d.country)}: ${d.plays.toLocaleString()} plays`,
     { xLabel: "Plays →", fill: "var(--accent)", yFmt: c => `${flag(c)} ${c}` }));
@@ -137,13 +223,13 @@ function renderArtists(data) {
     { key: "artist", label: "Artist" },
     { key: "country", label: "Country", render: c => `${flag(c)} ${countryName(c) || ""}` },
     { key: "count", label: "Songs", num: true, render: fmtInt },
-  ]));
+  ], { onRowClick: r => drillArtist(r.artist) }));
   mount("table-artists-plays", tableEl(data.top_artists.by_play_count, [
     { key: "rank", label: "#" },
     { key: "artist", label: "Artist" },
     { key: "country", label: "Country", render: c => `${flag(c)} ${countryName(c) || ""}` },
     { key: "plays", label: "Plays", num: true, render: fmtInt },
-  ]));
+  ], { onRowClick: r => drillArtist(r.artist) }));
 }
 
 // ─────────────── Countries ───────────────
@@ -195,21 +281,28 @@ async function renderCountries(data) {
     svg.append("path").attr("d", path({ type: "Sphere" })).attr("fill", "#110d22").attr("stroke", "var(--border)");
     const color = d3.scaleSequentialLog([1, maxPlays], d3.interpolatePurples);
 
-    svg.append("g").selectAll("path").data(countries).join("path")
+    const paths = svg.append("g").selectAll("path").data(countries).join("path")
       .attr("d", path)
+      .attr("class", d => {
+        const a2 = ISO_NUMERIC_TO_ALPHA2[String(d.id).padStart(3, "0")];
+        return a2 && byCountry.get(a2) ? "country-path has-data" : "country-path";
+      })
       .attr("fill", d => {
         const a2 = ISO_NUMERIC_TO_ALPHA2[String(d.id).padStart(3, "0")];
         const e = a2 && byCountry.get(a2);
         return e ? color(e.plays) : "#1a1532";
       })
       .attr("stroke", "#0b0814").attr("stroke-width", 0.3)
-      .append("title")
-      .text(d => {
+      .on("click", (_evt, d) => {
         const a2 = ISO_NUMERIC_TO_ALPHA2[String(d.id).padStart(3, "0")];
-        const e = a2 && byCountry.get(a2);
-        if (!e) return d.properties.name;
-        return `${flag(a2)} ${countryName(a2)}: ${fmtInt(e.plays)} plays · ${e.artists} artists · ${e.songs} songs`;
+        if (a2 && byCountry.get(a2)) drillCountry(a2);
       });
+    paths.append("title").text(d => {
+      const a2 = ISO_NUMERIC_TO_ALPHA2[String(d.id).padStart(3, "0")];
+      const e = a2 && byCountry.get(a2);
+      if (!e) return d.properties.name;
+      return `${flag(a2)} ${countryName(a2)}: ${fmtInt(e.plays)} plays · ${e.artists} artists · ${e.songs} songs\nClick to see all songs from this country`;
+    });
 
     document.getElementById("chart-world-map").appendChild(svg.node());
   } catch (err) {
@@ -222,7 +315,7 @@ async function renderCountries(data) {
     { key: "plays", label: "Plays", num: true, render: fmtInt },
     { key: "artists", label: "Artists", num: true, render: fmtInt },
     { key: "songs", label: "Songs", num: true, render: fmtInt },
-  ], { sortKey: "plays", sortDir: -1 }));
+  ], { sortKey: "plays", sortDir: -1, onRowClick: r => drillCountry(r.country) }));
 }
 
 // ─────────────── Timeline ───────────────
@@ -249,14 +342,16 @@ function renderTimeline(data) {
     ]
   }));
 
-  // Artist of the year tiles
+  // Artist of the year tiles — click to drill into all songs added that year
   const yearArtists = document.getElementById("year-artists");
   for (const ya of data.year_artist) {
     const d = document.createElement("div");
-    d.className = "year-tile";
+    d.className = "year-tile clickable";
+    d.title = `Click to see every song added in ${ya.year}`;
     d.innerHTML = `<div class="year-label">${ya.year}</div>
       <div class="year-artist">${ya.artist}</div>
       <div class="year-plays">${fmtInt(ya.plays)} plays</div>`;
+    d.addEventListener("click", () => drillYearAdded(ya.year));
     yearArtists.appendChild(d);
   }
 
@@ -297,7 +392,7 @@ function renderGenres(data) {
     { key: "genre", label: "Genre" },
     { key: "plays", label: "Plays", num: true, render: fmtInt },
     { key: "songs", label: "Songs", num: true, render: fmtInt },
-  ], { sortKey: "plays", sortDir: -1 }));
+  ], { sortKey: "plays", sortDir: -1, onRowClick: r => drillGenre(r.genre) }));
 }
 
 // ─────────────── Tracker ───────────────
@@ -382,7 +477,7 @@ function plotBarH(data, xKey, yKey, titleFn, { xLabel, fill = "var(--accent)", y
 }
 
 function tableEl(rows, cols, opts = {}) {
-  const { sortKey, sortDir = -1, onSort, page = 0, pageSize, onPage } = opts;
+  const { sortKey, sortDir = -1, onSort, page = 0, pageSize, onPage, onRowClick } = opts;
   const total = rows.length;
   const paged = pageSize ? rows.slice(page * pageSize, (page + 1) * pageSize) : rows;
   const table = document.createElement("table");
@@ -408,6 +503,10 @@ function tableEl(rows, cols, opts = {}) {
   const tb = document.createElement("tbody");
   for (const r of paged) {
     const tr = document.createElement("tr");
+    if (onRowClick) {
+      tr.classList.add("row-clickable");
+      tr.addEventListener("click", () => onRowClick(r));
+    }
     for (const c of cols) {
       const td = document.createElement("td");
       const val = r[c.key];
