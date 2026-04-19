@@ -399,35 +399,31 @@ function renderTimeline(data) {
     }));
   }
 
-  // Genres over time — stacked area
+  // Genres over time — stacked area (2012+), with clickable legend.
   if (data.genre_year?.length) {
-    const gy = data.genre_year;
+    const START_YEAR = 2012;
+    const gy = data.genre_year.filter(r => r.year >= START_YEAR);
     const years = [...new Set(gy.map(r => r.year))].sort();
-    const genres = [...new Set(gy.map(r => r.genre))];
-    // Stable order: most-played first (Other last)
     const totals = {};
     for (const r of gy) totals[r.genre] = (totals[r.genre] || 0) + r.plays;
-    const domain = genres.sort((a, b) => a === "Other" ? 1 : b === "Other" ? -1 : totals[b] - totals[a]);
+    const domain = [...new Set(gy.map(r => r.genre))]
+      .sort((a, b) => a === "Other" ? 1 : b === "Other" ? -1 : totals[b] - totals[a]);
+    const palette = ["#a78bfa", "#ec4899", "#c4b5fd", "#f472b6", "#8b5cf6",
+                     "#d8b4fe", "#fb7185", "#7c3aed", "#4b4564"];
+    const colorFor = g => palette[domain.indexOf(g)] || palette[palette.length - 1];
 
-    const width = Math.max(1400, 60 + 20 + years.length * 60);
+    // Chart now sits in half the viewport, so no ultra-wide stretch.
     mount("chart-genre-year", Plot.plot({
-      marginLeft: 70, marginTop: 20, marginRight: 140, marginBottom: 40,
-      width,
-      height: 540,
+      marginLeft: 70, marginTop: 20, marginRight: 20, marginBottom: 40,
+      width: Math.max(640, years.length * 48),
+      height: 460,
       x: { label: "Year added", tickFormat: d3.format("d"), ticks: years },
       y: { label: "Plays", grid: true, tickFormat: d3.format(",") },
-      color: {
-        legend: true,
-        domain,
-        range: ["#a78bfa", "#ec4899", "#c4b5fd", "#f472b6", "#8b5cf6",
-                "#d8b4fe", "#fb7185", "#7c3aed", "#4b4564"],
-      },
+      color: { domain, range: palette.slice(0, domain.length), legend: false },
       style: { background: "transparent", color: "var(--fg)" },
       marks: [
         Plot.areaY(gy, {
-          x: "year",
-          y: "plays",
-          fill: "genre",
+          x: "year", y: "plays", fill: "genre",
           order: domain,
           curve: "monotone-x",
           tip: true,
@@ -436,7 +432,60 @@ function renderTimeline(data) {
         Plot.ruleY([0], { stroke: "var(--border)" }),
       ],
     }));
+
+    // Custom clickable legend (replacing Plot's built-in non-clickable one)
+    const legend = document.getElementById("legend-genre-year");
+    if (legend) {
+      legend.innerHTML = domain.map(g => `
+        <div class="pie-legend-item${g === "Other" ? "" : " clickable"}" data-genre="${String(g).replace(/"/g, "&quot;")}">
+          <span class="pie-swatch" style="background:${colorFor(g)}"></span>
+          <span class="pie-name" title="${String(g).replace(/"/g, "&quot;")}">${g}</span>
+          <span class="pie-pct">${fmtInt(totals[g])}</span>
+        </div>
+      `).join("");
+      legend.querySelectorAll(".clickable").forEach(el =>
+        el.addEventListener("click", () => drillGenre(el.dataset.genre))
+      );
+    }
+
+    // Top 5 genres per year tiles (right-hand column)
+    renderYearGenreTiles(START_YEAR);
   }
+}
+
+function renderYearGenreTiles(startYear = 2012, topN = 5) {
+  const container = document.getElementById("genre-year-tiles");
+  if (!container) return;
+  // Aggregate tracks by (year_added, genre)
+  const byYear = new Map();
+  for (const t of _allTracks) {
+    if (!t.date_added) continue;
+    const y = +t.date_added.slice(0, 4);
+    if (y < startYear) continue;
+    const g = t.genre || "Unspecified";
+    if (!byYear.has(y)) byYear.set(y, new Map());
+    const m = byYear.get(y);
+    m.set(g, (m.get(g) || 0) + (t.plays || 0));
+  }
+  const years = [...byYear.keys()].sort((a, b) => b - a);   // newest first
+  container.innerHTML = years.map(y => {
+    const top = [...byYear.get(y).entries()]
+      .sort((a, b) => b[1] - a[1]).slice(0, topN);
+    return `
+      <div class="year-genres-card">
+        <div class="year-label">${y}</div>
+        ${top.map(([g, plays]) => `
+          <div class="year-genre-row" data-genre="${String(g).replace(/"/g, "&quot;")}">
+            <span class="genre-name" title="${String(g).replace(/"/g, "&quot;")}">${g}</span>
+            <span class="genre-plays">${fmtInt(plays)}</span>
+          </div>
+        `).join("")}
+      </div>
+    `;
+  }).join("");
+  container.querySelectorAll(".year-genre-row").forEach(el =>
+    el.addEventListener("click", () => drillGenre(el.dataset.genre))
+  );
 }
 
 // ─────────────── Genres ───────────────
