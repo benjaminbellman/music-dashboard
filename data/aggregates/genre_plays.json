@@ -1,22 +1,22 @@
 [
   {
     "genre": "Pop",
-    "plays": 34688,
+    "plays": 34690,
     "songs": 708
   },
   {
     "genre": "Dance",
-    "plays": 29162,
+    "plays": 29171,
     "songs": 481
   },
   {
     "genre": "Electronic",
-    "plays": 22837,
-    "songs": 386
+    "plays": 22838,
+    "songs": 387
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17858,
+    "plays": 17861,
     "songs": 280
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11488,
+    "plays": 11492,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10624,
+    "plays": 10626,
     "songs": 281
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "genre": "Disco",
-    "plays": 3753,
+    "plays": 3754,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3704,
+    "plays": 3706,
     "songs": 63
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3218,
+    "plays": 3219,
     "songs": 44
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2693,
+    "plays": 2695,
     "songs": 69
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1520,
+    "plays": 1521,
     "songs": 28
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "genre": "Country",
-    "plays": 1072,
+    "plays": 1074,
     "songs": 19
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "genre": "Vaporwave",
-    "plays": 716,
+    "plays": 719,
     "songs": 8
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "genre": "Future House",
-    "plays": 68,
+    "plays": 70,
     "songs": 1
   },
   {
@@ -555,6 +555,11 @@
     "songs": 1
   },
   {
+    "genre": "Ambient",
+    "plays": 13,
+    "songs": 2
+  },
+  {
     "genre": "Instrumental",
     "plays": 13,
     "songs": 1
@@ -563,11 +568,6 @@
     "genre": "Rap/R&B",
     "plays": 13,
     "songs": 1
-  },
-  {
-    "genre": "Ambient",
-    "plays": 12,
-    "songs": 2
   },
   {
     "genre": "Musiques du monde",
