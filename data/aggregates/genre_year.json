@@ -427,7 +427,7 @@
   {
     "year": 2017,
     "genre": "Other",
-    "plays": 4435
+    "plays": 4436
   },
   {
     "year": 2017,
@@ -472,7 +472,7 @@
   {
     "year": 2018,
     "genre": "Other",
-    "plays": 4514
+    "plays": 4515
   },
   {
     "year": 2018,
@@ -627,7 +627,7 @@
   {
     "year": 2021,
     "genre": "Variete Francaise",
-    "plays": 2510
+    "plays": 2511
   },
   {
     "year": 2022,
@@ -737,7 +737,7 @@
   {
     "year": 2024,
     "genre": "Other",
-    "plays": 3078
+    "plays": 3079
   },
   {
     "year": 2024,
@@ -812,12 +812,12 @@
   {
     "year": 2026,
     "genre": "Electronic",
-    "plays": 386
+    "plays": 403
   },
   {
     "year": 2026,
     "genre": "Other",
-    "plays": 393
+    "plays": 394
   },
   {
     "year": 2026,
@@ -832,11 +832,11 @@
   {
     "year": 2026,
     "genre": "Soft Rock",
-    "plays": 17
+    "plays": 23
   },
   {
     "year": 2026,
     "genre": "Variete Francaise",
-    "plays": 169
+    "plays": 170
   }
 ]
