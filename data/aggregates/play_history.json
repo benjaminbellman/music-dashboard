@@ -22,6 +22,246 @@
     }
   ],
   "windows": {
+    "3d": {
+      "days": 3,
+      "total_plays": 570,
+      "top_artists": [
+        {
+          "artist": "Roudoudou",
+          "plays": 132
+        },
+        {
+          "artist": "Luther Vandross",
+          "plays": 96
+        },
+        {
+          "artist": "Cour De Recré",
+          "plays": 55
+        },
+        {
+          "artist": "Calvin Harris",
+          "plays": 50
+        },
+        {
+          "artist": "John Newman",
+          "plays": 50
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 41
+        },
+        {
+          "artist": "Supermode",
+          "plays": 40
+        },
+        {
+          "artist": "Maya",
+          "plays": 40
+        },
+        {
+          "artist": "442oons",
+          "plays": 11
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 11
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 11
+        },
+        {
+          "artist": "Donna Summer",
+          "plays": 11
+        },
+        {
+          "artist": "Hunter",
+          "plays": 11
+        },
+        {
+          "artist": "Rucka Rucka Ali",
+          "plays": 10
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 10
+        },
+        {
+          "artist": "Tez Cadey",
+          "plays": 10
+        },
+        {
+          "artist": "Tony Igy",
+          "plays": 10
+        },
+        {
+          "artist": "Basshunter",
+          "plays": 10
+        },
+        {
+          "artist": "Claude François",
+          "plays": 10
+        },
+        {
+          "artist": "Disclosure",
+          "plays": 1
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Electronic",
+          "plays": 187
+        },
+        {
+          "genre": "Dance",
+          "plays": 131
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 96
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 92
+        },
+        {
+          "genre": "Comedy",
+          "plays": 21
+        },
+        {
+          "genre": "Britpop",
+          "plays": 11
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 11
+        },
+        {
+          "genre": "Disco",
+          "plays": 11
+        },
+        {
+          "genre": "House",
+          "plays": 10
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
+          "plays": 132,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Never Too Much",
+          "artist": "Luther Vandross",
+          "plays": 96,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "GiscardPunk",
+          "artist": "Cour De Recré",
+          "plays": 55,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Blame",
+          "artist": "Calvin Harris & John Newman",
+          "plays": 50,
+          "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 41,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 40,
+          "genre": "Dance"
+        },
+        {
+          "song": "Lait De Coco ( Les Yeux Orange Edit)",
+          "artist": "Maya",
+          "plays": 40,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Who Won The League",
+          "artist": "442oons",
+          "plays": 11,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 11,
+          "genre": "Britpop"
+        },
+        {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 11,
+          "genre": "Vaporwave"
+        },
+        {
+          "song": "I Feel Love",
+          "artist": "Donna Summer",
+          "plays": 11,
+          "genre": "Disco"
+        },
+        {
+          "song": "Lady",
+          "artist": "Hunter",
+          "plays": 11,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "We're All Asian (feat. DJ Not Nice)",
+          "artist": "Rucka Rucka Ali",
+          "plays": 10,
+          "genre": "Comedy"
+        },
+        {
+          "song": "L'amour",
+          "artist": "Bon Entendeur & Moulidgi",
+          "plays": 10,
+          "genre": "Dance"
+        },
+        {
+          "song": "Seve (Original Mix)",
+          "artist": "Tez Cadey",
+          "plays": 10,
+          "genre": "Dance"
+        },
+        {
+          "song": "Astronomia (Coffin Versiion)",
+          "artist": "Tony Igy",
+          "plays": 10,
+          "genre": "Dance"
+        },
+        {
+          "song": "Now You're Gone",
+          "artist": "Basshunter",
+          "plays": 10,
+          "genre": "Dance"
+        },
+        {
+          "song": "Magnolias for Ever (Fred Falke Remix)",
+          "artist": "Claude François & Fred Falke",
+          "plays": 10,
+          "genre": "House"
+        },
+        {
+          "song": "Tondo",
+          "artist": "Disclosure",
+          "plays": 1,
+          "genre": "Dance"
+        }
+      ]
+    },
     "14d": {
       "days": 14,
       "total_plays": 646,

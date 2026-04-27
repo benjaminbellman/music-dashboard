@@ -149,7 +149,7 @@ function renderTrends(data) {
   }
 
   function labelFor(w) {
-    return ({ "14d": "2 weeks", "30d": "30 days", "90d": "3 months", "180d": "6 months", "365d": "year" })[w] || w;
+    return ({ "3d": "3 days", "14d": "2 weeks", "30d": "30 days", "90d": "3 months", "180d": "6 months", "365d": "year" })[w] || w;
   }
 
   function paint() {

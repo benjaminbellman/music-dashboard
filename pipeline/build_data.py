@@ -347,7 +347,7 @@ def play_history(conn) -> dict:
     today = dt.date.fromisoformat(latest)
 
     windows = {}
-    for label, days in [("14d", 14), ("30d", 30), ("90d", 90), ("180d", 180), ("365d", 365)]:
+    for label, days in [("3d", 3), ("14d", 14), ("30d", 30), ("90d", 90), ("180d", 180), ("365d", 365)]:
         cutoff = (today - dt.timedelta(days=days)).isoformat()
         artist_plays: Counter = Counter()
         genre_plays: Counter = Counter()
