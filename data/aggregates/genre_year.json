@@ -142,7 +142,7 @@
   {
     "year": 2010,
     "genre": "Other",
-    "plays": 381
+    "plays": 391
   },
   {
     "year": 2010,
@@ -232,7 +232,7 @@
   {
     "year": 2013,
     "genre": "Dance",
-    "plays": 3005
+    "plays": 3015
   },
   {
     "year": 2013,
@@ -322,7 +322,7 @@
   {
     "year": 2015,
     "genre": "Dance",
-    "plays": 2027
+    "plays": 2037
   },
   {
     "year": 2015,
@@ -427,7 +427,7 @@
   {
     "year": 2017,
     "genre": "Other",
-    "plays": 4436
+    "plays": 4446
   },
   {
     "year": 2017,
@@ -472,7 +472,7 @@
   {
     "year": 2018,
     "genre": "Other",
-    "plays": 4515
+    "plays": 4525
   },
   {
     "year": 2018,
@@ -592,7 +592,7 @@
   {
     "year": 2021,
     "genre": "Dance",
-    "plays": 5528
+    "plays": 5548
   },
   {
     "year": 2021,
@@ -627,7 +627,7 @@
   {
     "year": 2021,
     "genre": "Variete Francaise",
-    "plays": 2511
+    "plays": 2521
   },
   {
     "year": 2022,
@@ -737,7 +737,7 @@
   {
     "year": 2024,
     "genre": "Other",
-    "plays": 3079
+    "plays": 3089
   },
   {
     "year": 2024,
@@ -782,7 +782,7 @@
   {
     "year": 2025,
     "genre": "Other",
-    "plays": 1880
+    "plays": 1890
   },
   {
     "year": 2025,
@@ -807,17 +807,17 @@
   {
     "year": 2026,
     "genre": "Dance",
-    "plays": 591
+    "plays": 681
   },
   {
     "year": 2026,
     "genre": "Electronic",
-    "plays": 403
+    "plays": 573
   },
   {
     "year": 2026,
     "genre": "Other",
-    "plays": 394
+    "plays": 404
   },
   {
     "year": 2026,
@@ -832,11 +832,11 @@
   {
     "year": 2026,
     "genre": "Soft Rock",
-    "plays": 23
+    "plays": 113
   },
   {
     "year": 2026,
     "genre": "Variete Francaise",
-    "plays": 170
+    "plays": 250
   }
 ]

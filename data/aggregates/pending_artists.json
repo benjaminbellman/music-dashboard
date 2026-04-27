@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "artist": "MotorBass",
+    "attempts": 2,
+    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
+  },
+  {
+    "artist": "Préface",
+    "attempts": 2,
+    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
+  }
+]

@@ -311,7 +311,7 @@
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3522,
+      "plays": 3532,
       "country": "FR"
     },
     {
@@ -347,7 +347,7 @@
     {
       "rank": 8,
       "artist": "Baddiel Skinner",
-      "plays": 1590,
+      "plays": 1600,
       "country": "GB"
     },
     {
@@ -424,20 +424,20 @@
     },
     {
       "rank": 21,
+      "artist": "442oons",
+      "plays": 909,
+      "country": "GB"
+    },
+    {
+      "rank": 22,
       "artist": "David Guetta",
       "plays": 908,
       "country": "FR"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "artist": "Queen",
       "plays": 900,
-      "country": "GB"
-    },
-    {
-      "rank": 23,
-      "artist": "442oons",
-      "plays": 899,
       "country": "GB"
     },
     {
@@ -454,27 +454,27 @@
     },
     {
       "rank": 26,
+      "artist": "Calvin Harris",
+      "plays": 844,
+      "country": "GB"
+    },
+    {
+      "rank": 27,
       "artist": "Night Tempo",
       "plays": 818,
       "country": "KR"
     },
     {
-      "rank": 27,
-      "artist": "Synapson",
-      "plays": 802,
-      "country": "FR"
-    },
-    {
       "rank": 28,
-      "artist": "Calvin Harris",
-      "plays": 794,
-      "country": "GB"
+      "artist": "Rucka Rucka Ali",
+      "plays": 803,
+      "country": "US"
     },
     {
       "rank": 29,
-      "artist": "Rucka Rucka Ali",
-      "plays": 793,
-      "country": "US"
+      "artist": "Synapson",
+      "plays": 802,
+      "country": "FR"
     },
     {
       "rank": 30,
