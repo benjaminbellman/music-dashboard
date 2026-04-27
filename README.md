@@ -140,3 +140,41 @@ Cadence: Mondays 9:00 local.
 - **MusicBrainz rate-limited**: `enrich.py` sleeps 1.05s between calls per their policy (<https://musicbrainz.org/doc/MusicBrainz_API/Rate_Limiting>).
 - **Launchd can't talk to Music**: launchd runs under a different TCC context than Terminal. Grant Automation permission to `/bin/bash` in **System Settings → Privacy & Security → Automation**.
 - **Dashboard shows old data**: make sure `run_sync.sh` committed and pushed. GitHub Actions deploys within ~2 minutes.
+
+### Refresh button broken / sync silently fails after a macOS update
+
+**Symptoms** (any of these):
+- Clicking Refresh in the dashboard does nothing, or browser says "can't connect to 127.0.0.1:8789".
+- `curl http://127.0.0.1:8789/ping` times out / refuses connection.
+- `launchctl list | grep musicdashboardrefresh` shows a non-zero exit status (commonly `78`) and a `-` in the PID column.
+- Running anything in `pipeline/` directly fails with `No such file or directory: .venv/bin/python`.
+- `ls -la /Library/Developer/CommandLineTools/usr/bin/python3` reports the file doesn't exist.
+
+**Root cause:** the macOS Command Line Tools (or a full macOS upgrade) replaced `/Library/Developer/CommandLineTools/usr/bin/python3`. The project's `.venv/bin/python` is a symlink chain that ultimately pointed at that file → broken venv → every Python entry point in the project fails → launchd can't start the refresh-server, and `run_sync.sh` would silently exit if it ever ran.
+
+**Fix recipe** (re-runnable, takes ~30s):
+
+```sh
+cd "/Users/benjaminbellman/Music Dashboard"
+
+# 1. Rebuild the venv against the macOS-shipped python (more update-stable than CLT's).
+rm -rf .venv
+/usr/bin/python3 -m venv .venv
+.venv/bin/pip install --upgrade pip
+.venv/bin/pip install musicbrainzngs openpyxl anthropic
+
+# 2. Sanity check.
+.venv/bin/python -c "import anthropic, musicbrainzngs, openpyxl; print('OK')"
+
+# 3. Restart the always-on refresh server.
+launchctl unload ~/Library/LaunchAgents/com.benjamin.musicdashboardrefresh.plist
+launchctl load   ~/Library/LaunchAgents/com.benjamin.musicdashboardrefresh.plist
+
+# 4. Verify.
+sleep 2 && curl -s http://127.0.0.1:8789/ping     # → {"ok": true}
+launchctl list | grep musicdashboardrefresh       # → <PID>  0  com.benjamin.musicdashboardrefresh
+```
+
+**Why `/usr/bin/python3` and not Homebrew/CLT/pyenv:** `/usr/bin/python3` ships with macOS itself and survives both Xcode/CLT updates and most macOS point updates. It's the most stable target for a long-lived launchd job. If a major macOS upgrade ever does break it too, swap in whichever python3 is freshest on the system — the dependency list is small and the venv rebuild is cheap.
+
+**Note for whoever (Claude or otherwise) is looking at this in the future:** if the user reports "refresh button broke" or "the dashboard isn't updating," check `launchctl list | grep musicdashboard` and `ls -la /Library/Developer/CommandLineTools/usr/bin/python3` *first*. A broken CLT python is by far the most common single cause of total pipeline failure on this project. The fix above is idempotent and safe to re-run.
