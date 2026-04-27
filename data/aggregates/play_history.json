@@ -19,24 +19,28 @@
     {
       "date": "2026-04-26",
       "plays": 541
+    },
+    {
+      "date": "2026-04-27",
+      "plays": 1
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 570,
+      "total_plays": 542,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 132
+          "plays": 120
         },
         {
           "artist": "Luther Vandross",
-          "plays": 96
+          "plays": 90
         },
         {
           "artist": "Cour De Recré",
-          "plays": 55
+          "plays": 50
         },
         {
           "artist": "Calvin Harris",
@@ -47,11 +51,11 @@
           "plays": 50
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 41
+          "artist": "Supermode",
+          "plays": 40
         },
         {
-          "artist": "Supermode",
+          "artist": "France Football Anthem",
           "plays": 40
         },
         {
@@ -60,23 +64,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 11
-        },
-        {
-          "artist": "Baddiel Skinner",
-          "plays": 11
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 11
-        },
-        {
-          "artist": "Donna Summer",
-          "plays": 11
-        },
-        {
-          "artist": "Hunter",
-          "plays": 11
+          "plays": 10
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -88,6 +76,18 @@
         },
         {
           "artist": "Tez Cadey",
+          "plays": 10
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 10
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 10
+        },
+        {
+          "artist": "Donna Summer",
           "plays": 10
         },
         {
@@ -103,42 +103,46 @@
           "plays": 10
         },
         {
+          "artist": "Hunter",
+          "plays": 10
+        },
+        {
           "artist": "Disclosure",
-          "plays": 1
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 187
+          "plays": 170
         },
         {
           "genre": "Dance",
-          "plays": 131
+          "plays": 132
         },
         {
           "genre": "Soft Rock",
-          "plays": 96
+          "plays": 90
         },
         {
           "genre": "Variete Francaise",
-          "plays": 92
+          "plays": 90
         },
         {
           "genre": "Comedy",
-          "plays": 21
+          "plays": 20
         },
         {
           "genre": "Britpop",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Vaporwave",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Disco",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "House",
@@ -149,19 +153,19 @@
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 132,
+          "plays": 120,
           "genre": "Electronic"
         },
         {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
-          "plays": 96,
+          "plays": 90,
           "genre": "Soft Rock"
         },
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 55,
+          "plays": 50,
           "genre": "Electronic"
         },
         {
@@ -171,16 +175,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 41,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Tell Me Why",
           "artist": "Supermode",
           "plays": 40,
           "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 40,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -191,32 +195,8 @@
         {
           "song": "Who Won The League",
           "artist": "442oons",
-          "plays": 11,
+          "plays": 10,
           "genre": "Comedy"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 11,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 11,
-          "genre": "Disco"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 11,
-          "genre": "Variete Francaise"
         },
         {
           "song": "We're All Asian (feat. DJ Not Nice)",
@@ -237,6 +217,24 @@
           "genre": "Dance"
         },
         {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 10,
+          "genre": "Britpop"
+        },
+        {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 10,
+          "genre": "Vaporwave"
+        },
+        {
+          "song": "I Feel Love",
+          "artist": "Donna Summer",
+          "plays": 10,
+          "genre": "Disco"
+        },
+        {
           "song": "Astronomia (Coffin Versiion)",
           "artist": "Tony Igy",
           "plays": 10,
@@ -255,16 +253,22 @@
           "genre": "House"
         },
         {
+          "song": "Lady",
+          "artist": "Hunter",
+          "plays": 10,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Tondo",
           "artist": "Disclosure",
-          "plays": 1,
+          "plays": 2,
           "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 646,
+      "total_plays": 647,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -363,8 +367,8 @@
           "plays": 3
         },
         {
-          "artist": "The Weeknd",
-          "plays": 2
+          "artist": "Disclosure",
+          "plays": 3
         }
       ],
       "top_genres": [
@@ -374,7 +378,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 143
+          "plays": 144
         },
         {
           "genre": "Variete Francaise",
@@ -583,6 +587,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Tondo",
+          "artist": "Disclosure",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
           "song": "Veridis Quo x In Your Eyes",
           "artist": "Daft Punk & The Weeknd",
           "plays": 2,
@@ -593,18 +603,12 @@
           "artist": "DJ Antoine & Timati",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Me and Julio Down by the Schoolyard",
-          "artist": "Paul Simon",
-          "plays": 2,
-          "genre": "Oldies"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 646,
+      "total_plays": 647,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -703,8 +707,8 @@
           "plays": 3
         },
         {
-          "artist": "The Weeknd",
-          "plays": 2
+          "artist": "Disclosure",
+          "plays": 3
         }
       ],
       "top_genres": [
@@ -714,7 +718,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 143
+          "plays": 144
         },
         {
           "genre": "Variete Francaise",
@@ -923,6 +927,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Tondo",
+          "artist": "Disclosure",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
           "song": "Veridis Quo x In Your Eyes",
           "artist": "Daft Punk & The Weeknd",
           "plays": 2,
@@ -933,18 +943,12 @@
           "artist": "DJ Antoine & Timati",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Me and Julio Down by the Schoolyard",
-          "artist": "Paul Simon",
-          "plays": 2,
-          "genre": "Oldies"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 646,
+      "total_plays": 647,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1043,8 +1047,8 @@
           "plays": 3
         },
         {
-          "artist": "The Weeknd",
-          "plays": 2
+          "artist": "Disclosure",
+          "plays": 3
         }
       ],
       "top_genres": [
@@ -1054,7 +1058,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 143
+          "plays": 144
         },
         {
           "genre": "Variete Francaise",
@@ -1263,6 +1267,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Tondo",
+          "artist": "Disclosure",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
           "song": "Veridis Quo x In Your Eyes",
           "artist": "Daft Punk & The Weeknd",
           "plays": 2,
@@ -1273,18 +1283,12 @@
           "artist": "DJ Antoine & Timati",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Me and Julio Down by the Schoolyard",
-          "artist": "Paul Simon",
-          "plays": 2,
-          "genre": "Oldies"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 646,
+      "total_plays": 647,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1383,8 +1387,8 @@
           "plays": 3
         },
         {
-          "artist": "The Weeknd",
-          "plays": 2
+          "artist": "Disclosure",
+          "plays": 3
         }
       ],
       "top_genres": [
@@ -1394,7 +1398,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 143
+          "plays": 144
         },
         {
           "genre": "Variete Francaise",
@@ -1603,6 +1607,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Tondo",
+          "artist": "Disclosure",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
           "song": "Veridis Quo x In Your Eyes",
           "artist": "Daft Punk & The Weeknd",
           "plays": 2,
@@ -1613,18 +1623,12 @@
           "artist": "DJ Antoine & Timati",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Me and Julio Down by the Schoolyard",
-          "artist": "Paul Simon",
-          "plays": 2,
-          "genre": "Oldies"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 646,
+      "total_plays": 647,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1723,8 +1727,8 @@
           "plays": 3
         },
         {
-          "artist": "The Weeknd",
-          "plays": 2
+          "artist": "Disclosure",
+          "plays": 3
         }
       ],
       "top_genres": [
@@ -1734,7 +1738,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 143
+          "plays": 144
         },
         {
           "genre": "Variete Francaise",
@@ -1943,6 +1947,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Tondo",
+          "artist": "Disclosure",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
           "song": "Veridis Quo x In Your Eyes",
           "artist": "Daft Punk & The Weeknd",
           "plays": 2,
@@ -1953,12 +1963,6 @@
           "artist": "DJ Antoine & Timati",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Me and Julio Down by the Schoolyard",
-          "artist": "Paul Simon",
-          "plays": 2,
-          "genre": "Oldies"
         }
       ]
     }
@@ -2081,6 +2085,11 @@
     },
     {
       "date": "2026-04-26",
+      "id": "4aed676cd7a57e60",
+      "plays": 1
+    },
+    {
+      "date": "2026-04-27",
       "id": "4aed676cd7a57e60",
       "plays": 1
     },
@@ -2286,6 +2295,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-04-26",
-  "snapshot_count": 6
+  "latest_snapshot": "2026-04-27",
+  "snapshot_count": 7
 }
