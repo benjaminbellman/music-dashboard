@@ -91,6 +91,97 @@ function renderInsights(data) {
       if (input) { input.value = a.textContent.trim(); input.focus(); }
     });
   });
+
+  renderTrends(data);
+}
+
+// ─────────────── Recent listening trends ───────────────
+function renderTrends(data) {
+  const ph = data.play_history;
+  const trendsSub = document.getElementById("trends-sub");
+  const chartEl = document.getElementById("chart-plays-trend");
+  const artistsEl = document.getElementById("trend-artists");
+  const genresEl = document.getElementById("trend-genres");
+  const tracksEl = document.getElementById("trend-tracks");
+  const toolbar = document.getElementById("trend-windows");
+  if (!toolbar || !chartEl) return;
+
+  if (!ph || !ph.snapshot_count || ph.snapshot_count < 2) {
+    trendsSub.textContent = "Trend data starts collecting today. Come back after the next sync to see plays-since-last-sync here.";
+    chartEl.innerHTML = '<div class="sub" style="padding:1.25rem;text-align:center;">Need at least two snapshots to compute deltas.</div>';
+    [artistsEl, genresEl, tracksEl].forEach(e => e.innerHTML = '<div class="sub" style="padding:1rem">—</div>');
+    return;
+  }
+
+  trendsSub.innerHTML = `${ph.snapshot_count} snapshots so far · first <em>${ph.first_snapshot}</em> · latest <em>${ph.latest_snapshot}</em>. Each sync pins the play counter; deltas are what you've actually been listening to since the project started.`;
+
+  const state = { window: "14d" };
+
+  function paint() {
+    // Highlight active pill
+    toolbar.querySelectorAll(".pill-btn").forEach(b => {
+      b.classList.toggle("active", b.dataset.window === state.window);
+    });
+
+    const win = ph.windows[state.window] || { top_artists: [], top_genres: [], top_tracks: [], days: 0, total_plays: 0 };
+
+    // Filter daily timeline to the window
+    const cutoff = new Date(ph.latest_snapshot);
+    cutoff.setDate(cutoff.getDate() - win.days);
+    const cutoffISO = cutoff.toISOString().slice(0, 10);
+    const dailyInWindow = ph.daily.filter(x => x.date > cutoffISO);
+
+    chartEl.innerHTML = "";
+    if (!dailyInWindow.length) {
+      chartEl.innerHTML = `<div class="sub" style="padding:1.25rem;text-align:center;">No plays recorded in the last ${win.days} days.</div>`;
+    } else {
+      chartEl.appendChild(Plot.plot({
+        marginLeft: 50, marginTop: 16, marginRight: 16, marginBottom: 32,
+        height: 220,
+        x: { label: null, type: "band", tickFormat: d => d.slice(5) },
+        y: { label: "plays ↑", grid: true, tickFormat: d3.format(",") },
+        style: { background: "transparent", color: "var(--fg)" },
+        marks: [
+          Plot.barY(dailyInWindow, {
+            x: "date", y: "plays",
+            fill: "var(--accent)",
+            tip: true, title: d => `${d.date}: ${d.plays} plays since previous sync`,
+          }),
+          Plot.ruleY([0], { stroke: "var(--border)" }),
+        ],
+      }));
+    }
+
+    // Top tables (clickable)
+    const artistRows = win.top_artists.map((r, i) => ({ rank: i + 1, ...r }));
+    const genreRows  = win.top_genres.map((r, i) => ({ rank: i + 1, ...r }));
+    const trackRows  = win.top_tracks.map((r, i) => ({ rank: i + 1, ...r }));
+
+    mount("trend-artists", tableEl(artistRows, [
+      { key: "rank", label: "#", num: true },
+      { key: "artist", label: "Artist" },
+      { key: "plays", label: "Plays", num: true, render: fmtInt },
+    ], { onRowClick: r => drillArtist(r.artist) }));
+
+    mount("trend-genres", tableEl(genreRows, [
+      { key: "rank", label: "#", num: true },
+      { key: "genre", label: "Genre" },
+      { key: "plays", label: "Plays", num: true, render: fmtInt },
+    ], { onRowClick: r => drillGenre(r.genre) }));
+
+    mount("trend-tracks", tableEl(trackRows, [
+      { key: "rank", label: "#", num: true },
+      { key: "song", label: "Song" },
+      { key: "artist", label: "Artist" },
+      { key: "plays", label: "Plays", num: true, render: fmtInt },
+    ], { onRowClick: r => drillArtist(r.artist) }));
+  }
+
+  toolbar.querySelectorAll(".pill-btn").forEach(b => {
+    b.addEventListener("click", () => { state.window = b.dataset.window; paint(); });
+  });
+
+  paint();
 }
 
 function buildFacts(data) {

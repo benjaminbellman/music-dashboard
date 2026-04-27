@@ -107,6 +107,41 @@
           </div>
         </div>
       </div>
+
+      <h2 style="margin-top:2.5rem">Recent listening trends</h2>
+      <div class="sub" id="trends-sub" style="margin-bottom:0.9rem">
+        Forward-looking: each sync snapshots the play counter; deltas show what you've actually been pressing play on.
+      </div>
+      <div class="trend-toolbar" id="trend-windows" role="tablist" aria-label="Time window">
+        <button class="pill-btn" data-window="14d">2 weeks</button>
+        <button class="pill-btn" data-window="30d">30 days</button>
+        <button class="pill-btn" data-window="90d">3 months</button>
+        <button class="pill-btn" data-window="180d">6 months</button>
+        <button class="pill-btn" data-window="365d">Year</button>
+      </div>
+
+      <div class="card">
+        <h3>Plays per sync</h3>
+        <div class="sub" style="margin-bottom:0.5rem">
+          One bar per snapshot — sums to the total plays since the previous sync.
+        </div>
+        <div id="chart-plays-trend"></div>
+      </div>
+
+      <div class="grid-3-trend">
+        <div class="card">
+          <h3>Top artists</h3>
+          <div id="trend-artists" class="scroll-cap"></div>
+        </div>
+        <div class="card">
+          <h3>Top genres</h3>
+          <div id="trend-genres" class="scroll-cap"></div>
+        </div>
+        <div class="card">
+          <h3>Top tracks</h3>
+          <div id="trend-tracks" class="scroll-cap"></div>
+        </div>
+      </div>
     </section>
 
     <!-- Artists -->

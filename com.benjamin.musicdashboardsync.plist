@@ -15,10 +15,10 @@
     <key>WorkingDirectory</key>
     <string>/Users/benjaminbellman/Music Dashboard</string>
 
+    <!-- Runs every day at 09:00 local time. Switched from weekly so the
+         play-history trends in the dashboard get per-day resolution. -->
     <key>StartCalendarInterval</key>
     <dict>
-        <key>Weekday</key>
-        <integer>1</integer>
         <key>Hour</key>
         <integer>9</integer>
         <key>Minute</key>

@@ -522,6 +522,23 @@ svg .country-path.has-data:hover { stroke: var(--accent); stroke-width: 1.2; }
   transition: background 0.12s, color 0.12s, border-color 0.12s;
 }
 .pill-btn:hover:not(:disabled) { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.pill-btn.active { background: var(--accent); color: #0b0814; border-color: var(--accent); font-weight: 600; }
+.pill-btn.active:hover { background: var(--accent); color: #0b0814; }
+
+.trend-toolbar {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.grid-3-trend {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+@media (max-width: 1100px) { .grid-3-trend { grid-template-columns: 1fr; } }
 
 /* Ask form */
 .insight-ask form {

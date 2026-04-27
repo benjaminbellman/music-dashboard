@@ -125,7 +125,7 @@ launchctl start com.benjamin.musicdashboardsync   # run immediately to test
 tail -f logs/sync.log
 ```
 
-Cadence: Mondays 9:00 local.
+Cadence: every day at 9:00 local. Daily snapshots feed the "Recent listening trends" charts on the Insights tab — coarser cadences would only give weekly resolution.
 
 ## Data model (SQLite)
 

@@ -7,8 +7,10 @@ the legacy Excel dashboard on a per-view basis.
 
 from __future__ import annotations
 
+import datetime as dt
 import json
 import statistics
+from collections import Counter, defaultdict
 from pathlib import Path
 
 from db import connect
@@ -279,6 +281,124 @@ def tracks(conn) -> list:
     ]
 
 
+def play_history(conn) -> dict:
+    """Forward-looking listening trends, derived from snapshot deltas.
+
+    Apple Music only exposes a lifetime play counter and a single
+    `last_played` timestamp per track — there's no per-play log. We can't
+    reconstruct play history before this project started, but we CAN
+    capture it going forward by snapshotting the counter on every sync
+    and diffing consecutive snapshots.
+
+    Emits:
+      - daily: [{date, plays}]  — total plays in each sync window,
+        labeled by snapshot date. With daily syncs this becomes a
+        per-day plays chart.
+      - windows: keyed by "14d" / "30d" / "90d" / "180d" / "365d".
+        Each window holds top artists / genres / tracks ranked by plays
+        within the window. Multi-artist credit (track_artists) so a
+        feature counts for both artists.
+      - latest_snapshot, first_snapshot, snapshot_count: metadata so the
+        UI can tell the user "you have N days of trend data so far."
+    """
+    snapshots = conn.execute(
+        "SELECT snapshot_date, track_id, plays FROM snapshots "
+        "ORDER BY track_id, snapshot_date"
+    ).fetchall()
+
+    if not snapshots:
+        return {"daily": [], "windows": {}, "snapshot_count": 0}
+
+    # Compute per-track positive deltas between consecutive snapshots.
+    # (date, track_id, delta) for each window where the count grew.
+    deltas: list[tuple[str, str, int]] = []
+    last_plays: dict = {}
+    for r in snapshots:
+        tid, date, plays = r["track_id"], r["snapshot_date"], r["plays"]
+        prev = last_plays.get(tid)
+        if prev is not None:
+            d = plays - prev
+            if d > 0:
+                deltas.append((date, tid, d))
+        last_plays[tid] = plays
+
+    # Track metadata, indexed by track_id.
+    track_meta: dict = {}
+    for r in conn.execute(
+        "SELECT track_id, song, artist, primary_artist, genre FROM tracks_current"
+    ):
+        track_meta[r["track_id"]] = dict(r)
+
+    # Multi-artist credit: track_id → list of credited artists.
+    credits_by_track: dict = defaultdict(list)
+    for r in conn.execute("SELECT track_id, artist FROM track_artists"):
+        credits_by_track[r["track_id"]].append(r["artist"])
+
+    # Daily timeline: total plays per snapshot date. (Snapshots whose delta
+    # is computed from a multi-day gap will pile up on the later date —
+    # that's the honest representation, no fake interpolation.)
+    daily_totals: Counter = Counter()
+    for date, _tid, d in deltas:
+        daily_totals[date] += d
+    daily = [{"date": d, "plays": p} for d, p in sorted(daily_totals.items())]
+
+    snapshot_dates = sorted({r["snapshot_date"] for r in snapshots})
+    latest = snapshot_dates[-1]
+    today = dt.date.fromisoformat(latest)
+
+    windows = {}
+    for label, days in [("14d", 14), ("30d", 30), ("90d", 90), ("180d", 180), ("365d", 365)]:
+        cutoff = (today - dt.timedelta(days=days)).isoformat()
+        artist_plays: Counter = Counter()
+        genre_plays: Counter = Counter()
+        track_plays: Counter = Counter()
+        track_meta_for_top: dict = {}
+        for date, tid, d in deltas:
+            if date <= cutoff:
+                continue
+            meta = track_meta.get(tid)
+            if not meta:
+                continue
+            # Credit every artist on the track (matches top_artists logic).
+            credited = credits_by_track.get(tid) or [meta["primary_artist"] or meta["artist"]]
+            for a in credited:
+                if a:
+                    artist_plays[a] += d
+            genre_plays[meta.get("genre") or "Unspecified"] += d
+            key = (meta["song"], meta["artist"])
+            track_plays[key] += d
+            track_meta_for_top[key] = meta
+
+        total = sum(daily_totals[d] for d in daily_totals if d > cutoff)
+        windows[label] = {
+            "days": days,
+            "total_plays": total,
+            "top_artists": [
+                {"artist": a, "plays": p}
+                for a, p in artist_plays.most_common(25)
+            ],
+            "top_genres": [
+                {"genre": g, "plays": p}
+                for g, p in genre_plays.most_common(25)
+            ],
+            "top_tracks": [
+                {
+                    "song": s, "artist": a, "plays": p,
+                    "genre": track_meta_for_top[(s, a)].get("genre") or "Unspecified",
+                }
+                for (s, a), p in track_plays.most_common(25)
+            ],
+        }
+
+    return {
+        "daily": daily,
+        "windows": windows,
+        "first_snapshot": snapshot_dates[0],
+        "latest_snapshot": latest,
+        "snapshot_count": len(snapshot_dates),
+    }
+
+
 def pending_artists(conn) -> list:
     return [
         {"artist": r["artist"], "attempts": r["attempts"], "last_error": r["last_error"]}
@@ -304,6 +424,7 @@ def main() -> None:
     _write("country_year", country_year(conn))
     _write("genre_year", genre_year(conn))
     _write("tracks", tracks(conn))
+    _write("play_history", play_history(conn))
     _write("pending_artists", pending_artists(conn))
     _write_combined()
 
