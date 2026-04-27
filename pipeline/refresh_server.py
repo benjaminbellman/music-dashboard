@@ -453,12 +453,16 @@ class Handler(BaseHTTPRequestHandler):
 
     def _send_json(self, status: int, body: dict) -> None:
         data = json.dumps(body).encode("utf-8")
-        self.send_response(status)
-        self.send_header("Content-Type", "application/json")
-        self.send_header("Content-Length", str(len(data)))
-        self._write_cors()
-        self.end_headers()
-        self.wfile.write(data)
+        try:
+            self.send_response(status)
+            self.send_header("Content-Type", "application/json")
+            self.send_header("Content-Length", str(len(data)))
+            self._write_cors()
+            self.end_headers()
+            self.wfile.write(data)
+        except (BrokenPipeError, ConnectionResetError):
+            # Client closed the tab mid-sync; nothing useful to do.
+            pass
 
     def do_OPTIONS(self) -> None:
         self.send_response(204)
@@ -505,13 +509,16 @@ class Handler(BaseHTTPRequestHandler):
 
     def _send_html(self, html: str) -> None:
         data = html.encode("utf-8")
-        self.send_response(200)
-        self.send_header("Content-Type", "text/html; charset=utf-8")
-        self.send_header("Content-Length", str(len(data)))
-        self.send_header("Cache-Control", "no-store")
-        self._write_cors()
-        self.end_headers()
-        self.wfile.write(data)
+        try:
+            self.send_response(200)
+            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Cache-Control", "no-store")
+            self._write_cors()
+            self.end_headers()
+            self.wfile.write(data)
+        except (BrokenPipeError, ConnectionResetError):
+            pass
 
     def do_POST(self) -> None:
         if self.path.rstrip("/") == "/assign":
