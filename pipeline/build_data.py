@@ -390,9 +390,19 @@ def play_history(conn) -> dict:
             ],
         }
 
+    # Per-track deltas. The dashboard uses these to make drill-downs
+    # respect the active time window: when you click "Electronic" with the
+    # 14d pill on, the drill panel shows only tracks with deltas in the
+    # last 14 days and their 14-day play count, not lifetime totals.
+    deltas_compact = [
+        {"date": date, "id": tid, "plays": d}
+        for (date, tid, d) in deltas
+    ]
+
     return {
         "daily": daily,
         "windows": windows,
+        "deltas": deltas_compact,
         "first_snapshot": snapshot_dates[0],
         "latest_snapshot": latest,
         "snapshot_count": len(snapshot_dates),

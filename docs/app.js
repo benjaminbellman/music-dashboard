@@ -116,6 +116,41 @@ function renderTrends(data) {
   trendsSub.innerHTML = `${ph.snapshot_count} snapshots so far · first <em>${ph.first_snapshot}</em> · latest <em>${ph.latest_snapshot}</em>. Each sync pins the play counter; deltas are what you've actually been listening to since the project started.`;
 
   const state = { window: "14d" };
+  const tracksById = new Map(_allTracks.map(t => [t.id, t]));
+
+  // Build a track_id → plays map for the active window. Only positive deltas
+  // appear; tracks with zero plays in the window are simply absent.
+  function windowPlaysMap(days) {
+    const cutoff = new Date(ph.latest_snapshot);
+    cutoff.setDate(cutoff.getDate() - days);
+    const cutoffISO = cutoff.toISOString().slice(0, 10);
+    const m = new Map();
+    for (const d of ph.deltas || []) {
+      if (d.date <= cutoffISO) continue;
+      m.set(d.id, (m.get(d.id) || 0) + d.plays);
+    }
+    return m;
+  }
+
+  // Window-aware drill: filter `_allTracks` by `predicate`, replace each
+  // track's `plays` with its window plays, drop tracks with zero in window.
+  function drillInWindow({ title, predicate }) {
+    const days = ph.windows[state.window]?.days ?? 14;
+    const wp = windowPlaysMap(days);
+    const songs = _allTracks
+      .filter(predicate)
+      .map(t => wp.has(t.id) ? { ...t, plays: wp.get(t.id) } : null)
+      .filter(Boolean);
+    openDrill({
+      title: `${title} <span style="opacity:0.55;font-weight:400;font-size:0.8em">· last ${labelFor(state.window)}</span>`,
+      subtitle: `Songs you played in the last ${labelFor(state.window)}. Plays = deltas in this window.`,
+      songs,
+    });
+  }
+
+  function labelFor(w) {
+    return ({ "14d": "2 weeks", "30d": "30 days", "90d": "3 months", "180d": "6 months", "365d": "year" })[w] || w;
+  }
 
   function paint() {
     // Highlight active pill
@@ -152,7 +187,7 @@ function renderTrends(data) {
       }));
     }
 
-    // Top tables (clickable)
+    // Top tables (clickable, window-aware drill)
     const artistRows = win.top_artists.map((r, i) => ({ rank: i + 1, ...r }));
     const genreRows  = win.top_genres.map((r, i) => ({ rank: i + 1, ...r }));
     const trackRows  = win.top_tracks.map((r, i) => ({ rank: i + 1, ...r }));
@@ -161,20 +196,29 @@ function renderTrends(data) {
       { key: "rank", label: "#", num: true },
       { key: "artist", label: "Artist" },
       { key: "plays", label: "Plays", num: true, render: fmtInt },
-    ], { onRowClick: r => drillArtist(r.artist) }));
+    ], { onRowClick: r => drillInWindow({
+      title: r.artist,
+      predicate: t => (t.credits?.includes(r.artist)) || t.artist === r.artist,
+    }) }));
 
     mount("trend-genres", tableEl(genreRows, [
       { key: "rank", label: "#", num: true },
       { key: "genre", label: "Genre" },
       { key: "plays", label: "Plays", num: true, render: fmtInt },
-    ], { onRowClick: r => drillGenre(r.genre) }));
+    ], { onRowClick: r => drillInWindow({
+      title: r.genre,
+      predicate: t => (t.genre || "Unspecified") === r.genre,
+    }) }));
 
     mount("trend-tracks", tableEl(trackRows, [
       { key: "rank", label: "#", num: true },
       { key: "song", label: "Song" },
       { key: "artist", label: "Artist" },
       { key: "plays", label: "Plays", num: true, render: fmtInt },
-    ], { onRowClick: r => drillArtist(r.artist) }));
+    ], { onRowClick: r => drillInWindow({
+      title: r.artist,
+      predicate: t => (t.credits?.includes(r.artist)) || t.artist === r.artist,
+    }) }));
   }
 
   toolbar.querySelectorAll(".pill-btn").forEach(b => {
