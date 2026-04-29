@@ -12277,6 +12277,21 @@
     "country": "FR"
   },
   {
+    "id": "2fab9b6c663cf6e7",
+    "song": "Beginnings",
+    "artist": "Chicago",
+    "credits": [
+      "Chicago"
+    ],
+    "album": "The Very Best of Chicago",
+    "plays": 76,
+    "duration_sec": 194,
+    "date_added": "2017-07-13T17:27:33",
+    "last_played": "2026-04-28T21:06:56",
+    "genre": "Soft Rock",
+    "country": "US"
+  },
+  {
     "id": "ed22c24afd2d583e",
     "song": "This Is America",
     "artist": "Childish Gambino",
@@ -12425,21 +12440,6 @@
     "last_played": "2026-01-15T07:10:20",
     "genre": "Alternative",
     "country": "CA"
-  },
-  {
-    "id": "2fab9b6c663cf6e7",
-    "song": "Beginnings",
-    "artist": "Chicago",
-    "credits": [
-      "Chicago"
-    ],
-    "album": "The Very Best of Chicago",
-    "plays": 75,
-    "duration_sec": 194,
-    "date_added": "2017-07-13T17:27:33",
-    "last_played": "2022-03-05T16:28:31",
-    "genre": "Soft Rock",
-    "country": "US"
   },
   {
     "id": "177cbe4332d7766f",

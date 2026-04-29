@@ -23,252 +23,54 @@
     {
       "date": "2026-04-27",
       "plays": 1
+    },
+    {
+      "date": "2026-04-29",
+      "plays": 1
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 542,
+      "total_plays": 2,
       "top_artists": [
         {
-          "artist": "Roudoudou",
-          "plays": 120
-        },
-        {
-          "artist": "Luther Vandross",
-          "plays": 90
-        },
-        {
-          "artist": "Cour De Recré",
-          "plays": 50
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 50
-        },
-        {
-          "artist": "John Newman",
-          "plays": 50
-        },
-        {
-          "artist": "Supermode",
-          "plays": 40
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 40
-        },
-        {
-          "artist": "Maya",
-          "plays": 40
-        },
-        {
-          "artist": "442oons",
-          "plays": 10
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 10
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 10
-        },
-        {
-          "artist": "Tez Cadey",
-          "plays": 10
-        },
-        {
-          "artist": "Baddiel Skinner",
-          "plays": 10
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 10
-        },
-        {
-          "artist": "Donna Summer",
-          "plays": 10
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 10
-        },
-        {
-          "artist": "Basshunter",
-          "plays": 10
-        },
-        {
-          "artist": "Claude François",
-          "plays": 10
-        },
-        {
-          "artist": "Hunter",
-          "plays": 10
+          "artist": "Chicago",
+          "plays": 1
         },
         {
           "artist": "Disclosure",
-          "plays": 2
+          "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 170
+          "genre": "Soft Rock",
+          "plays": 1
         },
         {
           "genre": "Dance",
-          "plays": 132
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 90
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 90
-        },
-        {
-          "genre": "Comedy",
-          "plays": 20
-        },
-        {
-          "genre": "Britpop",
-          "plays": 10
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 10
-        },
-        {
-          "genre": "Disco",
-          "plays": 10
-        },
-        {
-          "genre": "House",
-          "plays": 10
+          "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 120,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 90,
+          "song": "Beginnings",
+          "artist": "Chicago",
+          "plays": 1,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 50,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Blame",
-          "artist": "Calvin Harris & John Newman",
-          "plays": 50,
-          "genre": "Dance"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 40,
-          "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 40,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Lait De Coco ( Les Yeux Orange Edit)",
-          "artist": "Maya",
-          "plays": 40,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Who Won The League",
-          "artist": "442oons",
-          "plays": 10,
-          "genre": "Comedy"
-        },
-        {
-          "song": "We're All Asian (feat. DJ Not Nice)",
-          "artist": "Rucka Rucka Ali",
-          "plays": 10,
-          "genre": "Comedy"
-        },
-        {
-          "song": "L'amour",
-          "artist": "Bon Entendeur & Moulidgi",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Seve (Original Mix)",
-          "artist": "Tez Cadey",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 10,
-          "genre": "Britpop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 10,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 10,
-          "genre": "Disco"
-        },
-        {
-          "song": "Astronomia (Coffin Versiion)",
-          "artist": "Tony Igy",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 10,
-          "genre": "House"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 10,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Tondo",
           "artist": "Disclosure",
-          "plays": 2,
+          "plays": 1,
           "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 647,
+      "total_plays": 648,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -381,12 +183,12 @@
           "plays": 144
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Soft Rock",
-          "plays": 96
+          "genre": "Variete Francaise",
+          "plays": 97
         },
         {
           "genre": "Vaporwave",
@@ -608,7 +410,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 647,
+      "total_plays": 648,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -721,12 +523,12 @@
           "plays": 144
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Soft Rock",
-          "plays": 96
+          "genre": "Variete Francaise",
+          "plays": 97
         },
         {
           "genre": "Vaporwave",
@@ -948,7 +750,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 647,
+      "total_plays": 648,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1061,12 +863,12 @@
           "plays": 144
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Soft Rock",
-          "plays": 96
+          "genre": "Variete Francaise",
+          "plays": 97
         },
         {
           "genre": "Vaporwave",
@@ -1288,7 +1090,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 647,
+      "total_plays": 648,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1401,12 +1203,12 @@
           "plays": 144
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Soft Rock",
-          "plays": 96
+          "genre": "Variete Francaise",
+          "plays": 97
         },
         {
           "genre": "Vaporwave",
@@ -1628,7 +1430,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 647,
+      "total_plays": 648,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1741,12 +1543,12 @@
           "plays": 144
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Soft Rock",
-          "plays": 96
+          "genre": "Variete Francaise",
+          "plays": 97
         },
         {
           "genre": "Vaporwave",
@@ -2064,6 +1866,11 @@
       "plays": 10
     },
     {
+      "date": "2026-04-29",
+      "id": "2fab9b6c663cf6e7",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "337e9b4ff1341177",
       "plays": 1
@@ -2295,6 +2102,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-04-28",
-  "snapshot_count": 8
+  "latest_snapshot": "2026-04-29",
+  "snapshot_count": 9
 }
