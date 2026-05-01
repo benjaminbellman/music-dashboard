@@ -1,28 +1,28 @@
 [
   {
     "genre": "Pop",
-    "plays": 34692,
-    "songs": 708
+    "plays": 34694,
+    "songs": 709
   },
   {
     "genre": "Dance",
     "plays": 29306,
-    "songs": 481
+    "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23028,
-    "songs": 388
+    "plays": 23059,
+    "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17954,
+    "plays": 17963,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13833,
-    "songs": 290
+    "plays": 13834,
+    "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
@@ -126,7 +126,7 @@
   },
   {
     "genre": "Vaporwave",
-    "plays": 747,
+    "plays": 751,
     "songs": 8
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "genre": "Trance",
-    "plays": 76,
+    "plays": 77,
     "songs": 3
   },
   {

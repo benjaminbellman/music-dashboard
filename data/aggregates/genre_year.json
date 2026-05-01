@@ -737,7 +737,7 @@
   {
     "year": 2024,
     "genre": "Other",
-    "plays": 3089
+    "plays": 3090
   },
   {
     "year": 2024,
@@ -772,7 +772,7 @@
   {
     "year": 2025,
     "genre": "Electronic",
-    "plays": 1096
+    "plays": 1100
   },
   {
     "year": 2025,
@@ -806,23 +806,28 @@
   },
   {
     "year": 2026,
+    "genre": "Alternative",
+    "plays": 1
+  },
+  {
+    "year": 2026,
     "genre": "Dance",
     "plays": 683
   },
   {
     "year": 2026,
     "genre": "Electronic",
-    "plays": 573
+    "plays": 600
   },
   {
     "year": 2026,
     "genre": "Other",
-    "plays": 404
+    "plays": 408
   },
   {
     "year": 2026,
     "genre": "Pop",
-    "plays": 143
+    "plays": 145
   },
   {
     "year": 2026,
@@ -837,6 +842,6 @@
   {
     "year": 2026,
     "genre": "Variete Francaise",
-    "plays": 250
+    "plays": 259
   }
 ]

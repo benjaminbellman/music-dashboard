@@ -2,7 +2,7 @@
   "2026": [
     {
       "country": "FR",
-      "plays": 828
+      "plays": 850
     },
     {
       "country": "US",
@@ -10,7 +10,7 @@
     },
     {
       "country": "GB",
-      "plays": 397
+      "plays": 411
     },
     {
       "country": "SE",
@@ -18,7 +18,7 @@
     },
     {
       "country": "JP",
-      "plays": 224
+      "plays": 228
     },
     {
       "country": "DE",
@@ -27,6 +27,10 @@
     {
       "country": "BR",
       "plays": 9
+    },
+    {
+      "country": "AU",
+      "plays": 2
     },
     {
       "country": "CA",
@@ -40,7 +44,7 @@
   "2025": [
     {
       "country": "FR",
-      "plays": 2506
+      "plays": 2510
     },
     {
       "country": "US",
@@ -138,7 +142,7 @@
     },
     {
       "country": "DE",
-      "plays": 389
+      "plays": 390
     },
     {
       "country": "CA",

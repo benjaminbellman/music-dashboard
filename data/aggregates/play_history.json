@@ -27,33 +27,109 @@
     {
       "date": "2026-04-29",
       "plays": 1
+    },
+    {
+      "date": "2026-04-30",
+      "plays": 31
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 2,
+      "total_plays": 32,
       "top_artists": [
+        {
+          "artist": "MotorBass",
+          "plays": 13
+        },
+        {
+          "artist": "Préface",
+          "plays": 6
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 4
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 3
+        },
+        {
+          "artist": "Horalion",
+          "plays": 3
+        },
+        {
+          "artist": "French 79",
+          "plays": 1
+        },
         {
           "artist": "Chicago",
           "plays": 1
         },
         {
-          "artist": "Disclosure",
+          "artist": "Anyma & Chris Avantgarde & Massano",
           "plays": 1
         }
       ],
       "top_genres": [
         {
+          "genre": "Electronic",
+          "plays": 17
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 9
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 4
+        },
+        {
           "genre": "Soft Rock",
           "plays": 1
         },
         {
-          "genre": "Dance",
+          "genre": "Trance",
           "plays": 1
         }
       ],
       "top_tracks": [
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 13,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 4,
+          "genre": "Vaporwave"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 3,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Autobahn (Horalion Remix)",
+          "artist": "Horalion & Kraftwek",
+          "plays": 3,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 1,
+          "genre": "Electronic"
+        },
         {
           "song": "Beginnings",
           "artist": "Chicago",
@@ -61,16 +137,16 @@
           "genre": "Soft Rock"
         },
         {
-          "song": "Tondo",
-          "artist": "Disclosure",
+          "song": "Eternity (Massano Remix)",
+          "artist": "Anyma & Chris Avantgarde & Massano",
           "plays": 1,
-          "genre": "Dance"
+          "genre": "Trance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 648,
+      "total_plays": 679,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -93,11 +169,11 @@
           "plays": 51
         },
         {
-          "artist": "Supermode",
-          "plays": 42
+          "artist": "France Football Anthem",
+          "plays": 45
         },
         {
-          "artist": "France Football Anthem",
+          "artist": "Supermode",
           "plays": 42
         },
         {
@@ -106,10 +182,14 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 31
+          "plays": 35
         },
         {
           "artist": "Donna Summer",
+          "plays": 13
+        },
+        {
+          "artist": "MotorBass",
           "plays": 13
         },
         {
@@ -149,6 +229,10 @@
           "plays": 10
         },
         {
+          "artist": "Préface",
+          "plays": 6
+        },
+        {
           "artist": "Daft Punk",
           "plays": 4
         },
@@ -163,36 +247,28 @@
         {
           "artist": "Chance The Rapper",
           "plays": 4
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 3
-        },
-        {
-          "artist": "Disclosure",
-          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 190
+          "plays": 207
         },
         {
           "genre": "Dance",
           "plays": 144
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 106
+        },
+        {
           "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 97
-        },
-        {
           "genre": "Vaporwave",
-          "plays": 31
+          "plays": 35
         },
         {
           "genre": "Comedy",
@@ -251,6 +327,10 @@
           "plays": 1
         },
         {
+          "genre": "Trance",
+          "plays": 1
+        },
+        {
           "genre": "Ambient",
           "plays": 1
         }
@@ -281,16 +361,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 45,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Tell Me Why",
           "artist": "Supermode",
           "plays": 42,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 42,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -301,8 +381,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 31,
+          "plays": 35,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 13,
+          "genre": "Electronic"
         },
         {
           "song": "Who Won The League",
@@ -365,6 +451,12 @@
           "genre": "House"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -392,25 +484,13 @@
           "song": "Tondo",
           "artist": "Disclosure",
           "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "London",
-          "artist": "DJ Antoine & Timati",
-          "plays": 2,
           "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 648,
+      "total_plays": 679,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -433,11 +513,11 @@
           "plays": 51
         },
         {
-          "artist": "Supermode",
-          "plays": 42
+          "artist": "France Football Anthem",
+          "plays": 45
         },
         {
-          "artist": "France Football Anthem",
+          "artist": "Supermode",
           "plays": 42
         },
         {
@@ -446,10 +526,14 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 31
+          "plays": 35
         },
         {
           "artist": "Donna Summer",
+          "plays": 13
+        },
+        {
+          "artist": "MotorBass",
           "plays": 13
         },
         {
@@ -489,6 +573,10 @@
           "plays": 10
         },
         {
+          "artist": "Préface",
+          "plays": 6
+        },
+        {
           "artist": "Daft Punk",
           "plays": 4
         },
@@ -503,36 +591,28 @@
         {
           "artist": "Chance The Rapper",
           "plays": 4
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 3
-        },
-        {
-          "artist": "Disclosure",
-          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 190
+          "plays": 207
         },
         {
           "genre": "Dance",
           "plays": 144
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 106
+        },
+        {
           "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 97
-        },
-        {
           "genre": "Vaporwave",
-          "plays": 31
+          "plays": 35
         },
         {
           "genre": "Comedy",
@@ -591,6 +671,10 @@
           "plays": 1
         },
         {
+          "genre": "Trance",
+          "plays": 1
+        },
+        {
           "genre": "Ambient",
           "plays": 1
         }
@@ -621,16 +705,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 45,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Tell Me Why",
           "artist": "Supermode",
           "plays": 42,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 42,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -641,8 +725,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 31,
+          "plays": 35,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 13,
+          "genre": "Electronic"
         },
         {
           "song": "Who Won The League",
@@ -705,6 +795,12 @@
           "genre": "House"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -732,25 +828,13 @@
           "song": "Tondo",
           "artist": "Disclosure",
           "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "London",
-          "artist": "DJ Antoine & Timati",
-          "plays": 2,
           "genre": "Dance"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 648,
+      "total_plays": 679,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -773,11 +857,11 @@
           "plays": 51
         },
         {
-          "artist": "Supermode",
-          "plays": 42
+          "artist": "France Football Anthem",
+          "plays": 45
         },
         {
-          "artist": "France Football Anthem",
+          "artist": "Supermode",
           "plays": 42
         },
         {
@@ -786,10 +870,14 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 31
+          "plays": 35
         },
         {
           "artist": "Donna Summer",
+          "plays": 13
+        },
+        {
+          "artist": "MotorBass",
           "plays": 13
         },
         {
@@ -829,6 +917,10 @@
           "plays": 10
         },
         {
+          "artist": "Préface",
+          "plays": 6
+        },
+        {
           "artist": "Daft Punk",
           "plays": 4
         },
@@ -843,36 +935,28 @@
         {
           "artist": "Chance The Rapper",
           "plays": 4
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 3
-        },
-        {
-          "artist": "Disclosure",
-          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 190
+          "plays": 207
         },
         {
           "genre": "Dance",
           "plays": 144
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 106
+        },
+        {
           "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 97
-        },
-        {
           "genre": "Vaporwave",
-          "plays": 31
+          "plays": 35
         },
         {
           "genre": "Comedy",
@@ -931,6 +1015,10 @@
           "plays": 1
         },
         {
+          "genre": "Trance",
+          "plays": 1
+        },
+        {
           "genre": "Ambient",
           "plays": 1
         }
@@ -961,16 +1049,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 45,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Tell Me Why",
           "artist": "Supermode",
           "plays": 42,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 42,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -981,8 +1069,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 31,
+          "plays": 35,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 13,
+          "genre": "Electronic"
         },
         {
           "song": "Who Won The League",
@@ -1045,6 +1139,12 @@
           "genre": "House"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1072,25 +1172,13 @@
           "song": "Tondo",
           "artist": "Disclosure",
           "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "London",
-          "artist": "DJ Antoine & Timati",
-          "plays": 2,
           "genre": "Dance"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 648,
+      "total_plays": 679,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1113,11 +1201,11 @@
           "plays": 51
         },
         {
-          "artist": "Supermode",
-          "plays": 42
+          "artist": "France Football Anthem",
+          "plays": 45
         },
         {
-          "artist": "France Football Anthem",
+          "artist": "Supermode",
           "plays": 42
         },
         {
@@ -1126,10 +1214,14 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 31
+          "plays": 35
         },
         {
           "artist": "Donna Summer",
+          "plays": 13
+        },
+        {
+          "artist": "MotorBass",
           "plays": 13
         },
         {
@@ -1169,6 +1261,10 @@
           "plays": 10
         },
         {
+          "artist": "Préface",
+          "plays": 6
+        },
+        {
           "artist": "Daft Punk",
           "plays": 4
         },
@@ -1183,36 +1279,28 @@
         {
           "artist": "Chance The Rapper",
           "plays": 4
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 3
-        },
-        {
-          "artist": "Disclosure",
-          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 190
+          "plays": 207
         },
         {
           "genre": "Dance",
           "plays": 144
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 106
+        },
+        {
           "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 97
-        },
-        {
           "genre": "Vaporwave",
-          "plays": 31
+          "plays": 35
         },
         {
           "genre": "Comedy",
@@ -1271,6 +1359,10 @@
           "plays": 1
         },
         {
+          "genre": "Trance",
+          "plays": 1
+        },
+        {
           "genre": "Ambient",
           "plays": 1
         }
@@ -1301,16 +1393,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 45,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Tell Me Why",
           "artist": "Supermode",
           "plays": 42,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 42,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -1321,8 +1413,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 31,
+          "plays": 35,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 13,
+          "genre": "Electronic"
         },
         {
           "song": "Who Won The League",
@@ -1385,6 +1483,12 @@
           "genre": "House"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1412,25 +1516,13 @@
           "song": "Tondo",
           "artist": "Disclosure",
           "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "London",
-          "artist": "DJ Antoine & Timati",
-          "plays": 2,
           "genre": "Dance"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 648,
+      "total_plays": 679,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1453,11 +1545,11 @@
           "plays": 51
         },
         {
-          "artist": "Supermode",
-          "plays": 42
+          "artist": "France Football Anthem",
+          "plays": 45
         },
         {
-          "artist": "France Football Anthem",
+          "artist": "Supermode",
           "plays": 42
         },
         {
@@ -1466,10 +1558,14 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 31
+          "plays": 35
         },
         {
           "artist": "Donna Summer",
+          "plays": 13
+        },
+        {
+          "artist": "MotorBass",
           "plays": 13
         },
         {
@@ -1509,6 +1605,10 @@
           "plays": 10
         },
         {
+          "artist": "Préface",
+          "plays": 6
+        },
+        {
           "artist": "Daft Punk",
           "plays": 4
         },
@@ -1523,36 +1623,28 @@
         {
           "artist": "Chance The Rapper",
           "plays": 4
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 3
-        },
-        {
-          "artist": "Disclosure",
-          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 190
+          "plays": 207
         },
         {
           "genre": "Dance",
           "plays": 144
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 106
+        },
+        {
           "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 97
-        },
-        {
           "genre": "Vaporwave",
-          "plays": 31
+          "plays": 35
         },
         {
           "genre": "Comedy",
@@ -1611,6 +1703,10 @@
           "plays": 1
         },
         {
+          "genre": "Trance",
+          "plays": 1
+        },
+        {
           "genre": "Ambient",
           "plays": 1
         }
@@ -1641,16 +1737,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 45,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Tell Me Why",
           "artist": "Supermode",
           "plays": 42,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 42,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -1661,8 +1757,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 31,
+          "plays": 35,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 13,
+          "genre": "Electronic"
         },
         {
           "song": "Who Won The League",
@@ -1725,6 +1827,12 @@
           "genre": "House"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1752,18 +1860,6 @@
           "song": "Tondo",
           "artist": "Disclosure",
           "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "London",
-          "artist": "DJ Antoine & Timati",
-          "plays": 2,
           "genre": "Dance"
         }
       ]
@@ -1804,6 +1900,11 @@
       "date": "2026-04-26",
       "id": "125fd55b49f40a54",
       "plays": 40
+    },
+    {
+      "date": "2026-04-30",
+      "id": "13e8cf251a8c4ad2",
+      "plays": 1
     },
     {
       "date": "2026-04-24",
@@ -1911,6 +2012,16 @@
       "plays": 1
     },
     {
+      "date": "2026-04-30",
+      "id": "5f68cdbf3f1da1bd",
+      "plays": 6
+    },
+    {
+      "date": "2026-04-30",
+      "id": "6aba7f3ef09ca864",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "6b1a79650f19037f",
       "plays": 2
@@ -1931,6 +2042,11 @@
       "plays": 40
     },
     {
+      "date": "2026-04-30",
+      "id": "6e6f5be12c14187a",
+      "plays": 3
+    },
+    {
       "date": "2026-04-26",
       "id": "72c8c31469a4784d",
       "plays": 10
@@ -1949,6 +2065,11 @@
       "date": "2026-04-23",
       "id": "7deb174c9cdb9a3b",
       "plays": 4
+    },
+    {
+      "date": "2026-04-30",
+      "id": "7f2e6f83890c2007",
+      "plays": 3
     },
     {
       "date": "2026-04-20",
@@ -1989,6 +2110,11 @@
       "date": "2026-04-26",
       "id": "89a602a5057a08f8",
       "plays": 10
+    },
+    {
+      "date": "2026-04-30",
+      "id": "89a602a5057a08f8",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -2071,6 +2197,11 @@
       "plays": 4
     },
     {
+      "date": "2026-04-30",
+      "id": "f2603e959d7cf580",
+      "plays": 13
+    },
+    {
       "date": "2026-04-26",
       "id": "f37544456cef8be2",
       "plays": 40
@@ -2102,6 +2233,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-04-29",
-  "snapshot_count": 9
+  "latest_snapshot": "2026-04-30",
+  "snapshot_count": 10
 }
