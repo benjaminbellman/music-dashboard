@@ -34,13 +34,13 @@
     },
     {
       "date": "2026-05-02",
-      "plays": 20
+      "plays": 26
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 51,
+      "total_plays": 57,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -59,15 +59,19 @@
           "plays": 5
         },
         {
+          "artist": "Horalion",
+          "plays": 4
+        },
+        {
           "artist": "Nihonzera",
           "plays": 4
         },
         {
-          "artist": "France Football Anthem",
+          "artist": "Bob Sinclar",
           "plays": 3
         },
         {
-          "artist": "Horalion",
+          "artist": "France Football Anthem",
           "plays": 3
         },
         {
@@ -99,11 +103,27 @@
           "plays": 1
         },
         {
+          "artist": "Cassius",
+          "plays": 1
+        },
+        {
           "artist": "Eric Prydz",
           "plays": 1
         },
         {
+          "artist": "Billie Eilish",
+          "plays": 1
+        },
+        {
           "artist": "Lifelike",
+          "plays": 1
+        },
+        {
+          "artist": "Anri",
+          "plays": 1
+        },
+        {
+          "artist": "Night Tempo",
           "plays": 1
         },
         {
@@ -122,7 +142,11 @@
         },
         {
           "genre": "Pop",
-          "plays": 5
+          "plays": 6
+        },
+        {
+          "genre": "Dance",
+          "plays": 4
         },
         {
           "genre": "Vaporwave",
@@ -130,7 +154,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 2
+          "plays": 3
         },
         {
           "genre": "Folk",
@@ -141,7 +165,7 @@
           "plays": 1
         },
         {
-          "genre": "Dance",
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
@@ -169,6 +193,12 @@
           "artist": "Nihonzera",
           "plays": 4,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 3,
+          "genre": "Dance"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -237,16 +267,34 @@
           "genre": "Electronic"
         },
         {
+          "song": "1999 (Horalion Remix)",
+          "artist": "Cassius & Horalion",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
           "song": "Call On Me",
           "artist": "Eric Prydz",
           "plays": 1,
           "genre": "Dance"
         },
         {
+          "song": "BIRDS OF A FEATHER",
+          "artist": "Billie Eilish",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
           "song": "Nightwalk",
           "artist": "Lifelike",
           "plays": 1,
           "genre": "Electronic"
+        },
+        {
+          "song": "Lady Sunshine(Night Tempo Remix)",
+          "artist": "Anri & Night Tempo",
+          "plays": 1,
+          "genre": "Future Funk"
         },
         {
           "song": "Corrida One Day (Mighty Mike Edit)",
@@ -264,7 +312,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 699,
+      "total_plays": 705,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -374,7 +422,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 145
+          "plays": 148
         },
         {
           "genre": "Variete Francaise",
@@ -401,12 +449,12 @@
           "plays": 11
         },
         {
-          "genre": "Britpop",
+          "genre": "Pop",
           "plays": 11
         },
         {
-          "genre": "Pop",
-          "plays": 10
+          "genre": "Britpop",
+          "plays": 11
         },
         {
           "genre": "Hip Hop/Rap",
@@ -414,7 +462,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Soundtrack",
@@ -454,6 +502,10 @@
         },
         {
           "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
@@ -612,7 +664,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 699,
+      "total_plays": 705,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -722,7 +774,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 145
+          "plays": 148
         },
         {
           "genre": "Variete Francaise",
@@ -749,12 +801,12 @@
           "plays": 11
         },
         {
-          "genre": "Britpop",
+          "genre": "Pop",
           "plays": 11
         },
         {
-          "genre": "Pop",
-          "plays": 10
+          "genre": "Britpop",
+          "plays": 11
         },
         {
           "genre": "Hip Hop/Rap",
@@ -762,7 +814,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Soundtrack",
@@ -802,6 +854,10 @@
         },
         {
           "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
@@ -960,7 +1016,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 699,
+      "total_plays": 705,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1070,7 +1126,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 145
+          "plays": 148
         },
         {
           "genre": "Variete Francaise",
@@ -1097,12 +1153,12 @@
           "plays": 11
         },
         {
-          "genre": "Britpop",
+          "genre": "Pop",
           "plays": 11
         },
         {
-          "genre": "Pop",
-          "plays": 10
+          "genre": "Britpop",
+          "plays": 11
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1110,7 +1166,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Soundtrack",
@@ -1150,6 +1206,10 @@
         },
         {
           "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
@@ -1308,7 +1368,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 699,
+      "total_plays": 705,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1418,7 +1478,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 145
+          "plays": 148
         },
         {
           "genre": "Variete Francaise",
@@ -1445,12 +1505,12 @@
           "plays": 11
         },
         {
-          "genre": "Britpop",
+          "genre": "Pop",
           "plays": 11
         },
         {
-          "genre": "Pop",
-          "plays": 10
+          "genre": "Britpop",
+          "plays": 11
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1458,7 +1518,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Soundtrack",
@@ -1498,6 +1558,10 @@
         },
         {
           "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
@@ -1656,7 +1720,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 699,
+      "total_plays": 705,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1766,7 +1830,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 145
+          "plays": 148
         },
         {
           "genre": "Variete Francaise",
@@ -1793,12 +1857,12 @@
           "plays": 11
         },
         {
-          "genre": "Britpop",
+          "genre": "Pop",
           "plays": 11
         },
         {
-          "genre": "Pop",
-          "plays": 10
+          "genre": "Britpop",
+          "plays": 11
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1806,7 +1870,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Soundtrack",
@@ -1846,6 +1910,10 @@
         },
         {
           "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
@@ -2131,6 +2199,11 @@
     },
     {
       "date": "2026-05-02",
+      "id": "3fd2d2f6cb324a85",
+      "plays": 3
+    },
+    {
+      "date": "2026-05-02",
       "id": "40da54079480ac31",
       "plays": 1
     },
@@ -2335,6 +2408,11 @@
       "plays": 10
     },
     {
+      "date": "2026-05-02",
+      "id": "b9c4c58ecda52fb2",
+      "plays": 1
+    },
+    {
       "date": "2026-04-26",
       "id": "bcf443a888c0ec76",
       "plays": 10
@@ -2342,6 +2420,11 @@
     {
       "date": "2026-05-02",
       "id": "ca5c08094fd3093e",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "cbe051bf47002ff3",
       "plays": 1
     },
     {
@@ -2357,6 +2440,11 @@
     {
       "date": "2026-04-20",
       "id": "d4befafd0bb90a2c",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "d92ab89ce89ea97f",
       "plays": 1
     },
     {

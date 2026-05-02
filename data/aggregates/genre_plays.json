@@ -1,12 +1,12 @@
 [
   {
     "genre": "Pop",
-    "plays": 34699,
+    "plays": 34700,
     "songs": 709
   },
   {
     "genre": "Dance",
-    "plays": 29307,
+    "plays": 29310,
     "songs": 482
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5802,
+    "plays": 5803,
     "songs": 71
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2697,
+    "plays": 2698,
     "songs": 69
   },
   {
