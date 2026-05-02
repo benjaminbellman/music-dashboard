@@ -1,22 +1,22 @@
 [
   {
     "genre": "Pop",
-    "plays": 34694,
+    "plays": 34699,
     "songs": 709
   },
   {
     "genre": "Dance",
-    "plays": 29306,
+    "plays": 29307,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23073,
+    "plays": 23078,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17963,
+    "plays": 17968,
     "songs": 281
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2695,
+    "plays": 2697,
     "songs": 69
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 763,
+    "plays": 765,
     "songs": 12
   },
   {

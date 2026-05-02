@@ -31,20 +31,32 @@
     {
       "date": "2026-04-30",
       "plays": 31
+    },
+    {
+      "date": "2026-05-02",
+      "plays": 20
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 31,
+      "total_plays": 51,
       "top_artists": [
         {
           "artist": "MotorBass",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Préface",
           "plays": 6
+        },
+        {
+          "artist": "Francis Cabrel",
+          "plays": 6
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
         },
         {
           "artist": "Nihonzera",
@@ -59,29 +71,77 @@
           "plays": 3
         },
         {
+          "artist": "Daft Punk",
+          "plays": 2
+        },
+        {
+          "artist": "The Strumbellas",
+          "plays": 2
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 1
+        },
+        {
+          "artist": "Cour De Recré",
+          "plays": 1
+        },
+        {
           "artist": "French 79",
           "plays": 1
         },
         {
+          "artist": "The Glitch Mob",
+          "plays": 1
+        },
+        {
           "artist": "Anyma & Chris Avantgarde & Massano",
+          "plays": 1
+        },
+        {
+          "artist": "Eric Prydz",
+          "plays": 1
+        },
+        {
+          "artist": "Lifelike",
+          "plays": 1
+        },
+        {
+          "artist": "Asaf Avidan",
           "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 17
+          "plays": 22
         },
         {
           "genre": "Variete Francaise",
-          "plays": 9
+          "plays": 14
+        },
+        {
+          "genre": "Pop",
+          "plays": 5
         },
         {
           "genre": "Vaporwave",
           "plays": 4
         },
         {
+          "genre": "mashup",
+          "plays": 2
+        },
+        {
+          "genre": "Folk",
+          "plays": 2
+        },
+        {
           "genre": "Trance",
+          "plays": 1
+        },
+        {
+          "genre": "Dance",
           "plays": 1
         }
       ],
@@ -89,7 +149,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 13,
+          "plays": 14,
           "genre": "Electronic"
         },
         {
@@ -97,6 +157,12 @@
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -117,8 +183,38 @@
           "genre": "Electronic"
         },
         {
+          "song": "Lencre De Tes Yeux",
+          "artist": "Francis Cabrel",
+          "plays": 3,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Spirits",
+          "artist": "The Strumbellas",
+          "plays": 2,
+          "genre": "Folk"
+        },
+        {
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "GiscardPunk",
+          "artist": "Cour De Recré",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
           "song": "Memories",
           "artist": "French 79",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "We Can Make the World Stop",
+          "artist": "The Glitch Mob",
           "plays": 1,
           "genre": "Electronic"
         },
@@ -127,12 +223,48 @@
           "artist": "Anyma & Chris Avantgarde & Massano",
           "plays": 1,
           "genre": "Trance"
+        },
+        {
+          "song": "La Corrida",
+          "artist": "Francis Cabrel",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Rollin' & Scratchin'",
+          "artist": "Daft Punk",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Call On Me",
+          "artist": "Eric Prydz",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Nightwalk",
+          "artist": "Lifelike",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Corrida One Day (Mighty Mike Edit)",
+          "artist": "Francis Cabrel & Asaf Avidan",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "L'encre de tes yeux (Ocean Avenue Remix)",
+          "artist": "Francis Cabrel",
+          "plays": 1,
+          "genre": "Variete Francaise"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 679,
+      "total_plays": 699,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -144,7 +276,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 55
+          "plays": 56
         },
         {
           "artist": "Calvin Harris",
@@ -171,11 +303,11 @@
           "plays": 35
         },
         {
-          "artist": "Donna Summer",
-          "plays": 13
+          "artist": "MotorBass",
+          "plays": 14
         },
         {
-          "artist": "MotorBass",
+          "artist": "Donna Summer",
           "plays": 13
         },
         {
@@ -215,38 +347,38 @@
           "plays": 10
         },
         {
+          "artist": "Daft Punk",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
-          "artist": "Daft Punk",
-          "plays": 4
+          "artist": "Francis Cabrel",
+          "plays": 6
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
         },
         {
           "artist": "Kid Cudi",
-          "plays": 4
-        },
-        {
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4
-        },
-        {
-          "artist": "Chance The Rapper",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 207
+          "plays": 212
         },
         {
           "genre": "Dance",
-          "plays": 144
+          "plays": 145
         },
         {
           "genre": "Variete Francaise",
-          "plays": 106
+          "plays": 111
         },
         {
           "genre": "Soft Rock",
@@ -273,12 +405,16 @@
           "plays": 11
         },
         {
+          "genre": "Pop",
+          "plays": 10
+        },
+        {
           "genre": "Hip Hop/Rap",
           "plays": 8
         },
         {
-          "genre": "Pop",
-          "plays": 5
+          "genre": "mashup",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -293,15 +429,15 @@
           "plays": 3
         },
         {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
           "genre": "City Pop",
           "plays": 2
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Folk",
           "plays": 2
         },
         {
@@ -337,7 +473,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 55,
+          "plays": 56,
           "genre": "Electronic"
         },
         {
@@ -373,7 +509,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 13,
+          "plays": 14,
           "genre": "Electronic"
         },
         {
@@ -443,6 +579,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -461,22 +603,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
           "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Tondo",
-          "artist": "Disclosure",
-          "plays": 3,
-          "genre": "Dance"
+          "genre": "mashup"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 679,
+      "total_plays": 699,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -488,7 +624,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 55
+          "plays": 56
         },
         {
           "artist": "Calvin Harris",
@@ -515,11 +651,11 @@
           "plays": 35
         },
         {
-          "artist": "Donna Summer",
-          "plays": 13
+          "artist": "MotorBass",
+          "plays": 14
         },
         {
-          "artist": "MotorBass",
+          "artist": "Donna Summer",
           "plays": 13
         },
         {
@@ -559,38 +695,38 @@
           "plays": 10
         },
         {
+          "artist": "Daft Punk",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
-          "artist": "Daft Punk",
-          "plays": 4
+          "artist": "Francis Cabrel",
+          "plays": 6
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
         },
         {
           "artist": "Kid Cudi",
-          "plays": 4
-        },
-        {
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4
-        },
-        {
-          "artist": "Chance The Rapper",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 207
+          "plays": 212
         },
         {
           "genre": "Dance",
-          "plays": 144
+          "plays": 145
         },
         {
           "genre": "Variete Francaise",
-          "plays": 106
+          "plays": 111
         },
         {
           "genre": "Soft Rock",
@@ -617,12 +753,16 @@
           "plays": 11
         },
         {
+          "genre": "Pop",
+          "plays": 10
+        },
+        {
           "genre": "Hip Hop/Rap",
           "plays": 8
         },
         {
-          "genre": "Pop",
-          "plays": 5
+          "genre": "mashup",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -637,15 +777,15 @@
           "plays": 3
         },
         {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
           "genre": "City Pop",
           "plays": 2
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Folk",
           "plays": 2
         },
         {
@@ -681,7 +821,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 55,
+          "plays": 56,
           "genre": "Electronic"
         },
         {
@@ -717,7 +857,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 13,
+          "plays": 14,
           "genre": "Electronic"
         },
         {
@@ -787,6 +927,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -805,22 +951,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
           "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Tondo",
-          "artist": "Disclosure",
-          "plays": 3,
-          "genre": "Dance"
+          "genre": "mashup"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 679,
+      "total_plays": 699,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -832,7 +972,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 55
+          "plays": 56
         },
         {
           "artist": "Calvin Harris",
@@ -859,11 +999,11 @@
           "plays": 35
         },
         {
-          "artist": "Donna Summer",
-          "plays": 13
+          "artist": "MotorBass",
+          "plays": 14
         },
         {
-          "artist": "MotorBass",
+          "artist": "Donna Summer",
           "plays": 13
         },
         {
@@ -903,38 +1043,38 @@
           "plays": 10
         },
         {
+          "artist": "Daft Punk",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
-          "artist": "Daft Punk",
-          "plays": 4
+          "artist": "Francis Cabrel",
+          "plays": 6
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
         },
         {
           "artist": "Kid Cudi",
-          "plays": 4
-        },
-        {
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4
-        },
-        {
-          "artist": "Chance The Rapper",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 207
+          "plays": 212
         },
         {
           "genre": "Dance",
-          "plays": 144
+          "plays": 145
         },
         {
           "genre": "Variete Francaise",
-          "plays": 106
+          "plays": 111
         },
         {
           "genre": "Soft Rock",
@@ -961,12 +1101,16 @@
           "plays": 11
         },
         {
+          "genre": "Pop",
+          "plays": 10
+        },
+        {
           "genre": "Hip Hop/Rap",
           "plays": 8
         },
         {
-          "genre": "Pop",
-          "plays": 5
+          "genre": "mashup",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -981,15 +1125,15 @@
           "plays": 3
         },
         {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
           "genre": "City Pop",
           "plays": 2
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Folk",
           "plays": 2
         },
         {
@@ -1025,7 +1169,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 55,
+          "plays": 56,
           "genre": "Electronic"
         },
         {
@@ -1061,7 +1205,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 13,
+          "plays": 14,
           "genre": "Electronic"
         },
         {
@@ -1131,6 +1275,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1149,22 +1299,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
           "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Tondo",
-          "artist": "Disclosure",
-          "plays": 3,
-          "genre": "Dance"
+          "genre": "mashup"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 679,
+      "total_plays": 699,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1176,7 +1320,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 55
+          "plays": 56
         },
         {
           "artist": "Calvin Harris",
@@ -1203,11 +1347,11 @@
           "plays": 35
         },
         {
-          "artist": "Donna Summer",
-          "plays": 13
+          "artist": "MotorBass",
+          "plays": 14
         },
         {
-          "artist": "MotorBass",
+          "artist": "Donna Summer",
           "plays": 13
         },
         {
@@ -1247,38 +1391,38 @@
           "plays": 10
         },
         {
+          "artist": "Daft Punk",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
-          "artist": "Daft Punk",
-          "plays": 4
+          "artist": "Francis Cabrel",
+          "plays": 6
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
         },
         {
           "artist": "Kid Cudi",
-          "plays": 4
-        },
-        {
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4
-        },
-        {
-          "artist": "Chance The Rapper",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 207
+          "plays": 212
         },
         {
           "genre": "Dance",
-          "plays": 144
+          "plays": 145
         },
         {
           "genre": "Variete Francaise",
-          "plays": 106
+          "plays": 111
         },
         {
           "genre": "Soft Rock",
@@ -1305,12 +1449,16 @@
           "plays": 11
         },
         {
+          "genre": "Pop",
+          "plays": 10
+        },
+        {
           "genre": "Hip Hop/Rap",
           "plays": 8
         },
         {
-          "genre": "Pop",
-          "plays": 5
+          "genre": "mashup",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -1325,15 +1473,15 @@
           "plays": 3
         },
         {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
           "genre": "City Pop",
           "plays": 2
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Folk",
           "plays": 2
         },
         {
@@ -1369,7 +1517,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 55,
+          "plays": 56,
           "genre": "Electronic"
         },
         {
@@ -1405,7 +1553,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 13,
+          "plays": 14,
           "genre": "Electronic"
         },
         {
@@ -1475,6 +1623,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1493,22 +1647,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
           "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Tondo",
-          "artist": "Disclosure",
-          "plays": 3,
-          "genre": "Dance"
+          "genre": "mashup"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 679,
+      "total_plays": 699,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1520,7 +1668,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 55
+          "plays": 56
         },
         {
           "artist": "Calvin Harris",
@@ -1547,11 +1695,11 @@
           "plays": 35
         },
         {
-          "artist": "Donna Summer",
-          "plays": 13
+          "artist": "MotorBass",
+          "plays": 14
         },
         {
-          "artist": "MotorBass",
+          "artist": "Donna Summer",
           "plays": 13
         },
         {
@@ -1591,38 +1739,38 @@
           "plays": 10
         },
         {
+          "artist": "Daft Punk",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
-          "artist": "Daft Punk",
-          "plays": 4
+          "artist": "Francis Cabrel",
+          "plays": 6
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
         },
         {
           "artist": "Kid Cudi",
-          "plays": 4
-        },
-        {
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4
-        },
-        {
-          "artist": "Chance The Rapper",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 207
+          "plays": 212
         },
         {
           "genre": "Dance",
-          "plays": 144
+          "plays": 145
         },
         {
           "genre": "Variete Francaise",
-          "plays": 106
+          "plays": 111
         },
         {
           "genre": "Soft Rock",
@@ -1649,12 +1797,16 @@
           "plays": 11
         },
         {
+          "genre": "Pop",
+          "plays": 10
+        },
+        {
           "genre": "Hip Hop/Rap",
           "plays": 8
         },
         {
-          "genre": "Pop",
-          "plays": 5
+          "genre": "mashup",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -1669,15 +1821,15 @@
           "plays": 3
         },
         {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
           "genre": "City Pop",
           "plays": 2
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Folk",
           "plays": 2
         },
         {
@@ -1713,7 +1865,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 55,
+          "plays": 56,
           "genre": "Electronic"
         },
         {
@@ -1749,7 +1901,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 13,
+          "plays": 14,
           "genre": "Electronic"
         },
         {
@@ -1819,6 +1971,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1837,16 +1995,10 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
           "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Tondo",
-          "artist": "Disclosure",
-          "plays": 3,
-          "genre": "Dance"
+          "genre": "mashup"
         }
       ]
     }
@@ -1863,6 +2015,11 @@
       "plays": 2
     },
     {
+      "date": "2026-05-02",
+      "id": "07ec7cc8ba78d3f7",
+      "plays": 1
+    },
+    {
       "date": "2026-04-24",
       "id": "08538c93d3f8c5c6",
       "plays": 5
@@ -1871,6 +2028,11 @@
       "date": "2026-04-26",
       "id": "08538c93d3f8c5c6",
       "plays": 50
+    },
+    {
+      "date": "2026-05-02",
+      "id": "08538c93d3f8c5c6",
+      "plays": 1
     },
     {
       "date": "2026-04-23",
@@ -1968,6 +2130,11 @@
       "plays": 4
     },
     {
+      "date": "2026-05-02",
+      "id": "40da54079480ac31",
+      "plays": 1
+    },
+    {
       "date": "2026-04-23",
       "id": "48c65304e053dfdd",
       "plays": 1
@@ -1998,6 +2165,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-02",
+      "id": "5673df36a79f0b79",
+      "plays": 5
+    },
+    {
       "date": "2026-04-30",
       "id": "5f68cdbf3f1da1bd",
       "plays": 6
@@ -2011,6 +2183,11 @@
       "date": "2026-04-20",
       "id": "6b1a79650f19037f",
       "plays": 2
+    },
+    {
+      "date": "2026-05-02",
+      "id": "6c7e6394b5a1ecf7",
+      "plays": 1
     },
     {
       "date": "2026-04-20",
@@ -2078,6 +2255,11 @@
       "plays": 10
     },
     {
+      "date": "2026-05-02",
+      "id": "86f1f909708c1b97",
+      "plays": 2
+    },
+    {
       "date": "2026-04-20",
       "id": "89a602a5057a08f8",
       "plays": 4
@@ -2118,6 +2300,16 @@
       "plays": 10
     },
     {
+      "date": "2026-05-02",
+      "id": "9298a9e2929b94c4",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "9b61a354250852aa",
+      "plays": 3
+    },
+    {
       "date": "2026-04-20",
       "id": "ab8c22fa90b5561a",
       "plays": 2
@@ -2148,8 +2340,18 @@
       "plays": 10
     },
     {
+      "date": "2026-05-02",
+      "id": "ca5c08094fd3093e",
+      "plays": 1
+    },
+    {
       "date": "2026-04-19",
       "id": "cc12c9c225a353a0",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "d36a4ba5f890b719",
       "plays": 1
     },
     {
@@ -2161,6 +2363,16 @@
       "date": "2026-04-20",
       "id": "dcb63f504569d588",
       "plays": 2
+    },
+    {
+      "date": "2026-05-02",
+      "id": "dd549a5e18b95a48",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "dec42495cae5f56f",
+      "plays": 1
     },
     {
       "date": "2026-04-23",
@@ -2186,6 +2398,11 @@
       "date": "2026-04-30",
       "id": "f2603e959d7cf580",
       "plays": 13
+    },
+    {
+      "date": "2026-05-02",
+      "id": "f2603e959d7cf580",
+      "plays": 1
     },
     {
       "date": "2026-04-26",
