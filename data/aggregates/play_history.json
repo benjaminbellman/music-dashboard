@@ -36,7 +36,7 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 32,
+      "total_plays": 31,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -63,10 +63,6 @@
           "plays": 1
         },
         {
-          "artist": "Chicago",
-          "plays": 1
-        },
-        {
           "artist": "Anyma & Chris Avantgarde & Massano",
           "plays": 1
         }
@@ -83,10 +79,6 @@
         {
           "genre": "Vaporwave",
           "plays": 4
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 1
         },
         {
           "genre": "Trance",
@@ -129,12 +121,6 @@
           "artist": "French 79",
           "plays": 1,
           "genre": "Electronic"
-        },
-        {
-          "song": "Beginnings",
-          "artist": "Chicago",
-          "plays": 1,
-          "genre": "Soft Rock"
         },
         {
           "song": "Eternity (Massano Remix)",
@@ -2233,6 +2219,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-01",
-  "snapshot_count": 11
+  "latest_snapshot": "2026-05-02",
+  "snapshot_count": 12
 }
