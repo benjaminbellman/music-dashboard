@@ -40,18 +40,10 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 64,
+      "total_plays": 33,
       "top_artists": [
         {
-          "artist": "MotorBass",
-          "plays": 14
-        },
-        {
           "artist": "RÜFÜS DU SOL",
-          "plays": 6
-        },
-        {
-          "artist": "Préface",
           "plays": 6
         },
         {
@@ -63,23 +55,7 @@
           "plays": 4
         },
         {
-          "artist": "Horalion",
-          "plays": 4
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 4
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 3
-        },
-        {
           "artist": "Daft Punk",
-          "plays": 2
-        },
-        {
-          "artist": "French 79",
           "plays": 2
         },
         {
@@ -95,6 +71,10 @@
           "plays": 1
         },
         {
+          "artist": "French 79",
+          "plays": 1
+        },
+        {
           "artist": "Armin van Buuren",
           "plays": 1
         },
@@ -107,11 +87,11 @@
           "plays": 1
         },
         {
-          "artist": "Anyma & Chris Avantgarde & Massano",
+          "artist": "Cassius",
           "plays": 1
         },
         {
-          "artist": "Cassius",
+          "artist": "Horalion",
           "plays": 1
         },
         {
@@ -141,28 +121,32 @@
         {
           "artist": "The Whitest Boy Alive & Fred Falke",
           "plays": 1
+        },
+        {
+          "artist": "Asaf Avidan",
+          "plays": 1
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 24
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 14
-        },
-        {
           "genre": "Pop",
           "plays": 8
+        },
+        {
+          "genre": "Electronic",
+          "plays": 7
         },
         {
           "genre": "Dance",
           "plays": 6
         },
         {
-          "genre": "Vaporwave",
-          "plays": 4
+          "genre": "Variete Francaise",
+          "plays": 5
         },
         {
           "genre": "mashup",
@@ -177,32 +161,16 @@
           "plays": 1
         },
         {
-          "genre": "Trance",
-          "plays": 1
-        },
-        {
           "genre": "Future Funk",
           "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 14,
-          "genre": "Electronic"
-        },
-        {
           "song": "Break My Love",
           "artist": "RÜFÜS DU SOL",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 6,
-          "genre": "Variete Francaise"
         },
         {
           "song": "I Can't Wait",
@@ -211,34 +179,10 @@
           "genre": "Dance"
         },
         {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 4,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 3,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Autobahn (Horalion Remix)",
-          "artist": "Horalion & Kraftwek",
-          "plays": 3,
-          "genre": "Electronic"
-        },
-        {
           "song": "Lencre De Tes Yeux",
           "artist": "Francis Cabrel",
           "plays": 3,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 2,
-          "genre": "Electronic"
         },
         {
           "song": "Spirits",
@@ -259,6 +203,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
           "song": "J'ai envie de toi (feat. Gaia)",
           "artist": "Armin van Buuren",
           "plays": 1,
@@ -275,12 +225,6 @@
           "artist": "Feist",
           "plays": 1,
           "genre": "Alternative"
-        },
-        {
-          "song": "Eternity (Massano Remix)",
-          "artist": "Anyma & Chris Avantgarde & Massano",
-          "plays": 1,
-          "genre": "Trance"
         },
         {
           "song": "La Corrida",
@@ -335,12 +279,30 @@
           "artist": "The Whitest Boy Alive & Fred Falke",
           "plays": 1,
           "genre": "Dance"
+        },
+        {
+          "song": "Corrida One Day (Mighty Mike Edit)",
+          "artist": "Francis Cabrel & Asaf Avidan",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "L'encre de tes yeux (Ocean Avenue Remix)",
+          "artist": "Francis Cabrel",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 1,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 712,
+      "total_plays": 710,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -399,10 +361,6 @@
           "plays": 11
         },
         {
-          "artist": "Claude François",
-          "plays": 11
-        },
-        {
           "artist": "Hunter",
           "plays": 11
         },
@@ -420,6 +378,10 @@
         },
         {
           "artist": "Basshunter",
+          "plays": 10
+        },
+        {
+          "artist": "Claude François",
           "plays": 10
         },
         {
@@ -454,7 +416,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 111
+          "plays": 110
         },
         {
           "genre": "Soft Rock",
@@ -469,12 +431,12 @@
           "plays": 21
         },
         {
-          "genre": "Pop",
+          "genre": "Disco",
           "plays": 13
         },
         {
-          "genre": "Disco",
-          "plays": 13
+          "genre": "Pop",
+          "plays": 12
         },
         {
           "genre": "House",
@@ -2597,6 +2559,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-02",
-  "snapshot_count": 12
+  "latest_snapshot": "2026-05-03",
+  "snapshot_count": 13
 }
