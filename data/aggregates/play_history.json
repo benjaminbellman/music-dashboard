@@ -34,13 +34,13 @@
     },
     {
       "date": "2026-05-02",
-      "plays": 31
+      "plays": 33
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 62,
+      "total_plays": 64,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -79,6 +79,10 @@
           "plays": 2
         },
         {
+          "artist": "French 79",
+          "plays": 2
+        },
+        {
           "artist": "The Strumbellas",
           "plays": 2
         },
@@ -91,7 +95,7 @@
           "plays": 1
         },
         {
-          "artist": "French 79",
+          "artist": "Armin van Buuren",
           "plays": 1
         },
         {
@@ -137,16 +141,12 @@
         {
           "artist": "The Whitest Boy Alive & Fred Falke",
           "plays": 1
-        },
-        {
-          "artist": "Asaf Avidan",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 22
+          "plays": 24
         },
         {
           "genre": "Variete Francaise",
@@ -235,6 +235,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
           "song": "Spirits",
           "artist": "The Strumbellas",
           "plays": 2,
@@ -253,8 +259,8 @@
           "genre": "Electronic"
         },
         {
-          "song": "Memories",
-          "artist": "French 79",
+          "song": "J'ai envie de toi (feat. Gaia)",
+          "artist": "Armin van Buuren",
           "plays": 1,
           "genre": "Electronic"
         },
@@ -329,18 +335,12 @@
           "artist": "The Whitest Boy Alive & Fred Falke",
           "plays": 1,
           "genre": "Dance"
-        },
-        {
-          "song": "Corrida One Day (Mighty Mike Edit)",
-          "artist": "Francis Cabrel & Asaf Avidan",
-          "plays": 1,
-          "genre": "mashup"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 710,
+      "total_plays": 712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -446,7 +446,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 212
+          "plays": 214
         },
         {
           "genre": "Dance",
@@ -696,7 +696,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 710,
+      "total_plays": 712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -802,7 +802,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 212
+          "plays": 214
         },
         {
           "genre": "Dance",
@@ -1052,7 +1052,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 710,
+      "total_plays": 712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1158,7 +1158,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 212
+          "plays": 214
         },
         {
           "genre": "Dance",
@@ -1408,7 +1408,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 710,
+      "total_plays": 712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1514,7 +1514,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 212
+          "plays": 214
         },
         {
           "genre": "Dance",
@@ -1764,7 +1764,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 710,
+      "total_plays": 712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1870,7 +1870,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 212
+          "plays": 214
         },
         {
           "genre": "Dance",
@@ -2171,6 +2171,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-02",
+      "id": "13e8cf251a8c4ad2",
+      "plays": 1
+    },
+    {
       "date": "2026-04-24",
       "id": "147af573cb48f9de",
       "plays": 1
@@ -2238,6 +2243,11 @@
     {
       "date": "2026-04-20",
       "id": "337e9b4ff1341177",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "34fde67a64dee262",
       "plays": 1
     },
     {
