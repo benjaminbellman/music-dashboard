@@ -34,17 +34,21 @@
     },
     {
       "date": "2026-05-02",
-      "plays": 26
+      "plays": 31
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 57,
+      "total_plays": 62,
       "top_artists": [
         {
           "artist": "MotorBass",
           "plays": 14
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6
         },
         {
           "artist": "Préface",
@@ -55,8 +59,8 @@
           "plays": 6
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
+          "artist": "Bob Sinclar",
+          "plays": 4
         },
         {
           "artist": "Horalion",
@@ -65,10 +69,6 @@
         {
           "artist": "Nihonzera",
           "plays": 4
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 3
         },
         {
           "artist": "France Football Anthem",
@@ -99,6 +99,10 @@
           "plays": 1
         },
         {
+          "artist": "Feist",
+          "plays": 1
+        },
+        {
           "artist": "Anyma & Chris Avantgarde & Massano",
           "plays": 1
         },
@@ -108,6 +112,10 @@
         },
         {
           "artist": "Eric Prydz",
+          "plays": 1
+        },
+        {
+          "artist": "Huey Lewis & The News",
           "plays": 1
         },
         {
@@ -127,6 +135,10 @@
           "plays": 1
         },
         {
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 1
+        },
+        {
           "artist": "Asaf Avidan",
           "plays": 1
         }
@@ -142,11 +154,11 @@
         },
         {
           "genre": "Pop",
-          "plays": 6
+          "plays": 8
         },
         {
           "genre": "Dance",
-          "plays": 4
+          "plays": 6
         },
         {
           "genre": "Vaporwave",
@@ -159,6 +171,10 @@
         {
           "genre": "Folk",
           "plays": 2
+        },
+        {
+          "genre": "Alternative",
+          "plays": 1
         },
         {
           "genre": "Trance",
@@ -177,28 +193,28 @@
           "genre": "Electronic"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
           "plays": 4,
           "genre": "Vaporwave"
-        },
-        {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 3,
-          "genre": "Dance"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -249,6 +265,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "My Moon My Man",
+          "artist": "Feist",
+          "plays": 1,
+          "genre": "Alternative"
+        },
+        {
           "song": "Eternity (Massano Remix)",
           "artist": "Anyma & Chris Avantgarde & Massano",
           "plays": 1,
@@ -279,6 +301,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Do You Believe In Love",
+          "artist": "Huey Lewis & The News",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
           "song": "BIRDS OF A FEATHER",
           "artist": "Billie Eilish",
           "plays": 1,
@@ -297,22 +325,22 @@
           "genre": "Future Funk"
         },
         {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
           "song": "Corrida One Day (Mighty Mike Edit)",
           "artist": "Francis Cabrel & Asaf Avidan",
           "plays": 1,
           "genre": "mashup"
-        },
-        {
-          "song": "L'encre de tes yeux (Ocean Avenue Remix)",
-          "artist": "Francis Cabrel",
-          "plays": 1,
-          "genre": "Variete Francaise"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 705,
+      "total_plays": 710,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -399,16 +427,16 @@
           "plays": 6
         },
         {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
           "artist": "Francis Cabrel",
           "plays": 6
-        },
-        {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
         },
         {
           "artist": "Kid Cudi",
@@ -422,7 +450,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 148
+          "plays": 150
         },
         {
           "genre": "Variete Francaise",
@@ -441,15 +469,15 @@
           "plays": 21
         },
         {
+          "genre": "Pop",
+          "plays": 13
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
           "genre": "House",
-          "plays": 11
-        },
-        {
-          "genre": "Pop",
           "plays": 11
         },
         {
@@ -494,6 +522,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 1
+        },
+        {
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -625,22 +657,28 @@
           "genre": "House"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Summer Night",
@@ -653,18 +691,12 @@
           "artist": "Chance The Rapper",
           "plays": 4,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 3,
-          "genre": "mashup"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 705,
+      "total_plays": 710,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -751,16 +783,16 @@
           "plays": 6
         },
         {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
           "artist": "Francis Cabrel",
           "plays": 6
-        },
-        {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
         },
         {
           "artist": "Kid Cudi",
@@ -774,7 +806,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 148
+          "plays": 150
         },
         {
           "genre": "Variete Francaise",
@@ -793,15 +825,15 @@
           "plays": 21
         },
         {
+          "genre": "Pop",
+          "plays": 13
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
           "genre": "House",
-          "plays": 11
-        },
-        {
-          "genre": "Pop",
           "plays": 11
         },
         {
@@ -846,6 +878,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 1
+        },
+        {
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -977,22 +1013,28 @@
           "genre": "House"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Summer Night",
@@ -1005,18 +1047,12 @@
           "artist": "Chance The Rapper",
           "plays": 4,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 3,
-          "genre": "mashup"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 705,
+      "total_plays": 710,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1103,16 +1139,16 @@
           "plays": 6
         },
         {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
           "artist": "Francis Cabrel",
           "plays": 6
-        },
-        {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
         },
         {
           "artist": "Kid Cudi",
@@ -1126,7 +1162,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 148
+          "plays": 150
         },
         {
           "genre": "Variete Francaise",
@@ -1145,15 +1181,15 @@
           "plays": 21
         },
         {
+          "genre": "Pop",
+          "plays": 13
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
           "genre": "House",
-          "plays": 11
-        },
-        {
-          "genre": "Pop",
           "plays": 11
         },
         {
@@ -1198,6 +1234,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 1
+        },
+        {
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -1329,22 +1369,28 @@
           "genre": "House"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Summer Night",
@@ -1357,18 +1403,12 @@
           "artist": "Chance The Rapper",
           "plays": 4,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 3,
-          "genre": "mashup"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 705,
+      "total_plays": 710,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1455,16 +1495,16 @@
           "plays": 6
         },
         {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
           "artist": "Francis Cabrel",
           "plays": 6
-        },
-        {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
         },
         {
           "artist": "Kid Cudi",
@@ -1478,7 +1518,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 148
+          "plays": 150
         },
         {
           "genre": "Variete Francaise",
@@ -1497,15 +1537,15 @@
           "plays": 21
         },
         {
+          "genre": "Pop",
+          "plays": 13
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
           "genre": "House",
-          "plays": 11
-        },
-        {
-          "genre": "Pop",
           "plays": 11
         },
         {
@@ -1550,6 +1590,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 1
+        },
+        {
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -1681,22 +1725,28 @@
           "genre": "House"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Summer Night",
@@ -1709,18 +1759,12 @@
           "artist": "Chance The Rapper",
           "plays": 4,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 3,
-          "genre": "mashup"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 705,
+      "total_plays": 710,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1807,16 +1851,16 @@
           "plays": 6
         },
         {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6
+        },
+        {
           "artist": "Préface",
           "plays": 6
         },
         {
           "artist": "Francis Cabrel",
           "plays": 6
-        },
-        {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
         },
         {
           "artist": "Kid Cudi",
@@ -1830,7 +1874,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 148
+          "plays": 150
         },
         {
           "genre": "Variete Francaise",
@@ -1849,15 +1893,15 @@
           "plays": 21
         },
         {
+          "genre": "Pop",
+          "plays": 13
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
           "genre": "House",
-          "plays": 11
-        },
-        {
-          "genre": "Pop",
           "plays": 11
         },
         {
@@ -1902,6 +1946,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 1
+        },
+        {
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -2033,22 +2081,28 @@
           "genre": "House"
         },
         {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 6,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Summer Night",
@@ -2061,12 +2115,6 @@
           "artist": "Chance The Rapper",
           "plays": 4,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 3,
-          "genre": "mashup"
         }
       ]
     }
@@ -2200,7 +2248,7 @@
     {
       "date": "2026-05-02",
       "id": "3fd2d2f6cb324a85",
-      "plays": 3
+      "plays": 4
     },
     {
       "date": "2026-05-02",
@@ -2233,6 +2281,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-02",
+      "id": "50193b2090b1e06d",
+      "plays": 1
+    },
+    {
       "date": "2026-04-23",
       "id": "511b7c8a9de32ac0",
       "plays": 1
@@ -2240,7 +2293,7 @@
     {
       "date": "2026-05-02",
       "id": "5673df36a79f0b79",
-      "plays": 5
+      "plays": 6
     },
     {
       "date": "2026-04-30",
@@ -2424,6 +2477,11 @@
     },
     {
       "date": "2026-05-02",
+      "id": "caed4dc01d38427c",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
       "id": "cbe051bf47002ff3",
       "plays": 1
     },
@@ -2445,6 +2503,11 @@
     {
       "date": "2026-05-02",
       "id": "d92ab89ce89ea97f",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-02",
+      "id": "d97a4a886bba83d5",
       "plays": 1
     },
     {
