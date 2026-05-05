@@ -35,13 +35,21 @@
     {
       "date": "2026-05-02",
       "plays": 33
+    },
+    {
+      "date": "2026-05-04",
+      "plays": 15
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 33,
+      "total_plays": 48,
       "top_artists": [
+        {
+          "artist": "Préface",
+          "plays": 12
+        },
         {
           "artist": "RÜFÜS DU SOL",
           "plays": 6
@@ -87,11 +95,23 @@
           "plays": 1
         },
         {
+          "artist": "Fatboy Slim",
+          "plays": 1
+        },
+        {
+          "artist": "The Rolling Stones",
+          "plays": 1
+        },
+        {
           "artist": "Cassius",
           "plays": 1
         },
         {
           "artist": "Horalion",
+          "plays": 1
+        },
+        {
+          "artist": "Flight Facilities",
           "plays": 1
         },
         {
@@ -125,32 +145,28 @@
         {
           "artist": "Asaf Avidan",
           "plays": 1
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
+          "genre": "Variete Francaise",
+          "plays": 17
+        },
+        {
           "genre": "Pop",
-          "plays": 8
+          "plays": 9
         },
         {
           "genre": "Electronic",
-          "plays": 7
+          "plays": 8
         },
         {
           "genre": "Dance",
           "plays": 6
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 5
-        },
-        {
           "genre": "mashup",
-          "plays": 3
+          "plays": 4
         },
         {
           "genre": "Folk",
@@ -166,6 +182,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 12,
+          "genre": "Variete Francaise"
+        },
         {
           "song": "Break My Love",
           "artist": "RÜFÜS DU SOL",
@@ -233,6 +255,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Satisfaction Skank",
+          "artist": "Fatboy Slim & The Rolling Stones",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
           "song": "Rollin' & Scratchin'",
           "artist": "Daft Punk",
           "plays": 1,
@@ -241,6 +269,12 @@
         {
           "song": "1999 (Horalion Remix)",
           "artist": "Cassius & Horalion",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
           "plays": 1,
           "genre": "mashup"
         },
@@ -293,16 +327,16 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
           "plays": 1,
-          "genre": "Electronic"
+          "genre": "Pop"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 710,
+      "total_plays": 685,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -326,11 +360,11 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 45
+          "plays": 44
         },
         {
           "artist": "Supermode",
-          "plays": 42
+          "plays": 40
         },
         {
           "artist": "Maya",
@@ -338,15 +372,15 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 35
+          "plays": 31
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
         },
         {
           "artist": "MotorBass",
           "plays": 14
-        },
-        {
-          "artist": "Donna Summer",
-          "plays": 13
         },
         {
           "artist": "442oons",
@@ -358,6 +392,10 @@
         },
         {
           "artist": "Baddiel Skinner",
+          "plays": 11
+        },
+        {
+          "artist": "Donna Summer",
           "plays": 11
         },
         {
@@ -385,15 +423,7 @@
           "plays": 10
         },
         {
-          "artist": "Daft Punk",
-          "plays": 6
-        },
-        {
           "artist": "RÜFÜS DU SOL",
-          "plays": 6
-        },
-        {
-          "artist": "Préface",
           "plays": 6
         },
         {
@@ -402,6 +432,10 @@
         },
         {
           "artist": "Kid Cudi",
+          "plays": 4
+        },
+        {
+          "artist": "Bob Sinclar",
           "plays": 4
         }
       ],
@@ -412,11 +446,11 @@
         },
         {
           "genre": "Dance",
-          "plays": 150
+          "plays": 140
         },
         {
           "genre": "Variete Francaise",
-          "plays": 110
+          "plays": 119
         },
         {
           "genre": "Soft Rock",
@@ -424,22 +458,14 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 35
+          "plays": 31
         },
         {
           "genre": "Comedy",
           "plays": 21
         },
         {
-          "genre": "Disco",
-          "plays": 13
-        },
-        {
           "genre": "Pop",
-          "plays": 12
-        },
-        {
-          "genre": "House",
           "plays": 11
         },
         {
@@ -447,40 +473,32 @@
           "plays": 11
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
+          "genre": "Disco",
+          "plays": 11
+        },
+        {
+          "genre": "House",
+          "plays": 10
         },
         {
           "genre": "mashup",
-          "plays": 5
+          "plays": 4
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
           "plays": 4
         },
         {
-          "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "Rock",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
-        },
-        {
-          "genre": "Country",
-          "plays": 2
-        },
-        {
           "genre": "Folk",
           "plays": 2
         },
         {
-          "genre": "Future House",
-          "plays": 2
+          "genre": "Oldies",
+          "plays": 1
         },
         {
           "genre": "Lowfi",
@@ -495,11 +513,11 @@
           "plays": 1
         },
         {
-          "genre": "Ambient",
+          "genre": "Future Funk",
           "plays": 1
         },
         {
-          "genre": "Future Funk",
+          "genre": "City Pop",
           "plays": 1
         }
       ],
@@ -531,13 +549,13 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 45,
+          "plays": 44,
           "genre": "Variete Francaise"
         },
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 42,
+          "plays": 40,
           "genre": "Dance"
         },
         {
@@ -549,8 +567,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 35,
+          "plays": 31,
           "genre": "Vaporwave"
+        },
+        {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Flying Fingers",
@@ -623,12 +647,6 @@
           "artist": "RÜFÜS DU SOL",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 6,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Day 'n' Nite (Nightmare)",
@@ -649,16 +667,16 @@
           "genre": "Soundtrack"
         },
         {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
+          "song": "Autobahn (Horalion Remix)",
+          "artist": "Horalion & Kraftwek",
+          "plays": 3,
+          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 712,
+      "total_plays": 727,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -695,6 +713,10 @@
         {
           "artist": "Nihonzera",
           "plays": 35
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
         },
         {
           "artist": "MotorBass",
@@ -749,10 +771,6 @@
           "plays": 6
         },
         {
-          "artist": "Préface",
-          "plays": 6
-        },
-        {
           "artist": "Francis Cabrel",
           "plays": 6
         },
@@ -764,7 +782,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 214
+          "plays": 215
         },
         {
           "genre": "Dance",
@@ -772,7 +790,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 111
+          "plays": 123
         },
         {
           "genre": "Soft Rock",
@@ -788,7 +806,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 13
+          "plays": 14
         },
         {
           "genre": "Disco",
@@ -808,7 +826,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 5
+          "plays": 6
         },
         {
           "genre": "Soundtrack",
@@ -909,6 +927,12 @@
           "genre": "Vaporwave"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 14,
@@ -979,12 +1003,6 @@
           "artist": "RÜFÜS DU SOL",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 6,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Day 'n' Nite (Nightmare)",
@@ -1014,7 +1032,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 712,
+      "total_plays": 727,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1051,6 +1069,10 @@
         {
           "artist": "Nihonzera",
           "plays": 35
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
         },
         {
           "artist": "MotorBass",
@@ -1105,10 +1127,6 @@
           "plays": 6
         },
         {
-          "artist": "Préface",
-          "plays": 6
-        },
-        {
           "artist": "Francis Cabrel",
           "plays": 6
         },
@@ -1120,7 +1138,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 214
+          "plays": 215
         },
         {
           "genre": "Dance",
@@ -1128,7 +1146,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 111
+          "plays": 123
         },
         {
           "genre": "Soft Rock",
@@ -1144,7 +1162,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 13
+          "plays": 14
         },
         {
           "genre": "Disco",
@@ -1164,7 +1182,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 5
+          "plays": 6
         },
         {
           "genre": "Soundtrack",
@@ -1265,6 +1283,12 @@
           "genre": "Vaporwave"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 14,
@@ -1335,12 +1359,6 @@
           "artist": "RÜFÜS DU SOL",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 6,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Day 'n' Nite (Nightmare)",
@@ -1370,7 +1388,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 712,
+      "total_plays": 727,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1407,6 +1425,10 @@
         {
           "artist": "Nihonzera",
           "plays": 35
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
         },
         {
           "artist": "MotorBass",
@@ -1461,10 +1483,6 @@
           "plays": 6
         },
         {
-          "artist": "Préface",
-          "plays": 6
-        },
-        {
           "artist": "Francis Cabrel",
           "plays": 6
         },
@@ -1476,7 +1494,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 214
+          "plays": 215
         },
         {
           "genre": "Dance",
@@ -1484,7 +1502,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 111
+          "plays": 123
         },
         {
           "genre": "Soft Rock",
@@ -1500,7 +1518,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 13
+          "plays": 14
         },
         {
           "genre": "Disco",
@@ -1520,7 +1538,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 5
+          "plays": 6
         },
         {
           "genre": "Soundtrack",
@@ -1621,6 +1639,12 @@
           "genre": "Vaporwave"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 14,
@@ -1691,12 +1715,6 @@
           "artist": "RÜFÜS DU SOL",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 6,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Day 'n' Nite (Nightmare)",
@@ -1726,7 +1744,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 712,
+      "total_plays": 727,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1763,6 +1781,10 @@
         {
           "artist": "Nihonzera",
           "plays": 35
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
         },
         {
           "artist": "MotorBass",
@@ -1817,10 +1839,6 @@
           "plays": 6
         },
         {
-          "artist": "Préface",
-          "plays": 6
-        },
-        {
           "artist": "Francis Cabrel",
           "plays": 6
         },
@@ -1832,7 +1850,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 214
+          "plays": 215
         },
         {
           "genre": "Dance",
@@ -1840,7 +1858,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 111
+          "plays": 123
         },
         {
           "genre": "Soft Rock",
@@ -1856,7 +1874,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 13
+          "plays": 14
         },
         {
           "genre": "Disco",
@@ -1876,7 +1894,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 5
+          "plays": 6
         },
         {
           "genre": "Soundtrack",
@@ -1977,6 +1995,12 @@
           "genre": "Vaporwave"
         },
         {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 14,
@@ -2047,12 +2071,6 @@
           "artist": "RÜFÜS DU SOL",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 6,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Day 'n' Nite (Nightmare)",
@@ -2273,6 +2291,11 @@
       "plays": 6
     },
     {
+      "date": "2026-05-04",
+      "id": "5f68cdbf3f1da1bd",
+      "plays": 12
+    },
+    {
       "date": "2026-04-30",
       "id": "6aba7f3ef09ca864",
       "plays": 1
@@ -2358,6 +2381,11 @@
       "plays": 2
     },
     {
+      "date": "2026-05-04",
+      "id": "88a2ec6431dfd6f1",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "89a602a5057a08f8",
       "plays": 4
@@ -2438,6 +2466,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-04",
+      "id": "ba6e11f9199824e4",
+      "plays": 1
+    },
+    {
       "date": "2026-04-26",
       "id": "bcf443a888c0ec76",
       "plays": 10
@@ -2513,6 +2546,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-04",
+      "id": "eee8d48b66a3e9e7",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "f1cc741d7d4348d7",
       "plays": 4
@@ -2559,6 +2597,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-03",
-  "snapshot_count": 13
+  "latest_snapshot": "2026-05-04",
+  "snapshot_count": 14
 }

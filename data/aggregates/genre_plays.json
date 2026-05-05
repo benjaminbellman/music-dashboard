@@ -1,7 +1,7 @@
 [
   {
     "genre": "Pop",
-    "plays": 34702,
+    "plays": 34703,
     "songs": 709
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "genre": "Electronic",
-    "plays": 23080,
+    "plays": 23081,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17968,
+    "plays": 17980,
     "songs": 281
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2698,
+    "plays": 2699,
     "songs": 69
   },
   {
