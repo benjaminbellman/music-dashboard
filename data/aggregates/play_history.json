@@ -44,55 +44,11 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 48,
+      "total_plays": 15,
       "top_artists": [
         {
           "artist": "Préface",
           "plays": 12
-        },
-        {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6
-        },
-        {
-          "artist": "Francis Cabrel",
-          "plays": 6
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 4
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 2
-        },
-        {
-          "artist": "The Strumbellas",
-          "plays": 2
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 1
-        },
-        {
-          "artist": "Cour De Recré",
-          "plays": 1
-        },
-        {
-          "artist": "French 79",
-          "plays": 1
-        },
-        {
-          "artist": "Armin van Buuren",
-          "plays": 1
-        },
-        {
-          "artist": "The Glitch Mob",
-          "plays": 1
-        },
-        {
-          "artist": "Feist",
-          "plays": 1
         },
         {
           "artist": "Fatboy Slim",
@@ -103,81 +59,29 @@
           "plays": 1
         },
         {
-          "artist": "Cassius",
-          "plays": 1
-        },
-        {
-          "artist": "Horalion",
-          "plays": 1
-        },
-        {
           "artist": "Flight Facilities",
           "plays": 1
         },
         {
-          "artist": "Eric Prydz",
-          "plays": 1
-        },
-        {
-          "artist": "Huey Lewis & The News",
-          "plays": 1
-        },
-        {
-          "artist": "Billie Eilish",
-          "plays": 1
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 1
-        },
-        {
-          "artist": "Anri",
-          "plays": 1
-        },
-        {
-          "artist": "Night Tempo",
-          "plays": 1
-        },
-        {
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 1
-        },
-        {
-          "artist": "Asaf Avidan",
+          "artist": "Taylor Swift",
           "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Variete Francaise",
-          "plays": 17
-        },
-        {
-          "genre": "Pop",
-          "plays": 9
+          "plays": 12
         },
         {
           "genre": "Electronic",
-          "plays": 8
-        },
-        {
-          "genre": "Dance",
-          "plays": 6
-        },
-        {
-          "genre": "mashup",
-          "plays": 4
-        },
-        {
-          "genre": "Folk",
-          "plays": 2
-        },
-        {
-          "genre": "Alternative",
           "plays": 1
         },
         {
-          "genre": "Future Funk",
+          "genre": "mashup",
+          "plays": 1
+        },
+        {
+          "genre": "Pop",
           "plays": 1
         }
       ],
@@ -189,142 +93,16 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 4,
-          "genre": "Dance"
-        },
-        {
-          "song": "Lencre De Tes Yeux",
-          "artist": "Francis Cabrel",
-          "plays": 3,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Spirits",
-          "artist": "The Strumbellas",
-          "plays": 2,
-          "genre": "Folk"
-        },
-        {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "J'ai envie de toi (feat. Gaia)",
-          "artist": "Armin van Buuren",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "We Can Make the World Stop",
-          "artist": "The Glitch Mob",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "La Corrida",
-          "artist": "Francis Cabrel",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Satisfaction Skank",
           "artist": "Fatboy Slim & The Rolling Stones",
           "plays": 1,
           "genre": "Electronic"
         },
         {
-          "song": "Rollin' & Scratchin'",
-          "artist": "Daft Punk",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "1999 (Horalion Remix)",
-          "artist": "Cassius & Horalion",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
           "song": "2002 - 2012 Decade Mix",
           "artist": "Flight Facilities",
           "plays": 1,
           "genre": "mashup"
-        },
-        {
-          "song": "Call On Me",
-          "artist": "Eric Prydz",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Do You Believe In Love",
-          "artist": "Huey Lewis & The News",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "BIRDS OF A FEATHER",
-          "artist": "Billie Eilish",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Nightwalk",
-          "artist": "Lifelike",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Lady Sunshine(Night Tempo Remix)",
-          "artist": "Anri & Night Tempo",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Golden Cage (Fred Falke Remix)",
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Corrida One Day (Mighty Mike Edit)",
-          "artist": "Francis Cabrel & Asaf Avidan",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "L'encre de tes yeux (Ocean Avenue Remix)",
-          "artist": "Francis Cabrel",
-          "plays": 1,
-          "genre": "Variete Francaise"
         },
         {
           "song": "The Fate of Ophelia",
@@ -2597,6 +2375,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-04",
-  "snapshot_count": 14
+  "latest_snapshot": "2026-05-05",
+  "snapshot_count": 15
 }
