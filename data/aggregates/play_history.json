@@ -39,16 +39,32 @@
     {
       "date": "2026-05-04",
       "plays": 15
+    },
+    {
+      "date": "2026-05-06",
+      "plays": 3
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 15,
+      "total_plays": 18,
       "top_artists": [
         {
           "artist": "Préface",
           "plays": 12
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 2
+        },
+        {
+          "artist": "The Beatles",
+          "plays": 1
+        },
+        {
+          "artist": "PNAU",
+          "plays": 1
         },
         {
           "artist": "Fatboy Slim",
@@ -56,10 +72,6 @@
         },
         {
           "artist": "The Rolling Stones",
-          "plays": 1
-        },
-        {
-          "artist": "Flight Facilities",
           "plays": 1
         },
         {
@@ -73,15 +85,19 @@
           "plays": 12
         },
         {
-          "genre": "Electronic",
-          "plays": 1
+          "genre": "Pop",
+          "plays": 2
         },
         {
           "genre": "mashup",
+          "plays": 2
+        },
+        {
+          "genre": "Rock",
           "plays": 1
         },
         {
-          "genre": "Pop",
+          "genre": "Electronic",
           "plays": 1
         }
       ],
@@ -93,16 +109,28 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 2,
+          "genre": "mashup"
+        },
+        {
+          "song": "Yesterday",
+          "artist": "The Beatles",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "Chameleon",
+          "artist": "PNAU",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
           "song": "Satisfaction Skank",
           "artist": "Fatboy Slim & The Rolling Stones",
           "plays": 1,
           "genre": "Electronic"
-        },
-        {
-          "song": "2002 - 2012 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 1,
-          "genre": "mashup"
         },
         {
           "song": "The Fate of Ophelia",
@@ -114,7 +142,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 685,
+      "total_plays": 688,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -244,7 +272,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Britpop",
@@ -260,7 +288,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Hip Hop/Rap",
@@ -288,6 +316,10 @@
         },
         {
           "genre": "Trance",
+          "plays": 1
+        },
+        {
+          "genre": "Rock",
           "plays": 1
         },
         {
@@ -454,7 +486,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 727,
+      "total_plays": 730,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -584,7 +616,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 14
+          "plays": 15
         },
         {
           "genre": "Disco",
@@ -604,7 +636,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 6
+          "plays": 7
+        },
+        {
+          "genre": "Rock",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -612,10 +648,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "Rock",
           "plays": 3
         },
         {
@@ -810,7 +842,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 727,
+      "total_plays": 730,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -940,7 +972,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 14
+          "plays": 15
         },
         {
           "genre": "Disco",
@@ -960,7 +992,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 6
+          "plays": 7
+        },
+        {
+          "genre": "Rock",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -968,10 +1004,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "Rock",
           "plays": 3
         },
         {
@@ -1166,7 +1198,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 727,
+      "total_plays": 730,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1296,7 +1328,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 14
+          "plays": 15
         },
         {
           "genre": "Disco",
@@ -1316,7 +1348,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 6
+          "plays": 7
+        },
+        {
+          "genre": "Rock",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -1324,10 +1360,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "Rock",
           "plays": 3
         },
         {
@@ -1522,7 +1554,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 727,
+      "total_plays": 730,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1652,7 +1684,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 14
+          "plays": 15
         },
         {
           "genre": "Disco",
@@ -1672,7 +1704,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 6
+          "plays": 7
+        },
+        {
+          "genre": "Rock",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
@@ -1680,10 +1716,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "Rock",
           "plays": 3
         },
         {
@@ -2079,6 +2111,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-06",
+      "id": "6b11d19cc05a3eae",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "6b1a79650f19037f",
       "plays": 2
@@ -2132,6 +2169,11 @@
       "date": "2026-04-30",
       "id": "7f2e6f83890c2007",
       "plays": 3
+    },
+    {
+      "date": "2026-05-06",
+      "id": "807a0046c81798ec",
+      "plays": 1
     },
     {
       "date": "2026-04-20",
@@ -2245,6 +2287,11 @@
     },
     {
       "date": "2026-05-04",
+      "id": "ba6e11f9199824e4",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-06",
       "id": "ba6e11f9199824e4",
       "plays": 1
     },
@@ -2375,6 +2422,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-05",
-  "snapshot_count": 15
+  "latest_snapshot": "2026-05-06",
+  "snapshot_count": 16
 }
