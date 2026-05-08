@@ -46,14 +46,18 @@
     },
     {
       "date": "2026-05-07",
-      "plays": 5
+      "plays": 41
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 8,
+      "total_plays": 44,
       "top_artists": [
+        {
+          "artist": "MotorBass",
+          "plays": 37
+        },
         {
           "artist": "Weiss",
           "plays": 3
@@ -73,13 +77,13 @@
         {
           "artist": "Flight Facilities",
           "plays": 1
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 1
         }
       ],
       "top_genres": [
+        {
+          "genre": "Electronic",
+          "plays": 37
+        },
         {
           "genre": "House",
           "plays": 3
@@ -99,13 +103,15 @@
         {
           "genre": "mashup",
           "plays": 1
-        },
-        {
-          "genre": "Electronic",
-          "plays": 1
         }
       ],
       "top_tracks": [
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 37,
+          "genre": "Electronic"
+        },
         {
           "song": "Feel My Needs",
           "artist": "Weiss",
@@ -135,18 +141,12 @@
           "artist": "Flight Facilities",
           "plays": 1,
           "genre": "mashup"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 1,
-          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 659,
+      "total_plays": 695,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -159,6 +159,10 @@
         {
           "artist": "Cour De Recré",
           "plays": 56
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 51
         },
         {
           "artist": "Calvin Harris",
@@ -186,10 +190,6 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 15
-        },
-        {
-          "artist": "MotorBass",
           "plays": 15
         },
         {
@@ -252,7 +252,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 213
+          "plays": 249
         },
         {
           "genre": "Dance",
@@ -335,6 +335,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 51,
+          "genre": "Electronic"
+        },
+        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
           "plays": 50,
@@ -369,12 +375,6 @@
           "artist": "Nihonzera",
           "plays": 15,
           "genre": "Vaporwave"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 15,
-          "genre": "Electronic"
         },
         {
           "song": "Three Lions '98",
@@ -470,7 +470,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 735,
+      "total_plays": 771,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -493,6 +493,10 @@
           "plays": 51
         },
         {
+          "artist": "MotorBass",
+          "plays": 51
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 45
         },
@@ -511,10 +515,6 @@
         {
           "artist": "Préface",
           "plays": 18
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 15
         },
         {
           "artist": "Donna Summer",
@@ -576,7 +576,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 216
+          "plays": 252
         },
         {
           "genre": "Dance",
@@ -697,6 +697,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 51,
+          "genre": "Electronic"
+        },
+        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 45,
@@ -725,12 +731,6 @@
           "artist": "Préface",
           "plays": 18,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 15,
-          "genre": "Electronic"
         },
         {
           "song": "Three Lions '98",
@@ -826,7 +826,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 735,
+      "total_plays": 771,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -849,6 +849,10 @@
           "plays": 51
         },
         {
+          "artist": "MotorBass",
+          "plays": 51
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 45
         },
@@ -867,10 +871,6 @@
         {
           "artist": "Préface",
           "plays": 18
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 15
         },
         {
           "artist": "Donna Summer",
@@ -932,7 +932,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 216
+          "plays": 252
         },
         {
           "genre": "Dance",
@@ -1053,6 +1053,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 51,
+          "genre": "Electronic"
+        },
+        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 45,
@@ -1081,12 +1087,6 @@
           "artist": "Préface",
           "plays": 18,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 15,
-          "genre": "Electronic"
         },
         {
           "song": "Three Lions '98",
@@ -1182,7 +1182,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 735,
+      "total_plays": 771,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1205,6 +1205,10 @@
           "plays": 51
         },
         {
+          "artist": "MotorBass",
+          "plays": 51
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 45
         },
@@ -1223,10 +1227,6 @@
         {
           "artist": "Préface",
           "plays": 18
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 15
         },
         {
           "artist": "Donna Summer",
@@ -1288,7 +1288,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 216
+          "plays": 252
         },
         {
           "genre": "Dance",
@@ -1409,6 +1409,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 51,
+          "genre": "Electronic"
+        },
+        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 45,
@@ -1437,12 +1443,6 @@
           "artist": "Préface",
           "plays": 18,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 15,
-          "genre": "Electronic"
         },
         {
           "song": "Three Lions '98",
@@ -1538,7 +1538,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 735,
+      "total_plays": 771,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1561,6 +1561,10 @@
           "plays": 51
         },
         {
+          "artist": "MotorBass",
+          "plays": 51
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 45
         },
@@ -1579,10 +1583,6 @@
         {
           "artist": "Préface",
           "plays": 18
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 15
         },
         {
           "artist": "Donna Summer",
@@ -1644,7 +1644,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 216
+          "plays": 252
         },
         {
           "genre": "Dance",
@@ -1765,6 +1765,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 51,
+          "genre": "Electronic"
+        },
+        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 45,
@@ -1793,12 +1799,6 @@
           "artist": "Préface",
           "plays": 18,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 15,
-          "genre": "Electronic"
         },
         {
           "song": "Three Lions '98",
@@ -2387,7 +2387,7 @@
     {
       "date": "2026-05-07",
       "id": "f2603e959d7cf580",
-      "plays": 1
+      "plays": 37
     },
     {
       "date": "2026-04-26",
