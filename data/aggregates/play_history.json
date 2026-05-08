@@ -146,19 +146,19 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 695,
+      "total_plays": 666,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 132
+          "plays": 120
         },
         {
           "artist": "Luther Vandross",
-          "plays": 96
+          "plays": 90
         },
         {
           "artist": "Cour De Recré",
-          "plays": 56
+          "plays": 51
         },
         {
           "artist": "MotorBass",
@@ -174,7 +174,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 44
+          "plays": 43
         },
         {
           "artist": "Supermode",
@@ -190,23 +190,15 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 15
+          "plays": 14
         },
         {
           "artist": "Baddiel Skinner",
-          "plays": 12
+          "plays": 11
         },
         {
           "artist": "442oons",
-          "plays": 11
-        },
-        {
-          "artist": "Donna Summer",
-          "plays": 11
-        },
-        {
-          "artist": "Hunter",
-          "plays": 11
+          "plays": 10
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -221,6 +213,10 @@
           "plays": 10
         },
         {
+          "artist": "Donna Summer",
+          "plays": 10
+        },
+        {
           "artist": "Tony Igy",
           "plays": 10
         },
@@ -230,6 +226,10 @@
         },
         {
           "artist": "Claude François",
+          "plays": 10
+        },
+        {
+          "artist": "Hunter",
           "plays": 10
         },
         {
@@ -252,7 +252,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 249
+          "plays": 232
         },
         {
           "genre": "Dance",
@@ -260,19 +260,19 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 118
+          "plays": 116
         },
         {
           "genre": "Soft Rock",
-          "plays": 97
+          "plays": 91
         },
         {
           "genre": "Comedy",
-          "plays": 21
+          "plays": 20
         },
         {
           "genre": "Vaporwave",
-          "plays": 15
+          "plays": 14
         },
         {
           "genre": "House",
@@ -280,14 +280,14 @@
         },
         {
           "genre": "Britpop",
-          "plays": 12
-        },
-        {
-          "genre": "Disco",
           "plays": 11
         },
         {
           "genre": "Pop",
+          "plays": 10
+        },
+        {
+          "genre": "Disco",
           "plays": 10
         },
         {
@@ -319,19 +319,19 @@
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 132,
+          "plays": 120,
           "genre": "Electronic"
         },
         {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
-          "plays": 96,
+          "plays": 90,
           "genre": "Soft Rock"
         },
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 56,
+          "plays": 51,
           "genre": "Electronic"
         },
         {
@@ -349,7 +349,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 44,
+          "plays": 43,
           "genre": "Variete Francaise"
         },
         {
@@ -373,32 +373,20 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 15,
+          "plays": 14,
           "genre": "Vaporwave"
         },
         {
           "song": "Three Lions '98",
           "artist": "Baddiel Skinner",
-          "plays": 12,
+          "plays": 11,
           "genre": "Britpop"
         },
         {
           "song": "Who Won The League",
           "artist": "442oons",
-          "plays": 11,
+          "plays": 10,
           "genre": "Comedy"
-        },
-        {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 11,
-          "genre": "Disco"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 11,
-          "genre": "Variete Francaise"
         },
         {
           "song": "We're All Asian (feat. DJ Not Nice)",
@@ -419,6 +407,12 @@
           "genre": "Dance"
         },
         {
+          "song": "I Feel Love",
+          "artist": "Donna Summer",
+          "plays": 10,
+          "genre": "Disco"
+        },
+        {
           "song": "Astronomia (Coffin Versiion)",
           "artist": "Tony Igy",
           "plays": 10,
@@ -435,6 +429,12 @@
           "artist": "Claude François & Fred Falke",
           "plays": 10,
           "genre": "House"
+        },
+        {
+          "song": "Lady",
+          "artist": "Hunter",
+          "plays": 10,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Break My Love",
@@ -2421,6 +2421,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-07",
-  "snapshot_count": 17
+  "latest_snapshot": "2026-05-08",
+  "snapshot_count": 18
 }
