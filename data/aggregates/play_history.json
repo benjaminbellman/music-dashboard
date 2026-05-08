@@ -43,20 +43,20 @@
     {
       "date": "2026-05-06",
       "plays": 3
+    },
+    {
+      "date": "2026-05-07",
+      "plays": 5
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 18,
+      "total_plays": 8,
       "top_artists": [
         {
-          "artist": "Préface",
-          "plays": 12
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 2
+          "artist": "Weiss",
+          "plays": 3
         },
         {
           "artist": "The Beatles",
@@ -67,33 +67,37 @@
           "plays": 1
         },
         {
-          "artist": "Fatboy Slim",
+          "artist": "Baddiel Skinner",
           "plays": 1
         },
         {
-          "artist": "The Rolling Stones",
+          "artist": "Flight Facilities",
           "plays": 1
         },
         {
-          "artist": "Taylor Swift",
+          "artist": "MotorBass",
           "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Variete Francaise",
-          "plays": 12
-        },
-        {
-          "genre": "Pop",
-          "plays": 2
-        },
-        {
-          "genre": "mashup",
-          "plays": 2
+          "genre": "House",
+          "plays": 3
         },
         {
           "genre": "Rock",
+          "plays": 1
+        },
+        {
+          "genre": "Pop",
+          "plays": 1
+        },
+        {
+          "genre": "Britpop",
+          "plays": 1
+        },
+        {
+          "genre": "mashup",
           "plays": 1
         },
         {
@@ -103,16 +107,10 @@
       ],
       "top_tracks": [
         {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 12,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "2002 - 2012 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
+          "song": "Feel My Needs",
+          "artist": "Weiss",
+          "plays": 3,
+          "genre": "House"
         },
         {
           "song": "Yesterday",
@@ -127,22 +125,28 @@
           "genre": "Pop"
         },
         {
-          "song": "Satisfaction Skank",
-          "artist": "Fatboy Slim & The Rolling Stones",
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
           "plays": 1,
-          "genre": "Electronic"
+          "genre": "Britpop"
         },
         {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
           "plays": 1,
-          "genre": "Pop"
+          "genre": "mashup"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 1,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 688,
+      "total_plays": 659,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -158,11 +162,11 @@
         },
         {
           "artist": "Calvin Harris",
-          "plays": 51
+          "plays": 50
         },
         {
           "artist": "John Newman",
-          "plays": 51
+          "plays": 50
         },
         {
           "artist": "France Football Anthem",
@@ -177,27 +181,23 @@
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
-          "plays": 31
-        },
-        {
           "artist": "Préface",
           "plays": 18
         },
         {
+          "artist": "Nihonzera",
+          "plays": 15
+        },
+        {
           "artist": "MotorBass",
-          "plays": 14
-        },
-        {
-          "artist": "442oons",
-          "plays": 11
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 11
+          "plays": 15
         },
         {
           "artist": "Baddiel Skinner",
+          "plays": 12
+        },
+        {
+          "artist": "442oons",
           "plays": 11
         },
         {
@@ -210,6 +210,10 @@
         },
         {
           "artist": "Rucka Rucka Ali",
+          "plays": 10
+        },
+        {
+          "artist": "Bon Entendeur",
           "plays": 10
         },
         {
@@ -237,53 +241,53 @@
           "plays": 6
         },
         {
-          "artist": "Kid Cudi",
+          "artist": "Bob Sinclar",
           "plays": 4
         },
         {
-          "artist": "Bob Sinclar",
+          "artist": "Horalion",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 214
+          "plays": 213
         },
         {
           "genre": "Dance",
-          "plays": 140
+          "plays": 138
         },
         {
           "genre": "Variete Francaise",
-          "plays": 119
+          "plays": 118
         },
         {
           "genre": "Soft Rock",
           "plays": 97
         },
         {
-          "genre": "Vaporwave",
-          "plays": 31
-        },
-        {
           "genre": "Comedy",
           "plays": 21
         },
         {
-          "genre": "Pop",
-          "plays": 12
+          "genre": "Vaporwave",
+          "plays": 15
+        },
+        {
+          "genre": "House",
+          "plays": 13
         },
         {
           "genre": "Britpop",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Disco",
           "plays": 11
         },
         {
-          "genre": "House",
+          "genre": "Pop",
           "plays": 10
         },
         {
@@ -291,24 +295,8 @@
           "plays": 5
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 4
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 4
-        },
-        {
           "genre": "Folk",
           "plays": 2
-        },
-        {
-          "genre": "Oldies",
-          "plays": 1
-        },
-        {
-          "genre": "Lowfi",
-          "plays": 1
         },
         {
           "genre": "Alternative",
@@ -324,10 +312,6 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "City Pop",
           "plays": 1
         }
       ],
@@ -353,7 +337,7 @@
         {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
-          "plays": 51,
+          "plays": 50,
           "genre": "Dance"
         },
         {
@@ -375,34 +359,34 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 31,
-          "genre": "Vaporwave"
-        },
-        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 18,
           "genre": "Variete Francaise"
         },
         {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 15,
+          "genre": "Vaporwave"
+        },
+        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 14,
+          "plays": 15,
           "genre": "Electronic"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 12,
+          "genre": "Britpop"
         },
         {
           "song": "Who Won The League",
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
         },
         {
           "song": "I Feel Love",
@@ -459,34 +443,34 @@
           "genre": "Pop"
         },
         {
-          "song": "Day 'n' Nite (Nightmare)",
-          "artist": "Kid Cudi",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
-        },
-        {
           "song": "I Can't Wait",
           "artist": "Bob Sinclar",
           "plays": 4,
           "genre": "Dance"
         },
         {
-          "song": "Summer Night",
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4,
-          "genre": "Soundtrack"
+          "song": "Feel My Needs",
+          "artist": "Weiss",
+          "plays": 3,
+          "genre": "House"
         },
         {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
           "plays": 3,
           "genre": "Electronic"
+        },
+        {
+          "song": "Lencre De Tes Yeux",
+          "artist": "Francis Cabrel",
+          "plays": 3,
+          "genre": "Variete Francaise"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 730,
+      "total_plays": 735,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -530,11 +514,15 @@
         },
         {
           "artist": "MotorBass",
-          "plays": 14
+          "plays": 15
         },
         {
           "artist": "Donna Summer",
           "plays": 13
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 12
         },
         {
           "artist": "442oons",
@@ -542,10 +530,6 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 11
-        },
-        {
-          "artist": "Baddiel Skinner",
           "plays": 11
         },
         {
@@ -585,14 +569,14 @@
           "plays": 6
         },
         {
-          "artist": "Kid Cudi",
+          "artist": "Weiss",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 215
+          "plays": 216
         },
         {
           "genre": "Dance",
@@ -619,16 +603,16 @@
           "plays": 15
         },
         {
+          "genre": "House",
+          "plays": 14
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
-          "genre": "House",
-          "plays": 11
-        },
-        {
           "genre": "Britpop",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Hip Hop/Rap",
@@ -745,20 +729,20 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 14,
+          "plays": 15,
           "genre": "Electronic"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 12,
+          "genre": "Britpop"
         },
         {
           "song": "Who Won The League",
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
         },
         {
           "song": "I Feel Love",
@@ -815,6 +799,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Feel My Needs",
+          "artist": "Weiss",
+          "plays": 4,
+          "genre": "House"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -831,18 +821,12 @@
           "artist": "Garden City Movement  Lola Marsh",
           "plays": 4,
           "genre": "Soundtrack"
-        },
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 730,
+      "total_plays": 735,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -886,11 +870,15 @@
         },
         {
           "artist": "MotorBass",
-          "plays": 14
+          "plays": 15
         },
         {
           "artist": "Donna Summer",
           "plays": 13
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 12
         },
         {
           "artist": "442oons",
@@ -898,10 +886,6 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 11
-        },
-        {
-          "artist": "Baddiel Skinner",
           "plays": 11
         },
         {
@@ -941,14 +925,14 @@
           "plays": 6
         },
         {
-          "artist": "Kid Cudi",
+          "artist": "Weiss",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 215
+          "plays": 216
         },
         {
           "genre": "Dance",
@@ -975,16 +959,16 @@
           "plays": 15
         },
         {
+          "genre": "House",
+          "plays": 14
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
-          "genre": "House",
-          "plays": 11
-        },
-        {
           "genre": "Britpop",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1101,20 +1085,20 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 14,
+          "plays": 15,
           "genre": "Electronic"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 12,
+          "genre": "Britpop"
         },
         {
           "song": "Who Won The League",
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
         },
         {
           "song": "I Feel Love",
@@ -1171,6 +1155,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Feel My Needs",
+          "artist": "Weiss",
+          "plays": 4,
+          "genre": "House"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1187,18 +1177,12 @@
           "artist": "Garden City Movement  Lola Marsh",
           "plays": 4,
           "genre": "Soundtrack"
-        },
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 730,
+      "total_plays": 735,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1242,11 +1226,15 @@
         },
         {
           "artist": "MotorBass",
-          "plays": 14
+          "plays": 15
         },
         {
           "artist": "Donna Summer",
           "plays": 13
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 12
         },
         {
           "artist": "442oons",
@@ -1254,10 +1242,6 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 11
-        },
-        {
-          "artist": "Baddiel Skinner",
           "plays": 11
         },
         {
@@ -1297,14 +1281,14 @@
           "plays": 6
         },
         {
-          "artist": "Kid Cudi",
+          "artist": "Weiss",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 215
+          "plays": 216
         },
         {
           "genre": "Dance",
@@ -1331,16 +1315,16 @@
           "plays": 15
         },
         {
+          "genre": "House",
+          "plays": 14
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
-          "genre": "House",
-          "plays": 11
-        },
-        {
           "genre": "Britpop",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1457,20 +1441,20 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 14,
+          "plays": 15,
           "genre": "Electronic"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 12,
+          "genre": "Britpop"
         },
         {
           "song": "Who Won The League",
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
         },
         {
           "song": "I Feel Love",
@@ -1527,6 +1511,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Feel My Needs",
+          "artist": "Weiss",
+          "plays": 4,
+          "genre": "House"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1543,18 +1533,12 @@
           "artist": "Garden City Movement  Lola Marsh",
           "plays": 4,
           "genre": "Soundtrack"
-        },
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 730,
+      "total_plays": 735,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1598,11 +1582,15 @@
         },
         {
           "artist": "MotorBass",
-          "plays": 14
+          "plays": 15
         },
         {
           "artist": "Donna Summer",
           "plays": 13
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 12
         },
         {
           "artist": "442oons",
@@ -1610,10 +1598,6 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 11
-        },
-        {
-          "artist": "Baddiel Skinner",
           "plays": 11
         },
         {
@@ -1653,14 +1637,14 @@
           "plays": 6
         },
         {
-          "artist": "Kid Cudi",
+          "artist": "Weiss",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 215
+          "plays": 216
         },
         {
           "genre": "Dance",
@@ -1687,16 +1671,16 @@
           "plays": 15
         },
         {
+          "genre": "House",
+          "plays": 14
+        },
+        {
           "genre": "Disco",
           "plays": 13
         },
         {
-          "genre": "House",
-          "plays": 11
-        },
-        {
           "genre": "Britpop",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1813,20 +1797,20 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 14,
+          "plays": 15,
           "genre": "Electronic"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 12,
+          "genre": "Britpop"
         },
         {
           "song": "Who Won The League",
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
         },
         {
           "song": "I Feel Love",
@@ -1883,6 +1867,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Feel My Needs",
+          "artist": "Weiss",
+          "plays": 4,
+          "genre": "House"
+        },
+        {
           "song": "Day 'n' Nite (Nightmare)",
           "artist": "Kid Cudi",
           "plays": 4,
@@ -1899,12 +1889,6 @@
           "artist": "Garden City Movement  Lola Marsh",
           "plays": 4,
           "genre": "Soundtrack"
-        },
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
         }
       ]
     }
@@ -2034,6 +2018,11 @@
       "date": "2026-04-20",
       "id": "337e9b4ff1341177",
       "plays": 1
+    },
+    {
+      "date": "2026-05-07",
+      "id": "337e9b4ff1341177",
+      "plays": 3
     },
     {
       "date": "2026-05-02",
@@ -2194,6 +2183,11 @@
       "date": "2026-04-26",
       "id": "861cc3b82ae76c95",
       "plays": 10
+    },
+    {
+      "date": "2026-05-07",
+      "id": "861cc3b82ae76c95",
+      "plays": 1
     },
     {
       "date": "2026-05-02",
@@ -2391,6 +2385,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-07",
+      "id": "f2603e959d7cf580",
+      "plays": 1
+    },
+    {
       "date": "2026-04-26",
       "id": "f37544456cef8be2",
       "plays": 40
@@ -2422,6 +2421,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-06",
-  "snapshot_count": 16
+  "latest_snapshot": "2026-05-07",
+  "snapshot_count": 17
 }
