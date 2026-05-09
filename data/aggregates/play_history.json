@@ -52,7 +52,7 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 44,
+      "total_plays": 41,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -63,19 +63,7 @@
           "plays": 3
         },
         {
-          "artist": "The Beatles",
-          "plays": 1
-        },
-        {
-          "artist": "PNAU",
-          "plays": 1
-        },
-        {
           "artist": "Baddiel Skinner",
-          "plays": 1
-        },
-        {
-          "artist": "Flight Facilities",
           "plays": 1
         }
       ],
@@ -89,19 +77,7 @@
           "plays": 3
         },
         {
-          "genre": "Rock",
-          "plays": 1
-        },
-        {
-          "genre": "Pop",
-          "plays": 1
-        },
-        {
           "genre": "Britpop",
-          "plays": 1
-        },
-        {
-          "genre": "mashup",
           "plays": 1
         }
       ],
@@ -119,28 +95,10 @@
           "genre": "House"
         },
         {
-          "song": "Yesterday",
-          "artist": "The Beatles",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Chameleon",
-          "artist": "PNAU",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
           "song": "Three Lions '98",
           "artist": "Baddiel Skinner",
           "plays": 1,
           "genre": "Britpop"
-        },
-        {
-          "song": "2002 - 2012 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 1,
-          "genre": "mashup"
         }
       ]
     },
@@ -2421,6 +2379,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-08",
-  "snapshot_count": 18
+  "latest_snapshot": "2026-05-09",
+  "snapshot_count": 19
 }
