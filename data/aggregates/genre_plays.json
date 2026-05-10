@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 34704,
+    "plays": 34711,
     "songs": 709
   },
   {
     "genre": "Dance",
-    "plays": 29312,
+    "plays": 29320,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23118,
+    "plays": 23133,
     "songs": 389
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11496,
+    "plays": 11504,
     "songs": 260
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "genre": "Disco",
-    "plays": 3766,
+    "plays": 3773,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3707,
+    "plays": 3715,
     "songs": 63
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3220,
+    "plays": 3228,
     "songs": 44
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "genre": "Jazz",
-    "plays": 344,
+    "plays": 351,
     "songs": 10
   },
   {

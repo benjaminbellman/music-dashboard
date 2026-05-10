@@ -305,7 +305,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4529,
+      "plays": 4536,
       "country": "FR"
     },
     {
@@ -436,15 +436,15 @@
     },
     {
       "rank": 23,
-      "artist": "Queen",
-      "plays": 900,
-      "country": "GB"
+      "artist": "Beach Boys",
+      "plays": 905,
+      "country": "US"
     },
     {
       "rank": 24,
-      "artist": "Beach Boys",
-      "plays": 898,
-      "country": "US"
+      "artist": "Queen",
+      "plays": 900,
+      "country": "GB"
     },
     {
       "rank": 25,

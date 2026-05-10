@@ -47,148 +47,192 @@
     {
       "date": "2026-05-07",
       "plays": 41
+    },
+    {
+      "date": "2026-05-10",
+      "plays": 68
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 41,
+      "total_plays": 68,
       "top_artists": [
         {
-          "artist": "MotorBass",
-          "plays": 37
+          "artist": "Oxmo Puccino",
+          "plays": 8
         },
         {
-          "artist": "Weiss",
-          "plays": 3
+          "artist": "Minako Yoshida",
+          "plays": 8
         },
         {
-          "artist": "Baddiel Skinner",
-          "plays": 1
+          "artist": "Rudolph",
+          "plays": 8
+        },
+        {
+          "artist": "Sweetpower",
+          "plays": 8
+        },
+        {
+          "artist": "Raki",
+          "plays": 8
+        },
+        {
+          "artist": "Boys Town Gang",
+          "plays": 7
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 7
+        },
+        {
+          "artist": "Beach Boys",
+          "plays": 7
+        },
+        {
+          "artist": "BadBadNotGood",
+          "plays": 7
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 37
+          "plays": 15
         },
         {
-          "genre": "House",
-          "plays": 3
+          "genre": "Hip Hop/Rap",
+          "plays": 8
         },
         {
-          "genre": "Britpop",
-          "plays": 1
+          "genre": "City Pop",
+          "plays": 8
+        },
+        {
+          "genre": "Oldies",
+          "plays": 8
+        },
+        {
+          "genre": "Dance",
+          "plays": 8
+        },
+        {
+          "genre": "Disco",
+          "plays": 7
+        },
+        {
+          "genre": "Pop",
+          "plays": 7
+        },
+        {
+          "genre": "Jazz",
+          "plays": 7
         }
       ],
       "top_tracks": [
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 37,
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 8,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Light n Up",
+          "artist": "Minako Yoshida",
+          "plays": 8,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
+          "artist": "Rudolph",
+          "plays": 8,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Happy Days (Radio Edit)",
+          "artist": "Sweetpower",
+          "plays": 8,
+          "genre": "Dance"
+        },
+        {
+          "song": "Mario Gomez - CHA CHA",
+          "artist": "Raki",
+          "plays": 8,
           "genre": "Electronic"
         },
         {
-          "song": "Feel My Needs",
-          "artist": "Weiss",
-          "plays": 3,
-          "genre": "House"
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 7,
+          "genre": "Disco"
         },
         {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 1,
-          "genre": "Britpop"
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
+          "plays": 7,
+          "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 7,
+          "genre": "Pop"
+        },
+        {
+          "song": "Confessions",
+          "artist": "BadBadNotGood",
+          "plays": 7,
+          "genre": "Jazz"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 666,
+      "total_plays": 193,
       "top_artists": [
-        {
-          "artist": "Roudoudou",
-          "plays": 120
-        },
-        {
-          "artist": "Luther Vandross",
-          "plays": 90
-        },
-        {
-          "artist": "Cour De Recré",
-          "plays": 51
-        },
         {
           "artist": "MotorBass",
           "plays": 51
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 50
-        },
-        {
-          "artist": "John Newman",
-          "plays": 50
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 43
-        },
-        {
-          "artist": "Supermode",
-          "plays": 40
-        },
-        {
-          "artist": "Maya",
-          "plays": 40
         },
         {
           "artist": "Préface",
           "plays": 18
         },
         {
-          "artist": "Nihonzera",
-          "plays": 14
+          "artist": "Daft Punk",
+          "plays": 9
         },
         {
-          "artist": "Baddiel Skinner",
-          "plays": 11
+          "artist": "Oxmo Puccino",
+          "plays": 8
         },
         {
-          "artist": "442oons",
-          "plays": 10
+          "artist": "Minako Yoshida",
+          "plays": 8
         },
         {
-          "artist": "Rucka Rucka Ali",
-          "plays": 10
+          "artist": "Rudolph",
+          "plays": 8
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 10
+          "artist": "Sweetpower",
+          "plays": 8
         },
         {
-          "artist": "Tez Cadey",
-          "plays": 10
+          "artist": "Raki",
+          "plays": 8
         },
         {
-          "artist": "Donna Summer",
-          "plays": 10
+          "artist": "Boys Town Gang",
+          "plays": 7
         },
         {
-          "artist": "Tony Igy",
-          "plays": 10
+          "artist": "Beach Boys",
+          "plays": 7
         },
         {
-          "artist": "Basshunter",
-          "plays": 10
-        },
-        {
-          "artist": "Claude François",
-          "plays": 10
-        },
-        {
-          "artist": "Hunter",
-          "plays": 10
+          "artist": "BadBadNotGood",
+          "plays": 7
         },
         {
           "artist": "RÜFÜS DU SOL",
@@ -205,56 +249,104 @@
         {
           "artist": "Horalion",
           "plays": 4
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 4
+        },
+        {
+          "artist": "Weiss",
+          "plays": 3
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 3
+        },
+        {
+          "artist": "French 79",
+          "plays": 2
+        },
+        {
+          "artist": "The Strumbellas",
+          "plays": 2
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 2
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 1
+        },
+        {
+          "artist": "Cour De Recré",
+          "plays": 1
+        },
+        {
+          "artist": "Chicago",
+          "plays": 1
+        },
+        {
+          "artist": "Armin van Buuren",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 232
-        },
-        {
-          "genre": "Dance",
-          "plays": 138
+          "plays": 77
         },
         {
           "genre": "Variete Francaise",
-          "plays": 116
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 91
-        },
-        {
-          "genre": "Comedy",
-          "plays": 20
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 14
-        },
-        {
-          "genre": "House",
-          "plays": 13
-        },
-        {
-          "genre": "Britpop",
-          "plays": 11
+          "plays": 26
         },
         {
           "genre": "Pop",
-          "plays": 10
+          "plays": 17
+        },
+        {
+          "genre": "Dance",
+          "plays": 15
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 8
+        },
+        {
+          "genre": "City Pop",
+          "plays": 8
+        },
+        {
+          "genre": "Oldies",
+          "plays": 8
         },
         {
           "genre": "Disco",
-          "plays": 10
+          "plays": 7
+        },
+        {
+          "genre": "Jazz",
+          "plays": 7
         },
         {
           "genre": "mashup",
           "plays": 5
         },
         {
+          "genre": "Vaporwave",
+          "plays": 4
+        },
+        {
+          "genre": "House",
+          "plays": 3
+        },
+        {
           "genre": "Folk",
           "plays": 2
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 1
         },
         {
           "genre": "Alternative",
@@ -269,58 +361,20 @@
           "plays": 1
         },
         {
+          "genre": "Britpop",
+          "plays": 1
+        },
+        {
           "genre": "Future Funk",
           "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 120,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 90,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 51,
-          "genre": "Electronic"
-        },
-        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 51,
           "genre": "Electronic"
-        },
-        {
-          "song": "Blame",
-          "artist": "Calvin Harris & John Newman",
-          "plays": 50,
-          "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 43,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 40,
-          "genre": "Dance"
-        },
-        {
-          "song": "Lait De Coco ( Les Yeux Orange Edit)",
-          "artist": "Maya",
-          "plays": 40,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Palace hotel",
@@ -329,70 +383,58 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 14,
-          "genre": "Vaporwave"
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 8,
+          "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 11,
-          "genre": "Britpop"
+          "song": "Light n Up",
+          "artist": "Minako Yoshida",
+          "plays": 8,
+          "genre": "City Pop"
         },
         {
-          "song": "Who Won The League",
-          "artist": "442oons",
-          "plays": 10,
-          "genre": "Comedy"
+          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
+          "artist": "Rudolph",
+          "plays": 8,
+          "genre": "Oldies"
         },
         {
-          "song": "We're All Asian (feat. DJ Not Nice)",
-          "artist": "Rucka Rucka Ali",
-          "plays": 10,
-          "genre": "Comedy"
-        },
-        {
-          "song": "L'amour",
-          "artist": "Bon Entendeur & Moulidgi",
-          "plays": 10,
+          "song": "Happy Days (Radio Edit)",
+          "artist": "Sweetpower",
+          "plays": 8,
           "genre": "Dance"
         },
         {
-          "song": "Seve (Original Mix)",
-          "artist": "Tez Cadey",
-          "plays": 10,
-          "genre": "Dance"
+          "song": "Mario Gomez - CHA CHA",
+          "artist": "Raki",
+          "plays": 8,
+          "genre": "Electronic"
         },
         {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 10,
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 7,
           "genre": "Disco"
         },
         {
-          "song": "Astronomia (Coffin Versiion)",
-          "artist": "Tony Igy",
-          "plays": 10,
-          "genre": "Dance"
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
+          "plays": 7,
+          "genre": "Electronic"
         },
         {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 10,
-          "genre": "Dance"
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 7,
+          "genre": "Pop"
         },
         {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 10,
-          "genre": "House"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 10,
-          "genre": "Variete Francaise"
+          "song": "Confessions",
+          "artist": "BadBadNotGood",
+          "plays": 7,
+          "genre": "Jazz"
         },
         {
           "song": "Break My Love",
@@ -407,10 +449,22 @@
           "genre": "Dance"
         },
         {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 4,
+          "genre": "Vaporwave"
+        },
+        {
           "song": "Feel My Needs",
           "artist": "Weiss",
           "plays": 3,
           "genre": "House"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 3,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Autobahn (Horalion Remix)",
@@ -423,12 +477,54 @@
           "artist": "Francis Cabrel",
           "plays": 3,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Spirits",
+          "artist": "The Strumbellas",
+          "plays": 2,
+          "genre": "Folk"
+        },
+        {
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 2,
+          "genre": "mashup"
+        },
+        {
+          "song": "Veridis Quo x In Your Eyes",
+          "artist": "Daft Punk & The Weeknd",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "GiscardPunk",
+          "artist": "Cour De Recré",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Beginnings",
+          "artist": "Chicago",
+          "plays": 1,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "J'ai envie de toi (feat. Gaia)",
+          "artist": "Armin van Buuren",
+          "plays": 1,
+          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 771,
+      "total_plays": 839,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -475,6 +571,10 @@
           "plays": 18
         },
         {
+          "artist": "Daft Punk",
+          "plays": 13
+        },
+        {
           "artist": "Donna Summer",
           "plays": 13
         },
@@ -515,30 +615,26 @@
           "plays": 10
         },
         {
-          "artist": "Daft Punk",
-          "plays": 6
+          "artist": "Oxmo Puccino",
+          "plays": 8
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6
+          "artist": "Minako Yoshida",
+          "plays": 8
         },
         {
-          "artist": "Francis Cabrel",
-          "plays": 6
-        },
-        {
-          "artist": "Weiss",
-          "plays": 4
+          "artist": "Rudolph",
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 252
+          "plays": 267
         },
         {
           "genre": "Dance",
-          "plays": 150
+          "plays": 158
         },
         {
           "genre": "Variete Francaise",
@@ -553,31 +649,43 @@
           "plays": 35
         },
         {
+          "genre": "Pop",
+          "plays": 22
+        },
+        {
           "genre": "Comedy",
           "plays": 21
         },
         {
-          "genre": "Pop",
-          "plays": 15
+          "genre": "Disco",
+          "plays": 20
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 16
         },
         {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Disco",
-          "plays": 13
-        },
-        {
           "genre": "Britpop",
           "plays": 12
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
+          "genre": "Oldies",
+          "plays": 11
+        },
+        {
+          "genre": "City Pop",
+          "plays": 10
         },
         {
           "genre": "mashup",
+          "plays": 7
+        },
+        {
+          "genre": "Jazz",
           "plays": 7
         },
         {
@@ -587,14 +695,6 @@
         {
           "genre": "Soundtrack",
           "plays": 4
-        },
-        {
-          "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
         },
         {
           "genre": "Country",
@@ -751,40 +851,40 @@
           "genre": "House"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6,
-          "genre": "Pop"
-        },
-        {
-          "song": "Feel My Needs",
-          "artist": "Weiss",
-          "plays": 4,
-          "genre": "House"
-        },
-        {
-          "song": "Day 'n' Nite (Nightmare)",
-          "artist": "Kid Cudi",
-          "plays": 4,
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 8,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 4,
+          "song": "Light n Up",
+          "artist": "Minako Yoshida",
+          "plays": 8,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
+          "artist": "Rudolph",
+          "plays": 8,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Happy Days (Radio Edit)",
+          "artist": "Sweetpower",
+          "plays": 8,
           "genre": "Dance"
         },
         {
-          "song": "Summer Night",
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4,
-          "genre": "Soundtrack"
+          "song": "Mario Gomez - CHA CHA",
+          "artist": "Raki",
+          "plays": 8,
+          "genre": "Electronic"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 771,
+      "total_plays": 839,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -831,6 +931,10 @@
           "plays": 18
         },
         {
+          "artist": "Daft Punk",
+          "plays": 13
+        },
+        {
           "artist": "Donna Summer",
           "plays": 13
         },
@@ -871,30 +975,26 @@
           "plays": 10
         },
         {
-          "artist": "Daft Punk",
-          "plays": 6
+          "artist": "Oxmo Puccino",
+          "plays": 8
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6
+          "artist": "Minako Yoshida",
+          "plays": 8
         },
         {
-          "artist": "Francis Cabrel",
-          "plays": 6
-        },
-        {
-          "artist": "Weiss",
-          "plays": 4
+          "artist": "Rudolph",
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 252
+          "plays": 267
         },
         {
           "genre": "Dance",
-          "plays": 150
+          "plays": 158
         },
         {
           "genre": "Variete Francaise",
@@ -909,31 +1009,43 @@
           "plays": 35
         },
         {
+          "genre": "Pop",
+          "plays": 22
+        },
+        {
           "genre": "Comedy",
           "plays": 21
         },
         {
-          "genre": "Pop",
-          "plays": 15
+          "genre": "Disco",
+          "plays": 20
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 16
         },
         {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Disco",
-          "plays": 13
-        },
-        {
           "genre": "Britpop",
           "plays": 12
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
+          "genre": "Oldies",
+          "plays": 11
+        },
+        {
+          "genre": "City Pop",
+          "plays": 10
         },
         {
           "genre": "mashup",
+          "plays": 7
+        },
+        {
+          "genre": "Jazz",
           "plays": 7
         },
         {
@@ -943,14 +1055,6 @@
         {
           "genre": "Soundtrack",
           "plays": 4
-        },
-        {
-          "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
         },
         {
           "genre": "Country",
@@ -1107,40 +1211,40 @@
           "genre": "House"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6,
-          "genre": "Pop"
-        },
-        {
-          "song": "Feel My Needs",
-          "artist": "Weiss",
-          "plays": 4,
-          "genre": "House"
-        },
-        {
-          "song": "Day 'n' Nite (Nightmare)",
-          "artist": "Kid Cudi",
-          "plays": 4,
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 8,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 4,
+          "song": "Light n Up",
+          "artist": "Minako Yoshida",
+          "plays": 8,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
+          "artist": "Rudolph",
+          "plays": 8,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Happy Days (Radio Edit)",
+          "artist": "Sweetpower",
+          "plays": 8,
           "genre": "Dance"
         },
         {
-          "song": "Summer Night",
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4,
-          "genre": "Soundtrack"
+          "song": "Mario Gomez - CHA CHA",
+          "artist": "Raki",
+          "plays": 8,
+          "genre": "Electronic"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 771,
+      "total_plays": 839,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1187,6 +1291,10 @@
           "plays": 18
         },
         {
+          "artist": "Daft Punk",
+          "plays": 13
+        },
+        {
           "artist": "Donna Summer",
           "plays": 13
         },
@@ -1227,30 +1335,26 @@
           "plays": 10
         },
         {
-          "artist": "Daft Punk",
-          "plays": 6
+          "artist": "Oxmo Puccino",
+          "plays": 8
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6
+          "artist": "Minako Yoshida",
+          "plays": 8
         },
         {
-          "artist": "Francis Cabrel",
-          "plays": 6
-        },
-        {
-          "artist": "Weiss",
-          "plays": 4
+          "artist": "Rudolph",
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 252
+          "plays": 267
         },
         {
           "genre": "Dance",
-          "plays": 150
+          "plays": 158
         },
         {
           "genre": "Variete Francaise",
@@ -1265,31 +1369,43 @@
           "plays": 35
         },
         {
+          "genre": "Pop",
+          "plays": 22
+        },
+        {
           "genre": "Comedy",
           "plays": 21
         },
         {
-          "genre": "Pop",
-          "plays": 15
+          "genre": "Disco",
+          "plays": 20
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 16
         },
         {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Disco",
-          "plays": 13
-        },
-        {
           "genre": "Britpop",
           "plays": 12
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
+          "genre": "Oldies",
+          "plays": 11
+        },
+        {
+          "genre": "City Pop",
+          "plays": 10
         },
         {
           "genre": "mashup",
+          "plays": 7
+        },
+        {
+          "genre": "Jazz",
           "plays": 7
         },
         {
@@ -1299,14 +1415,6 @@
         {
           "genre": "Soundtrack",
           "plays": 4
-        },
-        {
-          "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
         },
         {
           "genre": "Country",
@@ -1463,40 +1571,40 @@
           "genre": "House"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6,
-          "genre": "Pop"
-        },
-        {
-          "song": "Feel My Needs",
-          "artist": "Weiss",
-          "plays": 4,
-          "genre": "House"
-        },
-        {
-          "song": "Day 'n' Nite (Nightmare)",
-          "artist": "Kid Cudi",
-          "plays": 4,
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 8,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 4,
+          "song": "Light n Up",
+          "artist": "Minako Yoshida",
+          "plays": 8,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
+          "artist": "Rudolph",
+          "plays": 8,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Happy Days (Radio Edit)",
+          "artist": "Sweetpower",
+          "plays": 8,
           "genre": "Dance"
         },
         {
-          "song": "Summer Night",
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4,
-          "genre": "Soundtrack"
+          "song": "Mario Gomez - CHA CHA",
+          "artist": "Raki",
+          "plays": 8,
+          "genre": "Electronic"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 771,
+      "total_plays": 839,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1543,6 +1651,10 @@
           "plays": 18
         },
         {
+          "artist": "Daft Punk",
+          "plays": 13
+        },
+        {
           "artist": "Donna Summer",
           "plays": 13
         },
@@ -1583,30 +1695,26 @@
           "plays": 10
         },
         {
-          "artist": "Daft Punk",
-          "plays": 6
+          "artist": "Oxmo Puccino",
+          "plays": 8
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6
+          "artist": "Minako Yoshida",
+          "plays": 8
         },
         {
-          "artist": "Francis Cabrel",
-          "plays": 6
-        },
-        {
-          "artist": "Weiss",
-          "plays": 4
+          "artist": "Rudolph",
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 252
+          "plays": 267
         },
         {
           "genre": "Dance",
-          "plays": 150
+          "plays": 158
         },
         {
           "genre": "Variete Francaise",
@@ -1621,31 +1729,43 @@
           "plays": 35
         },
         {
+          "genre": "Pop",
+          "plays": 22
+        },
+        {
           "genre": "Comedy",
           "plays": 21
         },
         {
-          "genre": "Pop",
-          "plays": 15
+          "genre": "Disco",
+          "plays": 20
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 16
         },
         {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Disco",
-          "plays": 13
-        },
-        {
           "genre": "Britpop",
           "plays": 12
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
+          "genre": "Oldies",
+          "plays": 11
+        },
+        {
+          "genre": "City Pop",
+          "plays": 10
         },
         {
           "genre": "mashup",
+          "plays": 7
+        },
+        {
+          "genre": "Jazz",
           "plays": 7
         },
         {
@@ -1655,14 +1775,6 @@
         {
           "genre": "Soundtrack",
           "plays": 4
-        },
-        {
-          "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
         },
         {
           "genre": "Country",
@@ -1819,34 +1931,34 @@
           "genre": "House"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6,
-          "genre": "Pop"
-        },
-        {
-          "song": "Feel My Needs",
-          "artist": "Weiss",
-          "plays": 4,
-          "genre": "House"
-        },
-        {
-          "song": "Day 'n' Nite (Nightmare)",
-          "artist": "Kid Cudi",
-          "plays": 4,
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 8,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 4,
+          "song": "Light n Up",
+          "artist": "Minako Yoshida",
+          "plays": 8,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
+          "artist": "Rudolph",
+          "plays": 8,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Happy Days (Radio Edit)",
+          "artist": "Sweetpower",
+          "plays": 8,
           "genre": "Dance"
         },
         {
-          "song": "Summer Night",
-          "artist": "Garden City Movement  Lola Marsh",
-          "plays": 4,
-          "genre": "Soundtrack"
+          "song": "Mario Gomez - CHA CHA",
+          "artist": "Raki",
+          "plays": 8,
+          "genre": "Electronic"
         }
       ]
     }
@@ -1856,6 +1968,11 @@
       "date": "2026-04-23",
       "id": "04cab1736714dbd5",
       "plays": 1
+    },
+    {
+      "date": "2026-05-10",
+      "id": "07ddc1af0bf865c3",
+      "plays": 7
     },
     {
       "date": "2026-04-20",
@@ -1923,9 +2040,19 @@
       "plays": 2
     },
     {
+      "date": "2026-05-10",
+      "id": "16c81cbfefe6d139",
+      "plays": 8
+    },
+    {
       "date": "2026-04-23",
       "id": "1e84ca2f56fe4cc5",
       "plays": 1
+    },
+    {
+      "date": "2026-05-10",
+      "id": "20781ff2ddb684bb",
+      "plays": 8
     },
     {
       "date": "2026-04-20",
@@ -2051,6 +2178,11 @@
       "date": "2026-05-04",
       "id": "5f68cdbf3f1da1bd",
       "plays": 12
+    },
+    {
+      "date": "2026-05-10",
+      "id": "65d1283fbf587d98",
+      "plays": 7
     },
     {
       "date": "2026-04-30",
@@ -2208,6 +2340,11 @@
       "plays": 3
     },
     {
+      "date": "2026-05-10",
+      "id": "a6b46341449f075e",
+      "plays": 7
+    },
+    {
       "date": "2026-04-20",
       "id": "ab8c22fa90b5561a",
       "plays": 2
@@ -2233,6 +2370,11 @@
       "plays": 10
     },
     {
+      "date": "2026-05-10",
+      "id": "b69e5105277daba6",
+      "plays": 8
+    },
+    {
       "date": "2026-05-02",
       "id": "b9c4c58ecda52fb2",
       "plays": 1
@@ -2251,6 +2393,16 @@
       "date": "2026-04-26",
       "id": "bcf443a888c0ec76",
       "plays": 10
+    },
+    {
+      "date": "2026-05-10",
+      "id": "c4b87351e0d0fe9d",
+      "plays": 8
+    },
+    {
+      "date": "2026-05-10",
+      "id": "c95da81ea0febdbd",
+      "plays": 8
     },
     {
       "date": "2026-05-02",
@@ -2318,6 +2470,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-10",
+      "id": "edb087201c7b24ee",
+      "plays": 7
+    },
+    {
       "date": "2026-04-19",
       "id": "eee8d48b66a3e9e7",
       "plays": 1
@@ -2379,6 +2536,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-09",
-  "snapshot_count": 19
+  "latest_snapshot": "2026-05-10",
+  "snapshot_count": 20
 }
