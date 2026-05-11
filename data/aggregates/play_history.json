@@ -50,20 +50,32 @@
     },
     {
       "date": "2026-05-10",
-      "plays": 68
+      "plays": 72
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 68,
+      "total_plays": 72,
       "top_artists": [
+        {
+          "artist": "Boys Town Gang",
+          "plays": 8
+        },
         {
           "artist": "Oxmo Puccino",
           "plays": 8
         },
         {
           "artist": "Minako Yoshida",
+          "plays": 8
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 8
+        },
+        {
+          "artist": "Beach Boys",
           "plays": 8
         },
         {
@@ -79,26 +91,18 @@
           "plays": 8
         },
         {
-          "artist": "Boys Town Gang",
-          "plays": 7
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 7
-        },
-        {
-          "artist": "Beach Boys",
-          "plays": 7
-        },
-        {
           "artist": "BadBadNotGood",
-          "plays": 7
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 15
+          "plays": 16
+        },
+        {
+          "genre": "Disco",
+          "plays": 8
         },
         {
           "genre": "Hip Hop/Rap",
@@ -106,6 +110,10 @@
         },
         {
           "genre": "City Pop",
+          "plays": 8
+        },
+        {
+          "genre": "Pop",
           "plays": 8
         },
         {
@@ -117,19 +125,17 @@
           "plays": 8
         },
         {
-          "genre": "Disco",
-          "plays": 7
-        },
-        {
-          "genre": "Pop",
-          "plays": 7
-        },
-        {
           "genre": "Jazz",
-          "plays": 7
+          "plays": 8
         }
       ],
       "top_tracks": [
+        {
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 8,
+          "genre": "Disco"
+        },
         {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
@@ -141,6 +147,18 @@
           "artist": "Minako Yoshida",
           "plays": 8,
           "genre": "City Pop"
+        },
+        {
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
+          "plays": 8,
+          "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 8,
+          "genre": "Pop"
         },
         {
           "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
@@ -161,34 +179,16 @@
           "genre": "Electronic"
         },
         {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 7,
-          "genre": "Disco"
-        },
-        {
-          "song": "Aerobeetroots (ft. Bloody Beatroots)",
-          "artist": "Daft Punk",
-          "plays": 7,
-          "genre": "Electronic"
-        },
-        {
-          "song": "I Get Around",
-          "artist": "Beach Boys",
-          "plays": 7,
-          "genre": "Pop"
-        },
-        {
           "song": "Confessions",
           "artist": "BadBadNotGood",
-          "plays": 7,
+          "plays": 8,
           "genre": "Jazz"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 193,
+      "total_plays": 197,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -200,7 +200,11 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 9
+          "plays": 10
+        },
+        {
+          "artist": "Boys Town Gang",
+          "plays": 8
         },
         {
           "artist": "Oxmo Puccino",
@@ -208,6 +212,10 @@
         },
         {
           "artist": "Minako Yoshida",
+          "plays": 8
+        },
+        {
+          "artist": "Beach Boys",
           "plays": 8
         },
         {
@@ -223,16 +231,8 @@
           "plays": 8
         },
         {
-          "artist": "Boys Town Gang",
-          "plays": 7
-        },
-        {
-          "artist": "Beach Boys",
-          "plays": 7
-        },
-        {
           "artist": "BadBadNotGood",
-          "plays": 7
+          "plays": 8
         },
         {
           "artist": "RÜFÜS DU SOL",
@@ -294,7 +294,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 77
+          "plays": 78
         },
         {
           "genre": "Variete Francaise",
@@ -302,11 +302,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 17
+          "plays": 18
         },
         {
           "genre": "Dance",
           "plays": 15
+        },
+        {
+          "genre": "Disco",
+          "plays": 8
         },
         {
           "genre": "Hip Hop/Rap",
@@ -321,12 +325,8 @@
           "plays": 8
         },
         {
-          "genre": "Disco",
-          "plays": 7
-        },
-        {
           "genre": "Jazz",
-          "plays": 7
+          "plays": 8
         },
         {
           "genre": "mashup",
@@ -383,6 +383,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 8,
+          "genre": "Disco"
+        },
+        {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
           "plays": 8,
@@ -393,6 +399,18 @@
           "artist": "Minako Yoshida",
           "plays": 8,
           "genre": "City Pop"
+        },
+        {
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
+          "plays": 8,
+          "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 8,
+          "genre": "Pop"
         },
         {
           "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
@@ -413,27 +431,9 @@
           "genre": "Electronic"
         },
         {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 7,
-          "genre": "Disco"
-        },
-        {
-          "song": "Aerobeetroots (ft. Bloody Beatroots)",
-          "artist": "Daft Punk",
-          "plays": 7,
-          "genre": "Electronic"
-        },
-        {
-          "song": "I Get Around",
-          "artist": "Beach Boys",
-          "plays": 7,
-          "genre": "Pop"
-        },
-        {
           "song": "Confessions",
           "artist": "BadBadNotGood",
-          "plays": 7,
+          "plays": 8,
           "genre": "Jazz"
         },
         {
@@ -524,7 +524,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 839,
+      "total_plays": 843,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -572,7 +572,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Donna Summer",
@@ -615,22 +615,22 @@
           "plays": 10
         },
         {
+          "artist": "Boys Town Gang",
+          "plays": 8
+        },
+        {
           "artist": "Oxmo Puccino",
           "plays": 8
         },
         {
           "artist": "Minako Yoshida",
           "plays": 8
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 267
+          "plays": 268
         },
         {
           "genre": "Dance",
@@ -650,15 +650,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 22
+          "plays": 23
+        },
+        {
+          "genre": "Disco",
+          "plays": 21
         },
         {
           "genre": "Comedy",
           "plays": 21
-        },
-        {
-          "genre": "Disco",
-          "plays": 20
         },
         {
           "genre": "Hip Hop/Rap",
@@ -681,11 +681,11 @@
           "plays": 10
         },
         {
-          "genre": "mashup",
-          "plays": 7
+          "genre": "Jazz",
+          "plays": 8
         },
         {
-          "genre": "Jazz",
+          "genre": "mashup",
           "plays": 7
         },
         {
@@ -851,6 +851,12 @@
           "genre": "House"
         },
         {
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 8,
+          "genre": "Disco"
+        },
+        {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
           "plays": 8,
@@ -863,28 +869,22 @@
           "genre": "City Pop"
         },
         {
-          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
-          "artist": "Rudolph",
-          "plays": 8,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Happy Days (Radio Edit)",
-          "artist": "Sweetpower",
-          "plays": 8,
-          "genre": "Dance"
-        },
-        {
-          "song": "Mario Gomez - CHA CHA",
-          "artist": "Raki",
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
           "plays": 8,
           "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 8,
+          "genre": "Pop"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 839,
+      "total_plays": 843,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -932,7 +932,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Donna Summer",
@@ -975,22 +975,22 @@
           "plays": 10
         },
         {
+          "artist": "Boys Town Gang",
+          "plays": 8
+        },
+        {
           "artist": "Oxmo Puccino",
           "plays": 8
         },
         {
           "artist": "Minako Yoshida",
           "plays": 8
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 267
+          "plays": 268
         },
         {
           "genre": "Dance",
@@ -1010,15 +1010,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 22
+          "plays": 23
+        },
+        {
+          "genre": "Disco",
+          "plays": 21
         },
         {
           "genre": "Comedy",
           "plays": 21
-        },
-        {
-          "genre": "Disco",
-          "plays": 20
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1041,11 +1041,11 @@
           "plays": 10
         },
         {
-          "genre": "mashup",
-          "plays": 7
+          "genre": "Jazz",
+          "plays": 8
         },
         {
-          "genre": "Jazz",
+          "genre": "mashup",
           "plays": 7
         },
         {
@@ -1211,6 +1211,12 @@
           "genre": "House"
         },
         {
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 8,
+          "genre": "Disco"
+        },
+        {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
           "plays": 8,
@@ -1223,28 +1229,22 @@
           "genre": "City Pop"
         },
         {
-          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
-          "artist": "Rudolph",
-          "plays": 8,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Happy Days (Radio Edit)",
-          "artist": "Sweetpower",
-          "plays": 8,
-          "genre": "Dance"
-        },
-        {
-          "song": "Mario Gomez - CHA CHA",
-          "artist": "Raki",
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
           "plays": 8,
           "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 8,
+          "genre": "Pop"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 839,
+      "total_plays": 843,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1292,7 +1292,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Donna Summer",
@@ -1335,22 +1335,22 @@
           "plays": 10
         },
         {
+          "artist": "Boys Town Gang",
+          "plays": 8
+        },
+        {
           "artist": "Oxmo Puccino",
           "plays": 8
         },
         {
           "artist": "Minako Yoshida",
           "plays": 8
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 267
+          "plays": 268
         },
         {
           "genre": "Dance",
@@ -1370,15 +1370,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 22
+          "plays": 23
+        },
+        {
+          "genre": "Disco",
+          "plays": 21
         },
         {
           "genre": "Comedy",
           "plays": 21
-        },
-        {
-          "genre": "Disco",
-          "plays": 20
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1401,11 +1401,11 @@
           "plays": 10
         },
         {
-          "genre": "mashup",
-          "plays": 7
+          "genre": "Jazz",
+          "plays": 8
         },
         {
-          "genre": "Jazz",
+          "genre": "mashup",
           "plays": 7
         },
         {
@@ -1571,6 +1571,12 @@
           "genre": "House"
         },
         {
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 8,
+          "genre": "Disco"
+        },
+        {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
           "plays": 8,
@@ -1583,28 +1589,22 @@
           "genre": "City Pop"
         },
         {
-          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
-          "artist": "Rudolph",
-          "plays": 8,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Happy Days (Radio Edit)",
-          "artist": "Sweetpower",
-          "plays": 8,
-          "genre": "Dance"
-        },
-        {
-          "song": "Mario Gomez - CHA CHA",
-          "artist": "Raki",
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
           "plays": 8,
           "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 8,
+          "genre": "Pop"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 839,
+      "total_plays": 843,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1652,7 +1652,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Donna Summer",
@@ -1695,22 +1695,22 @@
           "plays": 10
         },
         {
+          "artist": "Boys Town Gang",
+          "plays": 8
+        },
+        {
           "artist": "Oxmo Puccino",
           "plays": 8
         },
         {
           "artist": "Minako Yoshida",
           "plays": 8
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 267
+          "plays": 268
         },
         {
           "genre": "Dance",
@@ -1730,15 +1730,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 22
+          "plays": 23
+        },
+        {
+          "genre": "Disco",
+          "plays": 21
         },
         {
           "genre": "Comedy",
           "plays": 21
-        },
-        {
-          "genre": "Disco",
-          "plays": 20
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1761,11 +1761,11 @@
           "plays": 10
         },
         {
-          "genre": "mashup",
-          "plays": 7
+          "genre": "Jazz",
+          "plays": 8
         },
         {
-          "genre": "Jazz",
+          "genre": "mashup",
           "plays": 7
         },
         {
@@ -1931,6 +1931,12 @@
           "genre": "House"
         },
         {
+          "song": "Can't Take My Eyes Off You",
+          "artist": "Boys Town Gang",
+          "plays": 8,
+          "genre": "Disco"
+        },
+        {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
           "plays": 8,
@@ -1943,22 +1949,16 @@
           "genre": "City Pop"
         },
         {
-          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
-          "artist": "Rudolph",
-          "plays": 8,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Happy Days (Radio Edit)",
-          "artist": "Sweetpower",
-          "plays": 8,
-          "genre": "Dance"
-        },
-        {
-          "song": "Mario Gomez - CHA CHA",
-          "artist": "Raki",
+          "song": "Aerobeetroots (ft. Bloody Beatroots)",
+          "artist": "Daft Punk",
           "plays": 8,
           "genre": "Electronic"
+        },
+        {
+          "song": "I Get Around",
+          "artist": "Beach Boys",
+          "plays": 8,
+          "genre": "Pop"
         }
       ]
     }
@@ -1972,7 +1972,7 @@
     {
       "date": "2026-05-10",
       "id": "07ddc1af0bf865c3",
-      "plays": 7
+      "plays": 8
     },
     {
       "date": "2026-04-20",
@@ -2182,7 +2182,7 @@
     {
       "date": "2026-05-10",
       "id": "65d1283fbf587d98",
-      "plays": 7
+      "plays": 8
     },
     {
       "date": "2026-04-30",
@@ -2342,7 +2342,7 @@
     {
       "date": "2026-05-10",
       "id": "a6b46341449f075e",
-      "plays": 7
+      "plays": 8
     },
     {
       "date": "2026-04-20",
@@ -2472,7 +2472,7 @@
     {
       "date": "2026-05-10",
       "id": "edb087201c7b24ee",
-      "plays": 7
+      "plays": 8
     },
     {
       "date": "2026-04-19",

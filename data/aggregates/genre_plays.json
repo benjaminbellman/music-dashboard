@@ -1,7 +1,7 @@
 [
   {
     "genre": "Pop",
-    "plays": 34711,
+    "plays": 34712,
     "songs": 709
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "genre": "Electronic",
-    "plays": 23133,
+    "plays": 23134,
     "songs": 389
   },
   {
@@ -37,7 +37,7 @@
   {
     "genre": "Soft Rock",
     "plays": 6652,
-    "songs": 72
+    "songs": 73
   },
   {
     "genre": "Future Funk",
@@ -56,7 +56,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3773,
+    "plays": 3774,
     "songs": 61
   },
   {
@@ -122,7 +122,7 @@
   {
     "genre": "Folk",
     "plays": 765,
-    "songs": 12
+    "songs": 13
   },
   {
     "genre": "Vaporwave",
@@ -166,7 +166,7 @@
   },
   {
     "genre": "Jazz",
-    "plays": 351,
+    "plays": 352,
     "songs": 10
   },
   {
