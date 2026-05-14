@@ -56,147 +56,22 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 72,
-      "top_artists": [
-        {
-          "artist": "Boys Town Gang",
-          "plays": 8
-        },
-        {
-          "artist": "Oxmo Puccino",
-          "plays": 8
-        },
-        {
-          "artist": "Minako Yoshida",
-          "plays": 8
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 8
-        },
-        {
-          "artist": "Beach Boys",
-          "plays": 8
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 8
-        },
-        {
-          "artist": "Sweetpower",
-          "plays": 8
-        },
-        {
-          "artist": "Raki",
-          "plays": 8
-        },
-        {
-          "artist": "BadBadNotGood",
-          "plays": 8
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Electronic",
-          "plays": 16
-        },
-        {
-          "genre": "Disco",
-          "plays": 8
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
-        },
-        {
-          "genre": "City Pop",
-          "plays": 8
-        },
-        {
-          "genre": "Pop",
-          "plays": 8
-        },
-        {
-          "genre": "Oldies",
-          "plays": 8
-        },
-        {
-          "genre": "Dance",
-          "plays": 8
-        },
-        {
-          "genre": "Jazz",
-          "plays": 8
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 8,
-          "genre": "Disco"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 8,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Light n Up",
-          "artist": "Minako Yoshida",
-          "plays": 8,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Aerobeetroots (ft. Bloody Beatroots)",
-          "artist": "Daft Punk",
-          "plays": 8,
-          "genre": "Electronic"
-        },
-        {
-          "song": "I Get Around",
-          "artist": "Beach Boys",
-          "plays": 8,
-          "genre": "Pop"
-        },
-        {
-          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
-          "artist": "Rudolph",
-          "plays": 8,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Happy Days (Radio Edit)",
-          "artist": "Sweetpower",
-          "plays": 8,
-          "genre": "Dance"
-        },
-        {
-          "song": "Mario Gomez - CHA CHA",
-          "artist": "Raki",
-          "plays": 8,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Confessions",
-          "artist": "BadBadNotGood",
-          "plays": 8,
-          "genre": "Jazz"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 196,
+      "total_plays": 164,
       "top_artists": [
         {
           "artist": "MotorBass",
-          "plays": 51
+          "plays": 38
         },
         {
           "artist": "Préface",
-          "plays": 18
+          "plays": 12
         },
         {
           "artist": "Daft Punk",
@@ -247,24 +122,8 @@
           "plays": 4
         },
         {
-          "artist": "Horalion",
-          "plays": 4
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 4
-        },
-        {
           "artist": "Weiss",
           "plays": 3
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 3
-        },
-        {
-          "artist": "French 79",
-          "plays": 2
         },
         {
           "artist": "The Strumbellas",
@@ -283,26 +142,42 @@
           "plays": 1
         },
         {
-          "artist": "Chicago",
+          "artist": "French 79",
           "plays": 1
         },
         {
           "artist": "Armin van Buuren",
+          "plays": 1
+        },
+        {
+          "artist": "The Glitch Mob",
+          "plays": 1
+        },
+        {
+          "artist": "Feist",
+          "plays": 1
+        },
+        {
+          "artist": "The Beatles",
+          "plays": 1
+        },
+        {
+          "artist": "PNAU",
           "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 78
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 26
+          "plays": 61
         },
         {
           "genre": "Pop",
           "plays": 18
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 17
         },
         {
           "genre": "Dance",
@@ -333,10 +208,6 @@
           "plays": 5
         },
         {
-          "genre": "Vaporwave",
-          "plays": 4
-        },
-        {
           "genre": "House",
           "plays": 3
         },
@@ -345,15 +216,7 @@
           "plays": 2
         },
         {
-          "genre": "Soft Rock",
-          "plays": 1
-        },
-        {
           "genre": "Alternative",
-          "plays": 1
-        },
-        {
-          "genre": "Trance",
           "plays": 1
         },
         {
@@ -373,13 +236,13 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 51,
+          "plays": 38,
           "genre": "Electronic"
         },
         {
           "song": "Palace hotel",
           "artist": "Préface",
-          "plays": 18,
+          "plays": 12,
           "genre": "Variete Francaise"
         },
         {
@@ -449,40 +312,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 4,
-          "genre": "Vaporwave"
-        },
-        {
           "song": "Feel My Needs",
           "artist": "Weiss",
           "plays": 3,
           "genre": "House"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 3,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Autobahn (Horalion Remix)",
-          "artist": "Horalion & Kraftwek",
-          "plays": 3,
-          "genre": "Electronic"
-        },
-        {
           "song": "Lencre De Tes Yeux",
           "artist": "Francis Cabrel",
           "plays": 3,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 2,
-          "genre": "Electronic"
         },
         {
           "song": "Spirits",
@@ -509,16 +348,40 @@
           "genre": "Electronic"
         },
         {
-          "song": "Beginnings",
-          "artist": "Chicago",
+          "song": "Memories",
+          "artist": "French 79",
           "plays": 1,
-          "genre": "Soft Rock"
+          "genre": "Electronic"
         },
         {
           "song": "J'ai envie de toi (feat. Gaia)",
           "artist": "Armin van Buuren",
           "plays": 1,
           "genre": "Electronic"
+        },
+        {
+          "song": "We Can Make the World Stop",
+          "artist": "The Glitch Mob",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "My Moon My Man",
+          "artist": "Feist",
+          "plays": 1,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Yesterday",
+          "artist": "The Beatles",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "La Corrida",
+          "artist": "Francis Cabrel",
+          "plays": 1,
+          "genre": "Variete Francaise"
         }
       ]
     },
@@ -2536,6 +2399,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-12",
-  "snapshot_count": 21
+  "latest_snapshot": "2026-05-14",
+  "snapshot_count": 22
 }
