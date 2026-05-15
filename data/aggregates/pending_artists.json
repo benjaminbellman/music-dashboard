@@ -1,7 +1,7 @@
 [
   {
     "artist": "Layup",
-    "attempts": 5,
+    "attempts": 6,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   }
 ]
