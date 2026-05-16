@@ -63,19 +63,15 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 164,
+      "total_plays": 131,
       "top_artists": [
         {
           "artist": "MotorBass",
-          "plays": 38
+          "plays": 37
         },
         {
           "artist": "Préface",
           "plays": 12
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 10
         },
         {
           "artist": "Boys Town Gang",
@@ -87,6 +83,10 @@
         },
         {
           "artist": "Minako Yoshida",
+          "plays": 8
+        },
+        {
+          "artist": "Daft Punk",
           "plays": 8
         },
         {
@@ -110,52 +110,12 @@
           "plays": 8
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6
-        },
-        {
-          "artist": "Francis Cabrel",
-          "plays": 6
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 4
-        },
-        {
           "artist": "Weiss",
           "plays": 3
         },
         {
-          "artist": "The Strumbellas",
-          "plays": 2
-        },
-        {
           "artist": "Flight Facilities",
           "plays": 2
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 1
-        },
-        {
-          "artist": "Cour De Recré",
-          "plays": 1
-        },
-        {
-          "artist": "French 79",
-          "plays": 1
-        },
-        {
-          "artist": "Armin van Buuren",
-          "plays": 1
-        },
-        {
-          "artist": "The Glitch Mob",
-          "plays": 1
-        },
-        {
-          "artist": "Feist",
-          "plays": 1
         },
         {
           "artist": "The Beatles",
@@ -164,24 +124,36 @@
         {
           "artist": "PNAU",
           "plays": 1
+        },
+        {
+          "artist": "Baddiel Skinner",
+          "plays": 1
+        },
+        {
+          "artist": "Fatboy Slim",
+          "plays": 1
+        },
+        {
+          "artist": "The Rolling Stones",
+          "plays": 1
+        },
+        {
+          "artist": "Taylor Swift",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 61
-        },
-        {
-          "genre": "Pop",
-          "plays": 18
+          "plays": 54
         },
         {
           "genre": "Variete Francaise",
-          "plays": 17
+          "plays": 12
         },
         {
-          "genre": "Dance",
-          "plays": 14
+          "genre": "Pop",
+          "plays": 10
         },
         {
           "genre": "Disco",
@@ -200,24 +172,20 @@
           "plays": 8
         },
         {
-          "genre": "Jazz",
+          "genre": "Dance",
           "plays": 8
         },
         {
-          "genre": "mashup",
-          "plays": 5
+          "genre": "Jazz",
+          "plays": 8
         },
         {
           "genre": "House",
           "plays": 3
         },
         {
-          "genre": "Folk",
+          "genre": "mashup",
           "plays": 2
-        },
-        {
-          "genre": "Alternative",
-          "plays": 1
         },
         {
           "genre": "Rock",
@@ -226,17 +194,13 @@
         {
           "genre": "Britpop",
           "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 38,
+          "plays": 37,
           "genre": "Electronic"
         },
         {
@@ -300,34 +264,10 @@
           "genre": "Jazz"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 6,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 4,
-          "genre": "Dance"
-        },
-        {
           "song": "Feel My Needs",
           "artist": "Weiss",
           "plays": 3,
           "genre": "House"
-        },
-        {
-          "song": "Lencre De Tes Yeux",
-          "artist": "Francis Cabrel",
-          "plays": 3,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Spirits",
-          "artist": "The Strumbellas",
-          "plays": 2,
-          "genre": "Folk"
         },
         {
           "song": "2002 - 2012 Decade Mix",
@@ -336,52 +276,34 @@
           "genre": "mashup"
         },
         {
-          "song": "Veridis Quo x In Your Eyes",
-          "artist": "Daft Punk & The Weeknd",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "J'ai envie de toi (feat. Gaia)",
-          "artist": "Armin van Buuren",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "We Can Make the World Stop",
-          "artist": "The Glitch Mob",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
           "song": "Yesterday",
           "artist": "The Beatles",
           "plays": 1,
           "genre": "Rock"
         },
         {
-          "song": "La Corrida",
-          "artist": "Francis Cabrel",
+          "song": "Chameleon",
+          "artist": "PNAU",
           "plays": 1,
-          "genre": "Variete Francaise"
+          "genre": "Pop"
+        },
+        {
+          "song": "Three Lions '98",
+          "artist": "Baddiel Skinner",
+          "plays": 1,
+          "genre": "Britpop"
+        },
+        {
+          "song": "Satisfaction Skank",
+          "artist": "Fatboy Slim & The Rolling Stones",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "plays": 1,
+          "genre": "Pop"
         }
       ]
     },
@@ -2399,6 +2321,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-15",
-  "snapshot_count": 23
+  "latest_snapshot": "2026-05-16",
+  "snapshot_count": 24
 }
