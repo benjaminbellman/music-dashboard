@@ -1,47 +1,47 @@
 [
   {
     "genre": "Pop",
-    "plays": 34728,
+    "plays": 34744,
     "songs": 709
   },
   {
     "genre": "Dance",
-    "plays": 29325,
+    "plays": 29330,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23153,
+    "plays": 23174,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17983,
+    "plays": 17986,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13837,
+    "plays": 13838,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11506,
+    "plays": 11508,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10629,
+    "plays": 10630,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6658,
+    "plays": 6664,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5804,
+    "plays": 5805,
     "songs": 71
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3775,
+    "plays": 3776,
     "songs": 61
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2701,
+    "plays": 2702,
     "songs": 69
   },
   {
     "genre": "Britpop",
-    "plays": 2131,
+    "plays": 2135,
     "songs": 8
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 771,
+    "plays": 776,
     "songs": 13
   },
   {
