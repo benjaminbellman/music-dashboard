@@ -2,11 +2,11 @@
   "2026": [
     {
       "country": "FR",
-      "plays": 913
+      "plays": 915
     },
     {
       "country": "US",
-      "plays": 553
+      "plays": 554
     },
     {
       "country": "GB",
@@ -18,7 +18,7 @@
     },
     {
       "country": "JP",
-      "plays": 228
+      "plays": 229
     },
     {
       "country": "DE",
@@ -26,25 +26,25 @@
     },
     {
       "country": "BR",
-      "plays": 9
+      "plays": 10
     },
     {
       "country": "AU",
-      "plays": 8
+      "plays": 9
     },
     {
       "country": "CA",
-      "plays": 7
+      "plays": 9
     },
     {
       "country": "IS",
-      "plays": 2
+      "plays": 3
     }
   ],
   "2025": [
     {
       "country": "FR",
-      "plays": 2526
+      "plays": 2528
     },
     {
       "country": "US",
@@ -126,11 +126,11 @@
   "2024": [
     {
       "country": "FR",
-      "plays": 4444
+      "plays": 4445
     },
     {
       "country": "US",
-      "plays": 3643
+      "plays": 3644
     },
     {
       "country": "GB",
@@ -228,7 +228,7 @@
     },
     {
       "country": "US",
-      "plays": 2710
+      "plays": 2711
     },
     {
       "country": "JP",
@@ -334,7 +334,7 @@
     },
     {
       "country": "JP",
-      "plays": 3276
+      "plays": 3278
     },
     {
       "country": "GB",
@@ -1140,7 +1140,7 @@
   "2011": [
     {
       "country": "US",
-      "plays": 616
+      "plays": 617
     },
     {
       "country": "GB",

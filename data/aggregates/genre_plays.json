@@ -1,32 +1,32 @@
 [
   {
     "genre": "Pop",
-    "plays": 34744,
+    "plays": 34746,
     "songs": 709
   },
   {
     "genre": "Dance",
-    "plays": 29330,
+    "plays": 29332,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23174,
+    "plays": 23175,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17986,
+    "plays": 17988,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13838,
+    "plays": 13841,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11508,
+    "plays": 11509,
     "songs": 260
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3909,
+    "plays": 3910,
     "songs": 125
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3228,
+    "plays": 3231,
     "songs": 44
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 776,
+    "plays": 777,
     "songs": 13
   },
   {
@@ -556,7 +556,7 @@
   },
   {
     "genre": "Ambient",
-    "plays": 13,
+    "plays": 14,
     "songs": 2
   },
   {

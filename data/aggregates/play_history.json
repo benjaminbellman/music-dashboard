@@ -59,12 +59,16 @@
     {
       "date": "2026-05-17",
       "plays": 67
+    },
+    {
+      "date": "2026-05-18",
+      "plays": 17
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 133,
+      "total_plays": 150,
       "top_artists": [
         {
           "artist": "Taylor Swift",
@@ -111,6 +115,14 @@
           "plays": 4
         },
         {
+          "artist": "Claude François",
+          "plays": 3
+        },
+        {
+          "artist": "Roudoudou",
+          "plays": 3
+        },
+        {
           "artist": "Benson Boone",
           "plays": 2
         },
@@ -132,10 +144,6 @@
         },
         {
           "artist": "Lifelike",
-          "plays": 2
-        },
-        {
-          "artist": "Claude François",
           "plays": 2
         },
         {
@@ -161,44 +169,48 @@
         {
           "artist": "Dua Lipa",
           "plays": 2
-        },
-        {
-          "artist": "Aaron Carter",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 40
+          "plays": 41
         },
         {
           "genre": "Pop",
-          "plays": 32
+          "plays": 34
+        },
+        {
+          "genre": "Dance",
+          "plays": 12
+        },
+        {
+          "genre": "Folk",
+          "plays": 12
         },
         {
           "genre": "Soft Rock",
           "plays": 12
         },
         {
-          "genre": "Folk",
-          "plays": 11
-        },
-        {
-          "genre": "Dance",
-          "plays": 10
+          "genre": "Variete Francaise",
+          "plays": 8
         },
         {
           "genre": "Britpop",
           "plays": 8
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 6
+          "genre": "Hip Hop/Rap",
+          "plays": 5
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 4
+          "genre": "Alternative",
+          "plays": 5
+        },
+        {
+          "genre": "City Pop",
+          "plays": 3
         },
         {
           "genre": "Rock",
@@ -217,8 +229,12 @@
           "plays": 2
         },
         {
-          "genre": "Alternative",
-          "plays": 2
+          "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Comedy",
+          "plays": 1
         }
       ],
       "top_tracks": [
@@ -286,6 +302,12 @@
           "song": "Lordly",
           "artist": "Feder",
           "plays": 4,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
+          "plays": 3,
           "genre": "Electronic"
         },
         {
@@ -365,18 +387,12 @@
           "artist": "Jill Scott and Jerry Folk",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Electricity  ft. Diplo, Mark Ronson",
-          "artist": "Dua Lipa & Silk City",
-          "plays": 2,
-          "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 264,
+      "total_plays": 266,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -384,15 +400,11 @@
         },
         {
           "artist": "Taylor Swift",
-          "plays": 21
+          "plays": 20
         },
         {
           "artist": "Horalion",
           "plays": 14
-        },
-        {
-          "artist": "Préface",
-          "plays": 12
         },
         {
           "artist": "Creedence Clearwater Revival",
@@ -401,6 +413,10 @@
         {
           "artist": "Daft Punk",
           "plays": 10
+        },
+        {
+          "artist": "Oxmo Puccino",
+          "plays": 9
         },
         {
           "artist": "Baddiel Skinner",
@@ -412,10 +428,6 @@
         },
         {
           "artist": "Boys Town Gang",
-          "plays": 8
-        },
-        {
-          "artist": "Oxmo Puccino",
           "plays": 8
         },
         {
@@ -471,7 +483,11 @@
           "plays": 3
         },
         {
-          "artist": "Fatboy Slim",
+          "artist": "Claude François",
+          "plays": 3
+        },
+        {
+          "artist": "Roudoudou",
           "plays": 3
         },
         {
@@ -486,18 +502,18 @@
         },
         {
           "genre": "Pop",
-          "plays": 42
+          "plays": 43
         },
         {
           "genre": "Dance",
-          "plays": 18
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 18
+          "plays": 20
         },
         {
           "genre": "Hip Hop/Rap",
+          "plays": 13
+        },
+        {
+          "genre": "Folk",
           "plays": 12
         },
         {
@@ -505,7 +521,7 @@
           "plays": 12
         },
         {
-          "genre": "Folk",
+          "genre": "City Pop",
           "plays": 11
         },
         {
@@ -517,7 +533,7 @@
           "plays": 9
         },
         {
-          "genre": "City Pop",
+          "genre": "Variete Francaise",
           "plays": 8
         },
         {
@@ -529,8 +545,8 @@
           "plays": 8
         },
         {
-          "genre": "mashup",
-          "plays": 4
+          "genre": "Alternative",
+          "plays": 5
         },
         {
           "genre": "Rock",
@@ -541,12 +557,20 @@
           "plays": 3
         },
         {
+          "genre": "mashup",
+          "plays": 3
+        },
+        {
           "genre": "Future Funk",
           "plays": 2
         },
         {
-          "genre": "Alternative",
-          "plays": 2
+          "genre": "Ambient",
+          "plays": 1
+        },
+        {
+          "genre": "Comedy",
+          "plays": 1
         }
       ],
       "top_tracks": [
@@ -559,7 +583,7 @@
         {
           "song": "The Fate of Ophelia",
           "artist": "Taylor Swift",
-          "plays": 21,
+          "plays": 20,
           "genre": "Pop"
         },
         {
@@ -569,16 +593,16 @@
           "genre": "Electronic"
         },
         {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 12,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 12,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 9,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Who You Share it With",
@@ -591,12 +615,6 @@
           "artist": "Boys Town Gang",
           "plays": 8,
           "genre": "Disco"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 8,
-          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Light n Up",
@@ -695,6 +713,12 @@
           "genre": "Britpop"
         },
         {
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
+          "plays": 3,
+          "genre": "Electronic"
+        },
+        {
           "song": "Beautiful Things",
           "artist": "Benson Boone",
           "plays": 2,
@@ -704,11 +728,11 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 976,
+      "total_plays": 993,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 134
+          "plays": 135
         },
         {
           "artist": "Luther Vandross",
@@ -776,7 +800,7 @@
         },
         {
           "artist": "Claude François",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Tony Igy",
@@ -810,15 +834,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 308
+          "plays": 309
         },
         {
           "genre": "Dance",
-          "plays": 168
+          "plays": 170
         },
         {
           "genre": "Variete Francaise",
-          "plays": 129
+          "plays": 131
         },
         {
           "genre": "Soft Rock",
@@ -826,7 +850,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 55
+          "plays": 57
         },
         {
           "genre": "Vaporwave",
@@ -838,31 +862,31 @@
         },
         {
           "genre": "Comedy",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 20
+          "plays": 21
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
+          "genre": "Folk",
+          "plays": 14
+        },
+        {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Folk",
+          "genre": "City Pop",
           "plays": 13
         },
         {
           "genre": "Oldies",
           "plays": 11
-        },
-        {
-          "genre": "City Pop",
-          "plays": 10
         },
         {
           "genre": "mashup",
@@ -877,12 +901,12 @@
           "plays": 6
         },
         {
-          "genre": "Soundtrack",
-          "plays": 4
+          "genre": "Alternative",
+          "plays": 6
         },
         {
-          "genre": "Alternative",
-          "plays": 3
+          "genre": "Soundtrack",
+          "plays": 4
         },
         {
           "genre": "Future Funk",
@@ -890,6 +914,10 @@
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Ambient",
           "plays": 2
         },
         {
@@ -903,17 +931,13 @@
         {
           "genre": "Trance",
           "plays": 1
-        },
-        {
-          "genre": "Ambient",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 134,
+          "plays": 135,
           "genre": "Electronic"
         },
         {
@@ -1049,26 +1073,26 @@
           "genre": "House"
         },
         {
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 9,
+          "genre": "Hip Hop/Rap"
+        },
+        {
           "song": "Who You Share it With",
           "artist": "Layup",
           "plays": 9,
           "genre": "Folk"
-        },
-        {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 8,
-          "genre": "Disco"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 976,
+      "total_plays": 993,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 134
+          "plays": 135
         },
         {
           "artist": "Luther Vandross",
@@ -1136,7 +1160,7 @@
         },
         {
           "artist": "Claude François",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Tony Igy",
@@ -1170,15 +1194,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 308
+          "plays": 309
         },
         {
           "genre": "Dance",
-          "plays": 168
+          "plays": 170
         },
         {
           "genre": "Variete Francaise",
-          "plays": 129
+          "plays": 131
         },
         {
           "genre": "Soft Rock",
@@ -1186,7 +1210,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 55
+          "plays": 57
         },
         {
           "genre": "Vaporwave",
@@ -1198,31 +1222,31 @@
         },
         {
           "genre": "Comedy",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 20
+          "plays": 21
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
+          "genre": "Folk",
+          "plays": 14
+        },
+        {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Folk",
+          "genre": "City Pop",
           "plays": 13
         },
         {
           "genre": "Oldies",
           "plays": 11
-        },
-        {
-          "genre": "City Pop",
-          "plays": 10
         },
         {
           "genre": "mashup",
@@ -1237,12 +1261,12 @@
           "plays": 6
         },
         {
-          "genre": "Soundtrack",
-          "plays": 4
+          "genre": "Alternative",
+          "plays": 6
         },
         {
-          "genre": "Alternative",
-          "plays": 3
+          "genre": "Soundtrack",
+          "plays": 4
         },
         {
           "genre": "Future Funk",
@@ -1250,6 +1274,10 @@
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Ambient",
           "plays": 2
         },
         {
@@ -1263,17 +1291,13 @@
         {
           "genre": "Trance",
           "plays": 1
-        },
-        {
-          "genre": "Ambient",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 134,
+          "plays": 135,
           "genre": "Electronic"
         },
         {
@@ -1409,26 +1433,26 @@
           "genre": "House"
         },
         {
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 9,
+          "genre": "Hip Hop/Rap"
+        },
+        {
           "song": "Who You Share it With",
           "artist": "Layup",
           "plays": 9,
           "genre": "Folk"
-        },
-        {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 8,
-          "genre": "Disco"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 976,
+      "total_plays": 993,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 134
+          "plays": 135
         },
         {
           "artist": "Luther Vandross",
@@ -1496,7 +1520,7 @@
         },
         {
           "artist": "Claude François",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Tony Igy",
@@ -1530,15 +1554,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 308
+          "plays": 309
         },
         {
           "genre": "Dance",
-          "plays": 168
+          "plays": 170
         },
         {
           "genre": "Variete Francaise",
-          "plays": 129
+          "plays": 131
         },
         {
           "genre": "Soft Rock",
@@ -1546,7 +1570,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 55
+          "plays": 57
         },
         {
           "genre": "Vaporwave",
@@ -1558,31 +1582,31 @@
         },
         {
           "genre": "Comedy",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 20
+          "plays": 21
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
+          "genre": "Folk",
+          "plays": 14
+        },
+        {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Folk",
+          "genre": "City Pop",
           "plays": 13
         },
         {
           "genre": "Oldies",
           "plays": 11
-        },
-        {
-          "genre": "City Pop",
-          "plays": 10
         },
         {
           "genre": "mashup",
@@ -1597,12 +1621,12 @@
           "plays": 6
         },
         {
-          "genre": "Soundtrack",
-          "plays": 4
+          "genre": "Alternative",
+          "plays": 6
         },
         {
-          "genre": "Alternative",
-          "plays": 3
+          "genre": "Soundtrack",
+          "plays": 4
         },
         {
           "genre": "Future Funk",
@@ -1610,6 +1634,10 @@
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Ambient",
           "plays": 2
         },
         {
@@ -1623,17 +1651,13 @@
         {
           "genre": "Trance",
           "plays": 1
-        },
-        {
-          "genre": "Ambient",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 134,
+          "plays": 135,
           "genre": "Electronic"
         },
         {
@@ -1769,26 +1793,26 @@
           "genre": "House"
         },
         {
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 9,
+          "genre": "Hip Hop/Rap"
+        },
+        {
           "song": "Who You Share it With",
           "artist": "Layup",
           "plays": 9,
           "genre": "Folk"
-        },
-        {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 8,
-          "genre": "Disco"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 976,
+      "total_plays": 993,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 134
+          "plays": 135
         },
         {
           "artist": "Luther Vandross",
@@ -1856,7 +1880,7 @@
         },
         {
           "artist": "Claude François",
-          "plays": 13
+          "plays": 14
         },
         {
           "artist": "Tony Igy",
@@ -1890,15 +1914,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 308
+          "plays": 309
         },
         {
           "genre": "Dance",
-          "plays": 168
+          "plays": 170
         },
         {
           "genre": "Variete Francaise",
-          "plays": 129
+          "plays": 131
         },
         {
           "genre": "Soft Rock",
@@ -1906,7 +1930,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 55
+          "plays": 57
         },
         {
           "genre": "Vaporwave",
@@ -1918,31 +1942,31 @@
         },
         {
           "genre": "Comedy",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 20
+          "plays": 21
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
+          "genre": "Folk",
+          "plays": 14
+        },
+        {
           "genre": "House",
           "plays": 14
         },
         {
-          "genre": "Folk",
+          "genre": "City Pop",
           "plays": 13
         },
         {
           "genre": "Oldies",
           "plays": 11
-        },
-        {
-          "genre": "City Pop",
-          "plays": 10
         },
         {
           "genre": "mashup",
@@ -1957,12 +1981,12 @@
           "plays": 6
         },
         {
-          "genre": "Soundtrack",
-          "plays": 4
+          "genre": "Alternative",
+          "plays": 6
         },
         {
-          "genre": "Alternative",
-          "plays": 3
+          "genre": "Soundtrack",
+          "plays": 4
         },
         {
           "genre": "Future Funk",
@@ -1970,6 +1994,10 @@
         },
         {
           "genre": "Country",
+          "plays": 2
+        },
+        {
+          "genre": "Ambient",
           "plays": 2
         },
         {
@@ -1983,17 +2011,13 @@
         {
           "genre": "Trance",
           "plays": 1
-        },
-        {
-          "genre": "Ambient",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 134,
+          "plays": 135,
           "genre": "Electronic"
         },
         {
@@ -2129,16 +2153,16 @@
           "genre": "House"
         },
         {
+          "song": "Toucher l'horizon",
+          "artist": "Oxmo Puccino",
+          "plays": 9,
+          "genre": "Hip Hop/Rap"
+        },
+        {
           "song": "Who You Share it With",
           "artist": "Layup",
           "plays": 9,
           "genre": "Folk"
-        },
-        {
-          "song": "Can't Take My Eyes Off You",
-          "artist": "Boys Town Gang",
-          "plays": 8,
-          "genre": "Disco"
         }
       ]
     }
@@ -2270,6 +2294,11 @@
       "plays": 8
     },
     {
+      "date": "2026-05-18",
+      "id": "16c81cbfefe6d139",
+      "plays": 1
+    },
+    {
       "date": "2026-04-23",
       "id": "1e84ca2f56fe4cc5",
       "plays": 1
@@ -2375,6 +2404,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-18",
+      "id": "3aea4d787cfbc03a",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "3b62dd7766d1f537",
       "plays": 2
@@ -2388,6 +2422,11 @@
       "date": "2026-05-02",
       "id": "3fd2d2f6cb324a85",
       "plays": 4
+    },
+    {
+      "date": "2026-05-18",
+      "id": "3fd2d2f6cb324a85",
+      "plays": 1
     },
     {
       "date": "2026-05-02",
@@ -2430,7 +2469,17 @@
       "plays": 1
     },
     {
+      "date": "2026-05-18",
+      "id": "4fd758d29ea4f75f",
+      "plays": 1
+    },
+    {
       "date": "2026-05-02",
+      "id": "50193b2090b1e06d",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-18",
       "id": "50193b2090b1e06d",
       "plays": 1
     },
@@ -2453,6 +2502,11 @@
       "date": "2026-05-02",
       "id": "5673df36a79f0b79",
       "plays": 6
+    },
+    {
+      "date": "2026-05-18",
+      "id": "5673df36a79f0b79",
+      "plays": 1
     },
     {
       "date": "2026-05-16",
@@ -2540,6 +2594,11 @@
       "plays": 10
     },
     {
+      "date": "2026-05-18",
+      "id": "74961c5d8eae598f",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "7ad42f196b7ee3f7",
       "plays": 2
@@ -2571,6 +2630,11 @@
     },
     {
       "date": "2026-04-20",
+      "id": "82bfb6faa36f2bd5",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-18",
       "id": "82bfb6faa36f2bd5",
       "plays": 1
     },
@@ -2618,6 +2682,11 @@
       "date": "2026-05-02",
       "id": "86f1f909708c1b97",
       "plays": 2
+    },
+    {
+      "date": "2026-05-18",
+      "id": "86f1f909708c1b97",
+      "plays": 1
     },
     {
       "date": "2026-05-04",
@@ -2705,6 +2774,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-18",
+      "id": "9f0450701cbb1676",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "a3a8eadd0a1ee41a",
       "plays": 1
@@ -2751,6 +2825,11 @@
     },
     {
       "date": "2026-05-17",
+      "id": "adcb42f2129a2ef7",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-18",
       "id": "adcb42f2129a2ef7",
       "plays": 1
     },
@@ -2810,6 +2889,11 @@
       "plays": 10
     },
     {
+      "date": "2026-05-18",
+      "id": "c227cd59f66b8a5b",
+      "plays": 1
+    },
+    {
       "date": "2026-05-10",
       "id": "c4b87351e0d0fe9d",
       "plays": 8
@@ -2845,12 +2929,22 @@
       "plays": 1
     },
     {
+      "date": "2026-05-18",
+      "id": "caed4dc01d38427c",
+      "plays": 1
+    },
+    {
       "date": "2026-05-02",
       "id": "cbe051bf47002ff3",
       "plays": 1
     },
     {
       "date": "2026-04-19",
+      "id": "cc12c9c225a353a0",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-18",
       "id": "cc12c9c225a353a0",
       "plays": 1
     },
@@ -2880,8 +2974,23 @@
       "plays": 1
     },
     {
+      "date": "2026-05-18",
+      "id": "d44df716956220f7",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "d4befafd0bb90a2c",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-18",
+      "id": "d4befafd0bb90a2c",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-18",
+      "id": "d8175e76a383ad24",
       "plays": 1
     },
     {
@@ -3066,6 +3175,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-17",
-  "snapshot_count": 25
+  "latest_snapshot": "2026-05-18",
+  "snapshot_count": 26
 }
