@@ -68,336 +68,15 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 84,
-      "top_artists": [
-        {
-          "artist": "Taylor Swift",
-          "plays": 10
-        },
-        {
-          "artist": "Horalion",
-          "plays": 7
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 6
-        },
-        {
-          "artist": "Baddiel Skinner",
-          "plays": 4
-        },
-        {
-          "artist": "Layup",
-          "plays": 4
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 2
-        },
-        {
-          "artist": "Cut Copy",
-          "plays": 2
-        },
-        {
-          "artist": "Claude François",
-          "plays": 2
-        },
-        {
-          "artist": "Mika",
-          "plays": 2
-        },
-        {
-          "artist": "MIKA",
-          "plays": 2
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 2
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 2
-        },
-        {
-          "artist": "Feder",
-          "plays": 2
-        },
-        {
-          "artist": "Benson Boone",
-          "plays": 1
-        },
-        {
-          "artist": "Gesaffelstein",
-          "plays": 1
-        },
-        {
-          "artist": "L'Impératrice",
-          "plays": 1
-        },
-        {
-          "artist": "Supermode",
-          "plays": 1
-        },
-        {
-          "artist": "French 79",
-          "plays": 1
-        },
-        {
-          "artist": "Oxmo Puccino",
-          "plays": 1
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 1
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 1
-        },
-        {
-          "artist": "Tatsuro Yamashita",
-          "plays": 1
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 1
-        },
-        {
-          "artist": "Tomoko Aran",
-          "plays": 1
-        },
-        {
-          "artist": "Feist",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Electronic",
-          "plays": 22
-        },
-        {
-          "genre": "Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Dance",
-          "plays": 7
-        },
-        {
-          "genre": "Folk",
-          "plays": 6
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 6
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 5
-        },
-        {
-          "genre": "Alternative",
-          "plays": 4
-        },
-        {
-          "genre": "Britpop",
-          "plays": 4
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 3
-        },
-        {
-          "genre": "Rock",
-          "plays": 1
-        },
-        {
-          "genre": "Disco",
-          "plays": 1
-        },
-        {
-          "genre": "Ambient",
-          "plays": 1
-        },
-        {
-          "genre": "Comedy",
-          "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "mashup",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 10,
-          "genre": "Pop"
-        },
-        {
-          "song": "Autobahn (Horalion Remix)",
-          "artist": "Horalion & Kraftwek",
-          "plays": 7,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 6,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 4,
-          "genre": "Folk"
-        },
-        {
-          "song": "Three Lions (Christmas)",
-          "artist": "Baddiel Skinner",
-          "plays": 3,
-          "genre": "Britpop"
-        },
-        {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "C'est la Vie",
-          "artist": "Mika",
-          "plays": 2,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Grace Kelly en Français",
-          "artist": "MIKA",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Decade Mixtape 2000's",
-          "artist": "Bon Entendeur",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Lordly",
-          "artist": "Feder",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Beautiful Things",
-          "artist": "Benson Boone",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Destinations",
-          "artist": "Gesaffelstein",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Anomalie bleue",
-          "artist": "L'Impératrice",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Astronomia (Medieval Tavern Version)",
-          "artist": "Tony Igy",
-          "plays": 1,
-          "genre": "Folk"
-        },
-        {
-          "song": "Italo Disco",
-          "artist": "Lifelike",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Ride on Time",
-          "artist": "Tatsuro Yamashita",
-          "plays": 1,
-          "genre": "City Pop"
-        },
-        {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Comme d'habitude",
-          "artist": "Claude François",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Midnight Pretenders",
-          "artist": "Tomoko Aran",
-          "plays": 1,
-          "genre": "City Pop"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 1,
-          "genre": "Alternative"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 266,
+      "total_plays": 222,
       "top_artists": [
-        {
-          "artist": "MotorBass",
-          "plays": 37
-        },
         {
           "artist": "Taylor Swift",
           "plays": 20
@@ -419,10 +98,6 @@
           "plays": 9
         },
         {
-          "artist": "Baddiel Skinner",
-          "plays": 9
-        },
-        {
           "artist": "Layup",
           "plays": 9
         },
@@ -432,6 +107,10 @@
         },
         {
           "artist": "Minako Yoshida",
+          "plays": 8
+        },
+        {
+          "artist": "Baddiel Skinner",
           "plays": 8
         },
         {
@@ -479,10 +158,6 @@
           "plays": 4
         },
         {
-          "artist": "Weiss",
-          "plays": 3
-        },
-        {
           "artist": "Claude François",
           "plays": 3
         },
@@ -493,16 +168,24 @@
         {
           "artist": "Benson Boone",
           "plays": 2
+        },
+        {
+          "artist": "Gesaffelstein",
+          "plays": 2
+        },
+        {
+          "artist": "L'Impératrice",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 94
+          "plays": 57
         },
         {
           "genre": "Pop",
-          "plays": 43
+          "plays": 42
         },
         {
           "genre": "Dance",
@@ -529,11 +212,11 @@
           "plays": 10
         },
         {
-          "genre": "Britpop",
-          "plays": 9
+          "genre": "Variete Francaise",
+          "plays": 8
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Britpop",
           "plays": 8
         },
         {
@@ -550,18 +233,14 @@
         },
         {
           "genre": "Rock",
-          "plays": 3
-        },
-        {
-          "genre": "House",
-          "plays": 3
-        },
-        {
-          "genre": "mashup",
-          "plays": 3
+          "plays": 2
         },
         {
           "genre": "Future Funk",
+          "plays": 2
+        },
+        {
+          "genre": "mashup",
           "plays": 2
         },
         {
@@ -574,12 +253,6 @@
         }
       ],
       "top_tracks": [
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 37,
-          "genre": "Electronic"
-        },
         {
           "song": "The Fate of Ophelia",
           "artist": "Taylor Swift",
@@ -701,18 +374,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Feel My Needs",
-          "artist": "Weiss",
-          "plays": 3,
-          "genre": "House"
-        },
-        {
-          "song": "Three Lions '98",
-          "artist": "Baddiel Skinner",
-          "plays": 3,
-          "genre": "Britpop"
-        },
-        {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
           "plays": 3,
@@ -723,12 +384,30 @@
           "artist": "Benson Boone",
           "plays": 2,
           "genre": "Rock"
+        },
+        {
+          "song": "Destinations",
+          "artist": "Gesaffelstein",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Anomalie bleue",
+          "artist": "L'Impératrice",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 2,
+          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 991,
+      "total_plays": 951,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -756,11 +435,11 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 45
+          "plays": 44
         },
         {
           "artist": "Supermode",
-          "plays": 44
+          "plays": 42
         },
         {
           "artist": "Maya",
@@ -768,7 +447,7 @@
         },
         {
           "artist": "Nihonzera",
-          "plays": 35
+          "plays": 31
         },
         {
           "artist": "Taylor Swift",
@@ -787,20 +466,20 @@
           "plays": 18
         },
         {
-          "artist": "Daft Punk",
-          "plays": 16
-        },
-        {
           "artist": "Bon Entendeur",
-          "plays": 15
-        },
-        {
-          "artist": "Donna Summer",
           "plays": 15
         },
         {
           "artist": "Claude François",
           "plays": 13
+        },
+        {
+          "artist": "Donna Summer",
+          "plays": 13
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 12
         },
         {
           "artist": "Tony Igy",
@@ -834,15 +513,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 309
+          "plays": 308
         },
         {
           "genre": "Dance",
-          "plays": 170
+          "plays": 160
         },
         {
           "genre": "Variete Francaise",
-          "plays": 130
+          "plays": 127
         },
         {
           "genre": "Soft Rock",
@@ -850,22 +529,18 @@
         },
         {
           "genre": "Pop",
-          "plays": 56
+          "plays": 54
         },
         {
           "genre": "Vaporwave",
-          "plays": 35
-        },
-        {
-          "genre": "Disco",
-          "plays": 23
+          "plays": 31
         },
         {
           "genre": "Comedy",
           "plays": 22
         },
         {
-          "genre": "Hip Hop/Rap",
+          "genre": "Disco",
           "plays": 21
         },
         {
@@ -873,23 +548,23 @@
           "plays": 20
         },
         {
+          "genre": "Hip Hop/Rap",
+          "plays": 17
+        },
+        {
           "genre": "Folk",
           "plays": 14
         },
         {
           "genre": "House",
-          "plays": 14
-        },
-        {
-          "genre": "City Pop",
           "plays": 13
         },
         {
-          "genre": "Oldies",
-          "plays": 11
+          "genre": "City Pop",
+          "plays": 12
         },
         {
-          "genre": "mashup",
+          "genre": "Oldies",
           "plays": 9
         },
         {
@@ -897,8 +572,8 @@
           "plays": 8
         },
         {
-          "genre": "Rock",
-          "plays": 6
+          "genre": "mashup",
+          "plays": 7
         },
         {
           "genre": "Alternative",
@@ -909,20 +584,12 @@
           "plays": 4
         },
         {
-          "genre": "Future Funk",
+          "genre": "Rock",
           "plays": 3
         },
         {
-          "genre": "Country",
-          "plays": 2
-        },
-        {
-          "genre": "Ambient",
-          "plays": 2
-        },
-        {
-          "genre": "Future House",
-          "plays": 2
+          "genre": "Future Funk",
+          "plays": 3
         },
         {
           "genre": "Lowfi",
@@ -930,6 +597,10 @@
         },
         {
           "genre": "Trance",
+          "plays": 1
+        },
+        {
+          "genre": "Ambient",
           "plays": 1
         }
       ],
@@ -967,13 +638,13 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 45,
+          "plays": 44,
           "genre": "Variete Francaise"
         },
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 44,
+          "plays": 42,
           "genre": "Dance"
         },
         {
@@ -985,7 +656,7 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 35,
+          "plays": 31,
           "genre": "Vaporwave"
         },
         {
@@ -3175,6 +2846,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-19",
-  "snapshot_count": 27
+  "latest_snapshot": "2026-05-21",
+  "snapshot_count": 28
 }
