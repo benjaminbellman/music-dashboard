@@ -63,19 +63,348 @@
     {
       "date": "2026-05-18",
       "plays": 17
+    },
+    {
+      "date": "2026-05-21",
+      "plays": 61
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 0,
-      "top_artists": [],
-      "top_genres": [],
-      "top_tracks": []
+      "total_plays": 61,
+      "top_artists": [
+        {
+          "artist": "Bob Sinclar",
+          "plays": 7
+        },
+        {
+          "artist": "442oons",
+          "plays": 7
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 4
+        },
+        {
+          "artist": "Huey Lewis & The News",
+          "plays": 4
+        },
+        {
+          "artist": "Feist",
+          "plays": 3
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 2
+        },
+        {
+          "artist": "Calogero",
+          "plays": 1
+        },
+        {
+          "artist": "Seelenluft",
+          "plays": 1
+        },
+        {
+          "artist": "Edmofo",
+          "plays": 1
+        },
+        {
+          "artist": "Le Maitre",
+          "plays": 1
+        },
+        {
+          "artist": "Pink Floyd",
+          "plays": 1
+        },
+        {
+          "artist": "The Piano Guys",
+          "plays": 1
+        },
+        {
+          "artist": "Disclosure",
+          "plays": 1
+        },
+        {
+          "artist": "Duke Ellington",
+          "plays": 1
+        },
+        {
+          "artist": "Tame Impala",
+          "plays": 1
+        },
+        {
+          "artist": "Sam Smith",
+          "plays": 1
+        },
+        {
+          "artist": "Nelly",
+          "plays": 1
+        },
+        {
+          "artist": "Lil Tay",
+          "plays": 1
+        },
+        {
+          "artist": "MIKA",
+          "plays": 1
+        },
+        {
+          "artist": "Etienne de Crecy",
+          "plays": 1
+        },
+        {
+          "artist": "Calvin Harris",
+          "plays": 1
+        },
+        {
+          "artist": "Jean-Jacques Goldman",
+          "plays": 1
+        },
+        {
+          "artist": "Desired",
+          "plays": 1
+        },
+        {
+          "artist": "The Beatles",
+          "plays": 1
+        },
+        {
+          "artist": "Austin Millz",
+          "plays": 1
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Pop",
+          "plays": 13
+        },
+        {
+          "genre": "Dance",
+          "plays": 11
+        },
+        {
+          "genre": "Comedy",
+          "plays": 8
+        },
+        {
+          "genre": "Electronic",
+          "plays": 7
+        },
+        {
+          "genre": "Alternative",
+          "plays": 4
+        },
+        {
+          "genre": "Rock",
+          "plays": 3
+        },
+        {
+          "genre": "House",
+          "plays": 2
+        },
+        {
+          "genre": "Disco",
+          "plays": 2
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 2
+        },
+        {
+          "genre": "Variété française",
+          "plays": 1
+        },
+        {
+          "genre": "Classical",
+          "plays": 1
+        },
+        {
+          "genre": "General Jazz",
+          "plays": 1
+        },
+        {
+          "genre": "Summertime All The Time",
+          "plays": 1
+        },
+        {
+          "genre": "French Pop",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 1
+        },
+        {
+          "genre": "Folk",
+          "plays": 1
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 1
+        },
+        {
+          "genre": "R & B",
+          "plays": 1
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 7,
+          "genre": "Dance"
+        },
+        {
+          "song": "Who Won the League - Liverpool",
+          "artist": "442oons",
+          "plays": 7,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 4,
+          "genre": "Pop"
+        },
+        {
+          "song": "Do You Believe In Love",
+          "artist": "Huey Lewis & The News",
+          "plays": 4,
+          "genre": "Pop"
+        },
+        {
+          "song": "My Moon My Man",
+          "artist": "Feist",
+          "plays": 3,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Pomme C",
+          "artist": "Calogero",
+          "plays": 1,
+          "genre": "Variété française"
+        },
+        {
+          "song": "Manila",
+          "artist": "Seelenluft",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "All I want",
+          "artist": "Edmofo",
+          "plays": 1,
+          "genre": "House"
+        },
+        {
+          "song": "Keep Close",
+          "artist": "Le Maitre",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "The Happiest Days Of Our Lives",
+          "artist": "Pink Floyd",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "All of Me",
+          "artist": "The Piano Guys",
+          "plays": 1,
+          "genre": "Classical"
+        },
+        {
+          "song": "You & Me (feat. Eliza Doolittle) [Flume Remix]",
+          "artist": "Disclosure",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Black Beauty",
+          "artist": "Duke Ellington",
+          "plays": 1,
+          "genre": "General Jazz"
+        },
+        {
+          "song": "Disciples",
+          "artist": "Tame Impala",
+          "plays": 1,
+          "genre": "Alternative"
+        },
+        {
+          "song": "I Feel Love",
+          "artist": "Sam Smith",
+          "plays": 1,
+          "genre": "Disco"
+        },
+        {
+          "song": "Ride Wit Me (Viceroy \"Jet Life\" Remix)",
+          "artist": "Nelly",
+          "plays": 1,
+          "genre": "Summertime All The Time"
+        },
+        {
+          "song": "Sucker 4 Green",
+          "artist": "Lil Tay",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Make You Happy (Cherokee Remix)",
+          "artist": "MIKA",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Am I Wrong",
+          "artist": "Etienne de Crecy",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Let's Go (feat Ne-Yo)",
+          "artist": "Calvin Harris",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Au bout de mes rêves",
+          "artist": "Jean-Jacques Goldman",
+          "plays": 1,
+          "genre": "French Pop"
+        },
+        {
+          "song": "I'm so Alone",
+          "artist": "Desired",
+          "plays": 1,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Because",
+          "artist": "The Beatles",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "To Be Real",
+          "artist": "Austin Millz",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        }
+      ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 222,
+      "total_plays": 283,
       "top_artists": [
         {
           "artist": "Taylor Swift",
@@ -83,7 +412,7 @@
         },
         {
           "artist": "Horalion",
-          "plays": 14
+          "plays": 15
         },
         {
           "artist": "Creedence Clearwater Revival",
@@ -107,6 +436,10 @@
         },
         {
           "artist": "Minako Yoshida",
+          "plays": 8
+        },
+        {
+          "artist": "Bob Sinclar",
           "plays": 8
         },
         {
@@ -134,6 +467,22 @@
           "plays": 8
         },
         {
+          "artist": "442oons",
+          "plays": 7
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5
+        },
+        {
+          "artist": "MIKA",
+          "plays": 5
+        },
+        {
+          "artist": "Huey Lewis & The News",
+          "plays": 5
+        },
+        {
           "artist": "Polo & Pan et Metronomy",
           "plays": 4
         },
@@ -142,11 +491,11 @@
           "plays": 4
         },
         {
-          "artist": "Mika",
+          "artist": "Feist",
           "plays": 4
         },
         {
-          "artist": "MIKA",
+          "artist": "Mika",
           "plays": 4
         },
         {
@@ -156,47 +505,31 @@
         {
           "artist": "Feder",
           "plays": 4
-        },
-        {
-          "artist": "Claude François",
-          "plays": 3
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 3
-        },
-        {
-          "artist": "Benson Boone",
-          "plays": 2
-        },
-        {
-          "artist": "Gesaffelstein",
-          "plays": 2
-        },
-        {
-          "artist": "L'Impératrice",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 57
+          "plays": 64
         },
         {
           "genre": "Pop",
-          "plays": 42
+          "plays": 55
         },
         {
           "genre": "Dance",
-          "plays": 20
+          "plays": 31
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 13
+          "plays": 15
         },
         {
           "genre": "Folk",
+          "plays": 13
+        },
+        {
+          "genre": "Disco",
           "plays": 12
         },
         {
@@ -208,8 +541,12 @@
           "plays": 11
         },
         {
-          "genre": "Disco",
-          "plays": 10
+          "genre": "Alternative",
+          "plays": 9
+        },
+        {
+          "genre": "Comedy",
+          "plays": 9
         },
         {
           "genre": "Variete Francaise",
@@ -228,15 +565,15 @@
           "plays": 8
         },
         {
-          "genre": "Alternative",
+          "genre": "Rock",
           "plays": 5
         },
         {
-          "genre": "Rock",
-          "plays": 2
+          "genre": "Future Funk",
+          "plays": 3
         },
         {
-          "genre": "Future Funk",
+          "genre": "House",
           "plays": 2
         },
         {
@@ -244,11 +581,31 @@
           "plays": 2
         },
         {
-          "genre": "Ambient",
+          "genre": "Variété française",
           "plays": 1
         },
         {
-          "genre": "Comedy",
+          "genre": "Classical",
+          "plays": 1
+        },
+        {
+          "genre": "General Jazz",
+          "plays": 1
+        },
+        {
+          "genre": "Summertime All The Time",
+          "plays": 1
+        },
+        {
+          "genre": "French Pop",
+          "plays": 1
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 1
+        },
+        {
+          "genre": "R & B",
           "plays": 1
         }
       ],
@@ -262,7 +619,7 @@
         {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
-          "plays": 14,
+          "plays": 15,
           "genre": "Electronic"
         },
         {
@@ -294,6 +651,12 @@
           "artist": "Minako Yoshida",
           "plays": 8,
           "genre": "City Pop"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 8,
+          "genre": "Dance"
         },
         {
           "song": "Aerobeetroots (ft. Bloody Beatroots)",
@@ -332,10 +695,28 @@
           "genre": "Jazz"
         },
         {
+          "song": "Who Won the League - Liverpool",
+          "artist": "442oons",
+          "plays": 7,
+          "genre": "Comedy"
+        },
+        {
           "song": "Three Lions (Christmas)",
           "artist": "Baddiel Skinner",
           "plays": 6,
           "genre": "Britpop"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 5,
+          "genre": "Pop"
+        },
+        {
+          "song": "Do You Believe In Love",
+          "artist": "Huey Lewis & The News",
+          "plays": 5,
+          "genre": "Pop"
         },
         {
           "song": "Disco Nap(feat. METRONOMY)",
@@ -348,6 +729,12 @@
           "artist": "Cut Copy",
           "plays": 4,
           "genre": "Electronic"
+        },
+        {
+          "song": "My Moon My Man",
+          "artist": "Feist",
+          "plays": 4,
+          "genre": "Alternative"
         },
         {
           "song": "C'est la Vie",
@@ -372,42 +759,12 @@
           "artist": "Feder",
           "plays": 4,
           "genre": "Electronic"
-        },
-        {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Beautiful Things",
-          "artist": "Benson Boone",
-          "plays": 2,
-          "genre": "Rock"
-        },
-        {
-          "song": "Destinations",
-          "artist": "Gesaffelstein",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Anomalie bleue",
-          "artist": "L'Impératrice",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 2,
-          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 951,
+      "total_plays": 1012,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -422,15 +779,15 @@
           "plays": 56
         },
         {
+          "artist": "MotorBass",
+          "plays": 53
+        },
+        {
           "artist": "Calvin Harris",
-          "plays": 51
+          "plays": 52
         },
         {
           "artist": "John Newman",
-          "plays": 51
-        },
-        {
-          "artist": "MotorBass",
           "plays": 51
         },
         {
@@ -458,11 +815,15 @@
           "plays": 20
         },
         {
-          "artist": "Préface",
+          "artist": "Horalion",
+          "plays": 19
+        },
+        {
+          "artist": "442oons",
           "plays": 18
         },
         {
-          "artist": "Horalion",
+          "artist": "Préface",
           "plays": 18
         },
         {
@@ -486,38 +847,34 @@
           "plays": 12
         },
         {
+          "artist": "Bob Sinclar",
+          "plays": 12
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 12
         },
         {
-          "artist": "442oons",
+          "artist": "Rucka Rucka Ali",
+          "plays": 11
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
           "plays": 11
         },
         {
           "artist": "Hunter",
           "plays": 11
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 10
-        },
-        {
-          "artist": "Tez Cadey",
-          "plays": 10
-        },
-        {
-          "artist": "Basshunter",
-          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 308
+          "plays": 315
         },
         {
           "genre": "Dance",
-          "plays": 160
+          "plays": 171
         },
         {
           "genre": "Variete Francaise",
@@ -529,7 +886,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 54
+          "plays": 67
         },
         {
           "genre": "Vaporwave",
@@ -537,11 +894,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 22
+          "plays": 30
         },
         {
           "genre": "Disco",
-          "plays": 21
+          "plays": 23
         },
         {
           "genre": "Britpop",
@@ -549,19 +906,23 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 17
-        },
-        {
-          "genre": "Folk",
-          "plays": 14
+          "plays": 19
         },
         {
           "genre": "House",
-          "plays": 13
+          "plays": 15
+        },
+        {
+          "genre": "Folk",
+          "plays": 15
         },
         {
           "genre": "City Pop",
           "plays": 12
+        },
+        {
+          "genre": "Alternative",
+          "plays": 10
         },
         {
           "genre": "Oldies",
@@ -576,31 +937,35 @@
           "plays": 7
         },
         {
-          "genre": "Alternative",
+          "genre": "Rock",
           "plays": 6
         },
         {
           "genre": "Soundtrack",
-          "plays": 4
-        },
-        {
-          "genre": "Rock",
-          "plays": 3
+          "plays": 5
         },
         {
           "genre": "Future Funk",
-          "plays": 3
+          "plays": 4
+        },
+        {
+          "genre": "Variété française",
+          "plays": 1
         },
         {
           "genre": "Lowfi",
           "plays": 1
         },
         {
-          "genre": "Trance",
+          "genre": "Classical",
           "plays": 1
         },
         {
-          "genre": "Ambient",
+          "genre": "General Jazz",
+          "plays": 1
+        },
+        {
+          "genre": "Summertime All The Time",
           "plays": 1
         }
       ],
@@ -624,16 +989,16 @@
           "genre": "Electronic"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 53,
+          "genre": "Electronic"
+        },
+        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 51,
-          "genre": "Electronic"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -674,7 +1039,7 @@
         {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
-          "plays": 17,
+          "plays": 18,
           "genre": "Electronic"
         },
         {
@@ -682,6 +1047,12 @@
           "artist": "Baddiel Skinner",
           "plays": 14,
           "genre": "Britpop"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
         },
         {
           "song": "Down On The Corner",
@@ -694,6 +1065,12 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         },
         {
           "song": "I Feel Love",
@@ -742,24 +1119,12 @@
           "artist": "Claude François & Fred Falke",
           "plays": 10,
           "genre": "House"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 9,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 9,
-          "genre": "Folk"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 993,
+      "total_plays": 1054,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -774,15 +1139,15 @@
           "plays": 56
         },
         {
+          "artist": "MotorBass",
+          "plays": 53
+        },
+        {
           "artist": "Calvin Harris",
-          "plays": 51
+          "plays": 52
         },
         {
           "artist": "John Newman",
-          "plays": 51
-        },
-        {
-          "artist": "MotorBass",
           "plays": 51
         },
         {
@@ -810,11 +1175,15 @@
           "plays": 20
         },
         {
-          "artist": "Préface",
+          "artist": "Horalion",
+          "plays": 19
+        },
+        {
+          "artist": "442oons",
           "plays": 18
         },
         {
-          "artist": "Horalion",
+          "artist": "Préface",
           "plays": 18
         },
         {
@@ -838,38 +1207,34 @@
           "plays": 12
         },
         {
+          "artist": "Bob Sinclar",
+          "plays": 12
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 12
         },
         {
-          "artist": "442oons",
+          "artist": "Rucka Rucka Ali",
+          "plays": 11
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
           "plays": 11
         },
         {
           "artist": "Hunter",
           "plays": 11
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 10
-        },
-        {
-          "artist": "Tez Cadey",
-          "plays": 10
-        },
-        {
-          "artist": "Basshunter",
-          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 309
+          "plays": 316
         },
         {
           "genre": "Dance",
-          "plays": 170
+          "plays": 181
         },
         {
           "genre": "Variete Francaise",
@@ -881,35 +1246,35 @@
         },
         {
           "genre": "Pop",
-          "plays": 57
+          "plays": 70
         },
         {
           "genre": "Vaporwave",
           "plays": 35
         },
         {
-          "genre": "Disco",
-          "plays": 23
+          "genre": "Comedy",
+          "plays": 30
         },
         {
-          "genre": "Comedy",
-          "plays": 22
+          "genre": "Disco",
+          "plays": 25
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 21
+          "plays": 23
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
-          "genre": "Folk",
-          "plays": 14
+          "genre": "House",
+          "plays": 16
         },
         {
-          "genre": "House",
-          "plays": 14
+          "genre": "Folk",
+          "plays": 15
         },
         {
           "genre": "City Pop",
@@ -920,6 +1285,14 @@
           "plays": 11
         },
         {
+          "genre": "Alternative",
+          "plays": 10
+        },
+        {
+          "genre": "Rock",
+          "plays": 9
+        },
+        {
           "genre": "mashup",
           "plays": 9
         },
@@ -928,20 +1301,12 @@
           "plays": 8
         },
         {
-          "genre": "Rock",
-          "plays": 6
-        },
-        {
-          "genre": "Alternative",
-          "plays": 6
-        },
-        {
           "genre": "Soundtrack",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Future Funk",
-          "plays": 3
+          "plays": 4
         },
         {
           "genre": "Country",
@@ -956,11 +1321,11 @@
           "plays": 2
         },
         {
-          "genre": "Lowfi",
+          "genre": "Variété française",
           "plays": 1
         },
         {
-          "genre": "Trance",
+          "genre": "Lowfi",
           "plays": 1
         }
       ],
@@ -984,16 +1349,16 @@
           "genre": "Electronic"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 53,
+          "genre": "Electronic"
+        },
+        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 51,
-          "genre": "Electronic"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1034,7 +1399,7 @@
         {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
-          "plays": 17,
+          "plays": 18,
           "genre": "Electronic"
         },
         {
@@ -1042,6 +1407,12 @@
           "artist": "Baddiel Skinner",
           "plays": 14,
           "genre": "Britpop"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
         },
         {
           "song": "Down On The Corner",
@@ -1054,6 +1425,12 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         },
         {
           "song": "I Feel Love",
@@ -1102,24 +1479,12 @@
           "artist": "Claude François & Fred Falke",
           "plays": 10,
           "genre": "House"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 9,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 9,
-          "genre": "Folk"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 993,
+      "total_plays": 1054,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1134,15 +1499,15 @@
           "plays": 56
         },
         {
+          "artist": "MotorBass",
+          "plays": 53
+        },
+        {
           "artist": "Calvin Harris",
-          "plays": 51
+          "plays": 52
         },
         {
           "artist": "John Newman",
-          "plays": 51
-        },
-        {
-          "artist": "MotorBass",
           "plays": 51
         },
         {
@@ -1170,11 +1535,15 @@
           "plays": 20
         },
         {
-          "artist": "Préface",
+          "artist": "Horalion",
+          "plays": 19
+        },
+        {
+          "artist": "442oons",
           "plays": 18
         },
         {
-          "artist": "Horalion",
+          "artist": "Préface",
           "plays": 18
         },
         {
@@ -1198,38 +1567,34 @@
           "plays": 12
         },
         {
+          "artist": "Bob Sinclar",
+          "plays": 12
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 12
         },
         {
-          "artist": "442oons",
+          "artist": "Rucka Rucka Ali",
+          "plays": 11
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
           "plays": 11
         },
         {
           "artist": "Hunter",
           "plays": 11
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 10
-        },
-        {
-          "artist": "Tez Cadey",
-          "plays": 10
-        },
-        {
-          "artist": "Basshunter",
-          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 309
+          "plays": 316
         },
         {
           "genre": "Dance",
-          "plays": 170
+          "plays": 181
         },
         {
           "genre": "Variete Francaise",
@@ -1241,35 +1606,35 @@
         },
         {
           "genre": "Pop",
-          "plays": 57
+          "plays": 70
         },
         {
           "genre": "Vaporwave",
           "plays": 35
         },
         {
-          "genre": "Disco",
-          "plays": 23
+          "genre": "Comedy",
+          "plays": 30
         },
         {
-          "genre": "Comedy",
-          "plays": 22
+          "genre": "Disco",
+          "plays": 25
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 21
+          "plays": 23
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
-          "genre": "Folk",
-          "plays": 14
+          "genre": "House",
+          "plays": 16
         },
         {
-          "genre": "House",
-          "plays": 14
+          "genre": "Folk",
+          "plays": 15
         },
         {
           "genre": "City Pop",
@@ -1280,6 +1645,14 @@
           "plays": 11
         },
         {
+          "genre": "Alternative",
+          "plays": 10
+        },
+        {
+          "genre": "Rock",
+          "plays": 9
+        },
+        {
           "genre": "mashup",
           "plays": 9
         },
@@ -1288,20 +1661,12 @@
           "plays": 8
         },
         {
-          "genre": "Rock",
-          "plays": 6
-        },
-        {
-          "genre": "Alternative",
-          "plays": 6
-        },
-        {
           "genre": "Soundtrack",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Future Funk",
-          "plays": 3
+          "plays": 4
         },
         {
           "genre": "Country",
@@ -1316,11 +1681,11 @@
           "plays": 2
         },
         {
-          "genre": "Lowfi",
+          "genre": "Variété française",
           "plays": 1
         },
         {
-          "genre": "Trance",
+          "genre": "Lowfi",
           "plays": 1
         }
       ],
@@ -1344,16 +1709,16 @@
           "genre": "Electronic"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 53,
+          "genre": "Electronic"
+        },
+        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 51,
-          "genre": "Electronic"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1394,7 +1759,7 @@
         {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
-          "plays": 17,
+          "plays": 18,
           "genre": "Electronic"
         },
         {
@@ -1402,6 +1767,12 @@
           "artist": "Baddiel Skinner",
           "plays": 14,
           "genre": "Britpop"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
         },
         {
           "song": "Down On The Corner",
@@ -1414,6 +1785,12 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         },
         {
           "song": "I Feel Love",
@@ -1462,24 +1839,12 @@
           "artist": "Claude François & Fred Falke",
           "plays": 10,
           "genre": "House"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 9,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 9,
-          "genre": "Folk"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 993,
+      "total_plays": 1054,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1494,15 +1859,15 @@
           "plays": 56
         },
         {
+          "artist": "MotorBass",
+          "plays": 53
+        },
+        {
           "artist": "Calvin Harris",
-          "plays": 51
+          "plays": 52
         },
         {
           "artist": "John Newman",
-          "plays": 51
-        },
-        {
-          "artist": "MotorBass",
           "plays": 51
         },
         {
@@ -1530,11 +1895,15 @@
           "plays": 20
         },
         {
-          "artist": "Préface",
+          "artist": "Horalion",
+          "plays": 19
+        },
+        {
+          "artist": "442oons",
           "plays": 18
         },
         {
-          "artist": "Horalion",
+          "artist": "Préface",
           "plays": 18
         },
         {
@@ -1558,38 +1927,34 @@
           "plays": 12
         },
         {
+          "artist": "Bob Sinclar",
+          "plays": 12
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 12
         },
         {
-          "artist": "442oons",
+          "artist": "Rucka Rucka Ali",
+          "plays": 11
+        },
+        {
+          "artist": "RÜFÜS DU SOL",
           "plays": 11
         },
         {
           "artist": "Hunter",
           "plays": 11
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 10
-        },
-        {
-          "artist": "Tez Cadey",
-          "plays": 10
-        },
-        {
-          "artist": "Basshunter",
-          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 309
+          "plays": 316
         },
         {
           "genre": "Dance",
-          "plays": 170
+          "plays": 181
         },
         {
           "genre": "Variete Francaise",
@@ -1601,35 +1966,35 @@
         },
         {
           "genre": "Pop",
-          "plays": 57
+          "plays": 70
         },
         {
           "genre": "Vaporwave",
           "plays": 35
         },
         {
-          "genre": "Disco",
-          "plays": 23
+          "genre": "Comedy",
+          "plays": 30
         },
         {
-          "genre": "Comedy",
-          "plays": 22
+          "genre": "Disco",
+          "plays": 25
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 21
+          "plays": 23
         },
         {
           "genre": "Britpop",
           "plays": 20
         },
         {
-          "genre": "Folk",
-          "plays": 14
+          "genre": "House",
+          "plays": 16
         },
         {
-          "genre": "House",
-          "plays": 14
+          "genre": "Folk",
+          "plays": 15
         },
         {
           "genre": "City Pop",
@@ -1640,6 +2005,14 @@
           "plays": 11
         },
         {
+          "genre": "Alternative",
+          "plays": 10
+        },
+        {
+          "genre": "Rock",
+          "plays": 9
+        },
+        {
           "genre": "mashup",
           "plays": 9
         },
@@ -1648,20 +2021,12 @@
           "plays": 8
         },
         {
-          "genre": "Rock",
-          "plays": 6
-        },
-        {
-          "genre": "Alternative",
-          "plays": 6
-        },
-        {
           "genre": "Soundtrack",
-          "plays": 4
+          "plays": 5
         },
         {
           "genre": "Future Funk",
-          "plays": 3
+          "plays": 4
         },
         {
           "genre": "Country",
@@ -1676,11 +2041,11 @@
           "plays": 2
         },
         {
-          "genre": "Lowfi",
+          "genre": "Variété française",
           "plays": 1
         },
         {
-          "genre": "Trance",
+          "genre": "Lowfi",
           "plays": 1
         }
       ],
@@ -1704,16 +2069,16 @@
           "genre": "Electronic"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 53,
+          "genre": "Electronic"
+        },
+        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 51,
-          "genre": "Electronic"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1754,7 +2119,7 @@
         {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
-          "plays": 17,
+          "plays": 18,
           "genre": "Electronic"
         },
         {
@@ -1762,6 +2127,12 @@
           "artist": "Baddiel Skinner",
           "plays": 14,
           "genre": "Britpop"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
         },
         {
           "song": "Down On The Corner",
@@ -1774,6 +2145,12 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         },
         {
           "song": "I Feel Love",
@@ -1822,23 +2199,16 @@
           "artist": "Claude François & Fred Falke",
           "plays": 10,
           "genre": "House"
-        },
-        {
-          "song": "Toucher l'horizon",
-          "artist": "Oxmo Puccino",
-          "plays": 9,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 9,
-          "genre": "Folk"
         }
       ]
     }
   },
   "deltas": [
+    {
+      "date": "2026-05-21",
+      "id": "008a13a8b1886f81",
+      "plays": 1
+    },
     {
       "date": "2026-04-23",
       "id": "04cab1736714dbd5",
@@ -1870,6 +2240,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "0836c98fb458535b",
+      "plays": 1
+    },
+    {
       "date": "2026-04-24",
       "id": "08538c93d3f8c5c6",
       "plays": 5
@@ -1882,6 +2257,16 @@
     {
       "date": "2026-05-02",
       "id": "08538c93d3f8c5c6",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "09df19913bc3f1d3",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "0d136f172542fc08",
       "plays": 1
     },
     {
@@ -1980,6 +2365,11 @@
       "plays": 8
     },
     {
+      "date": "2026-05-21",
+      "id": "20ff8db508423cf0",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "21a38e1a8633a2ff",
       "plays": 2
@@ -2040,8 +2430,18 @@
       "plays": 10
     },
     {
+      "date": "2026-05-21",
+      "id": "2d7f4033df893f91",
+      "plays": 1
+    },
+    {
       "date": "2026-04-29",
       "id": "2fab9b6c663cf6e7",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "325e35fb3172c364",
       "plays": 1
     },
     {
@@ -2053,6 +2453,11 @@
       "date": "2026-05-07",
       "id": "337e9b4ff1341177",
       "plays": 3
+    },
+    {
+      "date": "2026-05-21",
+      "id": "33ffa6e2c47402b1",
+      "plays": 1
     },
     {
       "date": "2026-05-02",
@@ -2100,6 +2505,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "3fd2d2f6cb324a85",
+      "plays": 7
+    },
+    {
       "date": "2026-05-02",
       "id": "40da54079480ac31",
       "plays": 1
@@ -2115,8 +2525,18 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "41c0af399f1068f6",
+      "plays": 1
+    },
+    {
       "date": "2026-04-23",
       "id": "48c65304e053dfdd",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "4990a189b5363454",
       "plays": 1
     },
     {
@@ -2155,6 +2575,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "50193b2090b1e06d",
+      "plays": 3
+    },
+    {
       "date": "2026-05-16",
       "id": "505948207245436e",
       "plays": 1
@@ -2170,6 +2595,16 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "5469333499fe9339",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "546b0e081565a0b5",
+      "plays": 1
+    },
+    {
       "date": "2026-05-02",
       "id": "5673df36a79f0b79",
       "plays": 6
@@ -2177,6 +2612,16 @@
     {
       "date": "2026-05-18",
       "id": "5673df36a79f0b79",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "5673df36a79f0b79",
+      "plays": 4
+    },
+    {
+      "date": "2026-05-21",
+      "id": "57141685fd592cd7",
       "plays": 1
     },
     {
@@ -2190,6 +2635,26 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "58d5bc71d49992e8",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "5b9bde39180b25c2",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "5b9f71aa600d5a56",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "5dc99615d7a65c89",
+      "plays": 1
+    },
+    {
       "date": "2026-04-30",
       "id": "5f68cdbf3f1da1bd",
       "plays": 6
@@ -2198,6 +2663,11 @@
       "date": "2026-05-04",
       "id": "5f68cdbf3f1da1bd",
       "plays": 12
+    },
+    {
+      "date": "2026-05-21",
+      "id": "63507f8c4486dfcd",
+      "plays": 1
     },
     {
       "date": "2026-05-10",
@@ -2215,6 +2685,11 @@
       "plays": 2
     },
     {
+      "date": "2026-05-21",
+      "id": "6868852f55abf8dc",
+      "plays": 1
+    },
+    {
       "date": "2026-04-30",
       "id": "6aba7f3ef09ca864",
       "plays": 1
@@ -2228,6 +2703,11 @@
       "date": "2026-04-20",
       "id": "6b1a79650f19037f",
       "plays": 2
+    },
+    {
+      "date": "2026-05-21",
+      "id": "6b6edcde0e8ffe34",
+      "plays": 1
     },
     {
       "date": "2026-05-02",
@@ -2253,6 +2733,11 @@
       "date": "2026-04-30",
       "id": "6e6f5be12c14187a",
       "plays": 3
+    },
+    {
+      "date": "2026-05-21",
+      "id": "717ad08b52dd5a40",
+      "plays": 1
     },
     {
       "date": "2026-04-26",
@@ -2295,6 +2780,11 @@
       "plays": 7
     },
     {
+      "date": "2026-05-21",
+      "id": "7f2e6f83890c2007",
+      "plays": 1
+    },
+    {
       "date": "2026-05-06",
       "id": "807a0046c81798ec",
       "plays": 1
@@ -2310,6 +2800,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "8301a88791006c39",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "8400b04d0d405e2a",
       "plays": 2
@@ -2322,6 +2817,11 @@
     {
       "date": "2026-05-17",
       "id": "8400b04d0d405e2a",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "84f4680652b45c20",
       "plays": 1
     },
     {
@@ -2356,6 +2856,11 @@
     },
     {
       "date": "2026-05-18",
+      "id": "86f1f909708c1b97",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
       "id": "86f1f909708c1b97",
       "plays": 1
     },
@@ -2405,6 +2910,11 @@
       "plays": 10
     },
     {
+      "date": "2026-05-21",
+      "id": "9123067e4f4dd166",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "9289203bbb1813bd",
       "plays": 1
@@ -2417,6 +2927,16 @@
     {
       "date": "2026-05-02",
       "id": "9298a9e2929b94c4",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "92c775b0552d3653",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "9591cf82f5a9a94b",
       "plays": 1
     },
     {
@@ -2442,6 +2962,11 @@
     {
       "date": "2026-05-17",
       "id": "9e19ca7d049b651f",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "9eec13b6e2f9955a",
       "plays": 1
     },
     {
@@ -2473,6 +2998,11 @@
       "date": "2026-05-10",
       "id": "a6b46341449f075e",
       "plays": 8
+    },
+    {
+      "date": "2026-05-21",
+      "id": "aa39c94b7d37e9e4",
+      "plays": 1
     },
     {
       "date": "2026-04-20",
@@ -2508,6 +3038,11 @@
       "date": "2026-04-26",
       "id": "b0583330662c74b0",
       "plays": 10
+    },
+    {
+      "date": "2026-05-21",
+      "id": "b2a02f86ec8349a9",
+      "plays": 1
     },
     {
       "date": "2026-05-16",
@@ -2575,6 +3110,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "c726f060de43aa05",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "c756c474797c5e3a",
       "plays": 2
@@ -2603,6 +3143,11 @@
       "date": "2026-05-18",
       "id": "caed4dc01d38427c",
       "plays": 1
+    },
+    {
+      "date": "2026-05-21",
+      "id": "caed4dc01d38427c",
+      "plays": 4
     },
     {
       "date": "2026-05-02",
@@ -2720,6 +3265,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-21",
+      "id": "e8a81778ad316d07",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "ead05b4dfbad6e1d",
       "plays": 1
@@ -2775,6 +3325,16 @@
       "plays": 10
     },
     {
+      "date": "2026-05-21",
+      "id": "f015cc911a25b6da",
+      "plays": 7
+    },
+    {
+      "date": "2026-05-21",
+      "id": "f06b93ca15b7f2cc",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "f1cc741d7d4348d7",
       "plays": 4
@@ -2793,6 +3353,11 @@
       "date": "2026-05-07",
       "id": "f2603e959d7cf580",
       "plays": 37
+    },
+    {
+      "date": "2026-05-21",
+      "id": "f2603e959d7cf580",
+      "plays": 2
     },
     {
       "date": "2026-04-26",

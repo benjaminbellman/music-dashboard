@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 34746,
-    "songs": 709
+    "plays": 34759,
+    "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29332,
+    "plays": 29343,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23175,
+    "plays": 23182,
     "songs": 389
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "genre": "Alternative",
-    "plays": 13841,
+    "plays": 13845,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11509,
+    "plays": 11511,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10630,
+    "plays": 10633,
     "songs": 281
   },
   {
@@ -41,13 +41,13 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5805,
+    "plays": 5806,
     "songs": 71
   },
   {
     "genre": "Comedy",
-    "plays": 3910,
-    "songs": 125
+    "plays": 3918,
+    "songs": 126
   },
   {
     "genre": "Lowfi",
@@ -56,7 +56,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3776,
+    "plays": 3778,
     "songs": 61
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "genre": "Variété française",
-    "plays": 3413,
+    "plays": 3414,
     "songs": 24
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "genre": "Soundtrack",
-    "plays": 2703,
+    "plays": 2704,
     "songs": 69
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1641,
+    "plays": 1642,
     "songs": 45
   },
   {
     "genre": "House",
-    "plays": 1534,
+    "plays": 1536,
     "songs": 28
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 777,
+    "plays": 778,
     "songs": 13
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "genre": "R & B",
-    "plays": 317,
+    "plays": 318,
     "songs": 9
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "genre": "Classical",
-    "plays": 215,
+    "plays": 216,
     "songs": 16
   },
   {
@@ -370,14 +370,14 @@
     "songs": 6
   },
   {
+    "genre": "General Jazz",
+    "plays": 60,
+    "songs": 1
+  },
+  {
     "genre": "Alternative & Punk",
     "plays": 59,
     "songs": 4
-  },
-  {
-    "genre": "General Jazz",
-    "plays": 59,
-    "songs": 1
   },
   {
     "genre": "Latino",
@@ -386,6 +386,11 @@
   },
   {
     "genre": "Rock/Pop",
+    "plays": 57,
+    "songs": 1
+  },
+  {
+    "genre": "Summertime All The Time",
     "plays": 57,
     "songs": 1
   },
@@ -403,11 +408,6 @@
     "genre": "Singer/Songwriter",
     "plays": 56,
     "songs": 2
-  },
-  {
-    "genre": "Summertime All The Time",
-    "plays": 56,
-    "songs": 1
   },
   {
     "genre": "Soul and R&B",
