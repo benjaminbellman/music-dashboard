@@ -10,7 +10,7 @@
     },
     {
       "country": "GB",
-      "plays": 429
+      "plays": 434
     },
     {
       "country": "SE",
@@ -39,6 +39,10 @@
     {
       "country": "IS",
       "plays": 3
+    },
+    {
+      "country": "IT",
+      "plays": 1
     }
   ],
   "2025": [

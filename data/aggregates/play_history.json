@@ -70,20 +70,20 @@
     },
     {
       "date": "2026-05-22",
-      "plays": 1
+      "plays": 6
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 62,
+      "total_plays": 67,
       "top_artists": [
         {
-          "artist": "Bob Sinclar",
-          "plays": 7
+          "artist": "442oons",
+          "plays": 12
         },
         {
-          "artist": "442oons",
+          "artist": "Bob Sinclar",
           "plays": 7
         },
         {
@@ -185,12 +185,12 @@
           "plays": 14
         },
         {
-          "genre": "Dance",
-          "plays": 11
+          "genre": "Comedy",
+          "plays": 13
         },
         {
-          "genre": "Comedy",
-          "plays": 8
+          "genre": "Dance",
+          "plays": 11
         },
         {
           "genre": "Electronic",
@@ -264,6 +264,12 @@
           "song": "Who Won the League - Liverpool",
           "artist": "442oons",
           "plays": 7,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 5,
           "genre": "Comedy"
         },
         {
@@ -397,18 +403,12 @@
           "artist": "Desired",
           "plays": 1,
           "genre": "Future Funk"
-        },
-        {
-          "song": "Because",
-          "artist": "The Beatles",
-          "plays": 1,
-          "genre": "Rock"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 284,
+      "total_plays": 289,
       "top_artists": [
         {
           "artist": "Taylor Swift",
@@ -417,6 +417,10 @@
         {
           "artist": "Horalion",
           "plays": 15
+        },
+        {
+          "artist": "442oons",
+          "plays": 12
         },
         {
           "artist": "Creedence Clearwater Revival",
@@ -469,10 +473,6 @@
         {
           "artist": "BadBadNotGood",
           "plays": 8
-        },
-        {
-          "artist": "442oons",
-          "plays": 7
         },
         {
           "artist": "RÜFÜS DU SOL",
@@ -529,6 +529,10 @@
           "plays": 15
         },
         {
+          "genre": "Comedy",
+          "plays": 14
+        },
+        {
           "genre": "Folk",
           "plays": 13
         },
@@ -546,10 +550,6 @@
         },
         {
           "genre": "Alternative",
-          "plays": 9
-        },
-        {
-          "genre": "Comedy",
           "plays": 9
         },
         {
@@ -723,6 +723,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 5,
+          "genre": "Comedy"
+        },
+        {
           "song": "Disco Nap(feat. METRONOMY)",
           "artist": "Polo & Pan et Metronomy",
           "plays": 4,
@@ -757,18 +763,12 @@
           "artist": "Bon Entendeur",
           "plays": 4,
           "genre": "Electronic"
-        },
-        {
-          "song": "Lordly",
-          "artist": "Feder",
-          "plays": 4,
-          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1013,
+      "total_plays": 1018,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -811,6 +811,10 @@
           "plays": 31
         },
         {
+          "artist": "442oons",
+          "plays": 23
+        },
+        {
           "artist": "Taylor Swift",
           "plays": 21
         },
@@ -821,10 +825,6 @@
         {
           "artist": "Horalion",
           "plays": 19
-        },
-        {
-          "artist": "442oons",
-          "plays": 18
         },
         {
           "artist": "Préface",
@@ -893,12 +893,12 @@
           "plays": 68
         },
         {
-          "genre": "Vaporwave",
-          "plays": 31
+          "genre": "Comedy",
+          "plays": 35
         },
         {
-          "genre": "Comedy",
-          "plays": 30
+          "genre": "Vaporwave",
+          "plays": 31
         },
         {
           "genre": "Disco",
@@ -1128,7 +1128,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 1055,
+      "total_plays": 1060,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1171,6 +1171,10 @@
           "plays": 35
         },
         {
+          "artist": "442oons",
+          "plays": 23
+        },
+        {
           "artist": "Taylor Swift",
           "plays": 22
         },
@@ -1181,10 +1185,6 @@
         {
           "artist": "Horalion",
           "plays": 19
-        },
-        {
-          "artist": "442oons",
-          "plays": 18
         },
         {
           "artist": "Préface",
@@ -1253,12 +1253,12 @@
           "plays": 71
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Comedy",
           "plays": 35
         },
         {
-          "genre": "Comedy",
-          "plays": 30
+          "genre": "Vaporwave",
+          "plays": 35
         },
         {
           "genre": "Disco",
@@ -1488,7 +1488,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 1055,
+      "total_plays": 1060,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1531,6 +1531,10 @@
           "plays": 35
         },
         {
+          "artist": "442oons",
+          "plays": 23
+        },
+        {
           "artist": "Taylor Swift",
           "plays": 22
         },
@@ -1541,10 +1545,6 @@
         {
           "artist": "Horalion",
           "plays": 19
-        },
-        {
-          "artist": "442oons",
-          "plays": 18
         },
         {
           "artist": "Préface",
@@ -1613,12 +1613,12 @@
           "plays": 71
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Comedy",
           "plays": 35
         },
         {
-          "genre": "Comedy",
-          "plays": 30
+          "genre": "Vaporwave",
+          "plays": 35
         },
         {
           "genre": "Disco",
@@ -1848,7 +1848,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 1055,
+      "total_plays": 1060,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1891,6 +1891,10 @@
           "plays": 35
         },
         {
+          "artist": "442oons",
+          "plays": 23
+        },
+        {
           "artist": "Taylor Swift",
           "plays": 22
         },
@@ -1901,10 +1905,6 @@
         {
           "artist": "Horalion",
           "plays": 19
-        },
-        {
-          "artist": "442oons",
-          "plays": 18
         },
         {
           "artist": "Préface",
@@ -1973,12 +1973,12 @@
           "plays": 71
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Comedy",
           "plays": 35
         },
         {
-          "genre": "Comedy",
-          "plays": 30
+          "genre": "Vaporwave",
+          "plays": 35
         },
         {
           "genre": "Disco",
@@ -3277,6 +3277,11 @@
       "date": "2026-05-21",
       "id": "e8a81778ad316d07",
       "plays": 1
+    },
+    {
+      "date": "2026-05-22",
+      "id": "e96046bde4dc449a",
+      "plays": 5
     },
     {
       "date": "2026-05-16",
