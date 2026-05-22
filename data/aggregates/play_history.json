@@ -67,12 +67,16 @@
     {
       "date": "2026-05-21",
       "plays": 61
+    },
+    {
+      "date": "2026-05-22",
+      "plays": 1
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 61,
+      "total_plays": 62,
       "top_artists": [
         {
           "artist": "Bob Sinclar",
@@ -112,6 +116,10 @@
         },
         {
           "artist": "Le Maitre",
+          "plays": 1
+        },
+        {
+          "artist": "Milky",
           "plays": 1
         },
         {
@@ -169,16 +177,12 @@
         {
           "artist": "The Beatles",
           "plays": 1
-        },
-        {
-          "artist": "Austin Millz",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 13
+          "plays": 14
         },
         {
           "genre": "Dance",
@@ -311,6 +315,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
           "song": "The Happiest Days Of Our Lives",
           "artist": "Pink Floyd",
           "plays": 1,
@@ -393,18 +403,12 @@
           "artist": "The Beatles",
           "plays": 1,
           "genre": "Rock"
-        },
-        {
-          "song": "To Be Real",
-          "artist": "Austin Millz",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 283,
+      "total_plays": 284,
       "top_artists": [
         {
           "artist": "Taylor Swift",
@@ -514,7 +518,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 55
+          "plays": 56
         },
         {
           "genre": "Dance",
@@ -764,7 +768,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1012,
+      "total_plays": 1013,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -886,7 +890,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 67
+          "plays": 68
         },
         {
           "genre": "Vaporwave",
@@ -1124,7 +1128,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 1054,
+      "total_plays": 1055,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1246,7 +1250,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 70
+          "plays": 71
         },
         {
           "genre": "Vaporwave",
@@ -1484,7 +1488,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 1054,
+      "total_plays": 1055,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1606,7 +1610,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 70
+          "plays": 71
         },
         {
           "genre": "Vaporwave",
@@ -1844,7 +1848,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 1054,
+      "total_plays": 1055,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1966,7 +1970,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 70
+          "plays": 71
         },
         {
           "genre": "Vaporwave",
@@ -2357,6 +2361,11 @@
     {
       "date": "2026-04-23",
       "id": "1e84ca2f56fe4cc5",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-22",
+      "id": "1f14a2471c028a20",
       "plays": 1
     },
     {
@@ -3411,6 +3420,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-21",
-  "snapshot_count": 28
+  "latest_snapshot": "2026-05-22",
+  "snapshot_count": 29
 }
