@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 34760,
+    "plays": 34807,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29343,
+    "plays": 29347,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23182,
+    "plays": 23189,
     "songs": 389
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3923,
+    "plays": 3930,
     "songs": 126
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1536,
+    "plays": 1538,
     "songs": 28
   },
   {

@@ -71,16 +71,24 @@
     {
       "date": "2026-05-22",
       "plays": 6
+    },
+    {
+      "date": "2026-05-23",
+      "plays": 67
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 67,
+      "total_plays": 134,
       "top_artists": [
         {
+          "artist": "Milky",
+          "plays": 47
+        },
+        {
           "artist": "442oons",
-          "plays": 12
+          "plays": 19
         },
         {
           "artist": "Bob Sinclar",
@@ -95,8 +103,24 @@
           "plays": 4
         },
         {
+          "artist": "Lifelike",
+          "plays": 4
+        },
+        {
           "artist": "Feist",
           "plays": 3
+        },
+        {
+          "artist": "Tony Igy",
+          "plays": 2
+        },
+        {
+          "artist": "Guts",
+          "plays": 2
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 2
         },
         {
           "artist": "MotorBass",
@@ -111,15 +135,15 @@
           "plays": 1
         },
         {
+          "artist": "Cour De Recré",
+          "plays": 1
+        },
+        {
           "artist": "Edmofo",
           "plays": 1
         },
         {
           "artist": "Le Maitre",
-          "plays": 1
-        },
-        {
-          "artist": "Milky",
           "plays": 1
         },
         {
@@ -157,44 +181,28 @@
         {
           "artist": "MIKA",
           "plays": 1
-        },
-        {
-          "artist": "Etienne de Crecy",
-          "plays": 1
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 1
-        },
-        {
-          "artist": "Jean-Jacques Goldman",
-          "plays": 1
-        },
-        {
-          "artist": "Desired",
-          "plays": 1
-        },
-        {
-          "artist": "The Beatles",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 14
+          "plays": 61
         },
         {
           "genre": "Comedy",
-          "plays": 13
+          "plays": 20
         },
         {
           "genre": "Dance",
-          "plays": 11
+          "plays": 15
         },
         {
           "genre": "Electronic",
-          "plays": 7
+          "plays": 14
+        },
+        {
+          "genre": "House",
+          "plays": 4
         },
         {
           "genre": "Alternative",
@@ -203,10 +211,6 @@
         {
           "genre": "Rock",
           "plays": 3
-        },
-        {
-          "genre": "House",
-          "plays": 2
         },
         {
           "genre": "Disco",
@@ -255,6 +259,18 @@
       ],
       "top_tracks": [
         {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 47,
+          "genre": "Pop"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 12,
+          "genre": "Comedy"
+        },
+        {
           "song": "I Can't Wait",
           "artist": "Bob Sinclar",
           "plays": 7,
@@ -264,12 +280,6 @@
           "song": "Who Won the League - Liverpool",
           "artist": "442oons",
           "plays": 7,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 5,
           "genre": "Comedy"
         },
         {
@@ -285,10 +295,34 @@
           "genre": "Pop"
         },
         {
+          "song": "Nightwalk",
+          "artist": "Lifelike",
+          "plays": 4,
+          "genre": "Electronic"
+        },
+        {
           "song": "My Moon My Man",
           "artist": "Feist",
           "plays": 3,
           "genre": "Alternative"
+        },
+        {
+          "song": "Astronomia",
+          "artist": "Tony Igy",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Brand New Revolution",
+          "artist": "Guts",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "The Prime Time of Your Life",
+          "artist": "Daft Punk",
+          "plays": 2,
+          "genre": "House"
         },
         {
           "song": "Flying Fingers",
@@ -309,6 +343,12 @@
           "genre": "Dance"
         },
         {
+          "song": "GiscardPunk",
+          "artist": "Cour De Recré",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
           "song": "All I want",
           "artist": "Edmofo",
           "plays": 1,
@@ -319,12 +359,6 @@
           "artist": "Le Maitre",
           "plays": 1,
           "genre": "Electronic"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 1,
-          "genre": "Pop"
         },
         {
           "song": "The Happiest Days Of Our Lives",
@@ -373,62 +407,36 @@
           "artist": "Lil Tay",
           "plays": 1,
           "genre": "Pop"
-        },
-        {
-          "song": "Make You Happy (Cherokee Remix)",
-          "artist": "MIKA",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Am I Wrong",
-          "artist": "Etienne de Crecy",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Let's Go (feat Ne-Yo)",
-          "artist": "Calvin Harris",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Au bout de mes rêves",
-          "artist": "Jean-Jacques Goldman",
-          "plays": 1,
-          "genre": "French Pop"
-        },
-        {
-          "song": "I'm so Alone",
-          "artist": "Desired",
-          "plays": 1,
-          "genre": "Future Funk"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 289,
+      "total_plays": 356,
       "top_artists": [
+        {
+          "artist": "Milky",
+          "plays": 47
+        },
         {
           "artist": "Taylor Swift",
           "plays": 20
+        },
+        {
+          "artist": "442oons",
+          "plays": 19
         },
         {
           "artist": "Horalion",
           "plays": 15
         },
         {
-          "artist": "442oons",
+          "artist": "Daft Punk",
           "plays": 12
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 12
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 10
         },
         {
           "artist": "Oxmo Puccino",
@@ -475,11 +483,19 @@
           "plays": 8
         },
         {
+          "artist": "Lifelike",
+          "plays": 6
+        },
+        {
           "artist": "RÜFÜS DU SOL",
           "plays": 5
         },
         {
           "artist": "MIKA",
+          "plays": 5
+        },
+        {
+          "artist": "Bon Entendeur",
           "plays": 5
         },
         {
@@ -491,46 +507,34 @@
           "plays": 4
         },
         {
+          "artist": "Tony Igy",
+          "plays": 4
+        },
+        {
           "artist": "Cut Copy",
-          "plays": 4
-        },
-        {
-          "artist": "Feist",
-          "plays": 4
-        },
-        {
-          "artist": "Mika",
-          "plays": 4
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 4
-        },
-        {
-          "artist": "Feder",
           "plays": 4
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 64
+          "genre": "Pop",
+          "plays": 103
         },
         {
-          "genre": "Pop",
-          "plays": 56
+          "genre": "Electronic",
+          "plays": 71
         },
         {
           "genre": "Dance",
-          "plays": 31
+          "plays": 35
+        },
+        {
+          "genre": "Comedy",
+          "plays": 21
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 15
-        },
-        {
-          "genre": "Comedy",
-          "plays": 14
         },
         {
           "genre": "Folk",
@@ -573,12 +577,12 @@
           "plays": 5
         },
         {
-          "genre": "Future Funk",
-          "plays": 3
+          "genre": "House",
+          "plays": 4
         },
         {
-          "genre": "House",
-          "plays": 2
+          "genre": "Future Funk",
+          "plays": 3
         },
         {
           "genre": "mashup",
@@ -615,6 +619,12 @@
       ],
       "top_tracks": [
         {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 47,
+          "genre": "Pop"
+        },
+        {
           "song": "The Fate of Ophelia",
           "artist": "Taylor Swift",
           "plays": 20,
@@ -625,6 +635,12 @@
           "artist": "Horalion & Kraftwek",
           "plays": 15,
           "genre": "Electronic"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 12,
+          "genre": "Comedy"
         },
         {
           "song": "Down On The Corner",
@@ -723,12 +739,6 @@
           "genre": "Pop"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 5,
-          "genre": "Comedy"
-        },
-        {
           "song": "Disco Nap(feat. METRONOMY)",
           "artist": "Polo & Pan et Metronomy",
           "plays": 4,
@@ -757,18 +767,12 @@
           "artist": "MIKA",
           "plays": 4,
           "genre": "Pop"
-        },
-        {
-          "song": "Decade Mixtape 2000's",
-          "artist": "Bon Entendeur",
-          "plays": 4,
-          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1018,
+      "total_plays": 1051,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -780,7 +784,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 56
+          "plays": 57
         },
         {
           "artist": "MotorBass",
@@ -788,11 +792,15 @@
         },
         {
           "artist": "Calvin Harris",
-          "plays": 52
+          "plays": 51
         },
         {
           "artist": "John Newman",
-          "plays": 51
+          "plays": 50
+        },
+        {
+          "artist": "Milky",
+          "plays": 47
         },
         {
           "artist": "France Football Anthem",
@@ -807,12 +815,8 @@
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
-          "plays": 31
-        },
-        {
           "artist": "442oons",
-          "plays": 23
+          "plays": 30
         },
         {
           "artist": "Taylor Swift",
@@ -835,20 +839,24 @@
           "plays": 15
         },
         {
+          "artist": "Nihonzera",
+          "plays": 15
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 14
+        },
+        {
+          "artist": "Tony Igy",
+          "plays": 14
+        },
+        {
           "artist": "Claude François",
           "plays": 13
         },
         {
           "artist": "Donna Summer",
           "plays": 13
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 12
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 12
         },
         {
           "artist": "Bob Sinclar",
@@ -865,40 +873,32 @@
         {
           "artist": "RÜFÜS DU SOL",
           "plays": 11
-        },
-        {
-          "artist": "Hunter",
-          "plays": 11
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 315
+          "plays": 320
         },
         {
           "genre": "Dance",
-          "plays": 171
+          "plays": 173
         },
         {
           "genre": "Variete Francaise",
-          "plays": 127
+          "plays": 126
+        },
+        {
+          "genre": "Pop",
+          "plays": 113
         },
         {
           "genre": "Soft Rock",
           "plays": 109
         },
         {
-          "genre": "Pop",
-          "plays": 68
-        },
-        {
           "genre": "Comedy",
-          "plays": 35
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 31
+          "plays": 42
         },
         {
           "genre": "Disco",
@@ -909,11 +909,11 @@
           "plays": 20
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 19
+          "genre": "House",
+          "plays": 17
         },
         {
-          "genre": "House",
+          "genre": "Hip Hop/Rap",
           "plays": 15
         },
         {
@@ -921,8 +921,12 @@
           "plays": 15
         },
         {
+          "genre": "Vaporwave",
+          "plays": 15
+        },
+        {
           "genre": "City Pop",
-          "plays": 12
+          "plays": 11
         },
         {
           "genre": "Alternative",
@@ -930,7 +934,7 @@
         },
         {
           "genre": "Oldies",
-          "plays": 9
+          "plays": 8
         },
         {
           "genre": "Jazz",
@@ -945,19 +949,11 @@
           "plays": 6
         },
         {
-          "genre": "Soundtrack",
-          "plays": 5
-        },
-        {
           "genre": "Future Funk",
           "plays": 4
         },
         {
           "genre": "Variété française",
-          "plays": 1
-        },
-        {
-          "genre": "Lowfi",
           "plays": 1
         },
         {
@@ -970,6 +966,14 @@
         },
         {
           "genre": "Summertime All The Time",
+          "plays": 1
+        },
+        {
+          "genre": "French Pop",
+          "plays": 1
+        },
+        {
+          "genre": "Trance",
           "plays": 1
         }
       ],
@@ -989,7 +993,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 56,
+          "plays": 57,
           "genre": "Electronic"
         },
         {
@@ -1001,8 +1005,14 @@
         {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
-          "plays": 51,
+          "plays": 50,
           "genre": "Dance"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 47,
+          "genre": "Pop"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1023,12 +1033,6 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 31,
-          "genre": "Vaporwave"
-        },
-        {
           "song": "The Fate of Ophelia",
           "artist": "Taylor Swift",
           "plays": 21,
@@ -1047,6 +1051,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 15,
+          "genre": "Vaporwave"
+        },
+        {
           "song": "Three Lions '98",
           "artist": "Baddiel Skinner",
           "plays": 14,
@@ -1057,6 +1067,12 @@
           "artist": "Bob Sinclar",
           "plays": 12,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 12,
+          "genre": "Comedy"
         },
         {
           "song": "Down On The Corner",
@@ -1111,24 +1127,12 @@
           "artist": "Tony Igy",
           "plays": 10,
           "genre": "Dance"
-        },
-        {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 10,
-          "genre": "House"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 1060,
+      "total_plays": 1127,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1140,7 +1144,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 56
+          "plays": 57
         },
         {
           "artist": "MotorBass",
@@ -1153,6 +1157,10 @@
         {
           "artist": "John Newman",
           "plays": 51
+        },
+        {
+          "artist": "Milky",
+          "plays": 47
         },
         {
           "artist": "France Football Anthem",
@@ -1172,7 +1180,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 23
+          "plays": 30
         },
         {
           "artist": "Taylor Swift",
@@ -1187,28 +1195,28 @@
           "plays": 19
         },
         {
+          "artist": "Daft Punk",
+          "plays": 18
+        },
+        {
           "artist": "Préface",
           "plays": 18
         },
         {
-          "artist": "Daft Punk",
-          "plays": 16
-        },
-        {
           "artist": "Bon Entendeur",
-          "plays": 15
+          "plays": 16
         },
         {
           "artist": "Donna Summer",
           "plays": 15
         },
         {
-          "artist": "Claude François",
+          "artist": "Tony Igy",
           "plays": 14
         },
         {
-          "artist": "Tony Igy",
-          "plays": 12
+          "artist": "Claude François",
+          "plays": 14
         },
         {
           "artist": "Bob Sinclar",
@@ -1225,36 +1233,32 @@
         {
           "artist": "RÜFÜS DU SOL",
           "plays": 11
-        },
-        {
-          "artist": "Hunter",
-          "plays": 11
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 316
+          "plays": 323
         },
         {
           "genre": "Dance",
-          "plays": 181
+          "plays": 185
         },
         {
           "genre": "Variete Francaise",
           "plays": 131
         },
         {
+          "genre": "Pop",
+          "plays": 118
+        },
+        {
           "genre": "Soft Rock",
           "plays": 109
         },
         {
-          "genre": "Pop",
-          "plays": 71
-        },
-        {
           "genre": "Comedy",
-          "plays": 35
+          "plays": 42
         },
         {
           "genre": "Vaporwave",
@@ -1274,7 +1278,7 @@
         },
         {
           "genre": "House",
-          "plays": 16
+          "plays": 18
         },
         {
           "genre": "Folk",
@@ -1349,7 +1353,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 56,
+          "plays": 57,
           "genre": "Electronic"
         },
         {
@@ -1363,6 +1367,12 @@
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 47,
+          "genre": "Pop"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1419,6 +1429,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 12,
+          "genre": "Comedy"
+        },
+        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 12,
@@ -1471,24 +1487,12 @@
           "artist": "Tony Igy",
           "plays": 10,
           "genre": "Dance"
-        },
-        {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 10,
-          "genre": "House"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 1060,
+      "total_plays": 1127,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1500,7 +1504,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 56
+          "plays": 57
         },
         {
           "artist": "MotorBass",
@@ -1513,6 +1517,10 @@
         {
           "artist": "John Newman",
           "plays": 51
+        },
+        {
+          "artist": "Milky",
+          "plays": 47
         },
         {
           "artist": "France Football Anthem",
@@ -1532,7 +1540,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 23
+          "plays": 30
         },
         {
           "artist": "Taylor Swift",
@@ -1547,28 +1555,28 @@
           "plays": 19
         },
         {
+          "artist": "Daft Punk",
+          "plays": 18
+        },
+        {
           "artist": "Préface",
           "plays": 18
         },
         {
-          "artist": "Daft Punk",
-          "plays": 16
-        },
-        {
           "artist": "Bon Entendeur",
-          "plays": 15
+          "plays": 16
         },
         {
           "artist": "Donna Summer",
           "plays": 15
         },
         {
-          "artist": "Claude François",
+          "artist": "Tony Igy",
           "plays": 14
         },
         {
-          "artist": "Tony Igy",
-          "plays": 12
+          "artist": "Claude François",
+          "plays": 14
         },
         {
           "artist": "Bob Sinclar",
@@ -1585,36 +1593,32 @@
         {
           "artist": "RÜFÜS DU SOL",
           "plays": 11
-        },
-        {
-          "artist": "Hunter",
-          "plays": 11
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 316
+          "plays": 323
         },
         {
           "genre": "Dance",
-          "plays": 181
+          "plays": 185
         },
         {
           "genre": "Variete Francaise",
           "plays": 131
         },
         {
+          "genre": "Pop",
+          "plays": 118
+        },
+        {
           "genre": "Soft Rock",
           "plays": 109
         },
         {
-          "genre": "Pop",
-          "plays": 71
-        },
-        {
           "genre": "Comedy",
-          "plays": 35
+          "plays": 42
         },
         {
           "genre": "Vaporwave",
@@ -1634,7 +1638,7 @@
         },
         {
           "genre": "House",
-          "plays": 16
+          "plays": 18
         },
         {
           "genre": "Folk",
@@ -1709,7 +1713,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 56,
+          "plays": 57,
           "genre": "Electronic"
         },
         {
@@ -1723,6 +1727,12 @@
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 47,
+          "genre": "Pop"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1779,6 +1789,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 12,
+          "genre": "Comedy"
+        },
+        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 12,
@@ -1831,24 +1847,12 @@
           "artist": "Tony Igy",
           "plays": 10,
           "genre": "Dance"
-        },
-        {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 10,
-          "genre": "House"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 1060,
+      "total_plays": 1127,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1860,7 +1864,7 @@
         },
         {
           "artist": "Cour De Recré",
-          "plays": 56
+          "plays": 57
         },
         {
           "artist": "MotorBass",
@@ -1873,6 +1877,10 @@
         {
           "artist": "John Newman",
           "plays": 51
+        },
+        {
+          "artist": "Milky",
+          "plays": 47
         },
         {
           "artist": "France Football Anthem",
@@ -1892,7 +1900,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 23
+          "plays": 30
         },
         {
           "artist": "Taylor Swift",
@@ -1907,28 +1915,28 @@
           "plays": 19
         },
         {
+          "artist": "Daft Punk",
+          "plays": 18
+        },
+        {
           "artist": "Préface",
           "plays": 18
         },
         {
-          "artist": "Daft Punk",
-          "plays": 16
-        },
-        {
           "artist": "Bon Entendeur",
-          "plays": 15
+          "plays": 16
         },
         {
           "artist": "Donna Summer",
           "plays": 15
         },
         {
-          "artist": "Claude François",
+          "artist": "Tony Igy",
           "plays": 14
         },
         {
-          "artist": "Tony Igy",
-          "plays": 12
+          "artist": "Claude François",
+          "plays": 14
         },
         {
           "artist": "Bob Sinclar",
@@ -1945,36 +1953,32 @@
         {
           "artist": "RÜFÜS DU SOL",
           "plays": 11
-        },
-        {
-          "artist": "Hunter",
-          "plays": 11
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 316
+          "plays": 323
         },
         {
           "genre": "Dance",
-          "plays": 181
+          "plays": 185
         },
         {
           "genre": "Variete Francaise",
           "plays": 131
         },
         {
+          "genre": "Pop",
+          "plays": 118
+        },
+        {
           "genre": "Soft Rock",
           "plays": 109
         },
         {
-          "genre": "Pop",
-          "plays": 71
-        },
-        {
           "genre": "Comedy",
-          "plays": 35
+          "plays": 42
         },
         {
           "genre": "Vaporwave",
@@ -1994,7 +1998,7 @@
         },
         {
           "genre": "House",
-          "plays": 16
+          "plays": 18
         },
         {
           "genre": "Folk",
@@ -2069,7 +2073,7 @@
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 56,
+          "plays": 57,
           "genre": "Electronic"
         },
         {
@@ -2083,6 +2087,12 @@
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
           "genre": "Dance"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 47,
+          "genre": "Pop"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -2139,6 +2149,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 12,
+          "genre": "Comedy"
+        },
+        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 12,
@@ -2191,18 +2207,6 @@
           "artist": "Tony Igy",
           "plays": 10,
           "genre": "Dance"
-        },
-        {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 10,
-          "genre": "House"
         }
       ]
     }
@@ -2260,6 +2264,11 @@
     },
     {
       "date": "2026-05-02",
+      "id": "08538c93d3f8c5c6",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-23",
       "id": "08538c93d3f8c5c6",
       "plays": 1
     },
@@ -2367,6 +2376,11 @@
       "date": "2026-05-22",
       "id": "1f14a2471c028a20",
       "plays": 1
+    },
+    {
+      "date": "2026-05-23",
+      "id": "1f14a2471c028a20",
+      "plays": 46
     },
     {
       "date": "2026-05-10",
@@ -2694,6 +2708,16 @@
       "plays": 2
     },
     {
+      "date": "2026-05-23",
+      "id": "676f5751a4dd092c",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-23",
+      "id": "68304ab9a440e3f2",
+      "plays": 2
+    },
+    {
       "date": "2026-05-21",
       "id": "6868852f55abf8dc",
       "plays": 1
@@ -2742,6 +2766,11 @@
       "date": "2026-04-30",
       "id": "6e6f5be12c14187a",
       "plays": 3
+    },
+    {
+      "date": "2026-05-23",
+      "id": "6fd428fecf6cfcab",
+      "plays": 2
     },
     {
       "date": "2026-05-21",
@@ -2904,6 +2933,11 @@
       "plays": 4
     },
     {
+      "date": "2026-05-23",
+      "id": "8b3e51f6bf8ed5e2",
+      "plays": 2
+    },
+    {
       "date": "2026-04-20",
       "id": "8b701014df56d8c4",
       "plays": 1
@@ -3041,6 +3075,11 @@
     {
       "date": "2026-05-18",
       "id": "adcb42f2129a2ef7",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-23",
+      "id": "af284f38e56426d4",
       "plays": 1
     },
     {
@@ -3199,6 +3238,11 @@
       "plays": 1
     },
     {
+      "date": "2026-05-23",
+      "id": "d36a4ba5f890b719",
+      "plays": 4
+    },
+    {
       "date": "2026-05-18",
       "id": "d44df716956220f7",
       "plays": 1
@@ -3211,6 +3255,11 @@
     {
       "date": "2026-05-18",
       "id": "d4befafd0bb90a2c",
+      "plays": 1
+    },
+    {
+      "date": "2026-05-23",
+      "id": "d500cb26e02245f5",
       "plays": 1
     },
     {
@@ -3282,6 +3331,11 @@
       "date": "2026-05-22",
       "id": "e96046bde4dc449a",
       "plays": 5
+    },
+    {
+      "date": "2026-05-23",
+      "id": "e96046bde4dc449a",
+      "plays": 7
     },
     {
       "date": "2026-05-16",
@@ -3425,6 +3479,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-22",
-  "snapshot_count": 29
+  "latest_snapshot": "2026-05-23",
+  "snapshot_count": 30
 }
