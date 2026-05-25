@@ -1,27 +1,27 @@
 [
   {
     "genre": "Pop",
-    "plays": 34807,
+    "plays": 34820,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29347,
+    "plays": 29358,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23189,
+    "plays": 23205,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17988,
+    "plays": 17995,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13845,
+    "plays": 13850,
     "songs": 291
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "genre": "Rock",
-    "plays": 10633,
+    "plays": 10635,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6664,
+    "plays": 6666,
     "songs": 73
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3930,
+    "plays": 3944,
     "songs": 126
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "genre": "Oldies",
-    "plays": 3715,
+    "plays": 3720,
     "songs": 63
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1538,
+    "plays": 1540,
     "songs": 28
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "genre": "Funk",
-    "plays": 911,
+    "plays": 914,
     "songs": 12
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "genre": "Psychedlic Rock",
-    "plays": 463,
+    "plays": 464,
     "songs": 10
   },
   {
@@ -171,18 +171,18 @@
   },
   {
     "genre": "K-Pop",
-    "plays": 326,
+    "plays": 328,
     "songs": 6
+  },
+  {
+    "genre": "R & B",
+    "plays": 320,
+    "songs": 9
   },
   {
     "genre": "World",
     "plays": 319,
     "songs": 4
-  },
-  {
-    "genre": "R & B",
-    "plays": 318,
-    "songs": 9
   },
   {
     "genre": "Synthwave",
