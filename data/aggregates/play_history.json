@@ -784,7 +784,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 603,
+      "total_plays": 602,
       "top_artists": [
         {
           "artist": "MotorBass",
@@ -898,7 +898,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 59
+          "plays": 58
         },
         {
           "genre": "Variete Francaise",
@@ -3836,6 +3836,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-26",
-  "snapshot_count": 32
+  "latest_snapshot": "2026-05-27",
+  "snapshot_count": 33
 }
