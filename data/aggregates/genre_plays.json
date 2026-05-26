@@ -1,27 +1,27 @@
 [
   {
     "genre": "Pop",
-    "plays": 34820,
+    "plays": 34825,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29358,
+    "plays": 29364,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23205,
+    "plays": 23211,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17995,
+    "plays": 17998,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13850,
+    "plays": 13853,
     "songs": 291
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "genre": "Rock",
-    "plays": 10635,
+    "plays": 10636,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6666,
+    "plays": 6667,
     "songs": 73
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "genre": "Disco",
-    "plays": 3778,
+    "plays": 3779,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3720,
+    "plays": 3721,
     "songs": 63
   },
   {
@@ -80,13 +80,13 @@
     "songs": 47
   },
   {
-    "genre": "Soundtrack",
-    "plays": 2704,
+    "genre": "mashup",
+    "plays": 2706,
     "songs": 69
   },
   {
-    "genre": "mashup",
-    "plays": 2702,
+    "genre": "Soundtrack",
+    "plays": 2704,
     "songs": 69
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1540,
+    "plays": 1541,
     "songs": 28
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "genre": "R&B/Soul",
-    "plays": 643,
+    "plays": 644,
     "songs": 20
   },
   {
@@ -171,12 +171,12 @@
   },
   {
     "genre": "K-Pop",
-    "plays": 328,
+    "plays": 329,
     "songs": 6
   },
   {
     "genre": "R & B",
-    "plays": 320,
+    "plays": 321,
     "songs": 9
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "genre": "R&B",
-    "plays": 240,
+    "plays": 241,
     "songs": 5
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "genre": "Blues",
-    "plays": 62,
+    "plays": 63,
     "songs": 1
   },
   {
