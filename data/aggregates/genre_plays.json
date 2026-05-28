@@ -1,52 +1,52 @@
 [
   {
     "genre": "Pop",
-    "plays": 34831,
+    "plays": 34843,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29365,
+    "plays": 29375,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23215,
+    "plays": 23221,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 17998,
+    "plays": 18003,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13865,
+    "plays": 13873,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11511,
+    "plays": 11514,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10636,
+    "plays": 10639,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6667,
+    "plays": 6668,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5814,
+    "plays": 5815,
     "songs": 71
   },
   {
     "genre": "Comedy",
-    "plays": 3950,
+    "plays": 3952,
     "songs": 126
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3779,
+    "plays": 3781,
     "songs": 61
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3231,
+    "plays": 3232,
     "songs": 44
   },
   {
     "genre": "Latin",
-    "plays": 2772,
+    "plays": 2774,
     "songs": 47
   },
   {
     "genre": "mashup",
-    "plays": 2706,
+    "plays": 2708,
     "songs": 69
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "genre": "Classic Rock",
-    "plays": 569,
+    "plays": 588,
     "songs": 5
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "genre": "Indie Dance",
-    "plays": 411,
+    "plays": 412,
     "songs": 7
   },
   {
@@ -346,7 +346,7 @@
   },
   {
     "genre": "Dance;Trance;Tech",
-    "plays": 65,
+    "plays": 66,
     "songs": 1
   },
   {
@@ -365,14 +365,14 @@
     "songs": 1
   },
   {
+    "genre": "General Jazz",
+    "plays": 61,
+    "songs": 1
+  },
+  {
     "genre": "Rap",
     "plays": 61,
     "songs": 6
-  },
-  {
-    "genre": "General Jazz",
-    "plays": 60,
-    "songs": 1
   },
   {
     "genre": "Alternative & Punk",
