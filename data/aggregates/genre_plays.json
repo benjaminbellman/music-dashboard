@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 34825,
+    "plays": 34831,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29364,
+    "plays": 29365,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23211,
+    "plays": 23215,
     "songs": 389
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "genre": "Alternative",
-    "plays": 13853,
+    "plays": 13865,
     "songs": 291
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5806,
+    "plays": 5814,
     "songs": 71
   },
   {
     "genre": "Comedy",
-    "plays": 3944,
+    "plays": 3950,
     "songs": 126
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "genre": "Oldies",
-    "plays": 3721,
+    "plays": 3722,
     "songs": 63
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "genre": "Britpop",
-    "plays": 2135,
+    "plays": 2136,
     "songs": 8
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1541,
+    "plays": 1545,
     "songs": 28
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 778,
+    "plays": 779,
     "songs": 13
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "genre": "Jazz",
-    "plays": 352,
+    "plays": 353,
     "songs": 10
   },
   {
@@ -505,6 +505,11 @@
     "songs": 2
   },
   {
+    "genre": "Ambient",
+    "plays": 28,
+    "songs": 2
+  },
+  {
     "genre": "Rap & Hip-Hop",
     "plays": 27,
     "songs": 1
@@ -553,11 +558,6 @@
     "genre": "Kygo",
     "plays": 15,
     "songs": 1
-  },
-  {
-    "genre": "Ambient",
-    "plays": 14,
-    "songs": 2
   },
   {
     "genre": "Instrumental",
