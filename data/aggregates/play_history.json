@@ -452,7 +452,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 545,
+      "total_plays": 479,
       "top_artists": [
         {
           "artist": "Milky",
@@ -463,43 +463,23 @@
           "plays": 36
         },
         {
-          "artist": "Taylor Swift",
-          "plays": 25
-        },
-        {
           "artist": "Blue Oyster Cult",
           "plays": 19
-        },
-        {
-          "artist": "Horalion",
-          "plays": 15
         },
         {
           "artist": "Laufey",
           "plays": 15
         },
         {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 12
+          "artist": "Taylor Swift",
+          "plays": 15
         },
         {
           "artist": "Daft Punk",
-          "plays": 11
+          "plays": 10
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 11
-        },
-        {
-          "artist": "Anri",
-          "plays": 9
-        },
-        {
-          "artist": "Night Tempo",
-          "plays": 9
-        },
-        {
-          "artist": "Layup",
           "plays": 9
         },
         {
@@ -515,12 +495,16 @@
           "plays": 8
         },
         {
-          "artist": "Baddiel Skinner",
+          "artist": "Horalion",
           "plays": 8
         },
         {
-          "artist": "MIKA",
-          "plays": 7
+          "artist": "Anri",
+          "plays": 8
+        },
+        {
+          "artist": "Night Tempo",
+          "plays": 8
         },
         {
           "artist": "David Guetta",
@@ -539,12 +523,16 @@
           "plays": 6
         },
         {
-          "artist": "Polo & Pan et Metronomy",
+          "artist": "Creedence Clearwater Revival",
           "plays": 6
         },
         {
+          "artist": "MIKA",
+          "plays": 5
+        },
+        {
           "artist": "Lifelike",
-          "plays": 6
+          "plays": 5
         },
         {
           "artist": "RÜFÜS DU SOL",
@@ -553,20 +541,32 @@
         {
           "artist": "Huey Lewis & The News",
           "plays": 5
+        },
+        {
+          "artist": "Polo & Pan et Metronomy",
+          "plays": 4
+        },
+        {
+          "artist": "FKJ",
+          "plays": 4
+        },
+        {
+          "artist": "Gigamesh",
+          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 131
+          "plays": 115
         },
         {
           "genre": "Electronic",
-          "plays": 87
+          "plays": 68
         },
         {
           "genre": "Dance",
-          "plays": 55
+          "plays": 50
         },
         {
           "genre": "Comedy",
@@ -574,50 +574,42 @@
         },
         {
           "genre": "Alternative",
-          "plays": 37
+          "plays": 36
         },
         {
           "genre": "Variete Francaise",
-          "plays": 23
+          "plays": 20
         },
         {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
-          "genre": "Soft Rock",
-          "plays": 16
-        },
-        {
           "genre": "Ambient",
           "plays": 15
-        },
-        {
-          "genre": "Folk",
-          "plays": 14
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 12
-        },
-        {
-          "genre": "Rock",
-          "plays": 11
         },
         {
           "genre": "House",
           "plays": 11
         },
         {
-          "genre": "Hip Hop/Rap",
+          "genre": "Future Funk",
+          "plays": 11
+        },
+        {
+          "genre": "Rock",
           "plays": 10
         },
         {
-          "genre": "Britpop",
-          "plays": 9
+          "genre": "Soft Rock",
+          "plays": 10
         },
         {
-          "genre": "mashup",
+          "genre": "Hip Hop/Rap",
+          "plays": 8
+        },
+        {
+          "genre": "Folk",
           "plays": 8
         },
         {
@@ -625,8 +617,16 @@
           "plays": 7
         },
         {
-          "genre": "Disco",
+          "genre": "mashup",
           "plays": 7
+        },
+        {
+          "genre": "Disco",
+          "plays": 6
+        },
+        {
+          "genre": "Britpop",
+          "plays": 5
         },
         {
           "genre": "City Pop",
@@ -671,22 +671,10 @@
           "genre": "Comedy"
         },
         {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 25,
-          "genre": "Pop"
-        },
-        {
           "song": "Godzilla",
           "artist": "Blue Oyster Cult",
           "plays": 19,
           "genre": "Classic Rock"
-        },
-        {
-          "song": "Autobahn (Horalion Remix)",
-          "artist": "Horalion & Kraftwek",
-          "plays": 15,
-          "genre": "Electronic"
         },
         {
           "song": "From The Start",
@@ -695,16 +683,10 @@
           "genre": "Ambient"
         },
         {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 12,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 9,
-          "genre": "Folk"
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "plays": 15,
+          "genre": "Pop"
         },
         {
           "song": "I Can't Wait",
@@ -721,6 +703,12 @@
         {
           "song": "Lost In Japan (Remix)",
           "artist": "Shawn Mendes",
+          "plays": 8,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Autobahn (Horalion Remix)",
+          "artist": "Horalion & Kraftwek",
           "plays": 8,
           "genre": "Electronic"
         },
@@ -743,16 +731,10 @@
           "genre": "Alternative"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
           "plays": 6,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Three Lions (Christmas)",
-          "artist": "Baddiel Skinner",
-          "plays": 6,
-          "genre": "Britpop"
+          "genre": "Soft Rock"
         },
         {
           "song": "Break My Love",
@@ -773,54 +755,72 @@
           "genre": "Dance"
         },
         {
+          "song": "Disco Nap(feat. METRONOMY)",
+          "artist": "Polo & Pan et Metronomy",
+          "plays": 4,
+          "genre": "Electronic"
+        },
+        {
           "song": "Titanium",
           "artist": "David Guetta",
           "plays": 4,
           "genre": "Dance"
         },
         {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
+          "song": "Who You Share it With",
+          "artist": "Layup",
+          "plays": 4,
+          "genre": "Folk"
+        },
+        {
+          "song": "Nightwalk",
+          "artist": "Lifelike",
           "plays": 4,
           "genre": "Electronic"
         },
         {
-          "song": "C'est la Vie",
-          "artist": "Mika",
+          "song": "Question Of Faith (Idjut Boys Remix)",
+          "artist": "Lighthouse Family",
           "plays": 4,
-          "genre": "Variete Francaise"
+          "genre": "House"
         },
         {
-          "song": "Grace Kelly en Français",
-          "artist": "MIKA",
+          "song": "Cos I Love You",
+          "artist": "Tom Misch",
           "plays": 4,
-          "genre": "Pop"
+          "genre": "Alternative"
         },
         {
-          "song": "Decade Mixtape 2000's",
-          "artist": "Bon Entendeur",
-          "plays": 4,
+          "song": "GiscardPunk",
+          "artist": "Cour De Recré",
+          "plays": 3,
           "genre": "Electronic"
         },
         {
-          "song": "Lordly",
-          "artist": "Feder",
-          "plays": 4,
-          "genre": "Electronic"
+          "song": "Sunshine Superman",
+          "artist": "Donavan",
+          "plays": 3,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Ain't No Sunshine",
+          "artist": "Bill Withers",
+          "plays": 3,
+          "genre": "Soft Rock"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 740,
+      "total_plays": 709,
       "top_artists": [
-        {
-          "artist": "MotorBass",
-          "plays": 53
-        },
         {
           "artist": "Milky",
           "plays": 47
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 40
         },
         {
           "artist": "442oons",
@@ -835,16 +835,12 @@
           "plays": 21
         },
         {
-          "artist": "Horalion",
-          "plays": 19
-        },
-        {
           "artist": "Blue Oyster Cult",
           "plays": 19
         },
         {
-          "artist": "Préface",
-          "plays": 18
+          "artist": "Horalion",
+          "plays": 16
         },
         {
           "artist": "Laufey",
@@ -852,6 +848,10 @@
         },
         {
           "artist": "Bob Sinclar",
+          "plays": 12
+        },
+        {
+          "artist": "Préface",
           "plays": 12
         },
         {
@@ -917,24 +917,24 @@
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 165
-        },
-        {
           "genre": "Pop",
           "plays": 149
+        },
+        {
+          "genre": "Electronic",
+          "plays": 148
         },
         {
           "genre": "Dance",
           "plays": 69
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 49
-        },
-        {
           "genre": "Comedy",
           "plays": 43
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 40
         },
         {
           "genre": "Alternative",
@@ -997,10 +997,6 @@
           "plays": 9
         },
         {
-          "genre": "Vaporwave",
-          "plays": 4
-        },
-        {
           "genre": "R & B",
           "plays": 4
         },
@@ -1015,20 +1011,24 @@
         {
           "genre": "General Jazz",
           "plays": 2
+        },
+        {
+          "genre": "Latin",
+          "plays": 2
         }
       ],
       "top_tracks": [
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 53,
-          "genre": "Electronic"
-        },
         {
           "song": "Just The Way You Are",
           "artist": "Milky",
           "plays": 47,
           "genre": "Pop"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 40,
+          "genre": "Electronic"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
@@ -1049,15 +1049,9 @@
           "genre": "Classic Rock"
         },
         {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 18,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
-          "plays": 18,
+          "plays": 15,
           "genre": "Electronic"
         },
         {
@@ -1071,6 +1065,12 @@
           "artist": "Bob Sinclar",
           "plays": 12,
           "genre": "Dance"
+        },
+        {
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 12,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Down On The Corner",
@@ -4259,6 +4259,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-29",
-  "snapshot_count": 35
+  "latest_snapshot": "2026-05-30",
+  "snapshot_count": 36
 }
