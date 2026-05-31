@@ -96,67 +96,19 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 139,
+      "total_plays": 80,
       "top_artists": [
         {
           "artist": "Blue Oyster Cult",
           "plays": 19
         },
         {
-          "artist": "Laufey",
-          "plays": 14
-        },
-        {
-          "artist": "Anri",
-          "plays": 7
-        },
-        {
-          "artist": "Night Tempo",
-          "plays": 7
-        },
-        {
           "artist": "Daft Punk",
-          "plays": 6
-        },
-        {
-          "artist": "Dayglow",
-          "plays": 6
-        },
-        {
-          "artist": "442oons",
-          "plays": 6
-        },
-        {
-          "artist": "Feist",
-          "plays": 4
-        },
-        {
-          "artist": "Lighthouse Family",
-          "plays": 4
+          "plays": 5
         },
         {
           "artist": "Tom Misch",
           "plays": 4
-        },
-        {
-          "artist": "Taylor Swift",
-          "plays": 4
-        },
-        {
-          "artist": "Cour De Recré",
-          "plays": 2
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 2
-        },
-        {
-          "artist": "Mere Notilde",
-          "plays": 2
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 2
         },
         {
           "artist": "Telephone",
@@ -175,19 +127,11 @@
           "plays": 1
         },
         {
-          "artist": "MIKA",
-          "plays": 1
-        },
-        {
           "artist": "Yves Duteil",
           "plays": 1
         },
         {
           "artist": "Kid Smoko",
-          "plays": 1
-        },
-        {
-          "artist": "Young-Holt Unlimited",
           "plays": 1
         },
         {
@@ -197,48 +141,88 @@
         {
           "artist": "Brodinsky",
           "plays": 1
+        },
+        {
+          "artist": "Steve Aoki",
+          "plays": 1
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 1
+        },
+        {
+          "artist": "Nytron & Sugar Hill",
+          "plays": 1
+        },
+        {
+          "artist": "The Beatles",
+          "plays": 1
+        },
+        {
+          "artist": "Duke Ellington",
+          "plays": 1
+        },
+        {
+          "artist": "Lady GaGa",
+          "plays": 1
+        },
+        {
+          "artist": "Jacques Brel",
+          "plays": 1
+        },
+        {
+          "artist": "Martin Garrix",
+          "plays": 1
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 1
+        },
+        {
+          "artist": "Public(Band)",
+          "plays": 1
+        },
+        {
+          "artist": "Die Woodys",
+          "plays": 1
+        },
+        {
+          "artist": "Kate Ryan",
+          "plays": 1
+        },
+        {
+          "artist": "Stacey Kent",
+          "plays": 1
+        },
+        {
+          "artist": "Elvis Crespo",
+          "plays": 1
         }
       ],
       "top_genres": [
-        {
-          "genre": "Alternative",
-          "plays": 20
-        },
         {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
           "genre": "Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Ambient",
-          "plays": 14
+          "plays": 12
         },
         {
           "genre": "Dance",
-          "plays": 11
-        },
-        {
-          "genre": "Electronic",
           "plays": 10
         },
         {
-          "genre": "Future Funk",
-          "plays": 9
+          "genre": "Alternative",
+          "plays": 8
         },
         {
-          "genre": "Comedy",
-          "plays": 8
+          "genre": "Electronic",
+          "plays": 6
         },
         {
           "genre": "Variete Francaise",
           "plays": 5
-        },
-        {
-          "genre": "House",
-          "plays": 4
         },
         {
           "genre": "Rock",
@@ -247,6 +231,10 @@
         {
           "genre": "Hip Hop/Rap",
           "plays": 3
+        },
+        {
+          "genre": "Comedy",
+          "plays": 2
         },
         {
           "genre": "Latin",
@@ -261,14 +249,6 @@
           "plays": 2
         },
         {
-          "genre": "Britpop",
-          "plays": 1
-        },
-        {
-          "genre": "Jazz",
-          "plays": 1
-        },
-        {
           "genre": "General Jazz",
           "plays": 1
         },
@@ -277,15 +257,11 @@
           "plays": 1
         },
         {
-          "genre": "Folk",
-          "plays": 1
-        },
-        {
           "genre": "City Pop",
           "plays": 1
         },
         {
-          "genre": "Oldies",
+          "genre": "Future Funk",
           "plays": 1
         },
         {
@@ -305,76 +281,10 @@
           "genre": "Classic Rock"
         },
         {
-          "song": "From The Start",
-          "artist": "Laufey",
-          "plays": 14,
-          "genre": "Ambient"
-        },
-        {
-          "song": "Windy Summer",
-          "artist": "Anri & Night Tempo",
-          "plays": 7,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 6,
-          "genre": "Alternative"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 4,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Question Of Faith (Idjut Boys Remix)",
-          "artist": "Lighthouse Family",
-          "plays": 4,
-          "genre": "House"
-        },
-        {
           "song": "Cos I Love You",
           "artist": "Tom Misch",
           "plays": 4,
           "genre": "Alternative"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 4,
-          "genre": "Comedy"
-        },
-        {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Love is Gonna Getcha (Remix)",
-          "artist": "Mere Notilde",
-          "plays": 2,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "WHO WON THE LEAGUE CITY CITY Man City - CHAMPIONS song 2017-2018",
-          "artist": "442oons",
-          "plays": 2,
-          "genre": "Comedy"
         },
         {
           "song": "New York avec toi",
@@ -407,12 +317,6 @@
           "genre": "Comedy"
         },
         {
-          "song": "Make You Happy",
-          "artist": "MIKA",
-          "plays": 1,
-          "genre": "Britpop"
-        },
-        {
           "song": "Prendre un enfant par la main",
           "artist": "Yves Duteil",
           "plays": 1,
@@ -423,12 +327,6 @@
           "artist": "Kid Smoko",
           "plays": 1,
           "genre": "Alternative"
-        },
-        {
-          "song": "Soulful Strut",
-          "artist": "Young-Holt Unlimited",
-          "plays": 1,
-          "genre": "Jazz"
         },
         {
           "song": "Cough Syrup",
@@ -447,12 +345,90 @@
           "artist": "Steve Aoki",
           "plays": 1,
           "genre": "Dance"
+        },
+        {
+          "song": "Titanium",
+          "artist": "David Guetta",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Saturday Night",
+          "artist": "Nytron & Sugar Hill",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Strawberry Fields Forever",
+          "artist": "The Beatles",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "Black Beauty",
+          "artist": "Duke Ellington",
+          "plays": 1,
+          "genre": "General Jazz"
+        },
+        {
+          "song": "Bloody Mary",
+          "artist": "Lady GaGa",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Madeleine",
+          "artist": "Jacques Brel",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Tremor (Original Mix)",
+          "artist": "Martin Garrix",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Fever",
+          "artist": "Dua Lipa & Angele",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Make You Mine",
+          "artist": "Public(Band)",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Fichtls Lied 2017",
+          "artist": "Die Woodys",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Désenchantée",
+          "artist": "Kate Ryan",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Que reste t il de nos amours",
+          "artist": "Stacey Kent",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Suavemente",
+          "artist": "Elvis Crespo",
+          "plays": 1,
+          "genre": "Latin"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 479,
+      "total_plays": 412,
       "top_artists": [
         {
           "artist": "Milky",
@@ -471,15 +447,7 @@
           "plays": 15
         },
         {
-          "artist": "Taylor Swift",
-          "plays": 15
-        },
-        {
           "artist": "Daft Punk",
-          "plays": 10
-        },
-        {
-          "artist": "Bon Entendeur",
           "plays": 9
         },
         {
@@ -495,23 +463,23 @@
           "plays": 8
         },
         {
-          "artist": "Horalion",
-          "plays": 8
-        },
-        {
-          "artist": "Anri",
-          "plays": 8
-        },
-        {
-          "artist": "Night Tempo",
-          "plays": 8
-        },
-        {
           "artist": "David Guetta",
           "plays": 7
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 7
+        },
+        {
           "artist": "Tom Misch",
+          "plays": 7
+        },
+        {
+          "artist": "Anri",
+          "plays": 7
+        },
+        {
+          "artist": "Night Tempo",
           "plays": 7
         },
         {
@@ -523,18 +491,6 @@
           "plays": 6
         },
         {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 6
-        },
-        {
-          "artist": "MIKA",
-          "plays": 5
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 5
-        },
-        {
           "artist": "RÜFÜS DU SOL",
           "plays": 5
         },
@@ -543,30 +499,50 @@
           "plays": 5
         },
         {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 4
+          "artist": "Taylor Swift",
+          "plays": 5
         },
         {
           "artist": "FKJ",
           "plays": 4
         },
         {
-          "artist": "Gigamesh",
+          "artist": "Lifelike",
           "plays": 4
+        },
+        {
+          "artist": "Lighthouse Family",
+          "plays": 4
+        },
+        {
+          "artist": "Cour De Recré",
+          "plays": 3
+        },
+        {
+          "artist": "Donavan",
+          "plays": 3
+        },
+        {
+          "artist": "MIKA",
+          "plays": 3
+        },
+        {
+          "artist": "Bill Withers",
+          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 115
+          "plays": 99
         },
         {
           "genre": "Electronic",
-          "plays": 68
+          "plays": 47
         },
         {
           "genre": "Dance",
-          "plays": 50
+          "plays": 45
         },
         {
           "genre": "Comedy",
@@ -574,15 +550,15 @@
         },
         {
           "genre": "Alternative",
-          "plays": 36
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 20
+          "plays": 35
         },
         {
           "genre": "Classic Rock",
           "plays": 19
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 17
         },
         {
           "genre": "Ambient",
@@ -594,39 +570,31 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Rock",
-          "plays": 10
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 10
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
-        },
-        {
-          "genre": "Folk",
-          "plays": 8
+          "plays": 9
         },
         {
           "genre": "Oldies",
           "plays": 7
         },
         {
-          "genre": "mashup",
-          "plays": 7
-        },
-        {
-          "genre": "Disco",
+          "genre": "Hip Hop/Rap",
           "plays": 6
         },
         {
-          "genre": "Britpop",
+          "genre": "mashup",
+          "plays": 6
+        },
+        {
+          "genre": "Disco",
           "plays": 5
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 4
         },
         {
           "genre": "City Pop",
@@ -638,6 +606,10 @@
         },
         {
           "genre": "K-Pop",
+          "plays": 3
+        },
+        {
+          "genre": "Folk",
           "plays": 3
         },
         {
@@ -654,6 +626,10 @@
         },
         {
           "genre": "Variété française",
+          "plays": 1
+        },
+        {
+          "genre": "Psychedlic Rock",
           "plays": 1
         }
       ],
@@ -683,12 +659,6 @@
           "genre": "Ambient"
         },
         {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 15,
-          "genre": "Pop"
-        },
-        {
           "song": "I Can't Wait",
           "artist": "Bob Sinclar",
           "plays": 8,
@@ -703,12 +673,6 @@
         {
           "song": "Lost In Japan (Remix)",
           "artist": "Shawn Mendes",
-          "plays": 8,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Autobahn (Horalion Remix)",
-          "artist": "Horalion & Kraftwek",
           "plays": 8,
           "genre": "Electronic"
         },
@@ -731,12 +695,6 @@
           "genre": "Alternative"
         },
         {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 6,
-          "genre": "Soft Rock"
-        },
-        {
           "song": "Break My Love",
           "artist": "RÜFÜS DU SOL",
           "plays": 5,
@@ -755,22 +713,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 4,
-          "genre": "Electronic"
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "plays": 5,
+          "genre": "Pop"
         },
         {
           "song": "Titanium",
           "artist": "David Guetta",
           "plays": 4,
           "genre": "Dance"
-        },
-        {
-          "song": "Who You Share it With",
-          "artist": "Layup",
-          "plays": 4,
-          "genre": "Folk"
         },
         {
           "song": "Nightwalk",
@@ -807,6 +759,30 @@
           "artist": "Bill Withers",
           "plays": 3,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "I Can't See Nobody",
+          "artist": "Nina Simone",
+          "plays": 3,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Never Let You Know",
+          "artist": "The Kaleidoscopes & The Nightswimmers",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
+          "song": "Sunday Morning",
+          "artist": "Velvet Underground",
+          "plays": 3,
+          "genre": "Alternative"
+        },
+        {
+          "song": "On",
+          "artist": "Joyce Jonathan",
+          "plays": 3,
+          "genre": "Variete Francaise"
         }
       ]
     },
@@ -4259,6 +4235,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-30",
-  "snapshot_count": 36
+  "latest_snapshot": "2026-05-31",
+  "snapshot_count": 37
 }
