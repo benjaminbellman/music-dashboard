@@ -96,339 +96,14 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 80,
-      "top_artists": [
-        {
-          "artist": "Blue Oyster Cult",
-          "plays": 19
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 5
-        },
-        {
-          "artist": "Tom Misch",
-          "plays": 4
-        },
-        {
-          "artist": "Telephone",
-          "plays": 1
-        },
-        {
-          "artist": "Gesaffelstein",
-          "plays": 1
-        },
-        {
-          "artist": "Ylvis",
-          "plays": 1
-        },
-        {
-          "artist": "Nice Peter",
-          "plays": 1
-        },
-        {
-          "artist": "Yves Duteil",
-          "plays": 1
-        },
-        {
-          "artist": "Kid Smoko",
-          "plays": 1
-        },
-        {
-          "artist": "Young the Giant",
-          "plays": 1
-        },
-        {
-          "artist": "Brodinsky",
-          "plays": 1
-        },
-        {
-          "artist": "Steve Aoki",
-          "plays": 1
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 1
-        },
-        {
-          "artist": "Nytron & Sugar Hill",
-          "plays": 1
-        },
-        {
-          "artist": "The Beatles",
-          "plays": 1
-        },
-        {
-          "artist": "Duke Ellington",
-          "plays": 1
-        },
-        {
-          "artist": "Lady GaGa",
-          "plays": 1
-        },
-        {
-          "artist": "Jacques Brel",
-          "plays": 1
-        },
-        {
-          "artist": "Martin Garrix",
-          "plays": 1
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 1
-        },
-        {
-          "artist": "Public(Band)",
-          "plays": 1
-        },
-        {
-          "artist": "Die Woodys",
-          "plays": 1
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 1
-        },
-        {
-          "artist": "Stacey Kent",
-          "plays": 1
-        },
-        {
-          "artist": "Elvis Crespo",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Classic Rock",
-          "plays": 19
-        },
-        {
-          "genre": "Pop",
-          "plays": 12
-        },
-        {
-          "genre": "Dance",
-          "plays": 10
-        },
-        {
-          "genre": "Alternative",
-          "plays": 8
-        },
-        {
-          "genre": "Electronic",
-          "plays": 6
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 5
-        },
-        {
-          "genre": "Rock",
-          "plays": 3
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 3
-        },
-        {
-          "genre": "Comedy",
-          "plays": 2
-        },
-        {
-          "genre": "Latin",
-          "plays": 2
-        },
-        {
-          "genre": "Disco",
-          "plays": 2
-        },
-        {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
-          "genre": "General Jazz",
-          "plays": 1
-        },
-        {
-          "genre": "Dance;Trance;Tech",
-          "plays": 1
-        },
-        {
-          "genre": "City Pop",
-          "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "Indie Dance",
-          "plays": 1
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Godzilla",
-          "artist": "Blue Oyster Cult",
-          "plays": 19,
-          "genre": "Classic Rock"
-        },
-        {
-          "song": "Cos I Love You",
-          "artist": "Tom Misch",
-          "plays": 4,
-          "genre": "Alternative"
-        },
-        {
-          "song": "New York avec toi",
-          "artist": "Telephone",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Hellifornia",
-          "artist": "Gesaffelstein",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Fox (What Does the Fox Say?)",
-          "artist": "Ylvis",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "High Life",
-          "artist": "Daft Punk",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Gandalf Vs Dumbledore - Epic Rap Battles of History #11 (feat. Lloyd Ahlquist)",
-          "artist": "Nice Peter",
-          "plays": 1,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Prendre un enfant par la main",
-          "artist": "Yves Duteil",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Tommy Boy",
-          "artist": "Kid Smoko",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Cough Syrup",
-          "artist": "Young the Giant",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Let The Beat Control Your Body (original mix)",
-          "artist": "Brodinsky",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Boneless (Official Video)",
-          "artist": "Steve Aoki",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Titanium",
-          "artist": "David Guetta",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Saturday Night",
-          "artist": "Nytron & Sugar Hill",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Strawberry Fields Forever",
-          "artist": "The Beatles",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Black Beauty",
-          "artist": "Duke Ellington",
-          "plays": 1,
-          "genre": "General Jazz"
-        },
-        {
-          "song": "Bloody Mary",
-          "artist": "Lady GaGa",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Madeleine",
-          "artist": "Jacques Brel",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Tremor (Original Mix)",
-          "artist": "Martin Garrix",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Fever",
-          "artist": "Dua Lipa & Angele",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Make You Mine",
-          "artist": "Public(Band)",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Fichtls Lied 2017",
-          "artist": "Die Woodys",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Que reste t il de nos amours",
-          "artist": "Stacey Kent",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Suavemente",
-          "artist": "Elvis Crespo",
-          "plays": 1,
-          "genre": "Latin"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 412,
+      "total_plays": 395,
       "top_artists": [
         {
           "artist": "Milky",
@@ -444,19 +119,11 @@
         },
         {
           "artist": "Laufey",
-          "plays": 15
+          "plays": 14
         },
         {
           "artist": "Daft Punk",
           "plays": 9
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 8
-        },
-        {
-          "artist": "Feist",
-          "plays": 8
         },
         {
           "artist": "Shawn Mendes",
@@ -468,6 +135,14 @@
         },
         {
           "artist": "Bon Entendeur",
+          "plays": 7
+        },
+        {
+          "artist": "Bob Sinclar",
+          "plays": 7
+        },
+        {
+          "artist": "Feist",
           "plays": 7
         },
         {
@@ -491,19 +166,19 @@
           "plays": 6
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5
-        },
-        {
-          "artist": "Huey Lewis & The News",
-          "plays": 5
-        },
-        {
           "artist": "Taylor Swift",
           "plays": 5
         },
         {
+          "artist": "RÜFÜS DU SOL",
+          "plays": 4
+        },
+        {
           "artist": "FKJ",
+          "plays": 4
+        },
+        {
+          "artist": "Huey Lewis & The News",
           "plays": 4
         },
         {
@@ -534,23 +209,23 @@
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 99
+          "plays": 97
         },
         {
           "genre": "Electronic",
-          "plays": 47
+          "plays": 46
         },
         {
           "genre": "Dance",
-          "plays": 45
-        },
-        {
-          "genre": "Comedy",
           "plays": 43
         },
         {
+          "genre": "Comedy",
+          "plays": 42
+        },
+        {
           "genre": "Alternative",
-          "plays": 35
+          "plays": 32
         },
         {
           "genre": "Classic Rock",
@@ -558,11 +233,11 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 17
+          "plays": 15
         },
         {
           "genre": "Ambient",
-          "plays": 15
+          "plays": 14
         },
         {
           "genre": "House",
@@ -581,10 +256,6 @@
           "plays": 7
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 6
-        },
-        {
           "genre": "mashup",
           "plays": 6
         },
@@ -593,11 +264,11 @@
           "plays": 5
         },
         {
-          "genre": "Soft Rock",
-          "plays": 4
+          "genre": "Hip Hop/Rap",
+          "plays": 5
         },
         {
-          "genre": "City Pop",
+          "genre": "Soft Rock",
           "plays": 4
         },
         {
@@ -606,10 +277,6 @@
         },
         {
           "genre": "K-Pop",
-          "plays": 3
-        },
-        {
-          "genre": "Folk",
           "plays": 3
         },
         {
@@ -625,11 +292,19 @@
           "plays": 2
         },
         {
+          "genre": "Folk",
+          "plays": 2
+        },
+        {
           "genre": "Variété française",
           "plays": 1
         },
         {
           "genre": "Psychedlic Rock",
+          "plays": 1
+        },
+        {
+          "genre": "Britpop",
           "plays": 1
         }
       ],
@@ -655,26 +330,26 @@
         {
           "song": "From The Start",
           "artist": "Laufey",
-          "plays": 15,
+          "plays": 14,
           "genre": "Ambient"
-        },
-        {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 8,
-          "genre": "Dance"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 8,
-          "genre": "Alternative"
         },
         {
           "song": "Lost In Japan (Remix)",
           "artist": "Shawn Mendes",
           "plays": 8,
           "genre": "Electronic"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 7,
+          "genre": "Dance"
+        },
+        {
+          "song": "My Moon My Man",
+          "artist": "Feist",
+          "plays": 7,
+          "genre": "Alternative"
         },
         {
           "song": "Windy Summer",
@@ -695,18 +370,6 @@
           "genre": "Alternative"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
-          "song": "Do You Believe In Love",
-          "artist": "Huey Lewis & The News",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
           "song": "La Rua Madureira",
           "artist": "Bon Entendeur & Nino Ferrer",
           "plays": 5,
@@ -723,6 +386,18 @@
           "artist": "David Guetta",
           "plays": 4,
           "genre": "Dance"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 4,
+          "genre": "Pop"
+        },
+        {
+          "song": "Do You Believe In Love",
+          "artist": "Huey Lewis & The News",
+          "plays": 4,
+          "genre": "Pop"
         },
         {
           "song": "Nightwalk",
@@ -788,7 +463,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 709,
+      "total_plays": 676,
       "top_artists": [
         {
           "artist": "Milky",
@@ -796,7 +471,7 @@
         },
         {
           "artist": "MotorBass",
-          "plays": 40
+          "plays": 39
         },
         {
           "artist": "442oons",
@@ -808,7 +483,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 21
+          "plays": 19
         },
         {
           "artist": "Blue Oyster Cult",
@@ -816,15 +491,11 @@
         },
         {
           "artist": "Horalion",
-          "plays": 16
+          "plays": 15
         },
         {
           "artist": "Laufey",
           "plays": 15
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 12
         },
         {
           "artist": "Préface",
@@ -839,27 +510,19 @@
           "plays": 11
         },
         {
-          "artist": "RÜFÜS DU SOL",
-          "plays": 11
-        },
-        {
-          "artist": "Anri",
-          "plays": 10
-        },
-        {
-          "artist": "Night Tempo",
-          "plays": 10
-        },
-        {
           "artist": "Oxmo Puccino",
           "plays": 9
         },
         {
-          "artist": "Feist",
+          "artist": "Baddiel Skinner",
           "plays": 9
         },
         {
-          "artist": "Baddiel Skinner",
+          "artist": "Anri",
+          "plays": 9
+        },
+        {
+          "artist": "Night Tempo",
           "plays": 9
         },
         {
@@ -872,6 +535,14 @@
         },
         {
           "artist": "Minako Yoshida",
+          "plays": 8
+        },
+        {
+          "artist": "Bob Sinclar",
+          "plays": 8
+        },
+        {
+          "artist": "Feist",
           "plays": 8
         },
         {
@@ -889,32 +560,36 @@
         {
           "artist": "Sweetpower",
           "plays": 8
+        },
+        {
+          "artist": "Raki",
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 149
+          "plays": 141
         },
         {
           "genre": "Electronic",
-          "plays": 148
+          "plays": 141
         },
         {
           "genre": "Dance",
-          "plays": 69
+          "plays": 63
         },
         {
           "genre": "Comedy",
           "plays": 43
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 40
+          "genre": "Alternative",
+          "plays": 37
         },
         {
-          "genre": "Alternative",
-          "plays": 38
+          "genre": "Variete Francaise",
+          "plays": 35
         },
         {
           "genre": "Classic Rock",
@@ -926,10 +601,6 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 16
-        },
-        {
-          "genre": "Folk",
           "plays": 16
         },
         {
@@ -949,12 +620,8 @@
           "plays": 14
         },
         {
-          "genre": "mashup",
-          "plays": 13
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 13
+          "genre": "Folk",
+          "plays": 14
         },
         {
           "genre": "Rock",
@@ -965,7 +632,15 @@
           "plays": 12
         },
         {
+          "genre": "Future Funk",
+          "plays": 12
+        },
+        {
           "genre": "Britpop",
+          "plays": 10
+        },
+        {
+          "genre": "mashup",
           "plays": 10
         },
         {
@@ -1003,7 +678,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 40,
+          "plays": 39,
           "genre": "Electronic"
         },
         {
@@ -1037,12 +712,6 @@
           "genre": "Ambient"
         },
         {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 12,
-          "genre": "Dance"
-        },
-        {
           "song": "Palace hotel",
           "artist": "Préface",
           "plays": 12,
@@ -1055,22 +724,10 @@
           "genre": "Soft Rock"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 11,
-          "genre": "Pop"
-        },
-        {
           "song": "Toucher l'horizon",
           "artist": "Oxmo Puccino",
           "plays": 9,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 9,
-          "genre": "Alternative"
         },
         {
           "song": "Who You Share it With",
@@ -1089,6 +746,18 @@
           "artist": "Minako Yoshida",
           "plays": 8,
           "genre": "City Pop"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 8,
+          "genre": "Dance"
+        },
+        {
+          "song": "My Moon My Man",
+          "artist": "Feist",
+          "plays": 8,
+          "genre": "Alternative"
         },
         {
           "song": "Aerobeetroots (ft. Bloody Beatroots)",
@@ -1143,6 +812,12 @@
           "artist": "442oons",
           "plays": 7,
           "genre": "Comedy"
+        },
+        {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 6,
+          "genre": "Alternative"
         }
       ]
     },
@@ -4235,6 +3910,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-05-31",
-  "snapshot_count": 37
+  "latest_snapshot": "2026-06-01",
+  "snapshot_count": 38
 }
