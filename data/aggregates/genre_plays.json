@@ -1,77 +1,77 @@
 [
   {
     "genre": "Pop",
-    "plays": 34843,
+    "plays": 34866,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29375,
+    "plays": 29392,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23221,
+    "plays": 23244,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18003,
+    "plays": 18013,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13873,
+    "plays": 13886,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11514,
+    "plays": 11530,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10639,
+    "plays": 10646,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6668,
+    "plays": 6671,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5815,
+    "plays": 5819,
     "songs": 71
   },
   {
     "genre": "Comedy",
-    "plays": 3952,
+    "plays": 3959,
     "songs": 126
   },
   {
     "genre": "Lowfi",
-    "plays": 3866,
+    "plays": 3868,
     "songs": 47
   },
   {
     "genre": "Disco",
-    "plays": 3781,
+    "plays": 3782,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3722,
+    "plays": 3724,
     "songs": 63
   },
   {
     "genre": "Variété française",
-    "plays": 3414,
+    "plays": 3416,
     "songs": 24
   },
   {
     "genre": "City Pop",
-    "plays": 3232,
+    "plays": 3235,
     "songs": 44
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2708,
+    "plays": 2711,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2704,
+    "plays": 2705,
     "songs": 69
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1642,
+    "plays": 1643,
     "songs": 45
   },
   {
@@ -106,17 +106,17 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1225,
+    "plays": 1228,
     "songs": 40
   },
   {
     "genre": "Country",
-    "plays": 1074,
+    "plays": 1075,
     "songs": 19
   },
   {
     "genre": "Funk",
-    "plays": 914,
+    "plays": 915,
     "songs": 12
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "genre": "Europop",
-    "plays": 731,
+    "plays": 732,
     "songs": 14
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "genre": "Indie",
-    "plays": 421,
+    "plays": 423,
     "songs": 7
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "genre": "Other",
-    "plays": 244,
+    "plays": 245,
     "songs": 11
   },
   {
@@ -216,12 +216,12 @@
   },
   {
     "genre": "Reggae",
-    "plays": 225,
+    "plays": 226,
     "songs": 9
   },
   {
     "genre": "Classical",
-    "plays": 216,
+    "plays": 217,
     "songs": 16
   },
   {
@@ -320,14 +320,14 @@
     "songs": 1
   },
   {
+    "genre": "Trance",
+    "plays": 78,
+    "songs": 3
+  },
+  {
     "genre": "Electronique",
     "plays": 77,
     "songs": 2
-  },
-  {
-    "genre": "Trance",
-    "plays": 77,
-    "songs": 3
   },
   {
     "genre": "Rock;Electronic",
@@ -381,16 +381,16 @@
   },
   {
     "genre": "Latino",
+    "plays": 59,
+    "songs": 1
+  },
+  {
+    "genre": "Summertime All The Time",
     "plays": 58,
     "songs": 1
   },
   {
     "genre": "Rock/Pop",
-    "plays": 57,
-    "songs": 1
-  },
-  {
-    "genre": "Summertime All The Time",
     "plays": 57,
     "songs": 1
   },
