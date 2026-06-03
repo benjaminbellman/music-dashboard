@@ -1,7 +1,7 @@
 [
   {
     "genre": "Pop",
-    "plays": 34866,
+    "plays": 34869,
     "songs": 710
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "genre": "Electronic",
-    "plays": 23244,
+    "plays": 23251,
     "songs": 389
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11530,
+    "plays": 11535,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10646,
+    "plays": 10650,
     "songs": 281
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5819,
+    "plays": 5820,
     "songs": 71
   },
   {
     "genre": "Comedy",
-    "plays": 3959,
+    "plays": 3961,
     "songs": 126
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "genre": "Oldies",
-    "plays": 3724,
+    "plays": 3725,
     "songs": 63
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3235,
+    "plays": 3236,
     "songs": 44
   },
   {
     "genre": "Latin",
-    "plays": 2774,
+    "plays": 2779,
     "songs": 47
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1643,
+    "plays": 1646,
     "songs": 45
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "genre": "Country",
-    "plays": 1075,
+    "plays": 1076,
     "songs": 19
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 779,
+    "plays": 780,
     "songs": 13
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "genre": "R & B",
-    "plays": 321,
+    "plays": 322,
     "songs": 9
   },
   {
