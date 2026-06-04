@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 34869,
+    "plays": 34875,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29392,
+    "plays": 29397,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23251,
+    "plays": 23252,
     "songs": 389
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "genre": "Alternative",
-    "plays": 13886,
+    "plays": 13888,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11535,
+    "plays": 11538,
     "songs": 260
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2711,
+    "plays": 2713,
     "songs": 69
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 780,
+    "plays": 783,
     "songs": 13
   },
   {

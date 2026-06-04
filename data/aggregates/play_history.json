@@ -99,13 +99,21 @@
     {
       "date": "2026-06-03",
       "plays": 35
+    },
+    {
+      "date": "2026-06-04",
+      "plays": 22
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 187,
+      "total_plays": 209,
       "top_artists": [
+        {
+          "artist": "Chance The Rapper",
+          "plays": 5
+        },
         {
           "artist": "Trevor Daniel",
           "plays": 4
@@ -119,15 +127,19 @@
           "plays": 4
         },
         {
+          "artist": "Drake",
+          "plays": 4
+        },
+        {
           "artist": "442oons",
           "plays": 4
         },
         {
-          "artist": "Chance The Rapper",
-          "plays": 4
+          "artist": "Laurent Voulzy",
+          "plays": 3
         },
         {
-          "artist": "Laurent Voulzy",
+          "artist": "Lifelike",
           "plays": 3
         },
         {
@@ -147,6 +159,10 @@
           "plays": 3
         },
         {
+          "artist": "The Strumbellas",
+          "plays": 3
+        },
+        {
           "artist": "OutKast",
           "plays": 3
         },
@@ -156,6 +172,10 @@
         },
         {
           "artist": "Paul Kalkbrenner",
+          "plays": 2
+        },
+        {
+          "artist": "Jonas Brothers",
           "plays": 2
         },
         {
@@ -175,58 +195,42 @@
           "plays": 2
         },
         {
-          "artist": "Los Del Rio",
+          "artist": "Marilyn Manson",
           "plays": 2
         },
         {
-          "artist": "Drake",
+          "artist": "Dim Zach",
+          "plays": 2
+        },
+        {
+          "artist": "Los Del Rio",
           "plays": 2
         },
         {
           "artist": "Alan Walker",
           "plays": 2
-        },
-        {
-          "artist": "Benjamin Bellman",
-          "plays": 2
-        },
-        {
-          "artist": "Vantage",
-          "plays": 2
-        },
-        {
-          "artist": "Diam's",
-          "plays": 2
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 2
-        },
-        {
-          "artist": "George Clinton Jr",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 30
+          "genre": "Pop",
+          "plays": 32
         },
         {
-          "genre": "Pop",
-          "plays": 26
+          "genre": "Electronic",
+          "plays": 31
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 21
+          "plays": 24
         },
         {
           "genre": "Dance",
-          "plays": 17
+          "plays": 22
         },
         {
           "genre": "Alternative",
-          "plays": 13
+          "plays": 15
         },
         {
           "genre": "Rock",
@@ -249,11 +253,19 @@
           "plays": 5
         },
         {
+          "genre": "mashup",
+          "plays": 5
+        },
+        {
           "genre": "City Pop",
           "plays": 4
         },
         {
           "genre": "French Pop",
+          "plays": 4
+        },
+        {
+          "genre": "Folk",
           "plays": 4
         },
         {
@@ -266,10 +278,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 3
-        },
-        {
-          "genre": "mashup",
           "plays": 3
         },
         {
@@ -303,13 +311,15 @@
         {
           "genre": "Disco",
           "plays": 1
-        },
-        {
-          "genre": "Summertime All The Time",
-          "plays": 1
         }
       ],
       "top_tracks": [
+        {
+          "song": "All Night (feat. Knox Fortune)",
+          "artist": "Chance The Rapper",
+          "plays": 5,
+          "genre": "Hip Hop/Rap"
+        },
         {
           "song": "Falling",
           "artist": "Trevor Daniel",
@@ -321,12 +331,6 @@
           "artist": "442oons",
           "plays": 4,
           "genre": "Comedy"
-        },
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Down the Road",
@@ -353,6 +357,18 @@
           "genre": "Electronic"
         },
         {
+          "song": "Spirits",
+          "artist": "The Strumbellas",
+          "plays": 3,
+          "genre": "Folk"
+        },
+        {
+          "song": "Know Yourself",
+          "artist": "Drake",
+          "plays": 3,
+          "genre": "Hip Hop/Rap"
+        },
+        {
           "song": "Ms. Jackson (Jean Tonique Remix)",
           "artist": "OutKast",
           "plays": 3,
@@ -371,6 +387,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Only Human",
+          "artist": "Jonas Brothers",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
           "song": "My Love",
           "artist": "Lee(artist)",
           "plays": 2,
@@ -381,6 +403,18 @@
           "artist": "Renaud",
           "plays": 2,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "This Is Halloween",
+          "artist": "Marilyn Manson",
+          "plays": 2,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Discomare Sex",
+          "artist": "Dim Zach",
+          "plays": 2,
+          "genre": "Dance"
         },
         {
           "song": "La Macarena. [Version Original]",
@@ -395,6 +429,18 @@
           "genre": "Electronic"
         },
         {
+          "song": "Sun (Viceroy Remix)",
+          "artist": "Two Door Cinema Club",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "2012 - 2022 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 2,
+          "genre": "mashup"
+        },
+        {
           "song": "all my unicat",
           "artist": "Benjamin Bellman",
           "plays": 2,
@@ -407,64 +453,22 @@
           "genre": "Electronic"
         },
         {
-          "song": "Atomic Dog",
-          "artist": "George Clinton Jr",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
+          "song": "Safe and Sound",
+          "artist": "Capital Cities",
+          "plays": 2,
+          "genre": "Pop"
         },
         {
-          "song": "Mr. Blue Sky (Animated Video)",
-          "artist": "Electric Light Orchestra",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Feel the Beat",
-          "artist": "Darude/Ville Virtanen",
-          "plays": 1,
-          "genre": "Other"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Wanna Be Startin' Somethin' (Louis La Roche Remix)",
-          "artist": "Michael Jackson",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Life Is a Highway",
-          "artist": "Tom Cochrane",
-          "plays": 1,
-          "genre": "Country"
-        },
-        {
-          "song": "I Love Rock n' Roll",
-          "artist": "Joan Jett and the Blackhearts",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Jamming",
-          "artist": "Bob Marley",
-          "plays": 1,
-          "genre": "Reggae"
+          "song": "Boy's a liar Pt. 2",
+          "artist": "PinkPantheress, Ice Spice",
+          "plays": 2,
+          "genre": "Pop"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 582,
+      "total_plays": 543,
       "top_artists": [
         {
           "artist": "Milky",
@@ -472,7 +476,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 40
+          "plays": 33
         },
         {
           "artist": "Blue Oyster Cult",
@@ -503,11 +507,7 @@
           "plays": 7
         },
         {
-          "artist": "Bob Sinclar",
-          "plays": 7
-        },
-        {
-          "artist": "Feist",
+          "artist": "Lifelike",
           "plays": 7
         },
         {
@@ -527,15 +527,11 @@
           "plays": 6
         },
         {
-          "artist": "Lifelike",
-          "plays": 6
-        },
-        {
-          "artist": "Pink Floyd",
+          "artist": "Taylor Swift",
           "plays": 5
         },
         {
-          "artist": "Taylor Swift",
+          "artist": "Chance The Rapper",
           "plays": 5
         },
         {
@@ -544,6 +540,10 @@
         },
         {
           "artist": "Cour De Recré",
+          "plays": 4
+        },
+        {
+          "artist": "Pink Floyd",
           "plays": 4
         },
         {
@@ -563,57 +563,61 @@
           "plays": 4
         },
         {
-          "artist": "RÜFÜS DU SOL",
+          "artist": "Feist",
+          "plays": 4
+        },
+        {
+          "artist": "FKJ",
           "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 123
+          "plays": 116
         },
         {
           "genre": "Electronic",
-          "plays": 76
+          "plays": 70
         },
         {
           "genre": "Dance",
-          "plays": 60
-        },
-        {
-          "genre": "Comedy",
-          "plays": 51
+          "plays": 54
         },
         {
           "genre": "Alternative",
-          "plays": 45
+          "plays": 43
+        },
+        {
+          "genre": "Comedy",
+          "plays": 43
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 26
+          "plays": 27
         },
         {
           "genre": "Variete Francaise",
           "plays": 25
         },
         {
-          "genre": "Rock",
-          "plays": 20
-        },
-        {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
+          "genre": "Rock",
+          "plays": 17
+        },
+        {
           "genre": "Future Funk",
-          "plays": 15
+          "plays": 14
         },
         {
           "genre": "Ambient",
           "plays": 14
         },
         {
-          "genre": "House",
+          "genre": "mashup",
           "plays": 11
         },
         {
@@ -621,7 +625,7 @@
           "plays": 10
         },
         {
-          "genre": "mashup",
+          "genre": "House",
           "plays": 9
         },
         {
@@ -633,28 +637,28 @@
           "plays": 7
         },
         {
-          "genre": "Disco",
-          "plays": 6
-        },
-        {
           "genre": "City Pop",
           "plays": 5
         },
         {
-          "genre": "French Pop",
+          "genre": "Folk",
           "plays": 5
         },
         {
-          "genre": "R & B",
-          "plays": 5
+          "genre": "French Pop",
+          "plays": 4
         },
         {
           "genre": "Funk",
           "plays": 4
         },
         {
-          "genre": "Variété française",
-          "plays": 3
+          "genre": "Disco",
+          "plays": 4
+        },
+        {
+          "genre": "R & B",
+          "plays": 4
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -665,8 +669,8 @@
           "plays": 3
         },
         {
-          "genre": "Folk",
-          "plays": 3
+          "genre": "Country",
+          "plays": 2
         }
       ],
       "top_tracks": [
@@ -707,28 +711,10 @@
           "genre": "Alternative"
         },
         {
-          "song": "I Can't Wait",
-          "artist": "Bob Sinclar",
-          "plays": 7,
-          "genre": "Dance"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 7,
-          "genre": "Alternative"
-        },
-        {
           "song": "Windy Summer",
           "artist": "Anri & Night Tempo",
           "plays": 7,
           "genre": "Future Funk"
-        },
-        {
-          "song": "Who Won the League - Liverpool",
-          "artist": "442oons",
-          "plays": 7,
-          "genre": "Comedy"
         },
         {
           "song": "La Rua Madureira",
@@ -741,6 +727,12 @@
           "artist": "Taylor Swift",
           "plays": 5,
           "genre": "Pop"
+        },
+        {
+          "song": "All Night (feat. Knox Fortune)",
+          "artist": "Chance The Rapper",
+          "plays": 5,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Falling",
@@ -767,16 +759,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
+          "song": "My Moon My Man",
+          "artist": "Feist",
           "plays": 4,
-          "genre": "Pop"
+          "genre": "Alternative"
         },
         {
-          "song": "Do You Believe In Love",
-          "artist": "Huey Lewis & The News",
+          "song": "Spirits",
+          "artist": "The Strumbellas",
           "plays": 4,
-          "genre": "Pop"
+          "genre": "Folk"
         },
         {
           "song": "Nightwalk",
@@ -797,12 +789,6 @@
           "genre": "Alternative"
         },
         {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 4,
-          "genre": "Hip Hop/Rap"
-        },
-        {
           "song": "Dans la merco benz",
           "artist": "Benjamin Biolay",
           "plays": 4,
@@ -819,12 +805,30 @@
           "artist": "C2C",
           "plays": 3,
           "genre": "Electronic"
+        },
+        {
+          "song": "Le soleil donne",
+          "artist": "Laurent Voulzy",
+          "plays": 3,
+          "genre": "French Pop"
+        },
+        {
+          "song": "I Can't See Nobody",
+          "artist": "Nina Simone",
+          "plays": 3,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Never Let You Know",
+          "artist": "The Kaleidoscopes & The Nightswimmers",
+          "plays": 3,
+          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 848,
+      "total_plays": 870,
       "top_artists": [
         {
           "artist": "Milky",
@@ -875,6 +879,10 @@
           "plays": 9
         },
         {
+          "artist": "Lifelike",
+          "plays": 9
+        },
+        {
           "artist": "Baddiel Skinner",
           "plays": 9
         },
@@ -896,10 +904,6 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 8
-        },
-        {
-          "artist": "Lifelike",
           "plays": 8
         },
         {
@@ -929,28 +933,28 @@
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 170
+          "genre": "Pop",
+          "plays": 172
         },
         {
-          "genre": "Pop",
-          "plays": 166
+          "genre": "Electronic",
+          "plays": 171
         },
         {
           "genre": "Dance",
-          "plays": 80
+          "plays": 85
+        },
+        {
+          "genre": "Alternative",
+          "plays": 52
         },
         {
           "genre": "Comedy",
           "plays": 52
         },
         {
-          "genre": "Alternative",
-          "plays": 50
-        },
-        {
           "genre": "Hip Hop/Rap",
-          "plays": 39
+          "plays": 42
         },
         {
           "genre": "Variete Francaise",
@@ -973,6 +977,10 @@
           "plays": 18
         },
         {
+          "genre": "Folk",
+          "plays": 18
+        },
+        {
           "genre": "Future Funk",
           "plays": 17
         },
@@ -985,10 +993,6 @@
           "plays": 16
         },
         {
-          "genre": "Folk",
-          "plays": 15
-        },
-        {
           "genre": "Ambient",
           "plays": 15
         },
@@ -998,7 +1002,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 12
+          "plays": 14
         },
         {
           "genre": "Britpop",
@@ -1184,11 +1188,11 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 1575,
+      "total_plays": 1597,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 135
+          "plays": 136
         },
         {
           "artist": "Luther Vandross",
@@ -1290,15 +1294,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 385
+          "plays": 386
         },
         {
           "genre": "Dance",
-          "plays": 230
+          "plays": 235
         },
         {
           "genre": "Pop",
-          "plays": 180
+          "plays": 186
         },
         {
           "genre": "Variete Francaise",
@@ -1314,11 +1318,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 51
+          "plays": 53
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 47
+          "plays": 50
         },
         {
           "genre": "Vaporwave",
@@ -1345,12 +1349,16 @@
           "plays": 21
         },
         {
-          "genre": "Classic Rock",
-          "plays": 19
+          "genre": "mashup",
+          "plays": 20
         },
         {
-          "genre": "mashup",
-          "plays": 18
+          "genre": "Folk",
+          "plays": 20
+        },
+        {
+          "genre": "Classic Rock",
+          "plays": 19
         },
         {
           "genre": "City Pop",
@@ -1359,10 +1367,6 @@
         {
           "genre": "Future Funk",
           "plays": 18
-        },
-        {
-          "genre": "Folk",
-          "plays": 17
         },
         {
           "genre": "Ambient",
@@ -1393,7 +1397,7 @@
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 135,
+          "plays": 136,
           "genre": "Electronic"
         },
         {
@@ -1544,11 +1548,11 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 1575,
+      "total_plays": 1597,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 135
+          "plays": 136
         },
         {
           "artist": "Luther Vandross",
@@ -1650,15 +1654,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 385
+          "plays": 386
         },
         {
           "genre": "Dance",
-          "plays": 230
+          "plays": 235
         },
         {
           "genre": "Pop",
-          "plays": 180
+          "plays": 186
         },
         {
           "genre": "Variete Francaise",
@@ -1674,11 +1678,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 51
+          "plays": 53
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 47
+          "plays": 50
         },
         {
           "genre": "Vaporwave",
@@ -1705,12 +1709,16 @@
           "plays": 21
         },
         {
-          "genre": "Classic Rock",
-          "plays": 19
+          "genre": "mashup",
+          "plays": 20
         },
         {
-          "genre": "mashup",
-          "plays": 18
+          "genre": "Folk",
+          "plays": 20
+        },
+        {
+          "genre": "Classic Rock",
+          "plays": 19
         },
         {
           "genre": "City Pop",
@@ -1719,10 +1727,6 @@
         {
           "genre": "Future Funk",
           "plays": 18
-        },
-        {
-          "genre": "Folk",
-          "plays": 17
         },
         {
           "genre": "Ambient",
@@ -1753,7 +1757,7 @@
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 135,
+          "plays": 136,
           "genre": "Electronic"
         },
         {
@@ -1904,11 +1908,11 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 1575,
+      "total_plays": 1597,
       "top_artists": [
         {
           "artist": "Roudoudou",
-          "plays": 135
+          "plays": 136
         },
         {
           "artist": "Luther Vandross",
@@ -2010,15 +2014,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 385
+          "plays": 386
         },
         {
           "genre": "Dance",
-          "plays": 230
+          "plays": 235
         },
         {
           "genre": "Pop",
-          "plays": 180
+          "plays": 186
         },
         {
           "genre": "Variete Francaise",
@@ -2034,11 +2038,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 51
+          "plays": 53
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 47
+          "plays": 50
         },
         {
           "genre": "Vaporwave",
@@ -2065,12 +2069,16 @@
           "plays": 21
         },
         {
-          "genre": "Classic Rock",
-          "plays": 19
+          "genre": "mashup",
+          "plays": 20
         },
         {
-          "genre": "mashup",
-          "plays": 18
+          "genre": "Folk",
+          "plays": 20
+        },
+        {
+          "genre": "Classic Rock",
+          "plays": 19
         },
         {
           "genre": "City Pop",
@@ -2079,10 +2087,6 @@
         {
           "genre": "Future Funk",
           "plays": 18
-        },
-        {
-          "genre": "Folk",
-          "plays": 17
         },
         {
           "genre": "Ambient",
@@ -2113,7 +2117,7 @@
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
-          "plays": 135,
+          "plays": 136,
           "genre": "Electronic"
         },
         {
@@ -2820,6 +2824,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-04",
+      "id": "2e025e80a8d0ce15",
+      "plays": 2
+    },
+    {
       "date": "2026-06-02",
       "id": "2e2f153f69296fca",
       "plays": 1
@@ -2926,6 +2935,11 @@
     },
     {
       "date": "2026-05-17",
+      "id": "3a1c1886e35e93f8",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-04",
       "id": "3a1c1886e35e93f8",
       "plays": 1
     },
@@ -3203,6 +3217,16 @@
       "date": "2026-05-29",
       "id": "5130005cb8985edd",
       "plays": 1
+    },
+    {
+      "date": "2026-06-04",
+      "id": "519cb95ca03c45c9",
+      "plays": 2
+    },
+    {
+      "date": "2026-06-04",
+      "id": "51b0a38527d9c8b1",
+      "plays": 2
     },
     {
       "date": "2026-05-25",
@@ -3810,6 +3834,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-04",
+      "id": "86f1f909708c1b97",
+      "plays": 3
+    },
+    {
       "date": "2026-06-02",
       "id": "8755b28e989ef2ec",
       "plays": 1
@@ -4170,6 +4199,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-04",
+      "id": "a9c56844859c1fab",
+      "plays": 2
+    },
+    {
       "date": "2026-05-21",
       "id": "aa39c94b7d37e9e4",
       "plays": 1
@@ -4265,6 +4299,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-04",
+      "id": "adcb42f2129a2ef7",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "ae6cb7d5724c0bc3",
       "plays": 1
@@ -4348,6 +4387,16 @@
       "date": "2026-04-26",
       "id": "b4442973a6365446",
       "plays": 10
+    },
+    {
+      "date": "2026-06-04",
+      "id": "b47330689882ee7d",
+      "plays": 2
+    },
+    {
+      "date": "2026-06-04",
+      "id": "b5f1fff06fb5641f",
+      "plays": 2
     },
     {
       "date": "2026-06-02",
@@ -4960,6 +5009,11 @@
       "plays": 4
     },
     {
+      "date": "2026-06-04",
+      "id": "f1cc741d7d4348d7",
+      "plays": 1
+    },
+    {
       "date": "2026-04-30",
       "id": "f2603e959d7cf580",
       "plays": 13
@@ -4991,6 +5045,11 @@
     },
     {
       "date": "2026-04-20",
+      "id": "f5ca600648757d56",
+      "plays": 2
+    },
+    {
+      "date": "2026-06-04",
       "id": "f5ca600648757d56",
       "plays": 2
     },
@@ -5065,6 +5124,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-04",
+      "id": "fc930e2974ce64e2",
+      "plays": 2
+    },
+    {
       "date": "2026-05-25",
       "id": "fe3108e540b53dd2",
       "plays": 3
@@ -5086,6 +5150,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-03",
-  "snapshot_count": 40
+  "latest_snapshot": "2026-06-04",
+  "snapshot_count": 41
 }
