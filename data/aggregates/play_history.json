@@ -108,38 +108,14 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 209,
+      "total_plays": 57,
       "top_artists": [
         {
-          "artist": "Chance The Rapper",
-          "plays": 5
-        },
-        {
-          "artist": "Trevor Daniel",
-          "plays": 4
-        },
-        {
           "artist": "C2C",
-          "plays": 4
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 4
-        },
-        {
-          "artist": "Drake",
-          "plays": 4
-        },
-        {
-          "artist": "442oons",
-          "plays": 4
-        },
-        {
-          "artist": "Laurent Voulzy",
           "plays": 3
         },
         {
-          "artist": "Lifelike",
+          "artist": "Laurent Voulzy",
           "plays": 3
         },
         {
@@ -147,19 +123,11 @@
           "plays": 3
         },
         {
-          "artist": "Childhood",
-          "plays": 3
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 3
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 3
-        },
-        {
           "artist": "The Strumbellas",
+          "plays": 3
+        },
+        {
+          "artist": "Drake",
           "plays": 3
         },
         {
@@ -171,27 +139,11 @@
           "plays": 3
         },
         {
-          "artist": "Paul Kalkbrenner",
-          "plays": 2
-        },
-        {
           "artist": "Jonas Brothers",
           "plays": 2
         },
         {
-          "artist": "Lee(artist)",
-          "plays": 2
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 2
-        },
-        {
-          "artist": "Renaud",
-          "plays": 2
-        },
-        {
-          "artist": "Robyn",
+          "artist": "Lifelike",
           "plays": 2
         },
         {
@@ -207,61 +159,81 @@
           "plays": 2
         },
         {
-          "artist": "Alan Walker",
+          "artist": "Two Door Cinema Club",
           "plays": 2
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 2
+        },
+        {
+          "artist": "Capital Cities",
+          "plays": 2
+        },
+        {
+          "artist": "PinkPantheress, Ice Spice",
+          "plays": 2
+        },
+        {
+          "artist": "Electric Light Orchestra",
+          "plays": 1
+        },
+        {
+          "artist": "Tom Cochrane",
+          "plays": 1
+        },
+        {
+          "artist": "Milky",
+          "plays": 1
+        },
+        {
+          "artist": "Sam",
+          "plays": 1
+        },
+        {
+          "artist": "Tatsuro Yamashita",
+          "plays": 1
+        },
+        {
+          "artist": "Lady GaGa",
+          "plays": 1
+        },
+        {
+          "artist": "Childhood",
+          "plays": 1
+        },
+        {
+          "artist": "M (Music Artist)",
+          "plays": 1
+        },
+        {
+          "artist": "Pony Pony Run Run",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 32
+          "plays": 9
         },
         {
           "genre": "Electronic",
-          "plays": 31
+          "plays": 8
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 24
+          "plays": 8
         },
         {
           "genre": "Dance",
-          "plays": 22
-        },
-        {
-          "genre": "Alternative",
-          "plays": 15
-        },
-        {
-          "genre": "Rock",
-          "plays": 11
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 10
-        },
-        {
-          "genre": "Comedy",
-          "plays": 9
+          "plays": 5
         },
         {
           "genre": "Latin",
           "plays": 5
         },
         {
-          "genre": "Future Funk",
-          "plays": 5
-        },
-        {
-          "genre": "mashup",
-          "plays": 5
-        },
-        {
-          "genre": "City Pop",
-          "plays": 4
-        },
-        {
-          "genre": "French Pop",
+          "genre": "Rock",
           "plays": 4
         },
         {
@@ -269,69 +241,43 @@
           "plays": 4
         },
         {
-          "genre": "Hip-Hop/Rap",
+          "genre": "French Pop",
           "plays": 3
         },
         {
-          "genre": "Soft Rock",
-          "plays": 3
+          "genre": "Alternative",
+          "plays": 2
         },
         {
-          "genre": "Oldies",
-          "plays": 3
+          "genre": "mashup",
+          "plays": 2
+        },
+        {
+          "genre": "Comedy",
+          "plays": 2
         },
         {
           "genre": "Country",
-          "plays": 2
-        },
-        {
-          "genre": "Variété française",
-          "plays": 2
-        },
-        {
-          "genre": "Lowfi",
-          "plays": 2
-        },
-        {
-          "genre": "Indie",
-          "plays": 2
-        },
-        {
-          "genre": "Other",
           "plays": 1
         },
         {
-          "genre": "Reggae",
+          "genre": "Oldies",
           "plays": 1
         },
         {
-          "genre": "Funk",
+          "genre": "City Pop",
           "plays": 1
         },
         {
-          "genre": "Disco",
+          "genre": "R & B",
+          "plays": 1
+        },
+        {
+          "genre": "Future Funk",
           "plays": 1
         }
       ],
       "top_tracks": [
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 5,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Falling",
-          "artist": "Trevor Daniel",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 4,
-          "genre": "Comedy"
-        },
         {
           "song": "Down the Road",
           "artist": "C2C",
@@ -351,22 +297,10 @@
           "genre": "Rock"
         },
         {
-          "song": "Love Ataxx Replayy",
-          "artist": "Childhood",
-          "plays": 3,
-          "genre": "Electronic"
-        },
-        {
           "song": "Spirits",
           "artist": "The Strumbellas",
           "plays": 3,
           "genre": "Folk"
-        },
-        {
-          "song": "Know Yourself",
-          "artist": "Drake",
-          "plays": 3,
-          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Ms. Jackson (Jean Tonique Remix)",
@@ -381,28 +315,10 @@
           "genre": "Latin"
         },
         {
-          "song": "Sky and Sand",
-          "artist": "Paul Kalkbrenner",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
           "song": "Only Human",
           "artist": "Jonas Brothers",
           "plays": 2,
           "genre": "Pop"
-        },
-        {
-          "song": "My Love",
-          "artist": "Lee(artist)",
-          "plays": 2,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "Mon Bistrot Preferee",
-          "artist": "Renaud",
-          "plays": 2,
-          "genre": "Variete Francaise"
         },
         {
           "song": "This Is Halloween",
@@ -423,10 +339,10 @@
           "genre": "Latin"
         },
         {
-          "song": "Spectre",
-          "artist": "Alan Walker",
+          "song": "Know Yourself",
+          "artist": "Drake",
           "plays": 2,
-          "genre": "Electronic"
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Sun (Viceroy Remix)",
@@ -441,18 +357,6 @@
           "genre": "mashup"
         },
         {
-          "song": "all my unicat",
-          "artist": "Benjamin Bellman",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "Discopolis",
-          "artist": "Lifelike",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
           "song": "Safe and Sound",
           "artist": "Capital Cities",
           "plays": 2,
@@ -463,20 +367,80 @@
           "artist": "PinkPantheress, Ice Spice",
           "plays": 2,
           "genre": "Pop"
+        },
+        {
+          "song": "Mr. Blue Sky (Animated Video)",
+          "artist": "Electric Light Orchestra",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "Life Is a Highway",
+          "artist": "Tom Cochrane",
+          "plays": 1,
+          "genre": "Country"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Soul Sister, Brown Sugar",
+          "artist": "Sam and Dave",
+          "plays": 1,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Italo Disco",
+          "artist": "Lifelike",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Ride on Time",
+          "artist": "Tatsuro Yamashita",
+          "plays": 1,
+          "genre": "City Pop"
+        },
+        {
+          "song": "The Edge Of Glory",
+          "artist": "Lady GaGa",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Love Ataxx Replayy",
+          "artist": "Childhood",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Pop Muzik",
+          "artist": "M (Music Artist)",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Stop (We are I.V remix)",
+          "artist": "Pony Pony Run Run",
+          "plays": 1,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 543,
+      "total_plays": 537,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 48
+          "plays": 47
         },
         {
           "artist": "442oons",
-          "plays": 33
+          "plays": 28
         },
         {
           "artist": "Blue Oyster Cult",
@@ -574,7 +538,7 @@
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 116
+          "plays": 115
         },
         {
           "genre": "Electronic",
@@ -590,7 +554,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 43
+          "plays": 38
         },
         {
           "genre": "Hip Hop/Rap",
@@ -677,13 +641,13 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky",
-          "plays": 48,
+          "plays": 47,
           "genre": "Pop"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 31,
+          "plays": 26,
           "genre": "Comedy"
         },
         {
@@ -828,7 +792,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 870,
+      "total_plays": 867,
       "top_artists": [
         {
           "artist": "Milky",
@@ -934,7 +898,7 @@
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 172
+          "plays": 171
         },
         {
           "genre": "Electronic",
@@ -962,7 +926,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 23
+          "plays": 22
         },
         {
           "genre": "Soft Rock",
@@ -1002,7 +966,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 14
+          "plays": 13
         },
         {
           "genre": "Britpop",
@@ -5150,6 +5114,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-04",
-  "snapshot_count": 41
+  "latest_snapshot": "2026-06-05",
+  "snapshot_count": 42
 }
