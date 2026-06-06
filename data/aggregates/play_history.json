@@ -103,47 +103,67 @@
     {
       "date": "2026-06-04",
       "plays": 22
+    },
+    {
+      "date": "2026-06-06",
+      "plays": 115
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 57,
+      "total_plays": 137,
       "top_artists": [
         {
-          "artist": "C2C",
-          "plays": 3
+          "artist": "Oliver Heldens",
+          "plays": 18
         },
         {
-          "artist": "Laurent Voulzy",
-          "plays": 3
+          "artist": "Rucka Rucka Ali",
+          "plays": 17
         },
         {
-          "artist": "Jefferson Airplane",
-          "plays": 3
+          "artist": "Visitor",
+          "plays": 17
+        },
+        {
+          "artist": "Dayglow",
+          "plays": 16
+        },
+        {
+          "artist": "Avicii",
+          "plays": 14
+        },
+        {
+          "artist": "Cassius",
+          "plays": 14
+        },
+        {
+          "artist": "Nocti",
+          "plays": 8
+        },
+        {
+          "artist": "Steve Reich",
+          "plays": 8
+        },
+        {
+          "artist": "HNNY",
+          "plays": 8
+        },
+        {
+          "artist": "Tyler, The Creator",
+          "plays": 8
+        },
+        {
+          "artist": "Billy Joel",
+          "plays": 8
         },
         {
           "artist": "The Strumbellas",
           "plays": 3
         },
         {
-          "artist": "Drake",
-          "plays": 3
-        },
-        {
-          "artist": "OutKast",
-          "plays": 3
-        },
-        {
-          "artist": "Shakira",
-          "plays": 3
-        },
-        {
           "artist": "Jonas Brothers",
-          "plays": 2
-        },
-        {
-          "artist": "Lifelike",
           "plays": 2
         },
         {
@@ -155,7 +175,7 @@
           "plays": 2
         },
         {
-          "artist": "Los Del Rio",
+          "artist": "Drake",
           "plays": 2
         },
         {
@@ -175,125 +195,117 @@
           "plays": 2
         },
         {
-          "artist": "Electric Light Orchestra",
+          "artist": "Lifelike",
           "plays": 1
         },
         {
-          "artist": "Tom Cochrane",
+          "artist": "Roudoudou",
           "plays": 1
         },
         {
-          "artist": "Milky",
+          "artist": "The Superman Lovers",
           "plays": 1
         },
         {
-          "artist": "Sam",
-          "plays": 1
-        },
-        {
-          "artist": "Tatsuro Yamashita",
-          "plays": 1
-        },
-        {
-          "artist": "Lady GaGa",
-          "plays": 1
-        },
-        {
-          "artist": "Childhood",
-          "plays": 1
-        },
-        {
-          "artist": "M (Music Artist)",
-          "plays": 1
-        },
-        {
-          "artist": "Pony Pony Run Run",
+          "artist": "Chance The Rapper",
           "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Pop",
-          "plays": 9
-        },
-        {
           "genre": "Electronic",
-          "plays": 8
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 8
+          "plays": 37
         },
         {
           "genre": "Dance",
-          "plays": 5
-        },
-        {
-          "genre": "Latin",
-          "plays": 5
-        },
-        {
-          "genre": "Rock",
-          "plays": 4
-        },
-        {
-          "genre": "Folk",
-          "plays": 4
-        },
-        {
-          "genre": "French Pop",
-          "plays": 3
+          "plays": 27
         },
         {
           "genre": "Alternative",
-          "plays": 2
+          "plays": 18
+        },
+        {
+          "genre": "Comedy",
+          "plays": 17
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 11
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 8
+        },
+        {
+          "genre": "Rock",
+          "plays": 8
+        },
+        {
+          "genre": "Pop",
+          "plays": 6
+        },
+        {
+          "genre": "Folk",
+          "plays": 3
         },
         {
           "genre": "mashup",
           "plays": 2
-        },
-        {
-          "genre": "Comedy",
-          "plays": 2
-        },
-        {
-          "genre": "Country",
-          "plays": 1
-        },
-        {
-          "genre": "Oldies",
-          "plays": 1
-        },
-        {
-          "genre": "City Pop",
-          "plays": 1
-        },
-        {
-          "genre": "R & B",
-          "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Down the Road",
-          "artist": "C2C",
-          "plays": 3,
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
           "genre": "Electronic"
         },
         {
-          "song": "Le soleil donne",
-          "artist": "Laurent Voulzy",
-          "plays": 3,
-          "genre": "French Pop"
+          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
+          "artist": "Rucka Rucka Ali",
+          "plays": 17,
+          "genre": "Comedy"
         },
         {
-          "song": "Somebody To Love",
-          "artist": "Jefferson Airplane",
-          "plays": 3,
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 17,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 16,
+          "genre": "Alternative"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
+        },
+        {
+          "song": "Little Demons",
+          "artist": "Nocti",
+          "plays": 8,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Nagoya Marimba (HNNY Extended Remake)",
+          "artist": "Steve Reich and HNNY",
+          "plays": 8,
+          "genre": "Dance"
+        },
+        {
+          "song": "Who Dat Boy",
+          "artist": "Tyler, The Creator",
+          "plays": 8,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "We Didn't Start the Fire",
+          "artist": "Billy Joel",
+          "plays": 8,
           "genre": "Rock"
         },
         {
@@ -301,18 +313,6 @@
           "artist": "The Strumbellas",
           "plays": 3,
           "genre": "Folk"
-        },
-        {
-          "song": "Ms. Jackson (Jean Tonique Remix)",
-          "artist": "OutKast",
-          "plays": 3,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Rabiosa",
-          "artist": "Shakira",
-          "plays": 3,
-          "genre": "Latin"
         },
         {
           "song": "Only Human",
@@ -331,12 +331,6 @@
           "artist": "Dim Zach",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "La Macarena. [Version Original]",
-          "artist": "Los Del Rio",
-          "plays": 2,
-          "genre": "Latin"
         },
         {
           "song": "Know Yourself",
@@ -369,82 +363,66 @@
           "genre": "Pop"
         },
         {
-          "song": "Mr. Blue Sky (Animated Video)",
-          "artist": "Electric Light Orchestra",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Life Is a Highway",
-          "artist": "Tom Cochrane",
-          "plays": 1,
-          "genre": "Country"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Soul Sister, Brown Sugar",
-          "artist": "Sam and Dave",
-          "plays": 1,
-          "genre": "Oldies"
-        },
-        {
           "song": "Italo Disco",
           "artist": "Lifelike",
           "plays": 1,
           "genre": "Dance"
         },
         {
-          "song": "Ride on Time",
-          "artist": "Tatsuro Yamashita",
-          "plays": 1,
-          "genre": "City Pop"
-        },
-        {
-          "song": "The Edge Of Glory",
-          "artist": "Lady GaGa",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Love Ataxx Replayy",
-          "artist": "Childhood",
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
           "plays": 1,
           "genre": "Electronic"
         },
         {
-          "song": "Pop Muzik",
-          "artist": "M (Music Artist)",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Stop (We are I.V remix)",
-          "artist": "Pony Pony Run Run",
+          "song": "Starlight",
+          "artist": "The Superman Lovers",
           "plays": 1,
           "genre": "Electronic"
+        },
+        {
+          "song": "All Night (feat. Knox Fortune)",
+          "artist": "Chance The Rapper",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 537,
+      "total_plays": 585,
       "top_artists": [
         {
-          "artist": "Milky",
-          "plays": 47
+          "artist": "Dayglow",
+          "plays": 23
         },
         {
           "artist": "442oons",
-          "plays": 28
+          "plays": 21
+        },
+        {
+          "artist": "Rucka Rucka Ali",
+          "plays": 19
         },
         {
           "artist": "Blue Oyster Cult",
           "plays": 19
+        },
+        {
+          "artist": "Visitor",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
+          "plays": 18
+        },
+        {
+          "artist": "Avicii",
+          "plays": 14
+        },
+        {
+          "artist": "Cassius",
+          "plays": 14
         },
         {
           "artist": "Laufey",
@@ -452,14 +430,26 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 12
+          "plays": 10
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 11
+          "plays": 10
+        },
+        {
+          "artist": "Steve Reich",
+          "plays": 9
+        },
+        {
+          "artist": "HNNY",
+          "plays": 9
         },
         {
           "artist": "David Guetta",
+          "plays": 8
+        },
+        {
+          "artist": "Nocti",
           "plays": 8
         },
         {
@@ -467,12 +457,12 @@
           "plays": 8
         },
         {
-          "artist": "Dayglow",
-          "plays": 7
+          "artist": "Tyler, The Creator",
+          "plays": 8
         },
         {
-          "artist": "Lifelike",
-          "plays": 7
+          "artist": "Billy Joel",
+          "plays": 8
         },
         {
           "artist": "Tom Misch",
@@ -488,7 +478,7 @@
         },
         {
           "artist": "Nino Ferrer",
-          "plays": 6
+          "plays": 5
         },
         {
           "artist": "Taylor Swift",
@@ -501,80 +491,48 @@
         {
           "artist": "Trevor Daniel",
           "plays": 4
-        },
-        {
-          "artist": "Cour De Recré",
-          "plays": 4
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 4
-        },
-        {
-          "artist": "C2C",
-          "plays": 4
-        },
-        {
-          "artist": "Bill Withers",
-          "plays": 4
-        },
-        {
-          "artist": "Madonna",
-          "plays": 4
-        },
-        {
-          "artist": "Benjamin Bellman",
-          "plays": 4
-        },
-        {
-          "artist": "Feist",
-          "plays": 4
-        },
-        {
-          "artist": "FKJ",
-          "plays": 4
         }
       ],
       "top_genres": [
         {
-          "genre": "Pop",
-          "plays": 115
-        },
-        {
           "genre": "Electronic",
-          "plays": 70
+          "plays": 99
         },
         {
           "genre": "Dance",
-          "plays": 54
+          "plays": 72
+        },
+        {
+          "genre": "Pop",
+          "plays": 68
         },
         {
           "genre": "Alternative",
-          "plays": 43
+          "plays": 59
         },
         {
           "genre": "Comedy",
-          "plays": 38
+          "plays": 48
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 27
+          "plays": 35
+        },
+        {
+          "genre": "Rock",
+          "plays": 25
         },
         {
           "genre": "Variete Francaise",
           "plays": 25
         },
         {
+          "genre": "Future Funk",
+          "plays": 22
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
-        },
-        {
-          "genre": "Rock",
-          "plays": 17
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 14
         },
         {
           "genre": "Ambient",
@@ -589,15 +547,15 @@
           "plays": 10
         },
         {
-          "genre": "House",
-          "plays": 9
-        },
-        {
           "genre": "Soft Rock",
           "plays": 7
         },
         {
           "genre": "Latin",
+          "plays": 7
+        },
+        {
+          "genre": "House",
           "plays": 7
         },
         {
@@ -639,16 +597,10 @@
       ],
       "top_tracks": [
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 47,
-          "genre": "Pop"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 26,
-          "genre": "Comedy"
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 23,
+          "genre": "Alternative"
         },
         {
           "song": "Godzilla",
@@ -657,10 +609,52 @@
           "genre": "Classic Rock"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 19,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
+          "artist": "Rucka Rucka Ali",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 17,
+          "genre": "Electronic"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
+        },
+        {
           "song": "From The Start",
           "artist": "Laufey",
           "plays": 14,
           "genre": "Ambient"
+        },
+        {
+          "song": "Nagoya Marimba (HNNY Extended Remake)",
+          "artist": "Steve Reich and HNNY",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
+          "song": "Little Demons",
+          "artist": "Nocti",
+          "plays": 8,
+          "genre": "Future Funk"
         },
         {
           "song": "Lost In Japan (Remix)",
@@ -669,22 +663,22 @@
           "genre": "Electronic"
         },
         {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 7,
-          "genre": "Alternative"
+          "song": "Who Dat Boy",
+          "artist": "Tyler, The Creator",
+          "plays": 8,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "We Didn't Start the Fire",
+          "artist": "Billy Joel",
+          "plays": 8,
+          "genre": "Rock"
         },
         {
           "song": "Windy Summer",
           "artist": "Anri & Night Tempo",
           "plays": 7,
           "genre": "Future Funk"
-        },
-        {
-          "song": "La Rua Madureira",
-          "artist": "Bon Entendeur & Nino Ferrer",
-          "plays": 5,
-          "genre": "Dance"
         },
         {
           "song": "The Fate of Ophelia",
@@ -703,12 +697,6 @@
           "artist": "Trevor Daniel",
           "plays": 4,
           "genre": "Pop"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 4,
-          "genre": "Electronic"
         },
         {
           "song": "Ain't No Sunshine",
@@ -735,10 +723,10 @@
           "genre": "Folk"
         },
         {
-          "song": "Nightwalk",
-          "artist": "Lifelike",
+          "song": "La Rua Madureira",
+          "artist": "Bon Entendeur & Nino Ferrer",
           "plays": 4,
-          "genre": "Electronic"
+          "genre": "Dance"
         },
         {
           "song": "Question Of Faith (Idjut Boys Remix)",
@@ -757,42 +745,12 @@
           "artist": "Benjamin Biolay",
           "plays": 4,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Sunshine Superman",
-          "artist": "Donavan",
-          "plays": 3,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Down the Road",
-          "artist": "C2C",
-          "plays": 3,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Le soleil donne",
-          "artist": "Laurent Voulzy",
-          "plays": 3,
-          "genre": "French Pop"
-        },
-        {
-          "song": "I Can't See Nobody",
-          "artist": "Nina Simone",
-          "plays": 3,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Never Let You Know",
-          "artist": "The Kaleidoscopes & The Nightswimmers",
-          "plays": 3,
-          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 867,
+      "total_plays": 941,
       "top_artists": [
         {
           "artist": "Milky",
@@ -803,23 +761,39 @@
           "plays": 40
         },
         {
-          "artist": "MotorBass",
-          "plays": 39
-        },
-        {
           "artist": "Taylor Swift",
           "plays": 25
+        },
+        {
+          "artist": "Dayglow",
+          "plays": 23
         },
         {
           "artist": "Daft Punk",
           "plays": 22
         },
         {
+          "artist": "Rucka Rucka Ali",
+          "plays": 20
+        },
+        {
           "artist": "Blue Oyster Cult",
           "plays": 19
         },
         {
+          "artist": "Visitor",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
+          "plays": 18
+        },
+        {
           "artist": "Bon Entendeur",
+          "plays": 15
+        },
+        {
+          "artist": "Avicii",
           "plays": 15
         },
         {
@@ -829,6 +803,10 @@
         {
           "artist": "Laufey",
           "plays": 15
+        },
+        {
+          "artist": "Cassius",
+          "plays": 14
         },
         {
           "artist": "Creedence Clearwater Revival",
@@ -847,7 +825,11 @@
           "plays": 9
         },
         {
-          "artist": "Baddiel Skinner",
+          "artist": "Steve Reich",
+          "plays": 9
+        },
+        {
+          "artist": "HNNY",
           "plays": 9
         },
         {
@@ -869,30 +851,6 @@
         {
           "artist": "David Guetta",
           "plays": 8
-        },
-        {
-          "artist": "Bob Sinclar",
-          "plays": 8
-        },
-        {
-          "artist": "Feist",
-          "plays": 8
-        },
-        {
-          "artist": "Shawn Mendes",
-          "plays": 8
-        },
-        {
-          "artist": "Beach Boys",
-          "plays": 8
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 8
-        },
-        {
-          "artist": "Sweetpower",
-          "plays": 8
         }
       ],
       "top_genres": [
@@ -902,23 +860,23 @@
         },
         {
           "genre": "Electronic",
-          "plays": 171
+          "plays": 170
         },
         {
           "genre": "Dance",
-          "plays": 85
-        },
-        {
-          "genre": "Alternative",
-          "plays": 52
+          "plays": 107
         },
         {
           "genre": "Comedy",
-          "plays": 52
+          "plays": 69
+        },
+        {
+          "genre": "Alternative",
+          "plays": 68
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 42
+          "plays": 50
         },
         {
           "genre": "Variete Francaise",
@@ -926,7 +884,11 @@
         },
         {
           "genre": "Rock",
-          "plays": 22
+          "plays": 30
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 25
         },
         {
           "genre": "Soft Rock",
@@ -945,10 +907,6 @@
           "plays": 18
         },
         {
-          "genre": "Future Funk",
-          "plays": 17
-        },
-        {
           "genre": "Disco",
           "plays": 16
         },
@@ -961,16 +919,16 @@
           "plays": 15
         },
         {
-          "genre": "House",
-          "plays": 14
-        },
-        {
           "genre": "mashup",
           "plays": 13
         },
         {
+          "genre": "House",
+          "plays": 11
+        },
+        {
           "genre": "Britpop",
-          "plays": 10
+          "plays": 9
         },
         {
           "genre": "Jazz",
@@ -1005,12 +963,6 @@
           "genre": "Pop"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 39,
-          "genre": "Electronic"
-        },
-        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 31,
@@ -1023,10 +975,34 @@
           "genre": "Pop"
         },
         {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 23,
+          "genre": "Alternative"
+        },
+        {
           "song": "Godzilla",
           "artist": "Blue Oyster Cult",
           "plays": 19,
           "genre": "Classic Rock"
+        },
+        {
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
+          "artist": "Rucka Rucka Ali",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 17,
+          "genre": "Electronic"
         },
         {
           "song": "Autobahn (Horalion Remix)",
@@ -1039,6 +1015,12 @@
           "artist": "Laufey",
           "plays": 15,
           "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
         },
         {
           "song": "Down On The Corner",
@@ -1057,6 +1039,12 @@
           "artist": "Oxmo Puccino",
           "plays": 9,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Nagoya Marimba (HNNY Extended Remake)",
+          "artist": "Steve Reich and HNNY",
+          "plays": 9,
+          "genre": "Dance"
         },
         {
           "song": "Can't Take My Eyes Off You",
@@ -1081,6 +1069,12 @@
           "artist": "Feist",
           "plays": 8,
           "genre": "Alternative"
+        },
+        {
+          "song": "Little Demons",
+          "artist": "Nocti",
+          "plays": 8,
+          "genre": "Future Funk"
         },
         {
           "song": "Aerobeetroots (ft. Bloody Beatroots)",
@@ -1111,48 +1105,12 @@
           "artist": "Sweetpower",
           "plays": 8,
           "genre": "Dance"
-        },
-        {
-          "song": "Mario Gomez - CHA CHA",
-          "artist": "Raki",
-          "plays": 8,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Confessions",
-          "artist": "BadBadNotGood",
-          "plays": 8,
-          "genre": "Jazz"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 7,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Windy Summer",
-          "artist": "Anri & Night Tempo",
-          "plays": 7,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Who Won the League - Liverpool",
-          "artist": "442oons",
-          "plays": 7,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 6,
-          "genre": "Electronic"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 1597,
+      "total_plays": 1712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1203,6 +1161,10 @@
           "plays": 35
         },
         {
+          "artist": "Rucka Rucka Ali",
+          "plays": 30
+        },
+        {
           "artist": "Daft Punk",
           "plays": 28
         },
@@ -1213,6 +1175,10 @@
         {
           "artist": "Bon Entendeur",
           "plays": 26
+        },
+        {
+          "artist": "Dayglow",
+          "plays": 23
         },
         {
           "artist": "Baddiel Skinner",
@@ -1227,7 +1193,15 @@
           "plays": 19
         },
         {
+          "artist": "Visitor",
+          "plays": 18
+        },
+        {
           "artist": "Préface",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
           "plays": 18
         },
         {
@@ -1235,34 +1209,18 @@
           "plays": 16
         },
         {
-          "artist": "Donna Summer",
+          "artist": "Avicii",
           "plays": 15
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 14
-        },
-        {
-          "artist": "Claude François",
-          "plays": 14
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 13
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 13
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 386
+          "plays": 422
         },
         {
           "genre": "Dance",
-          "plays": 235
+          "plays": 257
         },
         {
           "genre": "Pop",
@@ -1278,26 +1236,30 @@
         },
         {
           "genre": "Comedy",
-          "plays": 73
+          "plays": 90
         },
         {
           "genre": "Alternative",
-          "plays": 53
+          "plays": 69
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 50
+          "plays": 58
         },
         {
           "genre": "Vaporwave",
           "plays": 35
         },
         {
+          "genre": "Rock",
+          "plays": 34
+        },
+        {
           "genre": "Disco",
           "plays": 29
         },
         {
-          "genre": "Rock",
+          "genre": "Future Funk",
           "plays": 26
         },
         {
@@ -1326,10 +1288,6 @@
         },
         {
           "genre": "City Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Future Funk",
           "plays": 18
         },
         {
@@ -1431,6 +1389,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 23,
+          "genre": "Alternative"
+        },
+        {
           "song": "Godzilla",
           "artist": "Blue Oyster Cult",
           "plays": 19,
@@ -1443,9 +1407,27 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
           "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
+          "artist": "Rucka Rucka Ali",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 17,
           "genre": "Electronic"
         },
         {
@@ -1453,6 +1435,12 @@
           "artist": "Laufey",
           "plays": 16,
           "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
         },
         {
           "song": "Three Lions '98",
@@ -1477,42 +1465,12 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 11,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 11,
-          "genre": "Disco"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 11,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "We're All Asian (feat. DJ Not Nice)",
-          "artist": "Rucka Rucka Ali",
-          "plays": 10,
-          "genre": "Comedy"
-        },
-        {
-          "song": "L'amour",
-          "artist": "Bon Entendeur & Moulidgi",
-          "plays": 10,
-          "genre": "Dance"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 1597,
+      "total_plays": 1712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1563,6 +1521,10 @@
           "plays": 35
         },
         {
+          "artist": "Rucka Rucka Ali",
+          "plays": 30
+        },
+        {
           "artist": "Daft Punk",
           "plays": 28
         },
@@ -1573,6 +1535,10 @@
         {
           "artist": "Bon Entendeur",
           "plays": 26
+        },
+        {
+          "artist": "Dayglow",
+          "plays": 23
         },
         {
           "artist": "Baddiel Skinner",
@@ -1587,7 +1553,15 @@
           "plays": 19
         },
         {
+          "artist": "Visitor",
+          "plays": 18
+        },
+        {
           "artist": "Préface",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
           "plays": 18
         },
         {
@@ -1595,34 +1569,18 @@
           "plays": 16
         },
         {
-          "artist": "Donna Summer",
+          "artist": "Avicii",
           "plays": 15
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 14
-        },
-        {
-          "artist": "Claude François",
-          "plays": 14
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 13
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 13
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 386
+          "plays": 422
         },
         {
           "genre": "Dance",
-          "plays": 235
+          "plays": 257
         },
         {
           "genre": "Pop",
@@ -1638,26 +1596,30 @@
         },
         {
           "genre": "Comedy",
-          "plays": 73
+          "plays": 90
         },
         {
           "genre": "Alternative",
-          "plays": 53
+          "plays": 69
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 50
+          "plays": 58
         },
         {
           "genre": "Vaporwave",
           "plays": 35
         },
         {
+          "genre": "Rock",
+          "plays": 34
+        },
+        {
           "genre": "Disco",
           "plays": 29
         },
         {
-          "genre": "Rock",
+          "genre": "Future Funk",
           "plays": 26
         },
         {
@@ -1686,10 +1648,6 @@
         },
         {
           "genre": "City Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Future Funk",
           "plays": 18
         },
         {
@@ -1791,6 +1749,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 23,
+          "genre": "Alternative"
+        },
+        {
           "song": "Godzilla",
           "artist": "Blue Oyster Cult",
           "plays": 19,
@@ -1803,9 +1767,27 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
           "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
+          "artist": "Rucka Rucka Ali",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 17,
           "genre": "Electronic"
         },
         {
@@ -1813,6 +1795,12 @@
           "artist": "Laufey",
           "plays": 16,
           "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
         },
         {
           "song": "Three Lions '98",
@@ -1837,42 +1825,12 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 11,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 11,
-          "genre": "Disco"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 11,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "We're All Asian (feat. DJ Not Nice)",
-          "artist": "Rucka Rucka Ali",
-          "plays": 10,
-          "genre": "Comedy"
-        },
-        {
-          "song": "L'amour",
-          "artist": "Bon Entendeur & Moulidgi",
-          "plays": 10,
-          "genre": "Dance"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 1597,
+      "total_plays": 1712,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1923,6 +1881,10 @@
           "plays": 35
         },
         {
+          "artist": "Rucka Rucka Ali",
+          "plays": 30
+        },
+        {
           "artist": "Daft Punk",
           "plays": 28
         },
@@ -1933,6 +1895,10 @@
         {
           "artist": "Bon Entendeur",
           "plays": 26
+        },
+        {
+          "artist": "Dayglow",
+          "plays": 23
         },
         {
           "artist": "Baddiel Skinner",
@@ -1947,7 +1913,15 @@
           "plays": 19
         },
         {
+          "artist": "Visitor",
+          "plays": 18
+        },
+        {
           "artist": "Préface",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
           "plays": 18
         },
         {
@@ -1955,34 +1929,18 @@
           "plays": 16
         },
         {
-          "artist": "Donna Summer",
+          "artist": "Avicii",
           "plays": 15
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 14
-        },
-        {
-          "artist": "Claude François",
-          "plays": 14
-        },
-        {
-          "artist": "Rucka Rucka Ali",
-          "plays": 13
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 13
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 386
+          "plays": 422
         },
         {
           "genre": "Dance",
-          "plays": 235
+          "plays": 257
         },
         {
           "genre": "Pop",
@@ -1998,26 +1956,30 @@
         },
         {
           "genre": "Comedy",
-          "plays": 73
+          "plays": 90
         },
         {
           "genre": "Alternative",
-          "plays": 53
+          "plays": 69
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 50
+          "plays": 58
         },
         {
           "genre": "Vaporwave",
           "plays": 35
         },
         {
+          "genre": "Rock",
+          "plays": 34
+        },
+        {
           "genre": "Disco",
           "plays": 29
         },
         {
-          "genre": "Rock",
+          "genre": "Future Funk",
           "plays": 26
         },
         {
@@ -2046,10 +2008,6 @@
         },
         {
           "genre": "City Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Future Funk",
           "plays": 18
         },
         {
@@ -2151,6 +2109,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 23,
+          "genre": "Alternative"
+        },
+        {
           "song": "Godzilla",
           "artist": "Blue Oyster Cult",
           "plays": 19,
@@ -2163,9 +2127,27 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
           "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
+          "artist": "Rucka Rucka Ali",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 17,
           "genre": "Electronic"
         },
         {
@@ -2173,6 +2155,12 @@
           "artist": "Laufey",
           "plays": 16,
           "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
         },
         {
           "song": "Three Lions '98",
@@ -2197,36 +2185,6 @@
           "artist": "442oons",
           "plays": 11,
           "genre": "Comedy"
-        },
-        {
-          "song": "Break My Love",
-          "artist": "RÜFÜS DU SOL",
-          "plays": 11,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Feel Love",
-          "artist": "Donna Summer",
-          "plays": 11,
-          "genre": "Disco"
-        },
-        {
-          "song": "Lady",
-          "artist": "Hunter",
-          "plays": 11,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "We're All Asian (feat. DJ Not Nice)",
-          "artist": "Rucka Rucka Ali",
-          "plays": 10,
-          "genre": "Comedy"
-        },
-        {
-          "song": "L'amour",
-          "artist": "Bon Entendeur & Moulidgi",
-          "plays": 10,
-          "genre": "Dance"
         }
       ]
     }
@@ -2653,6 +2611,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-06",
+      "id": "20191182acd4fd09",
+      "plays": 17
+    },
+    {
       "date": "2026-05-10",
       "id": "20781ff2ddb684bb",
       "plays": 8
@@ -2701,6 +2664,11 @@
       "date": "2026-06-02",
       "id": "2593cf86ae53b025",
       "plays": 1
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2593cf86ae53b025",
+      "plays": 16
     },
     {
       "date": "2026-05-26",
@@ -2938,6 +2906,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-06",
+      "id": "3b6d00d707753cd1",
+      "plays": 14
+    },
+    {
       "date": "2026-06-02",
       "id": "3cd8839e501cd9da",
       "plays": 1
@@ -3128,6 +3101,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-06",
+      "id": "4fd5df4d51367220",
+      "plays": 17
+    },
+    {
       "date": "2026-04-20",
       "id": "4fd758d29ea4f75f",
       "plays": 1
@@ -3171,6 +3149,11 @@
       "date": "2026-05-17",
       "id": "505948207245436e",
       "plays": 1
+    },
+    {
+      "date": "2026-06-06",
+      "id": "510bb6b48c947189",
+      "plays": 8
     },
     {
       "date": "2026-04-23",
@@ -3513,6 +3496,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-06",
+      "id": "704e4957891554c7",
+      "plays": 18
+    },
+    {
       "date": "2026-06-02",
       "id": "705841cbcb108263",
       "plays": 1
@@ -3636,6 +3624,11 @@
       "date": "2026-06-02",
       "id": "7eb21b59ea98492c",
       "plays": 1
+    },
+    {
+      "date": "2026-06-06",
+      "id": "7eb21b59ea98492c",
+      "plays": 8
     },
     {
       "date": "2026-06-02",
@@ -4488,6 +4481,11 @@
       "plays": 8
     },
     {
+      "date": "2026-06-06",
+      "id": "c9938c8825f07a2a",
+      "plays": 1
+    },
+    {
       "date": "2026-05-02",
       "id": "ca5c08094fd3093e",
       "plays": 1
@@ -5088,6 +5086,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-06",
+      "id": "fbc188e0d3d110b0",
+      "plays": 8
+    },
+    {
       "date": "2026-06-04",
       "id": "fc930e2974ce64e2",
       "plays": 2
@@ -5103,6 +5106,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-06",
+      "id": "ff33ef293cfadd8f",
+      "plays": 8
+    },
+    {
       "date": "2026-04-24",
       "id": "ff3d7b179c31433d",
       "plays": 1
@@ -5114,6 +5122,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-05",
-  "snapshot_count": 42
+  "latest_snapshot": "2026-06-06",
+  "snapshot_count": 43
 }

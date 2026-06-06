@@ -467,7 +467,7 @@
     {
       "rank": 28,
       "artist": "Rucka Rucka Ali",
-      "plays": 806,
+      "plays": 823,
       "country": "US"
     },
     {
@@ -562,15 +562,15 @@
     },
     {
       "rank": 44,
-      "artist": "Madonna",
-      "plays": 556,
-      "country": "US"
+      "artist": "Visitor",
+      "plays": 570,
+      "country": "AU"
     },
     {
       "rank": 45,
-      "artist": "Visitor",
-      "plays": 553,
-      "country": "AU"
+      "artist": "Madonna",
+      "plays": 556,
+      "country": "US"
     },
     {
       "rank": 46,
@@ -580,27 +580,27 @@
     },
     {
       "rank": 47,
+      "artist": "Avicii",
+      "plays": 540,
+      "country": "SE"
+    },
+    {
+      "rank": 48,
       "artist": "Bee Gees",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "artist": "Electric Light Orchestra",
       "plays": 527,
       "country": "GB"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "artist": "Pitbull",
       "plays": 527,
       "country": "US"
-    },
-    {
-      "rank": 50,
-      "artist": "Avicii",
-      "plays": 526,
-      "country": "SE"
     }
   ]
 }
