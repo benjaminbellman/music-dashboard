@@ -107,12 +107,16 @@
     {
       "date": "2026-06-06",
       "plays": 115
+    },
+    {
+      "date": "2026-06-07",
+      "plays": 63
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 137,
+      "total_plays": 178,
       "top_artists": [
         {
           "artist": "Oliver Heldens",
@@ -139,6 +143,14 @@
           "plays": 14
         },
         {
+          "artist": "442oons",
+          "plays": 9
+        },
+        {
+          "artist": "Yolanda Be Cool & DCUP",
+          "plays": 9
+        },
+        {
           "artist": "Nocti",
           "plays": 8
         },
@@ -159,97 +171,105 @@
           "plays": 8
         },
         {
-          "artist": "The Strumbellas",
+          "artist": "Pink Floyd",
+          "plays": 6
+        },
+        {
+          "artist": "Serge Gainsbourg",
+          "plays": 6
+        },
+        {
+          "artist": "Poolside",
+          "plays": 6
+        },
+        {
+          "artist": "Miossec",
+          "plays": 4
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 4
+        },
+        {
+          "artist": "Le Nonsense",
           "plays": 3
         },
         {
-          "artist": "Jonas Brothers",
+          "artist": "Angèle",
           "plays": 2
         },
         {
-          "artist": "Marilyn Manson",
+          "artist": "Coldplay",
           "plays": 2
         },
         {
-          "artist": "Dim Zach",
+          "artist": "Calvin Harris",
           "plays": 2
         },
         {
-          "artist": "Drake",
+          "artist": "MIdnight Runners",
           "plays": 2
         },
         {
-          "artist": "Two Door Cinema Club",
+          "artist": "Bon Entendeur",
           "plays": 2
         },
         {
-          "artist": "Flight Facilities",
+          "artist": "Chicago",
           "plays": 2
-        },
-        {
-          "artist": "Capital Cities",
-          "plays": 2
-        },
-        {
-          "artist": "PinkPantheress, Ice Spice",
-          "plays": 2
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 1
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 1
-        },
-        {
-          "artist": "The Superman Lovers",
-          "plays": 1
-        },
-        {
-          "artist": "Chance The Rapper",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 37
+          "plays": 42
         },
         {
           "genre": "Dance",
-          "plays": 27
+          "plays": 38
+        },
+        {
+          "genre": "Comedy",
+          "plays": 26
         },
         {
           "genre": "Alternative",
           "plays": 18
         },
         {
-          "genre": "Comedy",
-          "plays": 17
+          "genre": "Rock",
+          "plays": 14
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Future Funk",
           "plays": 8
         },
         {
-          "genre": "Rock",
-          "plays": 8
-        },
-        {
-          "genre": "Pop",
+          "genre": "Musique francophone",
           "plays": 6
         },
         {
-          "genre": "Folk",
-          "plays": 3
+          "genre": "Indie",
+          "plays": 6
         },
         {
-          "genre": "mashup",
+          "genre": "French Pop",
+          "plays": 4
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 2
+        },
+        {
+          "genre": "Pop",
+          "plays": 2
+        },
+        {
+          "genre": "Soft Rock",
           "plays": 2
         }
       ],
@@ -285,6 +305,18 @@
           "genre": "Dance"
         },
         {
+          "song": "Premier League Song",
+          "artist": "442oons",
+          "plays": 9,
+          "genre": "Comedy"
+        },
+        {
+          "song": "We No Speak Americano",
+          "artist": "Yolanda Be Cool & DCUP",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
           "song": "Little Demons",
           "artist": "Nocti",
           "plays": 8,
@@ -309,96 +341,102 @@
           "genre": "Rock"
         },
         {
-          "song": "Spirits",
-          "artist": "The Strumbellas",
+          "song": "Comfortably Numb",
+          "artist": "Pink Floyd",
+          "plays": 6,
+          "genre": "Rock"
+        },
+        {
+          "song": "No Comment",
+          "artist": "Serge Gainsbourg",
+          "plays": 6,
+          "genre": "Musique francophone"
+        },
+        {
+          "song": "Harvest Moon",
+          "artist": "Poolside",
+          "plays": 6,
+          "genre": "Indie"
+        },
+        {
+          "song": "La facture d'électricité",
+          "artist": "Miossec",
+          "plays": 4,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Trust in Me (Polo & Pan Remix)",
+          "artist": "Polo & Pan",
+          "plays": 4,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Soulreply (Le Nonsense Remix)",
+          "artist": "Le Nonsense",
           "plays": 3,
-          "genre": "Folk"
+          "genre": "Dance"
         },
         {
-          "song": "Only Human",
-          "artist": "Jonas Brothers",
+          "song": "Oui ou Non",
+          "artist": "Angèle",
           "plays": 2,
-          "genre": "Pop"
+          "genre": "Variete Francaise"
         },
         {
-          "song": "This Is Halloween",
-          "artist": "Marilyn Manson",
+          "song": "In My Place",
+          "artist": "Coldplay",
           "plays": 2,
           "genre": "Alternative"
         },
         {
-          "song": "Discomare Sex",
-          "artist": "Dim Zach",
+          "song": "My Way",
+          "artist": "Calvin Harris",
           "plays": 2,
           "genre": "Dance"
         },
         {
-          "song": "Know Yourself",
-          "artist": "Drake",
-          "plays": 2,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Sun (Viceroy Remix)",
-          "artist": "Two Door Cinema Club",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "2012 - 2022 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "Safe and Sound",
-          "artist": "Capital Cities",
+          "song": "Come On Eileen!",
+          "artist": "MIdnight Runners",
           "plays": 2,
           "genre": "Pop"
         },
         {
-          "song": "Boy's a liar Pt. 2",
-          "artist": "PinkPantheress, Ice Spice",
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
           "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Italo Disco",
-          "artist": "Lifelike",
-          "plays": 1,
           "genre": "Dance"
         },
         {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 1,
-          "genre": "Electronic"
+          "song": "You're The Inspiration",
+          "artist": "Chicago",
+          "plays": 2,
+          "genre": "Soft Rock"
         },
         {
-          "song": "Starlight",
-          "artist": "The Superman Lovers",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "All Night (feat. Knox Fortune)",
-          "artist": "Chance The Rapper",
-          "plays": 1,
+          "song": "What It Is ft. Kodak Black",
+          "artist": "Doechii",
+          "plays": 2,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "We Can Make The World Stop",
+          "artist": "The Glitch Mob",
+          "plays": 2,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 585,
+      "total_plays": 648,
       "top_artists": [
+        {
+          "artist": "442oons",
+          "plays": 30
+        },
         {
           "artist": "Dayglow",
           "plays": 23
-        },
-        {
-          "artist": "442oons",
-          "plays": 21
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -429,11 +467,15 @@
           "plays": 14
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 12
+        },
+        {
           "artist": "Daft Punk",
           "plays": 10
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "Pink Floyd",
           "plays": 10
         },
         {
@@ -442,6 +484,10 @@
         },
         {
           "artist": "HNNY",
+          "plays": 9
+        },
+        {
+          "artist": "Yolanda Be Cool & DCUP",
           "plays": 9
         },
         {
@@ -465,6 +511,10 @@
           "plays": 8
         },
         {
+          "artist": "Serge Gainsbourg",
+          "plays": 7
+        },
+        {
           "artist": "Tom Misch",
           "plays": 7
         },
@@ -477,54 +527,42 @@
           "plays": 7
         },
         {
-          "artist": "Nino Ferrer",
-          "plays": 5
-        },
-        {
-          "artist": "Taylor Swift",
-          "plays": 5
-        },
-        {
-          "artist": "Chance The Rapper",
-          "plays": 5
-        },
-        {
-          "artist": "Trevor Daniel",
-          "plays": 4
+          "artist": "Poolside",
+          "plays": 6
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 99
+          "plays": 105
         },
         {
           "genre": "Dance",
-          "plays": 72
+          "plays": 88
         },
         {
           "genre": "Pop",
-          "plays": 68
+          "plays": 70
         },
         {
           "genre": "Alternative",
-          "plays": 59
+          "plays": 61
         },
         {
           "genre": "Comedy",
-          "plays": 48
+          "plays": 57
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 35
+          "plays": 37
         },
         {
           "genre": "Rock",
-          "plays": 25
+          "plays": 31
         },
         {
           "genre": "Variete Francaise",
-          "plays": 25
+          "plays": 27
         },
         {
           "genre": "Future Funk",
@@ -548,7 +586,15 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 7
+          "plays": 9
+        },
+        {
+          "genre": "French Pop",
+          "plays": 8
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         },
         {
           "genre": "Latin",
@@ -559,16 +605,16 @@
           "plays": 7
         },
         {
+          "genre": "Musique francophone",
+          "plays": 6
+        },
+        {
           "genre": "City Pop",
           "plays": 5
         },
         {
           "genre": "Folk",
           "plays": 5
-        },
-        {
-          "genre": "French Pop",
-          "plays": 4
         },
         {
           "genre": "Funk",
@@ -585,14 +631,6 @@
         {
           "genre": "Hip-Hop/Rap",
           "plays": 3
-        },
-        {
-          "genre": "K-Pop",
-          "plays": 3
-        },
-        {
-          "genre": "Country",
-          "plays": 2
         }
       ],
       "top_tracks": [
@@ -645,8 +683,20 @@
           "genre": "Ambient"
         },
         {
+          "song": "Premier League Song",
+          "artist": "442oons",
+          "plays": 9,
+          "genre": "Comedy"
+        },
+        {
           "song": "Nagoya Marimba (HNNY Extended Remake)",
           "artist": "Steve Reich and HNNY",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
+          "song": "We No Speak Americano",
+          "artist": "Yolanda Be Cool & DCUP",
           "plays": 9,
           "genre": "Dance"
         },
@@ -681,6 +731,24 @@
           "genre": "Future Funk"
         },
         {
+          "song": "Comfortably Numb",
+          "artist": "Pink Floyd",
+          "plays": 6,
+          "genre": "Rock"
+        },
+        {
+          "song": "No Comment",
+          "artist": "Serge Gainsbourg",
+          "plays": 6,
+          "genre": "Musique francophone"
+        },
+        {
+          "song": "Harvest Moon",
+          "artist": "Poolside",
+          "plays": 6,
+          "genre": "Indie"
+        },
+        {
           "song": "The Fate of Ophelia",
           "artist": "Taylor Swift",
           "plays": 5,
@@ -711,54 +779,24 @@
           "genre": "Dance"
         },
         {
-          "song": "My Moon My Man",
-          "artist": "Feist",
+          "song": "La facture d'électricité",
+          "artist": "Miossec",
           "plays": 4,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Spirits",
-          "artist": "The Strumbellas",
-          "plays": 4,
-          "genre": "Folk"
-        },
-        {
-          "song": "La Rua Madureira",
-          "artist": "Bon Entendeur & Nino Ferrer",
-          "plays": 4,
-          "genre": "Dance"
-        },
-        {
-          "song": "Question Of Faith (Idjut Boys Remix)",
-          "artist": "Lighthouse Family",
-          "plays": 4,
-          "genre": "House"
-        },
-        {
-          "song": "Cos I Love You",
-          "artist": "Tom Misch",
-          "plays": 4,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Dans la merco benz",
-          "artist": "Benjamin Biolay",
-          "plays": 4,
-          "genre": "Variete Francaise"
+          "genre": "French Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 941,
+      "total_plays": 1004,
       "top_artists": [
+        {
+          "artist": "442oons",
+          "plays": 49
+        },
         {
           "artist": "Milky",
           "plays": 48
-        },
-        {
-          "artist": "442oons",
-          "plays": 40
         },
         {
           "artist": "Taylor Swift",
@@ -790,7 +828,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 15
+          "plays": 17
         },
         {
           "artist": "Avicii",
@@ -811,6 +849,10 @@
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 13
+        },
+        {
+          "artist": "Pink Floyd",
+          "plays": 11
         },
         {
           "artist": "Layup",
@@ -841,50 +883,46 @@
           "plays": 9
         },
         {
+          "artist": "Yolanda Be Cool & DCUP",
+          "plays": 9
+        },
+        {
           "artist": "Boys Town Gang",
-          "plays": 8
-        },
-        {
-          "artist": "Minako Yoshida",
-          "plays": 8
-        },
-        {
-          "artist": "David Guetta",
           "plays": 8
         }
       ],
       "top_genres": [
         {
-          "genre": "Pop",
-          "plays": 171
+          "genre": "Electronic",
+          "plays": 176
         },
         {
-          "genre": "Electronic",
-          "plays": 170
+          "genre": "Pop",
+          "plays": 173
         },
         {
           "genre": "Dance",
-          "plays": 107
+          "plays": 123
         },
         {
           "genre": "Comedy",
-          "plays": 69
+          "plays": 78
         },
         {
           "genre": "Alternative",
-          "plays": 68
+          "plays": 70
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 50
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 33
+          "plays": 52
         },
         {
           "genre": "Rock",
-          "plays": 30
+          "plays": 36
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 35
         },
         {
           "genre": "Future Funk",
@@ -892,7 +930,7 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 19
+          "plays": 21
         },
         {
           "genre": "Classic Rock",
@@ -931,28 +969,28 @@
           "plays": 9
         },
         {
+          "genre": "French Pop",
+          "plays": 9
+        },
+        {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         },
         {
           "genre": "Latin",
           "plays": 7
         },
         {
-          "genre": "French Pop",
-          "plays": 5
+          "genre": "Musique francophone",
+          "plays": 6
         },
         {
           "genre": "R & B",
           "plays": 5
-        },
-        {
-          "genre": "Funk",
-          "plays": 4
-        },
-        {
-          "genre": "Variété française",
-          "plays": 3
         }
       ],
       "top_tracks": [
@@ -1041,8 +1079,20 @@
           "genre": "Hip Hop/Rap"
         },
         {
+          "song": "Premier League Song",
+          "artist": "442oons",
+          "plays": 9,
+          "genre": "Comedy"
+        },
+        {
           "song": "Nagoya Marimba (HNNY Extended Remake)",
           "artist": "Steve Reich and HNNY",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
+          "song": "We No Speak Americano",
+          "artist": "Yolanda Be Cool & DCUP",
           "plays": 9,
           "genre": "Dance"
         },
@@ -1093,24 +1143,12 @@
           "artist": "Beach Boys",
           "plays": 8,
           "genre": "Pop"
-        },
-        {
-          "song": "Fame and Fortune from Rudolph The Red-nosed Reindeer",
-          "artist": "Rudolph",
-          "plays": 8,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Happy Days (Radio Edit)",
-          "artist": "Sweetpower",
-          "plays": 8,
-          "genre": "Dance"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 1712,
+      "total_plays": 1775,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1125,16 +1163,16 @@
           "plays": 60
         },
         {
-          "artist": "MotorBass",
-          "plays": 53
+          "artist": "442oons",
+          "plays": 60
         },
         {
           "artist": "Calvin Harris",
-          "plays": 52
+          "plays": 54
         },
         {
-          "artist": "442oons",
-          "plays": 51
+          "artist": "MotorBass",
+          "plays": 53
         },
         {
           "artist": "John Newman",
@@ -1169,12 +1207,12 @@
           "plays": 28
         },
         {
-          "artist": "Taylor Swift",
-          "plays": 27
+          "artist": "Bon Entendeur",
+          "plays": 28
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 26
+          "artist": "Taylor Swift",
+          "plays": 27
         },
         {
           "artist": "Dayglow",
@@ -1216,43 +1254,43 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 422
+          "plays": 428
         },
         {
           "genre": "Dance",
-          "plays": 257
+          "plays": 273
         },
         {
           "genre": "Pop",
-          "plays": 186
+          "plays": 188
         },
         {
           "genre": "Variete Francaise",
-          "plays": 156
+          "plays": 158
         },
         {
           "genre": "Soft Rock",
-          "plays": 116
+          "plays": 118
         },
         {
           "genre": "Comedy",
-          "plays": 90
+          "plays": 99
         },
         {
           "genre": "Alternative",
-          "plays": 69
+          "plays": 71
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 58
+          "plays": 60
+        },
+        {
+          "genre": "Rock",
+          "plays": 40
         },
         {
           "genre": "Vaporwave",
           "plays": 35
-        },
-        {
-          "genre": "Rock",
-          "plays": 34
         },
         {
           "genre": "Disco",
@@ -1295,24 +1333,24 @@
           "plays": 16
         },
         {
+          "genre": "French Pop",
+          "plays": 9
+        },
+        {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         },
         {
           "genre": "Latin",
           "plays": 7
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Musique francophone",
           "plays": 6
-        },
-        {
-          "genre": "French Pop",
-          "plays": 5
-        },
-        {
-          "genre": "R & B",
-          "plays": 5
         }
       ],
       "top_tracks": [
@@ -1470,7 +1508,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 1712,
+      "total_plays": 1775,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1485,16 +1523,16 @@
           "plays": 60
         },
         {
-          "artist": "MotorBass",
-          "plays": 53
+          "artist": "442oons",
+          "plays": 60
         },
         {
           "artist": "Calvin Harris",
-          "plays": 52
+          "plays": 54
         },
         {
-          "artist": "442oons",
-          "plays": 51
+          "artist": "MotorBass",
+          "plays": 53
         },
         {
           "artist": "John Newman",
@@ -1529,12 +1567,12 @@
           "plays": 28
         },
         {
-          "artist": "Taylor Swift",
-          "plays": 27
+          "artist": "Bon Entendeur",
+          "plays": 28
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 26
+          "artist": "Taylor Swift",
+          "plays": 27
         },
         {
           "artist": "Dayglow",
@@ -1576,43 +1614,43 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 422
+          "plays": 428
         },
         {
           "genre": "Dance",
-          "plays": 257
+          "plays": 273
         },
         {
           "genre": "Pop",
-          "plays": 186
+          "plays": 188
         },
         {
           "genre": "Variete Francaise",
-          "plays": 156
+          "plays": 158
         },
         {
           "genre": "Soft Rock",
-          "plays": 116
+          "plays": 118
         },
         {
           "genre": "Comedy",
-          "plays": 90
+          "plays": 99
         },
         {
           "genre": "Alternative",
-          "plays": 69
+          "plays": 71
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 58
+          "plays": 60
+        },
+        {
+          "genre": "Rock",
+          "plays": 40
         },
         {
           "genre": "Vaporwave",
           "plays": 35
-        },
-        {
-          "genre": "Rock",
-          "plays": 34
         },
         {
           "genre": "Disco",
@@ -1655,24 +1693,24 @@
           "plays": 16
         },
         {
+          "genre": "French Pop",
+          "plays": 9
+        },
+        {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         },
         {
           "genre": "Latin",
           "plays": 7
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Musique francophone",
           "plays": 6
-        },
-        {
-          "genre": "French Pop",
-          "plays": 5
-        },
-        {
-          "genre": "R & B",
-          "plays": 5
         }
       ],
       "top_tracks": [
@@ -1830,7 +1868,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 1712,
+      "total_plays": 1775,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1845,16 +1883,16 @@
           "plays": 60
         },
         {
-          "artist": "MotorBass",
-          "plays": 53
+          "artist": "442oons",
+          "plays": 60
         },
         {
           "artist": "Calvin Harris",
-          "plays": 52
+          "plays": 54
         },
         {
-          "artist": "442oons",
-          "plays": 51
+          "artist": "MotorBass",
+          "plays": 53
         },
         {
           "artist": "John Newman",
@@ -1889,12 +1927,12 @@
           "plays": 28
         },
         {
-          "artist": "Taylor Swift",
-          "plays": 27
+          "artist": "Bon Entendeur",
+          "plays": 28
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 26
+          "artist": "Taylor Swift",
+          "plays": 27
         },
         {
           "artist": "Dayglow",
@@ -1936,43 +1974,43 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 422
+          "plays": 428
         },
         {
           "genre": "Dance",
-          "plays": 257
+          "plays": 273
         },
         {
           "genre": "Pop",
-          "plays": 186
+          "plays": 188
         },
         {
           "genre": "Variete Francaise",
-          "plays": 156
+          "plays": 158
         },
         {
           "genre": "Soft Rock",
-          "plays": 116
+          "plays": 118
         },
         {
           "genre": "Comedy",
-          "plays": 90
+          "plays": 99
         },
         {
           "genre": "Alternative",
-          "plays": 69
+          "plays": 71
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 58
+          "plays": 60
+        },
+        {
+          "genre": "Rock",
+          "plays": 40
         },
         {
           "genre": "Vaporwave",
           "plays": 35
-        },
-        {
-          "genre": "Rock",
-          "plays": 34
         },
         {
           "genre": "Disco",
@@ -2015,24 +2053,24 @@
           "plays": 16
         },
         {
+          "genre": "French Pop",
+          "plays": 9
+        },
+        {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         },
         {
           "genre": "Latin",
           "plays": 7
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Musique francophone",
           "plays": 6
-        },
-        {
-          "genre": "French Pop",
-          "plays": 5
-        },
-        {
-          "genre": "R & B",
-          "plays": 5
         }
       ],
       "top_tracks": [
@@ -2254,6 +2292,21 @@
       "date": "2026-06-02",
       "id": "06048179b9d5ea26",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "06048179b9d5ea26",
+      "plays": 2
+    },
+    {
+      "date": "2026-06-07",
+      "id": "0682789680d47f31",
+      "plays": 2
+    },
+    {
+      "date": "2026-06-07",
+      "id": "07b29556a6de8d8a",
+      "plays": 6
     },
     {
       "date": "2026-05-10",
@@ -2766,6 +2819,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-07",
+      "id": "2e5bf87ea5dd984c",
+      "plays": 2
+    },
+    {
       "date": "2026-05-29",
       "id": "2ee3f9d38e275edd",
       "plays": 1
@@ -2856,6 +2914,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-07",
+      "id": "36989176bcc31435",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "373e74443de7d036",
       "plays": 1
@@ -2911,6 +2974,11 @@
       "plays": 14
     },
     {
+      "date": "2026-06-07",
+      "id": "3b80e4197f63c391",
+      "plays": 2
+    },
+    {
       "date": "2026-06-02",
       "id": "3cd8839e501cd9da",
       "plays": 1
@@ -2959,6 +3027,11 @@
       "date": "2026-05-02",
       "id": "40da54079480ac31",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "41260f27f303eddd",
+      "plays": 6
     },
     {
       "date": "2026-05-16",
@@ -3076,6 +3149,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-07",
+      "id": "4d366de1529dbffa",
+      "plays": 2
+    },
+    {
       "date": "2026-06-02",
       "id": "4d7df4f3f434902f",
       "plays": 1
@@ -3149,6 +3227,11 @@
       "date": "2026-05-17",
       "id": "505948207245436e",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "50afd10aa909c37c",
+      "plays": 9
     },
     {
       "date": "2026-06-06",
@@ -3281,6 +3364,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-07",
+      "id": "5a77b513071c82bd",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "5a8893e8efa7a024",
       "plays": 1
@@ -3364,6 +3452,11 @@
       "date": "2026-05-29",
       "id": "63825a5486676b31",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "653cc9223100d841",
+      "plays": 2
     },
     {
       "date": "2026-05-10",
@@ -3549,6 +3642,11 @@
       "date": "2026-06-02",
       "id": "7522ca7051ff5b26",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "75ac71ab312dcc7c",
+      "plays": 2
     },
     {
       "date": "2026-05-25",
@@ -4001,6 +4099,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-07",
+      "id": "97017becff0a3934",
+      "plays": 3
+    },
+    {
       "date": "2026-06-02",
       "id": "994e4f44f36e0494",
       "plays": 1
@@ -4094,6 +4197,11 @@
       "date": "2026-05-29",
       "id": "a26d2793d8bb5338",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "a2786a051472d35e",
+      "plays": 6
     },
     {
       "date": "2026-05-16",
@@ -4259,6 +4367,11 @@
       "date": "2026-06-04",
       "id": "adcb42f2129a2ef7",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "ae098efff069887d",
+      "plays": 9
     },
     {
       "date": "2026-06-02",
@@ -4429,6 +4542,11 @@
       "date": "2026-06-02",
       "id": "c3176da41505db26",
       "plays": 1
+    },
+    {
+      "date": "2026-06-07",
+      "id": "c3268af5adcd0464",
+      "plays": 2
     },
     {
       "date": "2026-05-10",
@@ -5122,6 +5240,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-06",
-  "snapshot_count": 43
+  "latest_snapshot": "2026-06-07",
+  "snapshot_count": 44
 }

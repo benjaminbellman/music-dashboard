@@ -48,7 +48,7 @@
   "2025": [
     {
       "country": "FR",
-      "plays": 2535
+      "plays": 2537
     },
     {
       "country": "US",
@@ -232,7 +232,7 @@
     },
     {
       "country": "US",
-      "plays": 2744
+      "plays": 2746
     },
     {
       "country": "JP",
@@ -346,7 +346,7 @@
     },
     {
       "country": "FR",
-      "plays": 991
+      "plays": 995
     },
     {
       "country": "KR",
@@ -428,7 +428,7 @@
     },
     {
       "country": "US",
-      "plays": 8007
+      "plays": 8013
     },
     {
       "country": "GB",
@@ -538,7 +538,7 @@
   "2020": [
     {
       "country": "FR",
-      "plays": 7274
+      "plays": 7276
     },
     {
       "country": "US",
@@ -600,7 +600,7 @@
     },
     {
       "country": "GB",
-      "plays": 2289
+      "plays": 2291
     },
     {
       "country": "CA",
@@ -692,7 +692,7 @@
   "2017": [
     {
       "country": "US",
-      "plays": 8462
+      "plays": 8464
     },
     {
       "country": "FR",
@@ -700,7 +700,7 @@
     },
     {
       "country": "GB",
-      "plays": 2137
+      "plays": 2146
     },
     {
       "country": "CA",
@@ -828,7 +828,7 @@
     },
     {
       "country": "GB",
-      "plays": 3236
+      "plays": 3238
     },
     {
       "country": "CA",
@@ -910,7 +910,7 @@
   "2014": [
     {
       "country": "FR",
-      "plays": 3717
+      "plays": 3723
     },
     {
       "country": "US",
@@ -946,7 +946,7 @@
     },
     {
       "country": "IT",
-      "plays": 108
+      "plays": 111
     },
     {
       "country": "ES",
@@ -996,15 +996,15 @@
   "2013": [
     {
       "country": "US",
-      "plays": 8438
+      "plays": 8440
     },
     {
       "country": "FR",
-      "plays": 6779
+      "plays": 6783
     },
     {
       "country": "GB",
-      "plays": 3241
+      "plays": 3249
     },
     {
       "country": "SE",
@@ -1209,16 +1209,16 @@
       "plays": 27
     },
     {
+      "country": "AU",
+      "plays": 25
+    },
+    {
       "country": "CO",
       "plays": 22
     },
     {
       "country": "RO",
       "plays": 20
-    },
-    {
-      "country": "AU",
-      "plays": 16
     },
     {
       "country": "BB",
