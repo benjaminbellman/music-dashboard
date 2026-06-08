@@ -1,42 +1,42 @@
 [
   {
     "genre": "Pop",
-    "plays": 34877,
+    "plays": 34915,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29435,
+    "plays": 29507,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23294,
+    "plays": 23330,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18015,
+    "plays": 18044,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13906,
+    "plays": 13926,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11548,
+    "plays": 11568,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10664,
+    "plays": 10680,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6673,
+    "plays": 6693,
     "songs": 73
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3987,
+    "plays": 4018,
     "songs": 126
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1650,
+    "plays": 1668,
     "songs": 45
   },
   {
@@ -150,14 +150,14 @@
     "songs": 10
   },
   {
+    "genre": "Indie",
+    "plays": 445,
+    "songs": 7
+  },
+  {
     "genre": "J-Pop",
     "plays": 436,
     "songs": 3
-  },
-  {
-    "genre": "Indie",
-    "plays": 429,
-    "songs": 7
   },
   {
     "genre": "Indie Dance",
@@ -181,7 +181,7 @@
   },
   {
     "genre": "World",
-    "plays": 319,
+    "plays": 322,
     "songs": 4
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "genre": "Musique francophone",
-    "plays": 138,
+    "plays": 154,
     "songs": 4
   },
   {

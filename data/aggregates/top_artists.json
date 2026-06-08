@@ -311,7 +311,7 @@
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3549,
+      "plays": 3569,
       "country": "FR"
     },
     {
@@ -323,7 +323,7 @@
     {
       "rank": 4,
       "artist": "Chicago",
-      "plays": 3153,
+      "plays": 3173,
       "country": "US"
     },
     {
@@ -335,13 +335,13 @@
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2144,
+      "plays": 2164,
       "country": "GB"
     },
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1842,
+      "plays": 1858,
       "country": "FR"
     },
     {
@@ -412,21 +412,21 @@
     },
     {
       "rank": 19,
+      "artist": "442oons",
+      "plays": 989,
+      "country": "GB"
+    },
+    {
+      "rank": 20,
       "artist": "Tatsuro Yamashita",
       "plays": 982,
       "country": "JP"
     },
     {
-      "rank": 20,
-      "artist": "Serge Gainsbourg",
-      "plays": 964,
-      "country": "FR"
-    },
-    {
       "rank": 21,
-      "artist": "442oons",
-      "plays": 958,
-      "country": "GB"
+      "artist": "Serge Gainsbourg",
+      "plays": 980,
+      "country": "FR"
     },
     {
       "rank": 22,
@@ -455,7 +455,7 @@
     {
       "rank": 26,
       "artist": "Calvin Harris",
-      "plays": 847,
+      "plays": 867,
       "country": "GB"
     },
     {
@@ -473,7 +473,7 @@
     {
       "rank": 29,
       "artist": "Synapson",
-      "plays": 802,
+      "plays": 805,
       "country": "FR"
     },
     {
@@ -485,7 +485,7 @@
     {
       "rank": 31,
       "artist": "Pink Floyd",
-      "plays": 738,
+      "plays": 754,
       "country": "GB"
     },
     {
