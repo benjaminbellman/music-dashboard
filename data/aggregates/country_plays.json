@@ -1,19 +1,19 @@
 [
   {
     "country": "FR",
-    "plays": 63841,
+    "plays": 63850,
     "artists": 434,
     "songs": 1055
   },
   {
     "country": "US",
-    "plays": 62772,
+    "plays": 62776,
     "artists": 753,
     "songs": 1371
   },
   {
     "country": "GB",
-    "plays": 31008,
+    "plays": 31020,
     "artists": 270,
     "songs": 570
   },
@@ -31,7 +31,7 @@
   },
   {
     "country": "AU",
-    "plays": 5269,
+    "plays": 5270,
     "artists": 53,
     "songs": 89
   },
@@ -73,7 +73,7 @@
   },
   {
     "country": "IT",
-    "plays": 1199,
+    "plays": 1200,
     "artists": 23,
     "songs": 38
   },
