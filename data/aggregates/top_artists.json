@@ -377,7 +377,7 @@
     {
       "rank": 13,
       "artist": "Charles Aznavour",
-      "plays": 1134,
+      "plays": 1135,
       "country": "FR"
     },
     {
@@ -419,7 +419,7 @@
     {
       "rank": 20,
       "artist": "Tatsuro Yamashita",
-      "plays": 982,
+      "plays": 983,
       "country": "JP"
     },
     {
@@ -539,7 +539,7 @@
     {
       "rank": 40,
       "artist": "Kungs",
-      "plays": 609,
+      "plays": 610,
       "country": "FR"
     },
     {
@@ -592,15 +592,15 @@
     },
     {
       "rank": 49,
-      "artist": "Electric Light Orchestra",
-      "plays": 527,
-      "country": "GB"
+      "artist": "Pitbull",
+      "plays": 528,
+      "country": "US"
     },
     {
       "rank": 50,
-      "artist": "Pitbull",
+      "artist": "Electric Light Orchestra",
       "plays": 527,
-      "country": "US"
+      "country": "GB"
     }
   ]
 }
