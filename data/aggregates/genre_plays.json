@@ -1,27 +1,27 @@
 [
   {
     "genre": "Pop",
-    "plays": 34917,
+    "plays": 34931,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29513,
+    "plays": 29523,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23332,
+    "plays": 23341,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18049,
+    "plays": 18051,
     "songs": 281
   },
   {
     "genre": "Alternative",
-    "plays": 13928,
+    "plays": 13931,
     "songs": 291
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "genre": "Rock",
-    "plays": 10681,
+    "plays": 10685,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6694,
+    "plays": 6695,
     "songs": 73
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "genre": "Comedy",
-    "plays": 4025,
+    "plays": 4026,
     "songs": 126
   },
   {
     "genre": "Lowfi",
-    "plays": 3868,
+    "plays": 3869,
     "songs": 47
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "genre": "Oldies",
-    "plays": 3725,
+    "plays": 3726,
     "songs": 63
   },
   {
@@ -76,17 +76,17 @@
   },
   {
     "genre": "Latin",
-    "plays": 2779,
+    "plays": 2781,
     "songs": 47
   },
   {
     "genre": "mashup",
-    "plays": 2713,
+    "plays": 2715,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2705,
+    "plays": 2706,
     "songs": 69
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "genre": "Country",
-    "plays": 1076,
+    "plays": 1077,
     "songs": 19
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "genre": "R&B/Soul",
-    "plays": 644,
+    "plays": 645,
     "songs": 20
   },
   {
@@ -175,14 +175,14 @@
     "songs": 6
   },
   {
+    "genre": "R & B",
+    "plays": 323,
+    "songs": 9
+  },
+  {
     "genre": "World",
     "plays": 323,
     "songs": 4
-  },
-  {
-    "genre": "R & B",
-    "plays": 322,
-    "songs": 9
   },
   {
     "genre": "Synthwave",
@@ -320,14 +320,14 @@
     "songs": 1
   },
   {
+    "genre": "Electronique",
+    "plays": 78,
+    "songs": 2
+  },
+  {
     "genre": "Trance",
     "plays": 78,
     "songs": 3
-  },
-  {
-    "genre": "Electronique",
-    "plays": 77,
-    "songs": 2
   },
   {
     "genre": "Rock;Electronic",
