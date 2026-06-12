@@ -123,19 +123,35 @@
     {
       "date": "2026-06-11",
       "plays": 55
+    },
+    {
+      "date": "2026-06-12",
+      "plays": 20
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 89,
+      "total_plays": 109,
       "top_artists": [
         {
           "artist": "442oons",
+          "plays": 14
+        },
+        {
+          "artist": "Flight Facilities",
           "plays": 7
         },
         {
           "artist": "Daft Punk",
+          "plays": 6
+        },
+        {
+          "artist": "Paul Kalkbrenner",
+          "plays": 3
+        },
+        {
+          "artist": "Galantis",
           "plays": 3
         },
         {
@@ -143,19 +159,15 @@
           "plays": 3
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 2
-        },
-        {
-          "artist": "Paul Kalkbrenner",
-          "plays": 2
+          "artist": "Shawn Mendes",
+          "plays": 3
         },
         {
           "artist": "Chicago",
           "plays": 2
         },
         {
-          "artist": "Shawn Mendes",
+          "artist": "David Guetta",
           "plays": 2
         },
         {
@@ -221,35 +233,31 @@
         {
           "artist": "Paul Hardcastle",
           "plays": 1
-        },
-        {
-          "artist": "Phil Collins",
-          "plays": 1
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 1
         }
       ],
       "top_genres": [
+        {
+          "genre": "Dance",
+          "plays": 21
+        },
         {
           "genre": "Pop",
           "plays": 16
         },
         {
-          "genre": "Dance",
-          "plays": 16
+          "genre": "Comedy",
+          "plays": 15
         },
         {
           "genre": "Electronic",
-          "plays": 11
-        },
-        {
-          "genre": "Comedy",
-          "plays": 8
+          "plays": 13
         },
         {
           "genre": "Variete Francaise",
+          "plays": 7
+        },
+        {
+          "genre": "mashup",
           "plays": 7
         },
         {
@@ -259,10 +267,6 @@
         {
           "genre": "Rock",
           "plays": 5
-        },
-        {
-          "genre": "mashup",
-          "plays": 2
         },
         {
           "genre": "Latin",
@@ -309,6 +313,10 @@
           "plays": 1
         },
         {
+          "genre": "House",
+          "plays": 1
+        },
+        {
           "genre": "Oldies",
           "plays": 1
         },
@@ -327,13 +335,39 @@
         {
           "genre": "Soundtrack",
           "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
         }
       ],
       "top_tracks": [
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 7,
+          "genre": "Comedy"
+        },
+        {
+          "song": "1992 - 2002 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 6,
+          "genre": "mashup"
+        },
+        {
+          "song": "Robot Rock / Oh Yeah",
+          "artist": "Daft Punk",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
+          "song": "Sky and Sand",
+          "artist": "Paul Kalkbrenner",
+          "plays": 3,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Peanut Butter Jelly",
+          "artist": "Galantis",
+          "plays": 3,
+          "genre": "Dance"
+        },
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
@@ -341,15 +375,9 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "Sky and Sand",
-          "artist": "Paul Kalkbrenner",
-          "plays": 2,
+          "song": "Lost In Japan (Remix)",
+          "artist": "Shawn Mendes",
+          "plays": 3,
           "genre": "Electronic"
         },
         {
@@ -359,13 +387,7 @@
           "genre": "Comedy"
         },
         {
-          "song": "Lost In Japan (Remix)",
-          "artist": "Shawn Mendes",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
+          "song": "Who Won the League - Liverpool",
           "artist": "442oons",
           "plays": 2,
           "genre": "Comedy"
@@ -465,34 +487,16 @@
           "artist": "Daft Punk",
           "plays": 1,
           "genre": "Dance"
-        },
-        {
-          "song": "Pal",
-          "artist": "Soulitune",
-          "plays": 1,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "19",
-          "artist": "Paul Hardcastle",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "You'll Be In My Heart",
-          "artist": "Phil Collins",
-          "plays": 1,
-          "genre": "Pop"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 891,
+      "total_plays": 831,
       "top_artists": [
         {
           "artist": "442oons",
-          "plays": 51
+          "plays": 58
         },
         {
           "artist": "Bon Entendeur",
@@ -503,11 +507,11 @@
           "plays": 26
         },
         {
-          "artist": "Coldplay",
-          "plays": 25
+          "artist": "Angèle",
+          "plays": 24
         },
         {
-          "artist": "Angèle",
+          "artist": "Coldplay",
           "plays": 24
         },
         {
@@ -567,10 +571,6 @@
           "plays": 19
         },
         {
-          "artist": "Blue Oyster Cult",
-          "plays": 19
-        },
-        {
           "artist": "Oliver Heldens",
           "plays": 18
         },
@@ -589,47 +589,51 @@
         {
           "artist": "France Football Anthem",
           "plays": 13
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 9
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 158
+          "plays": 153
         },
         {
           "genre": "Electronic",
-          "plays": 126
+          "plays": 122
         },
         {
           "genre": "Pop",
-          "plays": 100
+          "plays": 88
         },
         {
           "genre": "Comedy",
-          "plays": 76
+          "plays": 81
         },
         {
           "genre": "Alternative",
-          "plays": 66
-        },
-        {
-          "genre": "Hip Hop/Rap",
           "plays": 58
         },
         {
+          "genre": "Hip Hop/Rap",
+          "plays": 55
+        },
+        {
           "genre": "Variete Francaise",
-          "plays": 53
+          "plays": 48
         },
         {
           "genre": "Rock",
-          "plays": 49
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 28
+          "plays": 46
         },
         {
           "genre": "French Pop",
+          "plays": 27
+        },
+        {
+          "genre": "Soft Rock",
           "plays": 27
         },
         {
@@ -641,24 +645,20 @@
           "plays": 23
         },
         {
-          "genre": "Classic Rock",
-          "plays": 19
-        },
-        {
           "genre": "Future Funk",
-          "plays": 15
+          "plays": 14
         },
         {
           "genre": "mashup",
-          "plays": 9
+          "plays": 12
         },
         {
           "genre": "Latin",
-          "plays": 9
+          "plays": 7
         },
         {
           "genre": "City Pop",
-          "plays": 5
+          "plays": 4
         },
         {
           "genre": "Oldies",
@@ -685,11 +685,15 @@
           "plays": 3
         },
         {
-          "genre": "Disco",
-          "plays": 3
+          "genre": "Variété française",
+          "plays": 2
         },
         {
-          "genre": "Variété française",
+          "genre": "R & B",
+          "plays": 2
+        },
+        {
+          "genre": "Europop",
           "plays": 2
         }
       ],
@@ -797,12 +801,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Godzilla",
-          "artist": "Blue Oyster Cult",
-          "plays": 19,
-          "genre": "Classic Rock"
-        },
-        {
           "song": "Los Feeling (Alan Braxe Remix)",
           "artist": "Visitor & Alan Braxe",
           "plays": 18,
@@ -827,6 +825,12 @@
           "genre": "Alternative"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
           "song": "My Feelings for You (Original Mix)",
           "artist": "Avicii & Sebastien Drums & Cassius",
           "plays": 14,
@@ -839,20 +843,20 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 12,
-          "genre": "Comedy"
+          "song": "Nagoya Marimba (HNNY Extended Remake)",
+          "artist": "Steve Reich and HNNY",
+          "plays": 9,
+          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1356,
+      "total_plays": 1376,
       "top_artists": [
         {
           "artist": "442oons",
-          "plays": 87
+          "plays": 94
         },
         {
           "artist": "Milky",
@@ -935,6 +939,10 @@
           "plays": 21
         },
         {
+          "artist": "Daft Punk",
+          "plays": 20
+        },
+        {
           "artist": "Visitor",
           "plays": 19
         },
@@ -945,10 +953,6 @@
         {
           "artist": "Oliver Heldens",
           "plays": 18
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 17
         }
       ],
       "top_genres": [
@@ -958,15 +962,15 @@
         },
         {
           "genre": "Electronic",
-          "plays": 207
+          "plays": 209
         },
         {
           "genre": "Dance",
-          "plays": 203
+          "plays": 208
         },
         {
           "genre": "Comedy",
-          "plays": 117
+          "plays": 124
         },
         {
           "genre": "Alternative",
@@ -1005,6 +1009,10 @@
           "plays": 23
         },
         {
+          "genre": "mashup",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
@@ -1013,16 +1021,12 @@
           "plays": 18
         },
         {
-          "genre": "mashup",
-          "plays": 15
-        },
-        {
           "genre": "Ambient",
           "plays": 15
         },
         {
           "genre": "House",
-          "plays": 11
+          "plays": 12
         },
         {
           "genre": "Oldies",
@@ -1063,7 +1067,7 @@
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 39,
+          "plays": 44,
           "genre": "Comedy"
         },
         {
@@ -1208,7 +1212,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2199,
+      "total_plays": 2219,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1216,7 +1220,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 98
+          "plays": 105
         },
         {
           "artist": "Luther Vandross",
@@ -1264,7 +1268,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 31
+          "plays": 34
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -1314,11 +1318,11 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 475
+          "plays": 477
         },
         {
           "genre": "Dance",
-          "plays": 361
+          "plays": 366
         },
         {
           "genre": "Pop",
@@ -1329,12 +1333,12 @@
           "plays": 194
         },
         {
-          "genre": "Soft Rock",
-          "plays": 140
+          "genre": "Comedy",
+          "plays": 145
         },
         {
-          "genre": "Comedy",
-          "plays": 138
+          "genre": "Soft Rock",
+          "plays": 140
         },
         {
           "genre": "Alternative",
@@ -1361,12 +1365,16 @@
           "plays": 28
         },
         {
+          "genre": "mashup",
+          "plays": 27
+        },
+        {
           "genre": "Future Funk",
           "plays": 27
         },
         {
           "genre": "House",
-          "plays": 25
+          "plays": 26
         },
         {
           "genre": "Indie",
@@ -1378,10 +1386,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 22
-        },
-        {
-          "genre": "mashup",
           "plays": 22
         },
         {
@@ -1463,16 +1467,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 44,
+          "genre": "Comedy"
+        },
+        {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
           "artist": "Maya",
           "plays": 40,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 39,
-          "genre": "Comedy"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -1568,7 +1572,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2199,
+      "total_plays": 2219,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1576,7 +1580,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 98
+          "plays": 105
         },
         {
           "artist": "Luther Vandross",
@@ -1624,7 +1628,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 31
+          "plays": 34
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -1674,11 +1678,11 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 475
+          "plays": 477
         },
         {
           "genre": "Dance",
-          "plays": 361
+          "plays": 366
         },
         {
           "genre": "Pop",
@@ -1689,12 +1693,12 @@
           "plays": 194
         },
         {
-          "genre": "Soft Rock",
-          "plays": 140
+          "genre": "Comedy",
+          "plays": 145
         },
         {
-          "genre": "Comedy",
-          "plays": 138
+          "genre": "Soft Rock",
+          "plays": 140
         },
         {
           "genre": "Alternative",
@@ -1721,12 +1725,16 @@
           "plays": 28
         },
         {
+          "genre": "mashup",
+          "plays": 27
+        },
+        {
           "genre": "Future Funk",
           "plays": 27
         },
         {
           "genre": "House",
-          "plays": 25
+          "plays": 26
         },
         {
           "genre": "Indie",
@@ -1738,10 +1746,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 22
-        },
-        {
-          "genre": "mashup",
           "plays": 22
         },
         {
@@ -1823,16 +1827,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 44,
+          "genre": "Comedy"
+        },
+        {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
           "artist": "Maya",
           "plays": 40,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 39,
-          "genre": "Comedy"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -1928,7 +1932,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2199,
+      "total_plays": 2219,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1936,7 +1940,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 98
+          "plays": 105
         },
         {
           "artist": "Luther Vandross",
@@ -1984,7 +1988,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 31
+          "plays": 34
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -2034,11 +2038,11 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 475
+          "plays": 477
         },
         {
           "genre": "Dance",
-          "plays": 361
+          "plays": 366
         },
         {
           "genre": "Pop",
@@ -2049,12 +2053,12 @@
           "plays": 194
         },
         {
-          "genre": "Soft Rock",
-          "plays": 140
+          "genre": "Comedy",
+          "plays": 145
         },
         {
-          "genre": "Comedy",
-          "plays": 138
+          "genre": "Soft Rock",
+          "plays": 140
         },
         {
           "genre": "Alternative",
@@ -2081,12 +2085,16 @@
           "plays": 28
         },
         {
+          "genre": "mashup",
+          "plays": 27
+        },
+        {
           "genre": "Future Funk",
           "plays": 27
         },
         {
           "genre": "House",
-          "plays": 25
+          "plays": 26
         },
         {
           "genre": "Indie",
@@ -2098,10 +2106,6 @@
         },
         {
           "genre": "Oldies",
-          "plays": 22
-        },
-        {
-          "genre": "mashup",
           "plays": 22
         },
         {
@@ -2183,16 +2187,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 44,
+          "genre": "Comedy"
+        },
+        {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
           "artist": "Maya",
           "plays": 40,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 39,
-          "genre": "Comedy"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -2407,6 +2411,11 @@
       "date": "2026-06-11",
       "id": "07461bbde20b1c3d",
       "plays": 2
+    },
+    {
+      "date": "2026-06-12",
+      "id": "07461bbde20b1c3d",
+      "plays": 4
     },
     {
       "date": "2026-06-07",
@@ -2909,6 +2918,11 @@
       "plays": 16
     },
     {
+      "date": "2026-06-12",
+      "id": "25de4e7c45ae2b54",
+      "plays": 3
+    },
+    {
       "date": "2026-05-26",
       "id": "26bb54469fe091a6",
       "plays": 1
@@ -2994,6 +3008,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-12",
+      "id": "2d2047c29074a015",
+      "plays": 1
+    },
+    {
       "date": "2026-05-21",
       "id": "2d7f4033df893f91",
       "plays": 1
@@ -3047,6 +3066,11 @@
       "date": "2026-06-11",
       "id": "309b672879b8ff42",
       "plays": 1
+    },
+    {
+      "date": "2026-06-12",
+      "id": "309b672879b8ff42",
+      "plays": 2
     },
     {
       "date": "2026-06-11",
@@ -3964,6 +3988,11 @@
       "plays": 10
     },
     {
+      "date": "2026-06-12",
+      "id": "732745ee6772d55e",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "7341cd08c9d57ac2",
       "plays": 1
@@ -4017,6 +4046,11 @@
       "date": "2026-06-11",
       "id": "766a06c37a90d728",
       "plays": 2
+    },
+    {
+      "date": "2026-06-12",
+      "id": "766a06c37a90d728",
+      "plays": 1
     },
     {
       "date": "2026-05-25",
@@ -4140,6 +4174,11 @@
     },
     {
       "date": "2026-05-26",
+      "id": "81bc46f72dcf8282",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-12",
       "id": "81bc46f72dcf8282",
       "plays": 1
     },
@@ -5489,6 +5528,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-12",
+      "id": "e96046bde4dc449a",
+      "plays": 5
+    },
+    {
       "date": "2026-05-26",
       "id": "e975e0e8508e5696",
       "plays": 1
@@ -5607,6 +5651,11 @@
       "date": "2026-05-21",
       "id": "f015cc911a25b6da",
       "plays": 7
+    },
+    {
+      "date": "2026-06-12",
+      "id": "f015cc911a25b6da",
+      "plays": 2
     },
     {
       "date": "2026-05-21",
@@ -5825,6 +5874,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-11",
-  "snapshot_count": 47
+  "latest_snapshot": "2026-06-12",
+  "snapshot_count": 48
 }
