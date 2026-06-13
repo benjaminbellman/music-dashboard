@@ -127,19 +127,23 @@
     {
       "date": "2026-06-12",
       "plays": 20
+    },
+    {
+      "date": "2026-06-13",
+      "plays": 4
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 109,
+      "total_plays": 79,
       "top_artists": [
         {
-          "artist": "442oons",
-          "plays": 14
+          "artist": "Flight Facilities",
+          "plays": 7
         },
         {
-          "artist": "Flight Facilities",
+          "artist": "442oons",
           "plays": 7
         },
         {
@@ -155,16 +159,8 @@
           "plays": 3
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 3
-        },
-        {
           "artist": "Shawn Mendes",
           "plays": 3
-        },
-        {
-          "artist": "Chicago",
-          "plays": 2
         },
         {
           "artist": "David Guetta",
@@ -175,19 +171,7 @@
           "plays": 1
         },
         {
-          "artist": "Angèle",
-          "plays": 1
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 1
-        },
-        {
           "artist": "Kraftwerk",
-          "plays": 1
-        },
-        {
-          "artist": "Pink Floyd",
           "plays": 1
         },
         {
@@ -207,15 +191,7 @@
           "plays": 1
         },
         {
-          "artist": "Supermode",
-          "plays": 1
-        },
-        {
           "artist": "Chris Brown",
-          "plays": 1
-        },
-        {
-          "artist": "Electronic",
           "plays": 1
         },
         {
@@ -233,47 +209,71 @@
         {
           "artist": "Paul Hardcastle",
           "plays": 1
+        },
+        {
+          "artist": "Phil Collins",
+          "plays": 1
+        },
+        {
+          "artist": "Rucka Rucka Ali",
+          "plays": 1
+        },
+        {
+          "artist": "Vengaboys",
+          "plays": 1
+        },
+        {
+          "artist": "Alphaville",
+          "plays": 1
+        },
+        {
+          "artist": "Van She",
+          "plays": 1
+        },
+        {
+          "artist": "The Kinks",
+          "plays": 1
+        },
+        {
+          "artist": "Durante",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 21
-        },
-        {
-          "genre": "Pop",
           "plays": 16
         },
         {
-          "genre": "Comedy",
-          "plays": 15
+          "genre": "Pop",
+          "plays": 14
         },
         {
           "genre": "Electronic",
           "plays": 13
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 7
+          "genre": "Comedy",
+          "plays": 8
         },
         {
           "genre": "mashup",
           "plays": 7
         },
         {
-          "genre": "Alternative",
-          "plays": 5
+          "genre": "Rock",
+          "plays": 4
         },
         {
-          "genre": "Rock",
-          "plays": 5
+          "genre": "Alternative",
+          "plays": 4
         },
         {
           "genre": "Latin",
           "plays": 2
         },
         {
-          "genre": "Soft Rock",
+          "genre": "Variete Francaise",
           "plays": 2
         },
         {
@@ -293,23 +293,7 @@
           "plays": 1
         },
         {
-          "genre": "French Pop",
-          "plays": 1
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 1
-        },
-        {
-          "genre": "Europop",
-          "plays": 1
-        },
-        {
           "genre": "Country",
-          "plays": 1
-        },
-        {
-          "genre": "Hip Hop/Rap",
           "plays": 1
         },
         {
@@ -321,15 +305,7 @@
           "plays": 1
         },
         {
-          "genre": "Arabic",
-          "plays": 1
-        },
-        {
-          "genre": "Indie",
-          "plays": 1
-        },
-        {
-          "genre": "World",
+          "genre": "Soft Rock",
           "plays": 1
         },
         {
@@ -339,16 +315,16 @@
       ],
       "top_tracks": [
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 7,
-          "genre": "Comedy"
-        },
-        {
           "song": "1992 - 2002 Decade Mix",
           "artist": "Flight Facilities",
           "plays": 6,
           "genre": "mashup"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 5,
+          "genre": "Comedy"
         },
         {
           "song": "Robot Rock / Oh Yeah",
@@ -369,33 +345,15 @@
           "genre": "Dance"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 3,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Lost In Japan (Remix)",
           "artist": "Shawn Mendes",
           "plays": 3,
           "genre": "Electronic"
         },
         {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 2,
-          "genre": "Comedy"
-        },
-        {
           "song": "Who Won the League - Liverpool",
           "artist": "442oons",
           "plays": 2,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Klopp to the Kop",
-          "artist": "442oons",
-          "plays": 1,
           "genre": "Comedy"
         },
         {
@@ -405,28 +363,10 @@
           "genre": "Electronic"
         },
         {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
           "song": "Aéro Dynamik",
           "artist": "Kraftwerk",
           "plays": 1,
           "genre": "Electronique"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 1,
-          "genre": "Rock"
         },
         {
           "song": "Smooth",
@@ -447,28 +387,10 @@
           "genre": "Pop"
         },
         {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
           "song": "Yeah 3X",
           "artist": "Chris Brown",
           "plays": 1,
           "genre": "R&B/Soul"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Chelsea Bus Song",
-          "artist": "442oons",
-          "plays": 1,
-          "genre": "Comedy"
         },
         {
           "song": "Killing Me Softly With His Song",
@@ -487,12 +409,66 @@
           "artist": "Daft Punk",
           "plays": 1,
           "genre": "Dance"
+        },
+        {
+          "song": "Pal",
+          "artist": "Soulitune",
+          "plays": 1,
+          "genre": "Lowfi"
+        },
+        {
+          "song": "19",
+          "artist": "Paul Hardcastle",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "You'll Be In My Heart",
+          "artist": "Phil Collins",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Blow Up China na na",
+          "artist": "Rucka Rucka Ali",
+          "plays": 1,
+          "genre": "Comedy"
+        },
+        {
+          "song": "We like to Party!",
+          "artist": "Vengaboys",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Big In Japan",
+          "artist": "Alphaville",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Kelly",
+          "artist": "Van She",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "You Really Got Me",
+          "artist": "The Kinks",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "Full Moon",
+          "artist": "Durante",
+          "plays": 1,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 831,
+      "total_plays": 835,
       "top_artists": [
         {
           "artist": "442oons",
@@ -551,15 +527,15 @@
           "plays": 23
         },
         {
+          "artist": "Polo & Pan",
+          "plays": 22
+        },
+        {
           "artist": "Electronic",
           "plays": 21
         },
         {
           "artist": "MIdnight Runners",
-          "plays": 21
-        },
-        {
-          "artist": "Polo & Pan",
           "plays": 21
         },
         {
@@ -598,11 +574,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 153
+          "plays": 154
         },
         {
           "genre": "Electronic",
-          "plays": 122
+          "plays": 124
         },
         {
           "genre": "Pop",
@@ -614,7 +590,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 58
+          "plays": 59
         },
         {
           "genre": "Hip Hop/Rap",
@@ -852,7 +828,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1376,
+      "total_plays": 1380,
       "top_artists": [
         {
           "artist": "442oons",
@@ -923,6 +899,10 @@
           "plays": 23
         },
         {
+          "artist": "Polo & Pan",
+          "plays": 22
+        },
+        {
           "artist": "Electronic",
           "plays": 21
         },
@@ -932,10 +912,6 @@
         },
         {
           "artist": "MIdnight Runners",
-          "plays": 21
-        },
-        {
-          "artist": "Polo & Pan",
           "plays": 21
         },
         {
@@ -962,11 +938,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 209
+          "plays": 211
         },
         {
           "genre": "Dance",
-          "plays": 208
+          "plays": 209
         },
         {
           "genre": "Comedy",
@@ -974,7 +950,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 95
+          "plays": 96
         },
         {
           "genre": "Variete Francaise",
@@ -1212,7 +1188,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2219,
+      "total_plays": 2223,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1303,26 +1279,26 @@
           "plays": 24
         },
         {
+          "artist": "Polo & Pan",
+          "plays": 24
+        },
+        {
           "artist": "Dayglow",
           "plays": 23
         },
         {
           "artist": "Miossec",
           "plays": 23
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 23
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 477
+          "plays": 479
         },
         {
           "genre": "Dance",
-          "plays": 366
+          "plays": 367
         },
         {
           "genre": "Pop",
@@ -1342,7 +1318,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 96
+          "plays": 97
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1572,7 +1548,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2219,
+      "total_plays": 2223,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1663,26 +1639,26 @@
           "plays": 24
         },
         {
+          "artist": "Polo & Pan",
+          "plays": 24
+        },
+        {
           "artist": "Dayglow",
           "plays": 23
         },
         {
           "artist": "Miossec",
           "plays": 23
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 23
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 477
+          "plays": 479
         },
         {
           "genre": "Dance",
-          "plays": 366
+          "plays": 367
         },
         {
           "genre": "Pop",
@@ -1702,7 +1678,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 96
+          "plays": 97
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1932,7 +1908,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2219,
+      "total_plays": 2223,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -2023,26 +1999,26 @@
           "plays": 24
         },
         {
+          "artist": "Polo & Pan",
+          "plays": 24
+        },
+        {
           "artist": "Dayglow",
           "plays": 23
         },
         {
           "artist": "Miossec",
           "plays": 23
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 23
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 477
+          "plays": 479
         },
         {
           "genre": "Dance",
-          "plays": 366
+          "plays": 367
         },
         {
           "genre": "Pop",
@@ -2062,7 +2038,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 96
+          "plays": 97
         },
         {
           "genre": "Hip Hop/Rap",
@@ -3438,6 +3414,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-13",
+      "id": "4d31a1e7f2c59f2d",
+      "plays": 1
+    },
+    {
       "date": "2026-06-07",
       "id": "4d366de1529dbffa",
       "plays": 2
@@ -4453,6 +4434,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-13",
+      "id": "9216c3e0620d7105",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "9289203bbb1813bd",
       "plays": 1
@@ -5383,6 +5369,11 @@
       "plays": 4
     },
     {
+      "date": "2026-06-13",
+      "id": "dba6572605a113a5",
+      "plays": 1
+    },
+    {
       "date": "2026-06-11",
       "id": "dc957d78a29450f0",
       "plays": 1
@@ -5858,6 +5849,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-13",
+      "id": "fe92f4f8f9ae01d6",
+      "plays": 1
+    },
+    {
       "date": "2026-06-06",
       "id": "ff33ef293cfadd8f",
       "plays": 8
@@ -5874,6 +5870,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-12",
-  "snapshot_count": 48
+  "latest_snapshot": "2026-06-13",
+  "snapshot_count": 49
 }
