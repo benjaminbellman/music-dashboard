@@ -2621,6 +2621,21 @@
     "country": "UK"
   },
   {
+    "id": "66f86a55a5aaf45c",
+    "song": "Happy Birthday",
+    "artist": "Joe Dassin",
+    "credits": [
+      "Joe Dassin"
+    ],
+    "album": "",
+    "plays": 161,
+    "duration_sec": 174,
+    "date_added": "2019-07-19T15:42:36",
+    "last_played": "2026-06-13T15:10:33",
+    "genre": "Variété française",
+    "country": "FR"
+  },
+  {
     "id": "112a1501c7070fea",
     "song": "Voyager",
     "artist": "Daft Punk",
@@ -2950,21 +2965,6 @@
     "date_added": "2018-10-13T11:16:14",
     "last_played": "2025-09-06T17:21:03",
     "genre": "Electronic",
-    "country": "FR"
-  },
-  {
-    "id": "66f86a55a5aaf45c",
-    "song": "Happy Birthday",
-    "artist": "Joe Dassin",
-    "credits": [
-      "Joe Dassin"
-    ],
-    "album": "",
-    "plays": 154,
-    "duration_sec": 174,
-    "date_added": "2019-07-19T15:42:36",
-    "last_played": "2025-03-21T15:30:11",
-    "genre": "Variété française",
     "country": "FR"
   },
   {
