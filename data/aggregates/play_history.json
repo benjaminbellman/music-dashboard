@@ -135,35 +135,39 @@
     {
       "date": "2026-06-14",
       "plays": 7
+    },
+    {
+      "date": "2026-06-15",
+      "plays": 9
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 31,
+      "total_plays": 20,
       "top_artists": [
         {
           "artist": "Joe Dassin",
-          "plays": 7
+          "plays": 8
         },
         {
-          "artist": "442oons",
-          "plays": 7
+          "artist": "Avicii",
+          "plays": 1
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 5
+          "artist": "Rick Astley",
+          "plays": 1
         },
         {
-          "artist": "Daft Punk",
-          "plays": 3
+          "artist": "Mere Notilde",
+          "plays": 1
         },
         {
-          "artist": "Galantis",
-          "plays": 2
+          "artist": "James Blunt",
+          "plays": 1
         },
         {
-          "artist": "Paul Kalkbrenner",
+          "artist": "Bon Entendeur",
           "plays": 1
         },
         {
@@ -171,11 +175,11 @@
           "plays": 1
         },
         {
-          "artist": "Shawn Mendes",
+          "artist": "Wax Tailor",
           "plays": 1
         },
         {
-          "artist": "David Guetta",
+          "artist": "Men Without Hats",
           "plays": 1
         },
         {
@@ -183,7 +187,15 @@
           "plays": 1
         },
         {
+          "artist": "Daft Punk",
+          "plays": 1
+        },
+        {
           "artist": "Tom Misch",
+          "plays": 1
+        },
+        {
+          "artist": "Benny Benassi",
           "plays": 1
         },
         {
@@ -194,26 +206,30 @@
       "top_genres": [
         {
           "genre": "Variété française",
-          "plays": 7
-        },
-        {
-          "genre": "Comedy",
-          "plays": 7
-        },
-        {
-          "genre": "Dance",
-          "plays": 6
-        },
-        {
-          "genre": "mashup",
-          "plays": 5
+          "plays": 8
         },
         {
           "genre": "Electronic",
-          "plays": 4
+          "plays": 3
         },
         {
-          "genre": "House",
+          "genre": "mashup",
+          "plays": 2
+        },
+        {
+          "genre": "Pop",
+          "plays": 2
+        },
+        {
+          "genre": "Dance",
+          "plays": 2
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 1
+        },
+        {
+          "genre": "Hip Hop/Rap",
           "plays": 1
         },
         {
@@ -225,44 +241,32 @@
         {
           "song": "Happy Birthday",
           "artist": "Joe Dassin",
-          "plays": 7,
+          "plays": 8,
           "genre": "Variété française"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 5,
-          "genre": "Comedy"
-        },
-        {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 4,
+          "song": "Never Gonna Wake You Up (NilsOfficial Mashup)",
+          "artist": "Avicii & Rick Astley",
+          "plays": 1,
           "genre": "mashup"
         },
         {
-          "song": "Robot Rock / Oh Yeah",
-          "artist": "Daft Punk",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Peanut Butter Jelly",
-          "artist": "Galantis",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Who Won the League - Liverpool",
-          "artist": "442oons",
-          "plays": 2,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Sky and Sand",
-          "artist": "Paul Kalkbrenner",
+          "song": "Love is Gonna Getcha (Remix)",
+          "artist": "Mere Notilde",
           "plays": 1,
-          "genre": "Electronic"
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Cold (ft. Léa Paci)",
+          "artist": "James Blunt & Lea Paci",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Decade Mixtape 90's",
+          "artist": "Bon Entendeur",
+          "plays": 1,
+          "genre": "mashup"
         },
         {
           "song": "Full Moon",
@@ -271,22 +275,16 @@
           "genre": "Electronic"
         },
         {
-          "song": "1982 - 1992 Decade Mix",
-          "artist": "Flight Facilities",
+          "song": "Que Sera",
+          "artist": "Wax Tailor",
           "plays": 1,
-          "genre": "mashup"
+          "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Lost In Japan (Remix)",
-          "artist": "Shawn Mendes",
+          "song": "The Safety Dance ( Original )",
+          "artist": "Men Without Hats",
           "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Delirious (ft Tara Mc Donald)",
-          "artist": "David Guetta",
-          "plays": 1,
-          "genre": "House"
+          "genre": "Pop"
         },
         {
           "song": "Feel Good",
@@ -295,10 +293,22 @@
           "genre": "Dance"
         },
         {
+          "song": "Rollin' & Scratchin'",
+          "artist": "Daft Punk",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
           "song": "Cos I Love You",
           "artist": "Tom Misch",
           "plays": 1,
           "genre": "Alternative"
+        },
+        {
+          "song": "Love Is Gonna Save Us",
+          "artist": "Benny Benassi & The Biz",
+          "plays": 1,
+          "genre": "Dance"
         },
         {
           "song": "Calling (feat. Sam Feldt)",
@@ -310,7 +320,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 842,
+      "total_plays": 851,
       "top_artists": [
         {
           "artist": "442oons",
@@ -318,7 +328,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 27
+          "plays": 28
         },
         {
           "artist": "Pink Floyd",
@@ -398,7 +408,7 @@
         },
         {
           "artist": "Avicii",
-          "plays": 14
+          "plays": 15
         },
         {
           "artist": "Cassius",
@@ -409,22 +419,22 @@
           "plays": 13
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 9
+          "artist": "Daft Punk",
+          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 154
+          "plays": 155
         },
         {
           "genre": "Electronic",
-          "plays": 124
+          "plays": 125
         },
         {
           "genre": "Pop",
-          "plays": 88
+          "plays": 90
         },
         {
           "genre": "Comedy",
@@ -436,7 +446,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 55
+          "plays": 56
         },
         {
           "genre": "Variete Francaise",
@@ -464,15 +474,15 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 14
+          "plays": 15
         },
         {
           "genre": "mashup",
-          "plays": 12
+          "plays": 14
         },
         {
           "genre": "Variété française",
-          "plays": 9
+          "plays": 10
         },
         {
           "genre": "Latin",
@@ -670,7 +680,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1387,
+      "total_plays": 1330,
       "top_artists": [
         {
           "artist": "442oons",
@@ -682,7 +692,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 38
+          "plays": 37
         },
         {
           "artist": "Pink Floyd",
@@ -694,10 +704,6 @@
         },
         {
           "artist": "Coldplay",
-          "plays": 25
-        },
-        {
-          "artist": "Taylor Swift",
           "plays": 25
         },
         {
@@ -771,20 +777,24 @@
         {
           "artist": "Oliver Heldens",
           "plays": 18
+        },
+        {
+          "artist": "Avicii",
+          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 219
-        },
-        {
-          "genre": "Electronic",
-          "plays": 211
+          "plays": 205
         },
         {
           "genre": "Dance",
-          "plays": 209
+          "plays": 205
+        },
+        {
+          "genre": "Electronic",
+          "plays": 193
         },
         {
           "genre": "Comedy",
@@ -792,23 +802,23 @@
         },
         {
           "genre": "Alternative",
-          "plays": 96
+          "plays": 95
         },
         {
           "genre": "Variete Francaise",
-          "plays": 71
+          "plays": 68
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 65
+          "plays": 64
         },
         {
           "genre": "Rock",
-          "plays": 57
+          "plays": 56
         },
         {
           "genre": "Soft Rock",
-          "plays": 43
+          "plays": 37
         },
         {
           "genre": "French Pop",
@@ -828,15 +838,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 20
+          "plays": 21
         },
         {
           "genre": "Classic Rock",
           "plays": 19
-        },
-        {
-          "genre": "Folk",
-          "plays": 18
         },
         {
           "genre": "Ambient",
@@ -847,16 +853,16 @@
           "plays": 12
         },
         {
-          "genre": "Oldies",
-          "plays": 11
+          "genre": "Folk",
+          "plays": 12
         },
         {
           "genre": "Variété française",
-          "plays": 10
+          "plays": 11
         },
         {
-          "genre": "Britpop",
-          "plays": 9
+          "genre": "Oldies",
+          "plays": 11
         },
         {
           "genre": "Latin",
@@ -868,11 +874,15 @@
         },
         {
           "genre": "Disco",
-          "plays": 8
+          "plays": 7
         },
         {
           "genre": "R & B",
           "plays": 6
+        },
+        {
+          "genre": "Britpop",
+          "plays": 5
         }
       ],
       "top_tracks": [
@@ -893,12 +903,6 @@
           "artist": "442oons",
           "plays": 27,
           "genre": "Comedy"
-        },
-        {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 25,
-          "genre": "Pop"
         },
         {
           "song": "Oui ou Non",
@@ -1025,12 +1029,18 @@
           "artist": "Rucka Rucka Ali",
           "plays": 17,
           "genre": "Comedy"
+        },
+        {
+          "song": "From The Start",
+          "artist": "Laufey",
+          "plays": 15,
+          "genre": "Ambient"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2230,
+      "total_plays": 2239,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1066,7 +1076,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 49
+          "plays": 50
         },
         {
           "artist": "Milky",
@@ -1081,12 +1091,12 @@
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
+          "artist": "Daft Punk",
           "plays": 35
         },
         {
-          "artist": "Daft Punk",
-          "plays": 34
+          "artist": "Nihonzera",
+          "plays": 35
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -1136,15 +1146,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 479
+          "plays": 480
         },
         {
           "genre": "Dance",
-          "plays": 367
+          "plays": 368
         },
         {
           "genre": "Pop",
-          "plays": 242
+          "plays": 244
         },
         {
           "genre": "Variete Francaise",
@@ -1164,7 +1174,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 81
+          "plays": 82
         },
         {
           "genre": "Rock",
@@ -1175,6 +1185,10 @@
           "plays": 35
         },
         {
+          "genre": "mashup",
+          "plays": 29
+        },
+        {
           "genre": "Disco",
           "plays": 29
         },
@@ -1183,12 +1197,8 @@
           "plays": 28
         },
         {
-          "genre": "mashup",
-          "plays": 27
-        },
-        {
           "genre": "Future Funk",
-          "plays": 27
+          "plays": 28
         },
         {
           "genre": "House",
@@ -1228,7 +1238,7 @@
         },
         {
           "genre": "Variété française",
-          "plays": 10
+          "plays": 11
         },
         {
           "genre": "Jazz",
@@ -1390,7 +1400,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2230,
+      "total_plays": 2239,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1426,7 +1436,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 49
+          "plays": 50
         },
         {
           "artist": "Milky",
@@ -1441,12 +1451,12 @@
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
+          "artist": "Daft Punk",
           "plays": 35
         },
         {
-          "artist": "Daft Punk",
-          "plays": 34
+          "artist": "Nihonzera",
+          "plays": 35
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -1496,15 +1506,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 479
+          "plays": 480
         },
         {
           "genre": "Dance",
-          "plays": 367
+          "plays": 368
         },
         {
           "genre": "Pop",
-          "plays": 242
+          "plays": 244
         },
         {
           "genre": "Variete Francaise",
@@ -1524,7 +1534,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 81
+          "plays": 82
         },
         {
           "genre": "Rock",
@@ -1535,6 +1545,10 @@
           "plays": 35
         },
         {
+          "genre": "mashup",
+          "plays": 29
+        },
+        {
           "genre": "Disco",
           "plays": 29
         },
@@ -1543,12 +1557,8 @@
           "plays": 28
         },
         {
-          "genre": "mashup",
-          "plays": 27
-        },
-        {
           "genre": "Future Funk",
-          "plays": 27
+          "plays": 28
         },
         {
           "genre": "House",
@@ -1588,7 +1598,7 @@
         },
         {
           "genre": "Variété française",
-          "plays": 10
+          "plays": 11
         },
         {
           "genre": "Jazz",
@@ -1750,7 +1760,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2230,
+      "total_plays": 2239,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1786,7 +1796,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 49
+          "plays": 50
         },
         {
           "artist": "Milky",
@@ -1801,12 +1811,12 @@
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
+          "artist": "Daft Punk",
           "plays": 35
         },
         {
-          "artist": "Daft Punk",
-          "plays": 34
+          "artist": "Nihonzera",
+          "plays": 35
         },
         {
           "artist": "Rucka Rucka Ali",
@@ -1856,15 +1866,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 479
+          "plays": 480
         },
         {
           "genre": "Dance",
-          "plays": 367
+          "plays": 368
         },
         {
           "genre": "Pop",
-          "plays": 242
+          "plays": 244
         },
         {
           "genre": "Variete Francaise",
@@ -1884,7 +1894,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 81
+          "plays": 82
         },
         {
           "genre": "Rock",
@@ -1895,6 +1905,10 @@
           "plays": 35
         },
         {
+          "genre": "mashup",
+          "plays": 29
+        },
+        {
           "genre": "Disco",
           "plays": 29
         },
@@ -1903,12 +1917,8 @@
           "plays": 28
         },
         {
-          "genre": "mashup",
-          "plays": 27
-        },
-        {
           "genre": "Future Funk",
-          "plays": 27
+          "plays": 28
         },
         {
           "genre": "House",
@@ -1948,7 +1958,7 @@
         },
         {
           "genre": "Variété française",
-          "plays": 10
+          "plays": 11
         },
         {
           "genre": "Jazz",
@@ -2606,6 +2616,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-15",
+      "id": "1b9427d7f3fa84c9",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "1c525f0d7d22baf4",
       "plays": 1
@@ -2951,6 +2966,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-15",
+      "id": "34f012b4e0b66c81",
+      "plays": 1
+    },
+    {
       "date": "2026-05-02",
       "id": "34fde67a64dee262",
       "plays": 1
@@ -2988,6 +3008,11 @@
     {
       "date": "2026-06-02",
       "id": "373e74443de7d036",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-15",
+      "id": "3756b8dd1bfe05ac",
       "plays": 1
     },
     {
@@ -3214,6 +3239,11 @@
       "date": "2026-06-03",
       "id": "49929a3ac080b958",
       "plays": 3
+    },
+    {
+      "date": "2026-06-15",
+      "id": "49e6651d7e88edd5",
+      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -3641,6 +3671,11 @@
       "plays": 7
     },
     {
+      "date": "2026-06-15",
+      "id": "66f86a55a5aaf45c",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "67642007cd04ab1a",
       "plays": 2
@@ -4066,6 +4101,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-15",
+      "id": "8515a5dc16034607",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "851a8da11ed179a0",
       "plays": 1
@@ -4074,6 +4114,11 @@
       "date": "2026-05-25",
       "id": "8572cbc71f8dc761",
       "plays": 3
+    },
+    {
+      "date": "2026-06-15",
+      "id": "85e3cef6de878ed6",
+      "plays": 1
     },
     {
       "date": "2026-04-24",
@@ -4302,6 +4347,11 @@
     },
     {
       "date": "2026-05-29",
+      "id": "9298a9e2929b94c4",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-15",
       "id": "9298a9e2929b94c4",
       "plays": 1
     },
@@ -5481,6 +5531,11 @@
       "plays": 4
     },
     {
+      "date": "2026-06-15",
+      "id": "eef87a667b287ed9",
+      "plays": 1
+    },
+    {
       "date": "2026-05-26",
       "id": "ef5a66b57fdd1fe8",
       "plays": 1
@@ -5717,6 +5772,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-14",
-  "snapshot_count": 50
+  "latest_snapshot": "2026-06-15",
+  "snapshot_count": 51
 }

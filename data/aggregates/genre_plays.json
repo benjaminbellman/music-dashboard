@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 34931,
+    "plays": 34933,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29529,
+    "plays": 29530,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23345,
+    "plays": 23346,
     "songs": 389
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11569,
+    "plays": 11570,
     "songs": 260
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5829,
+    "plays": 5830,
     "songs": 71
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "genre": "Variété française",
-    "plays": 3423,
+    "plays": 3424,
     "songs": 24
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2720,
+    "plays": 2722,
     "songs": 69
   },
   {
