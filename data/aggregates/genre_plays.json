@@ -1,22 +1,22 @@
 [
   {
     "genre": "Pop",
-    "plays": 34933,
+    "plays": 34935,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29530,
+    "plays": 29533,
     "songs": 482
   },
   {
     "genre": "Electronic",
-    "plays": 23346,
+    "plays": 23348,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18051,
+    "plays": 18060,
     "songs": 281
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11570,
+    "plays": 11572,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10685,
+    "plays": 10686,
     "songs": 281
   },
   {
     "genre": "Soft Rock",
-    "plays": 6695,
+    "plays": 6696,
     "songs": 73
   },
   {
@@ -46,17 +46,17 @@
   },
   {
     "genre": "Comedy",
-    "plays": 4033,
+    "plays": 4034,
     "songs": 126
   },
   {
     "genre": "Lowfi",
-    "plays": 3869,
+    "plays": 3870,
     "songs": 47
   },
   {
     "genre": "Disco",
-    "plays": 3782,
+    "plays": 3783,
     "songs": 61
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "genre": "Soundtrack",
-    "plays": 2706,
+    "plays": 2707,
     "songs": 69
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "genre": "Vaporwave",
-    "plays": 751,
+    "plays": 752,
     "songs": 8
   },
   {
