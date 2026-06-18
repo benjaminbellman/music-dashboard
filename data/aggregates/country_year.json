@@ -750,7 +750,7 @@
     },
     {
       "country": "US",
-      "plays": 4492
+      "plays": 4370
     },
     {
       "country": "GB",
@@ -820,7 +820,7 @@
   "2015": [
     {
       "country": "US",
-      "plays": 5018
+      "plays": 4976
     },
     {
       "country": "FR",
@@ -996,7 +996,7 @@
   "2013": [
     {
       "country": "US",
-      "plays": 8462
+      "plays": 7938
     },
     {
       "country": "FR",
@@ -1094,7 +1094,7 @@
   "2012": [
     {
       "country": "US",
-      "plays": 776
+      "plays": 736
     },
     {
       "country": "FR",
@@ -1144,7 +1144,7 @@
   "2011": [
     {
       "country": "US",
-      "plays": 619
+      "plays": 586
     },
     {
       "country": "GB",
@@ -1177,12 +1177,12 @@
   ],
   "2010": [
     {
-      "country": "US",
-      "plays": 605
-    },
-    {
       "country": "GB",
       "plays": 545
+    },
+    {
+      "country": "US",
+      "plays": 542
     },
     {
       "country": "FR",

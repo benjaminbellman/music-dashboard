@@ -45,11 +45,6 @@
     "songs": 71
   },
   {
-    "genre": "Comedy",
-    "plays": 4034,
-    "songs": 126
-  },
-  {
     "genre": "Lowfi",
     "plays": 3870,
     "songs": 47
@@ -73,6 +68,11 @@
     "genre": "City Pop",
     "plays": 3236,
     "songs": 44
+  },
+  {
+    "genre": "Comedy",
+    "plays": 3210,
+    "songs": 92
   },
   {
     "genre": "Latin",

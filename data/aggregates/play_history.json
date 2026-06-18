@@ -18,7 +18,7 @@
     },
     {
       "date": "2026-04-26",
-      "plays": 541
+      "plays": 531
     },
     {
       "date": "2026-04-27",
@@ -66,7 +66,7 @@
     },
     {
       "date": "2026-05-21",
-      "plays": 61
+      "plays": 60
     },
     {
       "date": "2026-05-22",
@@ -94,7 +94,7 @@
     },
     {
       "date": "2026-06-02",
-      "plays": 152
+      "plays": 150
     },
     {
       "date": "2026-06-03",
@@ -106,7 +106,7 @@
     },
     {
       "date": "2026-06-06",
-      "plays": 115
+      "plays": 98
     },
     {
       "date": "2026-06-07",
@@ -122,7 +122,7 @@
     },
     {
       "date": "2026-06-11",
-      "plays": 55
+      "plays": 54
     },
     {
       "date": "2026-06-12",
@@ -148,15 +148,11 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 41,
+      "total_plays": 34,
       "top_artists": [
         {
           "artist": "France Football Anthem",
           "plays": 9
-        },
-        {
-          "artist": "Joe Dassin",
-          "plays": 8
         },
         {
           "artist": "Avicii",
@@ -192,6 +188,10 @@
         },
         {
           "artist": "Immortal Technique",
+          "plays": 1
+        },
+        {
+          "artist": "Joe Dassin",
           "plays": 1
         },
         {
@@ -257,10 +257,6 @@
           "plays": 9
         },
         {
-          "genre": "Variété française",
-          "plays": 8
-        },
-        {
           "genre": "Pop",
           "plays": 4
         },
@@ -293,6 +289,10 @@
           "plays": 1
         },
         {
+          "genre": "Variété française",
+          "plays": 1
+        },
+        {
           "genre": "Soft Rock",
           "plays": 1
         },
@@ -319,12 +319,6 @@
           "artist": "France Football Anthem",
           "plays": 9,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Happy Birthday",
-          "artist": "Joe Dassin",
-          "plays": 8,
-          "genre": "Variété française"
         },
         {
           "song": "Never Gonna Wake You Up (NilsOfficial Mashup)",
@@ -373,6 +367,12 @@
           "artist": "Immortal Technique",
           "plays": 1,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Happy Birthday",
+          "artist": "Joe Dassin",
+          "plays": 1,
+          "genre": "Variété française"
         },
         {
           "song": "Find Out What's Happening",
@@ -468,11 +468,11 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 724,
+      "total_plays": 671,
       "top_artists": [
         {
           "artist": "442oons",
-          "plays": 56
+          "plays": 55
         },
         {
           "artist": "Bon Entendeur",
@@ -543,10 +543,6 @@
           "plays": 21
         },
         {
-          "artist": "Rucka Rucka Ali",
-          "plays": 18
-        },
-        {
           "artist": "Visitor",
           "plays": 18
         },
@@ -569,6 +565,10 @@
         {
           "artist": "Flight Facilities",
           "plays": 9
+        },
+        {
+          "artist": "Nocti",
+          "plays": 8
         }
       ],
       "top_genres": [
@@ -578,15 +578,15 @@
         },
         {
           "genre": "Electronic",
-          "plays": 104
-        },
-        {
-          "genre": "Comedy",
-          "plays": 75
+          "plays": 97
         },
         {
           "genre": "Pop",
-          "plays": 69
+          "plays": 66
+        },
+        {
+          "genre": "Comedy",
+          "plays": 55
         },
         {
           "genre": "Variete Francaise",
@@ -598,19 +598,19 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 42
+          "plays": 37
         },
         {
           "genre": "Rock",
-          "plays": 40
-        },
-        {
-          "genre": "French Pop",
-          "plays": 26
+          "plays": 36
         },
         {
           "genre": "Soft Rock",
           "plays": 25
+        },
+        {
+          "genre": "French Pop",
+          "plays": 23
         },
         {
           "genre": "Musique francophone",
@@ -626,38 +626,26 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Variété française",
           "plays": 8
         },
         {
-          "genre": "Latin",
-          "plays": 7
-        },
-        {
-          "genre": "Folk",
-          "plays": 4
-        },
-        {
           "genre": "World",
           "plays": 4
         },
         {
-          "genre": "Country",
-          "plays": 2
-        },
-        {
-          "genre": "R & B",
-          "plays": 2
+          "genre": "Folk",
+          "plays": 3
         },
         {
           "genre": "Lowfi",
           "plays": 2
         },
         {
-          "genre": "Oldies",
+          "genre": "Latin",
           "plays": 2
         },
         {
@@ -670,6 +658,18 @@
         },
         {
           "genre": "R&B/Soul",
+          "plays": 1
+        },
+        {
+          "genre": "R & B",
+          "plays": 1
+        },
+        {
+          "genre": "Europop",
+          "plays": 1
+        },
+        {
+          "genre": "Country",
           "plays": 1
         }
       ],
@@ -795,12 +795,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
-          "artist": "Rucka Rucka Ali",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
           "song": "Can I Call You Tonight",
           "artist": "Dayglow",
           "plays": 16,
@@ -815,7 +809,7 @@
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 14,
+          "plays": 13,
           "genre": "Comedy"
         },
         {
@@ -823,12 +817,18 @@
           "artist": "Nocti",
           "plays": 8,
           "genre": "Future Funk"
+        },
+        {
+          "song": "Happy Birthday",
+          "artist": "Joe Dassin",
+          "plays": 8,
+          "genre": "Variété française"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1288,
+      "total_plays": 1250,
       "top_artists": [
         {
           "artist": "442oons",
@@ -907,10 +907,6 @@
           "plays": 21
         },
         {
-          "artist": "Rucka Rucka Ali",
-          "plays": 21
-        },
-        {
           "artist": "MIdnight Runners",
           "plays": 21
         },
@@ -929,36 +925,40 @@
         {
           "artist": "Oliver Heldens",
           "plays": 18
+        },
+        {
+          "artist": "Avicii",
+          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 203
+          "plays": 201
         },
         {
           "genre": "Pop",
-          "plays": 191
+          "plays": 189
         },
         {
           "genre": "Electronic",
-          "plays": 174
+          "plays": 173
         },
         {
           "genre": "Comedy",
-          "plays": 125
+          "plays": 103
         },
         {
           "genre": "Alternative",
-          "plays": 94
+          "plays": 91
         },
         {
           "genre": "Variete Francaise",
-          "plays": 74
+          "plays": 72
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 64
+          "plays": 63
         },
         {
           "genre": "Rock",
@@ -994,7 +994,7 @@
         },
         {
           "genre": "Ambient",
-          "plays": 15
+          "plays": 14
         },
         {
           "genre": "House",
@@ -1013,20 +1013,20 @@
           "plays": 9
         },
         {
-          "genre": "City Pop",
-          "plays": 8
-        },
-        {
           "genre": "Disco",
-          "plays": 7
-        },
-        {
-          "genre": "Folk",
           "plays": 7
         },
         {
           "genre": "R & B",
           "plays": 6
+        },
+        {
+          "genre": "Folk",
+          "plays": 6
+        },
+        {
+          "genre": "City Pop",
+          "plays": 5
         },
         {
           "genre": "Lowfi",
@@ -1179,16 +1179,16 @@
           "genre": "Electronic"
         },
         {
-          "song": "Break Your Heart PARODY AIDS in Our Butts ~ Rucka Rucka Ali ~",
-          "artist": "Rucka Rucka Ali",
-          "plays": 17,
-          "genre": "Comedy"
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2264,
+      "total_plays": 2233,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1247,10 +1247,6 @@
           "plays": 35
         },
         {
-          "artist": "Rucka Rucka Ali",
-          "plays": 31
-        },
-        {
           "artist": "Pink Floyd",
           "plays": 28
         },
@@ -1289,6 +1285,10 @@
         {
           "artist": "Miossec",
           "plays": 23
+        },
+        {
+          "artist": "Doechii",
+          "plays": 23
         }
       ],
       "top_genres": [
@@ -1309,12 +1309,12 @@
           "plays": 203
         },
         {
-          "genre": "Comedy",
-          "plays": 146
-        },
-        {
           "genre": "Soft Rock",
           "plays": 141
+        },
+        {
+          "genre": "Comedy",
+          "plays": 115
         },
         {
           "genre": "Alternative",
@@ -1548,7 +1548,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2264,
+      "total_plays": 2233,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1607,10 +1607,6 @@
           "plays": 35
         },
         {
-          "artist": "Rucka Rucka Ali",
-          "plays": 31
-        },
-        {
           "artist": "Pink Floyd",
           "plays": 28
         },
@@ -1649,6 +1645,10 @@
         {
           "artist": "Miossec",
           "plays": 23
+        },
+        {
+          "artist": "Doechii",
+          "plays": 23
         }
       ],
       "top_genres": [
@@ -1669,12 +1669,12 @@
           "plays": 203
         },
         {
-          "genre": "Comedy",
-          "plays": 146
-        },
-        {
           "genre": "Soft Rock",
           "plays": 141
+        },
+        {
+          "genre": "Comedy",
+          "plays": 115
         },
         {
           "genre": "Alternative",
@@ -1908,7 +1908,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2264,
+      "total_plays": 2233,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1967,10 +1967,6 @@
           "plays": 35
         },
         {
-          "artist": "Rucka Rucka Ali",
-          "plays": 31
-        },
-        {
           "artist": "Pink Floyd",
           "plays": 28
         },
@@ -2009,6 +2005,10 @@
         {
           "artist": "Miossec",
           "plays": 23
+        },
+        {
+          "artist": "Doechii",
+          "plays": 23
         }
       ],
       "top_genres": [
@@ -2029,12 +2029,12 @@
           "plays": 203
         },
         {
-          "genre": "Comedy",
-          "plays": 146
-        },
-        {
           "genre": "Soft Rock",
           "plays": 141
+        },
+        {
+          "genre": "Comedy",
+          "plays": 115
         },
         {
           "genre": "Alternative",
@@ -2834,11 +2834,6 @@
       "plays": 1
     },
     {
-      "date": "2026-06-06",
-      "id": "20191182acd4fd09",
-      "plays": 17
-    },
-    {
       "date": "2026-06-11",
       "id": "206b3a9281311a4b",
       "plays": 1
@@ -2984,11 +2979,6 @@
       "plays": 1
     },
     {
-      "date": "2026-04-26",
-      "id": "2d136d58a119ebf0",
-      "plays": 10
-    },
-    {
       "date": "2026-06-02",
       "id": "2d2047c29074a015",
       "plays": 2
@@ -3062,11 +3052,6 @@
       "date": "2026-06-12",
       "id": "309b672879b8ff42",
       "plays": 2
-    },
-    {
-      "date": "2026-06-11",
-      "id": "312f35325528302b",
-      "plays": 1
     },
     {
       "date": "2026-05-29",
@@ -3161,11 +3146,6 @@
     {
       "date": "2026-06-10",
       "id": "36989176bcc31435",
-      "plays": 1
-    },
-    {
-      "date": "2026-06-02",
-      "id": "373e74443de7d036",
       "plays": 1
     },
     {
@@ -3436,11 +3416,6 @@
     {
       "date": "2026-05-28",
       "id": "4bab744146ff03d0",
-      "plays": 1
-    },
-    {
-      "date": "2026-06-02",
-      "id": "4bffff40911c2dc1",
       "plays": 1
     },
     {
@@ -5599,11 +5574,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-21",
-      "id": "e8a81778ad316d07",
-      "plays": 1
-    },
-    {
       "date": "2026-05-22",
       "id": "e96046bde4dc449a",
       "plays": 5
@@ -6005,6 +5975,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-16",
-  "snapshot_count": 52
+  "latest_snapshot": "2026-06-17",
+  "snapshot_count": 53
 }
