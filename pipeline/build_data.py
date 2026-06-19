@@ -19,7 +19,47 @@ ROOT = Path(__file__).resolve().parent.parent
 AGGREGATES_DIR = ROOT / "data" / "aggregates"
 DASHBOARD_DATA = ROOT / "docs" / "data"
 
+EXCLUDED_ARTISTS = ("Rucka Rucka Ali",)
+
 _emitted: dict = {}
+
+
+def _apply_exclusions(conn) -> None:
+    """Hide tracks by excluded artists from every aggregate. Operates inside the
+    connection's transaction only — main() rolls back at the end so data/music.db
+    is never mutated."""
+    if not EXCLUDED_ARTISTS:
+        return
+    placeholders = ",".join("?" * len(EXCLUDED_ARTISTS))
+    ids = {
+        row[0]
+        for row in conn.execute(
+            f"SELECT track_id FROM tracks_current "
+            f"WHERE artist IN ({placeholders}) OR primary_artist IN ({placeholders})",
+            EXCLUDED_ARTISTS + EXCLUDED_ARTISTS,
+        )
+    }
+    ids.update(
+        row[0]
+        for row in conn.execute(
+            f"SELECT track_id FROM track_artists WHERE artist IN ({placeholders})",
+            EXCLUDED_ARTISTS,
+        )
+    )
+    if not ids:
+        return
+    id_list = list(ids)
+    chunk = 500
+    for i in range(0, len(id_list), chunk):
+        batch = id_list[i : i + chunk]
+        marks = ",".join("?" * len(batch))
+        conn.execute(f"DELETE FROM track_artists WHERE track_id IN ({marks})", batch)
+        conn.execute(f"DELETE FROM snapshots     WHERE track_id IN ({marks})", batch)
+        conn.execute(f"DELETE FROM tracks_current WHERE track_id IN ({marks})", batch)
+    print(
+        f"  excluded {len(ids)} tracks from "
+        f"{len(EXCLUDED_ARTISTS)} artist(s): {', '.join(EXCLUDED_ARTISTS)}"
+    )
 
 
 def _write(name: str, obj) -> None:
@@ -425,6 +465,8 @@ def main() -> None:
     print("build_data: emitting aggregates...")
     AGGREGATES_DIR.mkdir(parents=True, exist_ok=True)
 
+    _apply_exclusions(conn)
+
     _write("kpis", kpis(conn))
     _write("top_artists", top_artists(conn))
     _write("country_plays", country_plays(conn))
@@ -437,6 +479,10 @@ def main() -> None:
     _write("play_history", play_history(conn))
     _write("pending_artists", pending_artists(conn))
     _write_combined()
+
+    # _apply_exclusions deletes from the connection but never commits — discard
+    # those deletes so data/music.db stays canonical.
+    conn.rollback()
 
     print("build_data: done")
 
