@@ -327,7 +327,7 @@
   {
     "year": 2015,
     "genre": "Electronic",
-    "plays": 2720
+    "plays": 2721
   },
   {
     "year": 2015,
@@ -357,7 +357,7 @@
   {
     "year": 2015,
     "genre": "Variete Francaise",
-    "plays": 2643
+    "plays": 2644
   },
   {
     "year": 2016,
@@ -422,7 +422,7 @@
   {
     "year": 2017,
     "genre": "Hip Hop/Rap",
-    "plays": 2618
+    "plays": 2619
   },
   {
     "year": 2017,
@@ -602,7 +602,7 @@
   {
     "year": 2021,
     "genre": "Hip Hop/Rap",
-    "plays": 1489
+    "plays": 1490
   },
   {
     "year": 2021,
@@ -632,7 +632,7 @@
   {
     "year": 2022,
     "genre": "Alternative",
-    "plays": 1555
+    "plays": 1556
   },
   {
     "year": 2022,
@@ -727,7 +727,7 @@
   {
     "year": 2024,
     "genre": "Electronic",
-    "plays": 2000
+    "plays": 2001
   },
   {
     "year": 2024,
@@ -842,6 +842,6 @@
   {
     "year": 2026,
     "genre": "Variete Francaise",
-    "plays": 293
+    "plays": 295
   }
 ]

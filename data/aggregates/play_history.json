@@ -143,19 +143,112 @@
     {
       "date": "2026-06-16",
       "plays": 25
+    },
+    {
+      "date": "2026-06-19",
+      "plays": 8
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 0,
-      "top_artists": [],
-      "top_genres": [],
-      "top_tracks": []
+      "total_plays": 8,
+      "top_artists": [
+        {
+          "artist": "France Football Anthem",
+          "plays": 2
+        },
+        {
+          "artist": "Fatboy Slim",
+          "plays": 1
+        },
+        {
+          "artist": "PNL",
+          "plays": 1
+        },
+        {
+          "artist": "Sofiane",
+          "plays": 1
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 1
+        },
+        {
+          "artist": "Modek",
+          "plays": 1
+        },
+        {
+          "artist": "Moondough",
+          "plays": 1
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Variete Francaise",
+          "plays": 3
+        },
+        {
+          "genre": "Electronic",
+          "plays": 2
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 2
+        },
+        {
+          "genre": "Alternative",
+          "plays": 1
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 2,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Praise you",
+          "artist": "Fatboy Slim",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Onizuka",
+          "artist": "PNL",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Lundi",
+          "artist": "Sofiane",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "L'equipe a jojo",
+          "artist": "Joe Dassin",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Clown In My Kitchen",
+          "artist": "Modek",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Social Disco Dancing",
+          "artist": "Moondough",
+          "plays": 1,
+          "genre": "Alternative"
+        }
+      ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 649,
+      "total_plays": 657,
       "top_artists": [
         {
           "artist": "442oons",
@@ -194,6 +287,10 @@
           "plays": 23
         },
         {
+          "artist": "France Football Anthem",
+          "plays": 23
+        },
+        {
           "artist": "Doechii",
           "plays": 23
         },
@@ -226,10 +323,6 @@
           "plays": 21
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 21
-        },
-        {
           "artist": "Visitor",
           "plays": 18
         },
@@ -250,11 +343,11 @@
           "plays": 14
         },
         {
-          "artist": "Nocti",
-          "plays": 8
+          "artist": "Joe Dassin",
+          "plays": 9
         },
         {
-          "artist": "Joe Dassin",
+          "artist": "Nocti",
           "plays": 8
         }
       ],
@@ -265,7 +358,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 96
+          "plays": 98
         },
         {
           "genre": "Pop",
@@ -277,11 +370,11 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 47
+          "plays": 50
         },
         {
           "genre": "Alternative",
-          "plays": 44
+          "plays": 45
         },
         {
           "genre": "Rock",
@@ -289,7 +382,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 34
+          "plays": 36
         },
         {
           "genre": "Soft Rock",
@@ -416,6 +509,12 @@
           "genre": "Soft Rock"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 23,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "What It Is ft. Kodak Black",
           "artist": "Doechii",
           "plays": 23,
@@ -464,12 +563,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 21,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Los Feeling (Alan Braxe Remix)",
           "artist": "Visitor & Alan Braxe",
           "plays": 18,
@@ -515,7 +608,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1250,
+      "total_plays": 1258,
       "top_artists": [
         {
           "artist": "442oons",
@@ -558,6 +651,10 @@
           "plays": 24
         },
         {
+          "artist": "France Football Anthem",
+          "plays": 24
+        },
+        {
           "artist": "Dayglow",
           "plays": 23
         },
@@ -583,10 +680,6 @@
         },
         {
           "artist": "Polo & Pan",
-          "plays": 22
-        },
-        {
-          "artist": "France Football Anthem",
           "plays": 22
         },
         {
@@ -629,7 +722,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 173
+          "plays": 175
         },
         {
           "genre": "Comedy",
@@ -637,15 +730,15 @@
         },
         {
           "genre": "Alternative",
-          "plays": 91
+          "plays": 92
         },
         {
           "genre": "Variete Francaise",
-          "plays": 72
+          "plays": 75
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 63
+          "plays": 65
         },
         {
           "genre": "Rock",
@@ -746,6 +839,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "In My Place",
           "artist": "Coldplay",
           "plays": 23,
@@ -824,12 +923,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 22,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Disappointed",
           "artist": "Electronic",
           "plays": 21,
@@ -875,7 +968,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2233,
+      "total_plays": 2241,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -895,7 +988,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 67
+          "plays": 69
         },
         {
           "artist": "Cour De Recré",
@@ -981,7 +1074,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 482
+          "plays": 484
         },
         {
           "genre": "Dance",
@@ -993,7 +1086,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 203
+          "plays": 206
         },
         {
           "genre": "Soft Rock",
@@ -1005,11 +1098,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 97
+          "plays": 98
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 84
+          "plays": 86
         },
         {
           "genre": "Rock",
@@ -1096,7 +1189,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 67,
+          "plays": 69,
           "genre": "Variete Francaise"
         },
         {
@@ -1235,7 +1328,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2233,
+      "total_plays": 2241,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1255,7 +1348,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 67
+          "plays": 69
         },
         {
           "artist": "Cour De Recré",
@@ -1341,7 +1434,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 482
+          "plays": 484
         },
         {
           "genre": "Dance",
@@ -1353,7 +1446,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 203
+          "plays": 206
         },
         {
           "genre": "Soft Rock",
@@ -1365,11 +1458,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 97
+          "plays": 98
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 84
+          "plays": 86
         },
         {
           "genre": "Rock",
@@ -1456,7 +1549,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 67,
+          "plays": 69,
           "genre": "Variete Francaise"
         },
         {
@@ -1595,7 +1688,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2233,
+      "total_plays": 2241,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1615,7 +1708,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 67
+          "plays": 69
         },
         {
           "artist": "Cour De Recré",
@@ -1701,7 +1794,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 482
+          "plays": 484
         },
         {
           "genre": "Dance",
@@ -1713,7 +1806,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 203
+          "plays": 206
         },
         {
           "genre": "Soft Rock",
@@ -1725,11 +1818,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 97
+          "plays": 98
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 84
+          "plays": 86
         },
         {
           "genre": "Rock",
@@ -1816,7 +1909,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 67,
+          "plays": 69,
           "genre": "Variete Francaise"
         },
         {
@@ -2866,6 +2959,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-19",
+      "id": "3a82b4f0da0994c1",
+      "plays": 1
+    },
+    {
       "date": "2026-05-18",
       "id": "3aea4d787cfbc03a",
       "plays": 1
@@ -3496,6 +3594,11 @@
       "plays": 8
     },
     {
+      "date": "2026-06-19",
+      "id": "66f1191f973173af",
+      "plays": 1
+    },
+    {
       "date": "2026-06-14",
       "id": "66f86a55a5aaf45c",
       "plays": 7
@@ -3601,6 +3704,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-19",
+      "id": "6b6edcde0e8ffe34",
+      "plays": 1
+    },
+    {
       "date": "2026-06-03",
       "id": "6c5e016da5438df7",
       "plays": 2
@@ -3649,6 +3757,11 @@
       "date": "2026-06-16",
       "id": "6e6f5be12c14187a",
       "plays": 9
+    },
+    {
+      "date": "2026-06-19",
+      "id": "6e6f5be12c14187a",
+      "plays": 2
     },
     {
       "date": "2026-05-23",
@@ -4876,6 +4989,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-19",
+      "id": "c8f7ecb296240069",
+      "plays": 1
+    },
+    {
       "date": "2026-05-10",
       "id": "c95da81ea0febdbd",
       "plays": 8
@@ -4977,6 +5095,11 @@
     },
     {
       "date": "2026-05-17",
+      "id": "cdb21cbe1de819a4",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-19",
       "id": "cdb21cbe1de819a4",
       "plays": 1
     },
@@ -5643,6 +5766,11 @@
     {
       "date": "2026-06-13",
       "id": "fe92f4f8f9ae01d6",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-19",
+      "id": "fed2eb96c1275d84",
       "plays": 1
     },
     {
