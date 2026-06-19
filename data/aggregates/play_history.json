@@ -146,17 +146,29 @@
     },
     {
       "date": "2026-06-19",
-      "plays": 8
+      "plays": 17
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 8,
+      "total_plays": 17,
       "top_artists": [
+        {
+          "artist": "Bon Entendeur",
+          "plays": 4
+        },
         {
           "artist": "France Football Anthem",
           "plays": 2
+        },
+        {
+          "artist": "Alan Walker",
+          "plays": 2
+        },
+        {
+          "artist": "a-ha",
+          "plays": 1
         },
         {
           "artist": "Fatboy Slim",
@@ -171,11 +183,19 @@
           "plays": 1
         },
         {
+          "artist": "Choices",
+          "plays": 1
+        },
+        {
           "artist": "Joe Dassin",
           "plays": 1
         },
         {
           "artist": "Modek",
+          "plays": 1
+        },
+        {
+          "artist": "Crazy Girl & Memphis",
           "plays": 1
         },
         {
@@ -185,16 +205,32 @@
       ],
       "top_genres": [
         {
+          "genre": "Electronic",
+          "plays": 4
+        },
+        {
+          "genre": "mashup",
+          "plays": 3
+        },
+        {
           "genre": "Variete Francaise",
           "plays": 3
         },
         {
-          "genre": "Electronic",
+          "genre": "Dance",
           "plays": 2
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 2
+        },
+        {
+          "genre": "Pop",
+          "plays": 1
+        },
+        {
+          "genre": "Funk",
+          "plays": 1
         },
         {
           "genre": "Alternative",
@@ -203,16 +239,40 @@
       ],
       "top_tracks": [
         {
+          "song": "Decade Mixtape 90's",
+          "artist": "Bon Entendeur",
+          "plays": 3,
+          "genre": "mashup"
+        },
+        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 2,
           "genre": "Variete Francaise"
         },
         {
+          "song": "Spectre",
+          "artist": "Alan Walker",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Take On Me",
+          "artist": "a-ha",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
           "song": "Praise you",
           "artist": "Fatboy Slim",
           "plays": 1,
           "genre": "Electronic"
+        },
+        {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 1,
+          "genre": "Dance"
         },
         {
           "song": "Onizuka",
@@ -227,6 +287,12 @@
           "genre": "Hip Hop/Rap"
         },
         {
+          "song": "Less is More",
+          "artist": "Choices",
+          "plays": 1,
+          "genre": "Funk"
+        },
+        {
           "song": "L'equipe a jojo",
           "artist": "Joe Dassin",
           "plays": 1,
@@ -239,6 +305,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Je Partira Pas",
+          "artist": "Crazy Girl & Memphis",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
           "song": "Social Disco Dancing",
           "artist": "Moondough",
           "plays": 1,
@@ -248,7 +320,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 657,
+      "total_plays": 666,
       "top_artists": [
         {
           "artist": "442oons",
@@ -256,7 +328,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 24
+          "plays": 28
         },
         {
           "artist": "Chicago",
@@ -354,15 +426,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 136
+          "plays": 138
         },
         {
           "genre": "Electronic",
-          "plays": 98
+          "plays": 100
         },
         {
           "genre": "Pop",
-          "plays": 60
+          "plays": 61
         },
         {
           "genre": "Comedy",
@@ -401,12 +473,12 @@
           "plays": 23
         },
         {
-          "genre": "Future Funk",
-          "plays": 10
+          "genre": "mashup",
+          "plays": 12
         },
         {
-          "genre": "mashup",
-          "plays": 9
+          "genre": "Future Funk",
+          "plays": 10
         },
         {
           "genre": "Variété française",
@@ -461,6 +533,12 @@
           "genre": "Comedy"
         },
         {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
           "song": "Oui ou Non",
           "artist": "Angèle",
           "plays": 23,
@@ -495,12 +573,6 @@
           "artist": "Serge Gainsbourg",
           "plays": 23,
           "genre": "Musique francophone"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 23,
-          "genre": "Dance"
         },
         {
           "song": "You're The Inspiration",
@@ -608,7 +680,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1258,
+      "total_plays": 1267,
       "top_artists": [
         {
           "artist": "442oons",
@@ -620,7 +692,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 35
+          "plays": 39
         },
         {
           "artist": "Pink Floyd",
@@ -714,15 +786,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 201
+          "plays": 203
         },
         {
           "genre": "Pop",
-          "plays": 189
+          "plays": 190
         },
         {
           "genre": "Electronic",
-          "plays": 175
+          "plays": 177
         },
         {
           "genre": "Comedy",
@@ -761,12 +833,12 @@
           "plays": 25
         },
         {
-          "genre": "Musique francophone",
+          "genre": "mashup",
           "plays": 23
         },
         {
-          "genre": "mashup",
-          "plays": 20
+          "genre": "Musique francophone",
+          "plays": 23
         },
         {
           "genre": "Classic Rock",
@@ -809,8 +881,8 @@
           "plays": 5
         },
         {
-          "genre": "Lowfi",
-          "plays": 4
+          "genre": "Funk",
+          "plays": 5
         }
       ],
       "top_tracks": [
@@ -837,6 +909,12 @@
           "artist": "Angèle",
           "plays": 24,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -879,12 +957,6 @@
           "artist": "Serge Gainsbourg",
           "plays": 23,
           "genre": "Musique francophone"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 23,
-          "genre": "Dance"
         },
         {
           "song": "You're The Inspiration",
@@ -968,7 +1040,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2241,
+      "total_plays": 2250,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -995,16 +1067,16 @@
           "plays": 60
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 54
+        },
+        {
           "artist": "MotorBass",
           "plays": 54
         },
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 50
         },
         {
           "artist": "Milky",
@@ -1074,15 +1146,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 484
+          "plays": 486
         },
         {
           "genre": "Dance",
-          "plays": 371
+          "plays": 373
         },
         {
           "genre": "Pop",
-          "plays": 246
+          "plays": 247
         },
         {
           "genre": "Variete Francaise",
@@ -1113,12 +1185,12 @@
           "plays": 36
         },
         {
-          "genre": "Disco",
-          "plays": 30
+          "genre": "mashup",
+          "plays": 32
         },
         {
-          "genre": "mashup",
-          "plays": 29
+          "genre": "Disco",
+          "plays": 30
         },
         {
           "genre": "French Pop",
@@ -1259,6 +1331,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
           "song": "In My Place",
           "artist": "Coldplay",
           "plays": 23,
@@ -1293,12 +1371,6 @@
           "artist": "Serge Gainsbourg",
           "plays": 23,
           "genre": "Musique francophone"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 23,
-          "genre": "Dance"
         },
         {
           "song": "You're The Inspiration",
@@ -1328,7 +1400,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2241,
+      "total_plays": 2250,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1355,16 +1427,16 @@
           "plays": 60
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 54
+        },
+        {
           "artist": "MotorBass",
           "plays": 54
         },
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 50
         },
         {
           "artist": "Milky",
@@ -1434,15 +1506,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 484
+          "plays": 486
         },
         {
           "genre": "Dance",
-          "plays": 371
+          "plays": 373
         },
         {
           "genre": "Pop",
-          "plays": 246
+          "plays": 247
         },
         {
           "genre": "Variete Francaise",
@@ -1473,12 +1545,12 @@
           "plays": 36
         },
         {
-          "genre": "Disco",
-          "plays": 30
+          "genre": "mashup",
+          "plays": 32
         },
         {
-          "genre": "mashup",
-          "plays": 29
+          "genre": "Disco",
+          "plays": 30
         },
         {
           "genre": "French Pop",
@@ -1619,6 +1691,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
           "song": "In My Place",
           "artist": "Coldplay",
           "plays": 23,
@@ -1653,12 +1731,6 @@
           "artist": "Serge Gainsbourg",
           "plays": 23,
           "genre": "Musique francophone"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 23,
-          "genre": "Dance"
         },
         {
           "song": "You're The Inspiration",
@@ -1688,7 +1760,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2241,
+      "total_plays": 2250,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1715,16 +1787,16 @@
           "plays": 60
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 54
+        },
+        {
           "artist": "MotorBass",
           "plays": 54
         },
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 50
         },
         {
           "artist": "Milky",
@@ -1794,15 +1866,15 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 484
+          "plays": 486
         },
         {
           "genre": "Dance",
-          "plays": 371
+          "plays": 373
         },
         {
           "genre": "Pop",
-          "plays": 246
+          "plays": 247
         },
         {
           "genre": "Variete Francaise",
@@ -1833,12 +1905,12 @@
           "plays": 36
         },
         {
-          "genre": "Disco",
-          "plays": 30
+          "genre": "mashup",
+          "plays": 32
         },
         {
-          "genre": "mashup",
-          "plays": 29
+          "genre": "Disco",
+          "plays": 30
         },
         {
           "genre": "French Pop",
@@ -1979,6 +2051,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
           "song": "In My Place",
           "artist": "Coldplay",
           "plays": 23,
@@ -2013,12 +2091,6 @@
           "artist": "Serge Gainsbourg",
           "plays": 23,
           "genre": "Musique francophone"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 23,
-          "genre": "Dance"
         },
         {
           "song": "You're The Inspiration",
@@ -2724,6 +2796,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-19",
+      "id": "29ac532bdda5beea",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "29c77a4d46fcea4e",
       "plays": 1
@@ -3169,6 +3246,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-19",
+      "id": "49e6651d7e88edd5",
+      "plays": 3
+    },
+    {
       "date": "2026-06-02",
       "id": "4a85cce2881269a0",
       "plays": 1
@@ -3220,6 +3302,11 @@
     },
     {
       "date": "2026-06-10",
+      "id": "4d366de1529dbffa",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-19",
       "id": "4d366de1529dbffa",
       "plays": 1
     },
@@ -4819,6 +4906,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-19",
+      "id": "b41b67b9f1776db1",
+      "plays": 2
+    },
+    {
       "date": "2026-04-26",
       "id": "b4442973a6365446",
       "plays": 10
@@ -4941,6 +5033,11 @@
     {
       "date": "2026-06-10",
       "id": "c3268af5adcd0464",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-19",
+      "id": "c4317078b34c55e2",
       "plays": 1
     },
     {
@@ -5731,6 +5828,11 @@
     {
       "date": "2026-06-10",
       "id": "faac505e6d79260c",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-19",
+      "id": "fadc5e4c43f23909",
       "plays": 1
     },
     {
