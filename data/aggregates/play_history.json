@@ -148,327 +148,14 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 34,
-      "top_artists": [
-        {
-          "artist": "France Football Anthem",
-          "plays": 9
-        },
-        {
-          "artist": "Avicii",
-          "plays": 1
-        },
-        {
-          "artist": "Rick Astley",
-          "plays": 1
-        },
-        {
-          "artist": "Electric Light Orchestra",
-          "plays": 1
-        },
-        {
-          "artist": "442oons",
-          "plays": 1
-        },
-        {
-          "artist": "Mere Notilde",
-          "plays": 1
-        },
-        {
-          "artist": "James Blunt",
-          "plays": 1
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 1
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 1
-        },
-        {
-          "artist": "Immortal Technique",
-          "plays": 1
-        },
-        {
-          "artist": "Joe Dassin",
-          "plays": 1
-        },
-        {
-          "artist": "Bobby Bare",
-          "plays": 1
-        },
-        {
-          "artist": "Bonnie Tyler",
-          "plays": 1
-        },
-        {
-          "artist": "Donna Summer",
-          "plays": 1
-        },
-        {
-          "artist": "Wax Tailor",
-          "plays": 1
-        },
-        {
-          "artist": "Men Without Hats",
-          "plays": 1
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 1
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 1
-        },
-        {
-          "artist": "Soitchy",
-          "plays": 1
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 1
-        },
-        {
-          "artist": "Basshunter",
-          "plays": 1
-        },
-        {
-          "artist": "Bennett & Bruno Coulais",
-          "plays": 1
-        },
-        {
-          "artist": "Worakis",
-          "plays": 1
-        },
-        {
-          "artist": "Team America",
-          "plays": 1
-        },
-        {
-          "artist": "Diam's",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Variete Francaise",
-          "plays": 9
-        },
-        {
-          "genre": "Pop",
-          "plays": 4
-        },
-        {
-          "genre": "Dance",
-          "plays": 4
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 3
-        },
-        {
-          "genre": "Electronic",
-          "plays": 3
-        },
-        {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
-          "genre": "Rock",
-          "plays": 1
-        },
-        {
-          "genre": "Comedy",
-          "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "Variété française",
-          "plays": 1
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 1
-        },
-        {
-          "genre": "Disco",
-          "plays": 1
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 1
-        },
-        {
-          "genre": "Lowfi",
-          "plays": 1
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 9,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Never Gonna Wake You Up (NilsOfficial Mashup)",
-          "artist": "Avicii & Rick Astley",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "Mr. Blue Sky",
-          "artist": "Electric Light Orchestra",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Take me Anywhere",
-          "artist": "442oons",
-          "plays": 1,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Love is Gonna Getcha (Remix)",
-          "artist": "Mere Notilde",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Cold (ft. Léa Paci)",
-          "artist": "James Blunt & Lea Paci",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "Love Don't Let Me Go (Walking Away)",
-          "artist": "David Guetta",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Dance With The Devil",
-          "artist": "Immortal Technique",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Happy Birthday",
-          "artist": "Joe Dassin",
-          "plays": 1,
-          "genre": "Variété française"
-        },
-        {
-          "song": "Find Out What's Happening",
-          "artist": "Bobby Bare",
-          "plays": 1,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Total Eclipse of the Heart",
-          "artist": "Bonnie Tyler",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "She Works Hard For The Money",
-          "artist": "Donna Summer",
-          "plays": 1,
-          "genre": "Disco"
-        },
-        {
-          "song": "Que Sera",
-          "artist": "Wax Tailor",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "The Safety Dance ( Original )",
-          "artist": "Men Without Hats",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 1,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "Rollin' & Scratchin'",
-          "artist": "Daft Punk",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "What does this all mean",
-          "artist": "Soitchy",
-          "plays": 1,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Now You're Gone",
-          "artist": "Basshunter",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Vois sur ton chemin",
-          "artist": "Bennett & Bruno Coulais",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Porto (Original mix)",
-          "artist": "Worakis",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "I'm So Ronery",
-          "artist": "Team America",
-          "plays": 1,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "La boulette (génération nan nan)",
-          "artist": "Diam's",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Love Is Gonna Save Us",
-          "artist": "Benny Benassi & The Biz",
-          "plays": 1,
-          "genre": "Dance"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 671,
+      "total_plays": 649,
       "top_artists": [
         {
           "artist": "442oons",
@@ -563,26 +250,26 @@
           "plays": 14
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 9
+          "artist": "Nocti",
+          "plays": 8
         },
         {
-          "artist": "Nocti",
+          "artist": "Joe Dassin",
           "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 141
+          "plays": 136
         },
         {
           "genre": "Electronic",
-          "plays": 97
+          "plays": 96
         },
         {
           "genre": "Pop",
-          "plays": 66
+          "plays": 60
         },
         {
           "genre": "Comedy",
@@ -594,15 +281,15 @@
         },
         {
           "genre": "Alternative",
-          "plays": 46
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 37
+          "plays": 44
         },
         {
           "genre": "Rock",
           "plays": 36
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 34
         },
         {
           "genre": "Soft Rock",
@@ -621,12 +308,12 @@
           "plays": 23
         },
         {
-          "genre": "mashup",
-          "plays": 11
-        },
-        {
           "genre": "Future Funk",
           "plays": 10
+        },
+        {
+          "genre": "mashup",
+          "plays": 9
         },
         {
           "genre": "Variété française",
@@ -635,10 +322,6 @@
         {
           "genre": "World",
           "plays": 4
-        },
-        {
-          "genre": "Folk",
-          "plays": 3
         },
         {
           "genre": "Lowfi",
@@ -670,6 +353,10 @@
         },
         {
           "genre": "Country",
+          "plays": 1
+        },
+        {
+          "genre": "House",
           "plays": 1
         }
       ],
@@ -5975,6 +5662,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-17",
-  "snapshot_count": 53
+  "latest_snapshot": "2026-06-19",
+  "snapshot_count": 54
 }
