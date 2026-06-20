@@ -49833,6 +49833,22 @@
     "country": "AU"
   },
   {
+    "id": "a698fbade8d38198",
+    "song": "Just The Way You Are",
+    "artist": "Milky & David Guetta",
+    "credits": [
+      "Milky",
+      "David Guetta"
+    ],
+    "album": "",
+    "plays": 14,
+    "duration_sec": 182,
+    "date_added": "2026-06-19T10:05:49",
+    "last_played": "2026-06-20T08:41:21",
+    "genre": "Dance",
+    "country": "IT"
+  },
+  {
     "id": "1663493104dc878e",
     "song": "Daddy Wasn't There (feat. Austin Powers)",
     "artist": "Ming Tea",
@@ -57625,22 +57641,6 @@
     "last_played": null,
     "genre": "Alternative",
     "country": "US"
-  },
-  {
-    "id": "a698fbade8d38198",
-    "song": "Just The Way You Are",
-    "artist": "Milky & David Guetta",
-    "credits": [
-      "Milky",
-      "David Guetta"
-    ],
-    "album": "",
-    "plays": 0,
-    "duration_sec": 182,
-    "date_added": "2026-06-19T10:05:49",
-    "last_played": null,
-    "genre": "Dance",
-    "country": "IT"
   },
   {
     "id": "58ee1c5f0f234ad3",

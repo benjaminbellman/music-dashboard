@@ -147,13 +147,25 @@
     {
       "date": "2026-06-19",
       "plays": 17
+    },
+    {
+      "date": "2026-06-20",
+      "plays": 14
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 17,
+      "total_plays": 31,
       "top_artists": [
+        {
+          "artist": "Milky",
+          "plays": 14
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 14
+        },
         {
           "artist": "Bon Entendeur",
           "plays": 4
@@ -205,6 +217,10 @@
       ],
       "top_genres": [
         {
+          "genre": "Dance",
+          "plays": 16
+        },
+        {
           "genre": "Electronic",
           "plays": 4
         },
@@ -215,10 +231,6 @@
         {
           "genre": "Variete Francaise",
           "plays": 3
-        },
-        {
-          "genre": "Dance",
-          "plays": 2
         },
         {
           "genre": "Hip Hop/Rap",
@@ -238,6 +250,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 14,
+          "genre": "Dance"
+        },
         {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
@@ -320,7 +338,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 666,
+      "total_plays": 582,
       "top_artists": [
         {
           "artist": "442oons",
@@ -395,23 +413,11 @@
           "plays": 21
         },
         {
-          "artist": "Visitor",
-          "plays": 18
+          "artist": "David Guetta",
+          "plays": 17
         },
         {
-          "artist": "Oliver Heldens",
-          "plays": 18
-        },
-        {
-          "artist": "Dayglow",
-          "plays": 16
-        },
-        {
-          "artist": "Avicii",
-          "plays": 15
-        },
-        {
-          "artist": "Cassius",
+          "artist": "Milky",
           "plays": 14
         },
         {
@@ -419,18 +425,30 @@
           "plays": 9
         },
         {
-          "artist": "Nocti",
-          "plays": 8
+          "artist": "Flight Facilities",
+          "plays": 7
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 7
+        },
+        {
+          "artist": "Synapson",
+          "plays": 4
+        },
+        {
+          "artist": "Paul Kalkbrenner",
+          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 138
+          "plays": 130
         },
         {
           "genre": "Electronic",
-          "plays": 100
+          "plays": 64
         },
         {
           "genre": "Pop",
@@ -446,15 +464,15 @@
         },
         {
           "genre": "Alternative",
-          "plays": 45
+          "plays": 29
         },
         {
           "genre": "Rock",
-          "plays": 36
+          "plays": 28
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 36
+          "plays": 28
         },
         {
           "genre": "Soft Rock",
@@ -477,10 +495,6 @@
           "plays": 12
         },
         {
-          "genre": "Future Funk",
-          "plays": 10
-        },
-        {
           "genre": "Variété française",
           "plays": 8
         },
@@ -490,6 +504,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 2
+        },
+        {
+          "genre": "Future Funk",
           "plays": 2
         },
         {
@@ -635,26 +653,8 @@
           "genre": "Electronic"
         },
         {
-          "song": "Los Feeling (Alan Braxe Remix)",
-          "artist": "Visitor & Alan Braxe",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Gecko (Original Mix)",
-          "artist": "Oliver Heldens",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 16,
-          "genre": "Alternative"
-        },
-        {
-          "song": "My Feelings for You (Original Mix)",
-          "artist": "Avicii & Sebastien Drums & Cassius",
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
           "plays": 14,
           "genre": "Dance"
         },
@@ -665,30 +665,48 @@
           "genre": "Comedy"
         },
         {
-          "song": "Little Demons",
-          "artist": "Nocti",
-          "plays": 8,
-          "genre": "Future Funk"
-        },
-        {
           "song": "Happy Birthday",
           "artist": "Joe Dassin",
           "plays": 8,
           "genre": "Variété française"
+        },
+        {
+          "song": "1992 - 2002 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 6,
+          "genre": "mashup"
+        },
+        {
+          "song": "Klopp to the Kop",
+          "artist": "442oons",
+          "plays": 4,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Chelsea Bus Song",
+          "artist": "442oons",
+          "plays": 4,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Decade Mixtape 90's",
+          "artist": "Bon Entendeur",
+          "plays": 4,
+          "genre": "mashup"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1267,
+      "total_plays": 1221,
       "top_artists": [
         {
           "artist": "442oons",
-          "plays": 95
+          "plays": 88
         },
         {
           "artist": "Milky",
-          "plays": 48
+          "plays": 62
         },
         {
           "artist": "Bon Entendeur",
@@ -696,7 +714,7 @@
         },
         {
           "artist": "Pink Floyd",
-          "plays": 28
+          "plays": 27
         },
         {
           "artist": "The Glitch Mob",
@@ -707,11 +725,11 @@
           "plays": 25
         },
         {
-          "artist": "Angèle",
-          "plays": 24
+          "artist": "David Guetta",
+          "plays": 25
         },
         {
-          "artist": "Calvin Harris",
+          "artist": "Angèle",
           "plays": 24
         },
         {
@@ -728,6 +746,10 @@
         },
         {
           "artist": "Dayglow",
+          "plays": 23
+        },
+        {
+          "artist": "Calvin Harris",
           "plays": 23
         },
         {
@@ -777,32 +799,28 @@
         {
           "artist": "Oliver Heldens",
           "plays": 18
-        },
-        {
-          "artist": "Avicii",
-          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 203
+          "plays": 206
         },
         {
           "genre": "Pop",
-          "plays": 190
-        },
-        {
-          "genre": "Electronic",
           "plays": 177
         },
         {
+          "genre": "Electronic",
+          "plays": 170
+        },
+        {
           "genre": "Comedy",
-          "plays": 103
+          "plays": 96
         },
         {
           "genre": "Alternative",
-          "plays": 92
+          "plays": 88
         },
         {
           "genre": "Variete Francaise",
@@ -810,11 +828,11 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 65
+          "plays": 63
         },
         {
           "genre": "Rock",
-          "plays": 56
+          "plays": 53
         },
         {
           "genre": "Soft Rock",
@@ -822,15 +840,15 @@
         },
         {
           "genre": "French Pop",
-          "plays": 28
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 25
+          "plays": 27
         },
         {
           "genre": "Indie",
           "plays": 25
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 24
         },
         {
           "genre": "mashup",
@@ -849,39 +867,39 @@
           "plays": 14
         },
         {
-          "genre": "House",
-          "plays": 12
+          "genre": "Oldies",
+          "plays": 11
         },
         {
           "genre": "Variété française",
-          "plays": 11
+          "plays": 10
         },
         {
-          "genre": "Oldies",
-          "plays": 11
+          "genre": "House",
+          "plays": 10
         },
         {
           "genre": "Latin",
           "plays": 9
         },
         {
-          "genre": "Disco",
-          "plays": 7
-        },
-        {
-          "genre": "R & B",
-          "plays": 6
-        },
-        {
-          "genre": "Folk",
-          "plays": 6
-        },
-        {
           "genre": "City Pop",
           "plays": 5
         },
         {
+          "genre": "R & B",
+          "plays": 5
+        },
+        {
           "genre": "Funk",
+          "plays": 5
+        },
+        {
+          "genre": "Disco",
+          "plays": 5
+        },
+        {
+          "genre": "Folk",
           "plays": 5
         }
       ],
@@ -1040,7 +1058,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2250,
+      "total_plays": 2264,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1063,6 +1081,10 @@
           "plays": 69
         },
         {
+          "artist": "Milky",
+          "plays": 62
+        },
+        {
           "artist": "Cour De Recré",
           "plays": 60
         },
@@ -1077,10 +1099,6 @@
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Milky",
-          "plays": 48
         },
         {
           "artist": "Supermode",
@@ -1115,6 +1133,10 @@
           "plays": 25
         },
         {
+          "artist": "David Guetta",
+          "plays": 25
+        },
+        {
           "artist": "Chicago",
           "plays": 25
         },
@@ -1137,10 +1159,6 @@
         {
           "artist": "Miossec",
           "plays": 23
-        },
-        {
-          "artist": "Doechii",
-          "plays": 23
         }
       ],
       "top_genres": [
@@ -1150,7 +1168,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 373
+          "plays": 387
         },
         {
           "genre": "Pop",
@@ -1400,7 +1418,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2250,
+      "total_plays": 2264,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1423,6 +1441,10 @@
           "plays": 69
         },
         {
+          "artist": "Milky",
+          "plays": 62
+        },
+        {
           "artist": "Cour De Recré",
           "plays": 60
         },
@@ -1437,10 +1459,6 @@
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Milky",
-          "plays": 48
         },
         {
           "artist": "Supermode",
@@ -1475,6 +1493,10 @@
           "plays": 25
         },
         {
+          "artist": "David Guetta",
+          "plays": 25
+        },
+        {
           "artist": "Chicago",
           "plays": 25
         },
@@ -1497,10 +1519,6 @@
         {
           "artist": "Miossec",
           "plays": 23
-        },
-        {
-          "artist": "Doechii",
-          "plays": 23
         }
       ],
       "top_genres": [
@@ -1510,7 +1528,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 373
+          "plays": 387
         },
         {
           "genre": "Pop",
@@ -1760,7 +1778,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2250,
+      "total_plays": 2264,
       "top_artists": [
         {
           "artist": "Roudoudou",
@@ -1783,6 +1801,10 @@
           "plays": 69
         },
         {
+          "artist": "Milky",
+          "plays": 62
+        },
+        {
           "artist": "Cour De Recré",
           "plays": 60
         },
@@ -1797,10 +1819,6 @@
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Milky",
-          "plays": 48
         },
         {
           "artist": "Supermode",
@@ -1835,6 +1853,10 @@
           "plays": 25
         },
         {
+          "artist": "David Guetta",
+          "plays": 25
+        },
+        {
           "artist": "Chicago",
           "plays": 25
         },
@@ -1857,10 +1879,6 @@
         {
           "artist": "Miossec",
           "plays": 23
-        },
-        {
-          "artist": "Doechii",
-          "plays": 23
         }
       ],
       "top_genres": [
@@ -1870,7 +1888,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 373
+          "plays": 387
         },
         {
           "genre": "Pop",
@@ -4661,6 +4679,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-20",
+      "id": "a698fbade8d38198",
+      "plays": 14
+    },
+    {
       "date": "2026-05-10",
       "id": "a6b46341449f075e",
       "plays": 8
@@ -5892,6 +5915,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-19",
-  "snapshot_count": 54
+  "latest_snapshot": "2026-06-20",
+  "snapshot_count": 55
 }
