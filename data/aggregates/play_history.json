@@ -151,20 +151,32 @@
     {
       "date": "2026-06-20",
       "plays": 14
+    },
+    {
+      "date": "2026-06-21",
+      "plays": 198
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 31,
+      "total_plays": 229,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 14
+          "plays": 196
         },
         {
           "artist": "David Guetta",
-          "plays": 14
+          "plays": 196
+        },
+        {
+          "artist": "Fatboy Slim",
+          "plays": 17
+        },
+        {
+          "artist": "Beastie Boys",
+          "plays": 16
         },
         {
           "artist": "Bon Entendeur",
@@ -180,10 +192,6 @@
         },
         {
           "artist": "a-ha",
-          "plays": 1
-        },
-        {
-          "artist": "Fatboy Slim",
           "plays": 1
         },
         {
@@ -218,7 +226,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 16
+          "plays": 198
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 18
         },
         {
           "genre": "Electronic",
@@ -231,10 +243,6 @@
         {
           "genre": "Variete Francaise",
           "plays": 3
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 2
         },
         {
           "genre": "Pop",
@@ -253,8 +261,14 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 14,
+          "plays": 196,
           "genre": "Dance"
+        },
+        {
+          "song": "Body Movin' (Fatboy Slim Remix)",
+          "artist": "Beastie Boys & Fatboy Slim",
+          "plays": 16,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Decade Mixtape 90's",
@@ -338,86 +352,94 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 582,
+      "total_plays": 717,
       "top_artists": [
         {
+          "artist": "David Guetta",
+          "plays": 199
+        },
+        {
+          "artist": "Milky",
+          "plays": 196
+        },
+        {
           "artist": "442oons",
-          "plays": 55
+          "plays": 46
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 28
-        },
-        {
-          "artist": "Chicago",
-          "plays": 24
-        },
-        {
-          "artist": "Angèle",
-          "plays": 23
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 23
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 23
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 23
-        },
-        {
-          "artist": "Miossec",
-          "plays": 23
-        },
-        {
-          "artist": "Serge Gainsbourg",
-          "plays": 23
+          "plays": 26
         },
         {
           "artist": "France Football Anthem",
           "plays": 23
         },
         {
-          "artist": "Doechii",
-          "plays": 23
-        },
-        {
-          "artist": "Le Nonsense",
-          "plays": 23
-        },
-        {
-          "artist": "Poolside",
-          "plays": 23
-        },
-        {
-          "artist": "Yolanda Be Cool & DCUP",
-          "plays": 23
-        },
-        {
-          "artist": "The Glitch Mob",
-          "plays": 23
-        },
-        {
-          "artist": "Polo & Pan",
+          "artist": "Chicago",
           "plays": 22
+        },
+        {
+          "artist": "Angèle",
+          "plays": 21
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 21
         },
         {
           "artist": "Electronic",
           "plays": 21
         },
         {
-          "artist": "MIdnight Runners",
+          "artist": "Calvin Harris",
           "plays": 21
         },
         {
-          "artist": "David Guetta",
+          "artist": "Doechii",
+          "plays": 21
+        },
+        {
+          "artist": "The Glitch Mob",
+          "plays": 21
+        },
+        {
+          "artist": "Le Nonsense",
+          "plays": 20
+        },
+        {
+          "artist": "Miossec",
+          "plays": 19
+        },
+        {
+          "artist": "MIdnight Runners",
+          "plays": 19
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 18
+        },
+        {
+          "artist": "Pink Floyd",
           "plays": 17
         },
         {
-          "artist": "Milky",
+          "artist": "Fatboy Slim",
+          "plays": 17
+        },
+        {
+          "artist": "Serge Gainsbourg",
+          "plays": 17
+        },
+        {
+          "artist": "Poolside",
+          "plays": 17
+        },
+        {
+          "artist": "Beastie Boys",
+          "plays": 16
+        },
+        {
+          "artist": "Yolanda Be Cool & DCUP",
           "plays": 14
         },
         {
@@ -431,64 +453,56 @@
         {
           "artist": "Daft Punk",
           "plays": 7
-        },
-        {
-          "artist": "Synapson",
-          "plays": 4
-        },
-        {
-          "artist": "Paul Kalkbrenner",
-          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 130
-        },
-        {
-          "genre": "Electronic",
-          "plays": 64
+          "plays": 296
         },
         {
           "genre": "Pop",
-          "plays": 61
+          "plays": 59
         },
         {
-          "genre": "Comedy",
-          "plays": 55
+          "genre": "Electronic",
+          "plays": 58
         },
         {
           "genre": "Variete Francaise",
-          "plays": 50
+          "plays": 48
         },
         {
-          "genre": "Alternative",
-          "plays": 29
-        },
-        {
-          "genre": "Rock",
-          "plays": 28
+          "genre": "Comedy",
+          "plays": 46
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 28
+          "plays": 42
+        },
+        {
+          "genre": "Alternative",
+          "plays": 27
         },
         {
           "genre": "Soft Rock",
-          "plays": 25
+          "plays": 23
+        },
+        {
+          "genre": "Rock",
+          "plays": 22
         },
         {
           "genre": "French Pop",
-          "plays": 23
+          "plays": 19
         },
         {
           "genre": "Musique francophone",
-          "plays": 23
+          "plays": 17
         },
         {
           "genre": "Indie",
-          "plays": 23
+          "plays": 17
         },
         {
           "genre": "mashup",
@@ -545,58 +559,10 @@
       ],
       "top_tracks": [
         {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 27,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 24,
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 196,
           "genre": "Dance"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 23,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 23,
-          "genre": "Rock"
-        },
-        {
-          "song": "My Way",
-          "artist": "Calvin Harris",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
-          "song": "La facture d'électricité",
-          "artist": "Miossec",
-          "plays": 23,
-          "genre": "French Pop"
-        },
-        {
-          "song": "No Comment",
-          "artist": "Serge Gainsbourg",
-          "plays": 23,
-          "genre": "Musique francophone"
-        },
-        {
-          "song": "You're The Inspiration",
-          "artist": "Chicago",
-          "plays": 23,
-          "genre": "Soft Rock"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -605,34 +571,22 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "What It Is ft. Kodak Black",
-          "artist": "Doechii",
-          "plays": 23,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Soulreply (Le Nonsense Remix)",
-          "artist": "Le Nonsense",
-          "plays": 23,
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 22,
           "genre": "Dance"
         },
         {
-          "song": "Harvest Moon",
-          "artist": "Poolside",
-          "plays": 23,
-          "genre": "Indie"
+          "song": "Oui ou Non",
+          "artist": "Angèle",
+          "plays": 21,
+          "genre": "Variete Francaise"
         },
         {
-          "song": "We No Speak Americano",
-          "artist": "Yolanda Be Cool & DCUP",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
-          "song": "We Can Make The World Stop",
-          "artist": "The Glitch Mob",
-          "plays": 23,
-          "genre": "Electronic"
+          "song": "In My Place",
+          "artist": "Coldplay",
+          "plays": 21,
+          "genre": "Alternative"
         },
         {
           "song": "Disappointed",
@@ -641,20 +595,86 @@
           "genre": "Pop"
         },
         {
-          "song": "Come On Eileen!",
-          "artist": "MIdnight Runners",
+          "song": "My Way",
+          "artist": "Calvin Harris",
           "plays": 21,
-          "genre": "Pop"
+          "genre": "Dance"
         },
         {
-          "song": "Trust in Me (Polo & Pan Remix)",
-          "artist": "Polo & Pan",
+          "song": "You're The Inspiration",
+          "artist": "Chicago",
+          "plays": 21,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "What It Is ft. Kodak Black",
+          "artist": "Doechii",
+          "plays": 21,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "We Can Make The World Stop",
+          "artist": "The Glitch Mob",
           "plays": 21,
           "genre": "Electronic"
         },
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
+          "song": "Soulreply (Le Nonsense Remix)",
+          "artist": "Le Nonsense",
+          "plays": 20,
+          "genre": "Dance"
+        },
+        {
+          "song": "La facture d'électricité",
+          "artist": "Miossec",
+          "plays": 19,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Come On Eileen!",
+          "artist": "MIdnight Runners",
+          "plays": 19,
+          "genre": "Pop"
+        },
+        {
+          "song": "Premier League Song",
+          "artist": "442oons",
+          "plays": 18,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Comfortably Numb",
+          "artist": "Pink Floyd",
+          "plays": 17,
+          "genre": "Rock"
+        },
+        {
+          "song": "No Comment",
+          "artist": "Serge Gainsbourg",
+          "plays": 17,
+          "genre": "Musique francophone"
+        },
+        {
+          "song": "Trust in Me (Polo & Pan Remix)",
+          "artist": "Polo & Pan",
+          "plays": 17,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Harvest Moon",
+          "artist": "Poolside",
+          "plays": 17,
+          "genre": "Indie"
+        },
+        {
+          "song": "Body Movin' (Fatboy Slim Remix)",
+          "artist": "Beastie Boys & Fatboy Slim",
+          "plays": 16,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "We No Speak Americano",
+          "artist": "Yolanda Be Cool & DCUP",
           "plays": 14,
           "genre": "Dance"
         },
@@ -687,26 +707,24 @@
           "artist": "442oons",
           "plays": 4,
           "genre": "Comedy"
-        },
-        {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 4,
-          "genre": "mashup"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1221,
+      "total_plays": 1413,
       "top_artists": [
         {
-          "artist": "442oons",
-          "plays": 88
+          "artist": "Milky",
+          "plays": 243
         },
         {
-          "artist": "Milky",
-          "plays": 62
+          "artist": "David Guetta",
+          "plays": 207
+        },
+        {
+          "artist": "442oons",
+          "plays": 83
         },
         {
           "artist": "Bon Entendeur",
@@ -722,10 +740,6 @@
         },
         {
           "artist": "Coldplay",
-          "plays": 25
-        },
-        {
-          "artist": "David Guetta",
           "plays": 25
         },
         {
@@ -797,18 +811,18 @@
           "plays": 19
         },
         {
-          "artist": "Oliver Heldens",
+          "artist": "Fatboy Slim",
           "plays": 18
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 206
+          "plays": 388
         },
         {
           "genre": "Pop",
-          "plays": 177
+          "plays": 176
         },
         {
           "genre": "Electronic",
@@ -816,19 +830,19 @@
         },
         {
           "genre": "Comedy",
-          "plays": 96
+          "plays": 91
         },
         {
           "genre": "Alternative",
           "plays": 88
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 75
+          "genre": "Hip Hop/Rap",
+          "plays": 79
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 63
+          "genre": "Variete Francaise",
+          "plays": 75
         },
         {
           "genre": "Rock",
@@ -906,14 +920,20 @@
       "top_tracks": [
         {
           "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 196,
+          "genre": "Dance"
+        },
+        {
+          "song": "Just The Way You Are",
           "artist": "Milky",
-          "plays": 48,
+          "plays": 47,
           "genre": "Pop"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 44,
+          "plays": 39,
           "genre": "Comedy"
         },
         {
@@ -1047,19 +1067,21 @@
           "artist": "Oliver Heldens",
           "plays": 18,
           "genre": "Electronic"
-        },
-        {
-          "song": "My Feelings for You (Original Mix)",
-          "artist": "Avicii & Sebastien Drums & Cassius",
-          "plays": 14,
-          "genre": "Dance"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2264,
+      "total_plays": 2462,
       "top_artists": [
+        {
+          "artist": "Milky",
+          "plays": 244
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 207
+        },
         {
           "artist": "Roudoudou",
           "plays": 137
@@ -1079,10 +1101,6 @@
         {
           "artist": "France Football Anthem",
           "plays": 69
-        },
-        {
-          "artist": "Milky",
-          "plays": 62
         },
         {
           "artist": "Cour De Recré",
@@ -1133,10 +1151,6 @@
           "plays": 25
         },
         {
-          "artist": "David Guetta",
-          "plays": 25
-        },
-        {
           "artist": "Chicago",
           "plays": 25
         },
@@ -1163,12 +1177,12 @@
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 486
+          "genre": "Dance",
+          "plays": 569
         },
         {
-          "genre": "Dance",
-          "plays": 387
+          "genre": "Electronic",
+          "plays": 486
         },
         {
           "genre": "Pop",
@@ -1187,12 +1201,12 @@
           "plays": 115
         },
         {
-          "genre": "Alternative",
-          "plays": 98
+          "genre": "Hip Hop/Rap",
+          "plays": 102
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 86
+          "genre": "Alternative",
+          "plays": 98
         },
         {
           "genre": "Rock",
@@ -1264,6 +1278,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 196,
+          "genre": "Dance"
+        },
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
@@ -1407,19 +1427,21 @@
           "artist": "Le Nonsense",
           "plays": 23,
           "genre": "Dance"
-        },
-        {
-          "song": "Harvest Moon",
-          "artist": "Poolside",
-          "plays": 23,
-          "genre": "Indie"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 2264,
+      "total_plays": 2462,
       "top_artists": [
+        {
+          "artist": "Milky",
+          "plays": 244
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 207
+        },
         {
           "artist": "Roudoudou",
           "plays": 137
@@ -1439,10 +1461,6 @@
         {
           "artist": "France Football Anthem",
           "plays": 69
-        },
-        {
-          "artist": "Milky",
-          "plays": 62
         },
         {
           "artist": "Cour De Recré",
@@ -1493,10 +1511,6 @@
           "plays": 25
         },
         {
-          "artist": "David Guetta",
-          "plays": 25
-        },
-        {
           "artist": "Chicago",
           "plays": 25
         },
@@ -1523,12 +1537,12 @@
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 486
+          "genre": "Dance",
+          "plays": 569
         },
         {
-          "genre": "Dance",
-          "plays": 387
+          "genre": "Electronic",
+          "plays": 486
         },
         {
           "genre": "Pop",
@@ -1547,12 +1561,12 @@
           "plays": 115
         },
         {
-          "genre": "Alternative",
-          "plays": 98
+          "genre": "Hip Hop/Rap",
+          "plays": 102
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 86
+          "genre": "Alternative",
+          "plays": 98
         },
         {
           "genre": "Rock",
@@ -1624,6 +1638,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 196,
+          "genre": "Dance"
+        },
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
@@ -1767,19 +1787,21 @@
           "artist": "Le Nonsense",
           "plays": 23,
           "genre": "Dance"
-        },
-        {
-          "song": "Harvest Moon",
-          "artist": "Poolside",
-          "plays": 23,
-          "genre": "Indie"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 2264,
+      "total_plays": 2462,
       "top_artists": [
+        {
+          "artist": "Milky",
+          "plays": 244
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 207
+        },
         {
           "artist": "Roudoudou",
           "plays": 137
@@ -1799,10 +1821,6 @@
         {
           "artist": "France Football Anthem",
           "plays": 69
-        },
-        {
-          "artist": "Milky",
-          "plays": 62
         },
         {
           "artist": "Cour De Recré",
@@ -1853,10 +1871,6 @@
           "plays": 25
         },
         {
-          "artist": "David Guetta",
-          "plays": 25
-        },
-        {
           "artist": "Chicago",
           "plays": 25
         },
@@ -1883,12 +1897,12 @@
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 486
+          "genre": "Dance",
+          "plays": 569
         },
         {
-          "genre": "Dance",
-          "plays": 387
+          "genre": "Electronic",
+          "plays": 486
         },
         {
           "genre": "Pop",
@@ -1907,12 +1921,12 @@
           "plays": 115
         },
         {
-          "genre": "Alternative",
-          "plays": 98
+          "genre": "Hip Hop/Rap",
+          "plays": 102
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 86
+          "genre": "Alternative",
+          "plays": 98
         },
         {
           "genre": "Rock",
@@ -1984,6 +1998,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 196,
+          "genre": "Dance"
+        },
         {
           "song": "Peace And Tranquility To Earth",
           "artist": "Roudoudou",
@@ -2127,12 +2147,6 @@
           "artist": "Le Nonsense",
           "plays": 23,
           "genre": "Dance"
-        },
-        {
-          "song": "Harvest Moon",
-          "artist": "Poolside",
-          "plays": 23,
-          "genre": "Indie"
         }
       ]
     }
@@ -4684,6 +4698,11 @@
       "plays": 14
     },
     {
+      "date": "2026-06-21",
+      "id": "a698fbade8d38198",
+      "plays": 182
+    },
+    {
       "date": "2026-05-10",
       "id": "a6b46341449f075e",
       "plays": 8
@@ -5789,6 +5808,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-21",
+      "id": "f6a42028a411e10b",
+      "plays": 16
+    },
+    {
       "date": "2026-05-16",
       "id": "f704bdbbff96f345",
       "plays": 1
@@ -5915,6 +5939,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-20",
-  "snapshot_count": 55
+  "latest_snapshot": "2026-06-21",
+  "snapshot_count": 56
 }

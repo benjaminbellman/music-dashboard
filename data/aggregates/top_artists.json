@@ -388,50 +388,50 @@
     },
     {
       "rank": 15,
+      "artist": "David Guetta",
+      "plays": 1115,
+      "country": "FR"
+    },
+    {
+      "rank": 16,
       "artist": "PNL",
       "plays": 1086,
       "country": "FR"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "artist": "ABBA",
       "plays": 1044,
       "country": "SE"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "artist": "The Weeknd",
       "plays": 1025,
       "country": "CA"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "artist": "Anri",
       "plays": 1022,
       "country": "JP"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "artist": "442oons",
       "plays": 1004,
       "country": "GB"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "artist": "Tatsuro Yamashita",
       "plays": 983,
       "country": "JP"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "artist": "Serge Gainsbourg",
       "plays": 981,
-      "country": "FR"
-    },
-    {
-      "rank": 22,
-      "artist": "David Guetta",
-      "plays": 933,
       "country": "FR"
     },
     {
