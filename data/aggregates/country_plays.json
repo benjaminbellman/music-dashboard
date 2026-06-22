@@ -7,7 +7,7 @@
   },
   {
     "country": "US",
-    "plays": 61993,
+    "plays": 62005,
     "artists": 752,
     "songs": 1338
   },
@@ -66,16 +66,16 @@
     "songs": 28
   },
   {
+    "country": "IT",
+    "plays": 1445,
+    "artists": 23,
+    "songs": 39
+  },
+  {
     "country": "RU",
     "plays": 1439,
     "artists": 11,
     "songs": 20
-  },
-  {
-    "country": "IT",
-    "plays": 1397,
-    "artists": 23,
-    "songs": 39
   },
   {
     "country": "BE",
