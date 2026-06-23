@@ -18,7 +18,7 @@
     },
     {
       "date": "2026-04-26",
-      "plays": 531
+      "plays": 311
     },
     {
       "date": "2026-04-27",
@@ -58,7 +58,7 @@
     },
     {
       "date": "2026-05-17",
-      "plays": 67
+      "plays": 2
     },
     {
       "date": "2026-05-18",
@@ -114,11 +114,11 @@
     },
     {
       "date": "2026-06-08",
-      "plays": 335
+      "plays": 63
     },
     {
       "date": "2026-06-10",
-      "plays": 34
+      "plays": 7
     },
     {
       "date": "2026-06-11",
@@ -126,7 +126,7 @@
     },
     {
       "date": "2026-06-12",
-      "plays": 20
+      "plays": 12
     },
     {
       "date": "2026-06-13",
@@ -138,7 +138,7 @@
     },
     {
       "date": "2026-06-15",
-      "plays": 9
+      "plays": 8
     },
     {
       "date": "2026-06-16",
@@ -158,21 +158,21 @@
     },
     {
       "date": "2026-06-22",
-      "plays": 60
+      "plays": 12
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 272,
+      "total_plays": 210,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 244
+          "plays": 182
         },
         {
           "artist": "David Guetta",
-          "plays": 244
+          "plays": 182
         },
         {
           "artist": "Beastie Boys",
@@ -190,7 +190,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 244
+          "plays": 182
         },
         {
           "genre": "Hip Hop/Rap",
@@ -205,7 +205,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 244,
+          "plays": 182,
           "genre": "Dance"
         },
         {
@@ -224,15 +224,15 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 442,
+      "total_plays": 358,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 247
+          "plays": 199
         },
         {
           "artist": "Milky",
-          "plays": 244
+          "plays": 196
         },
         {
           "artist": "Fatboy Slim",
@@ -243,24 +243,20 @@
           "plays": 16
         },
         {
-          "artist": "442oons",
-          "plays": 15
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 14
-        },
-        {
           "artist": "Stevie Nicks",
           "plays": 12
         },
         {
-          "artist": "Joe Dassin",
-          "plays": 9
+          "artist": "France Football Anthem",
+          "plays": 11
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 7
+          "artist": "442oons",
+          "plays": 8
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 8
         },
         {
           "artist": "Daft Punk",
@@ -268,26 +264,18 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 6
+          "plays": 5
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 3
         },
         {
           "artist": "Paul Kalkbrenner",
-          "plays": 3
-        },
-        {
-          "artist": "Galantis",
-          "plays": 3
-        },
-        {
-          "artist": "Shawn Mendes",
-          "plays": 3
-        },
-        {
-          "artist": "Polo & Pan",
           "plays": 2
         },
         {
-          "artist": "Chicago",
+          "artist": "Shawn Mendes",
           "plays": 2
         },
         {
@@ -299,19 +287,7 @@
           "plays": 1
         },
         {
-          "artist": "Angèle",
-          "plays": 1
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 1
-        },
-        {
           "artist": "Kraftwerk",
-          "plays": 1
-        },
-        {
-          "artist": "Pink Floyd",
           "plays": 1
         },
         {
@@ -325,52 +301,72 @@
         {
           "artist": "Cigarettes After Sex",
           "plays": 1
+        },
+        {
+          "artist": "The Cardigans",
+          "plays": 1
+        },
+        {
+          "artist": "Supermode",
+          "plays": 1
+        },
+        {
+          "artist": "Chris Brown",
+          "plays": 1
+        },
+        {
+          "artist": "Avicii",
+          "plays": 1
+        },
+        {
+          "artist": "Rick Astley",
+          "plays": 1
+        },
+        {
+          "artist": "Fugees",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 272
-        },
-        {
-          "genre": "Electronic",
-          "plays": 22
+          "plays": 218
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 22
-        },
-        {
-          "genre": "Pop",
           "plays": 21
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Pop",
           "plays": 19
         },
         {
-          "genre": "Rock",
+          "genre": "Electronic",
           "plays": 18
         },
         {
-          "genre": "Comedy",
+          "genre": "Rock",
+          "plays": 17
+        },
+        {
+          "genre": "Variete Francaise",
           "plays": 15
         },
         {
           "genre": "mashup",
-          "plays": 12
-        },
-        {
-          "genre": "Variété française",
           "plays": 8
         },
         {
-          "genre": "Alternative",
+          "genre": "Comedy",
+          "plays": 8
+        },
+        {
+          "genre": "Variété française",
           "plays": 7
         },
         {
-          "genre": "Soft Rock",
-          "plays": 3
+          "genre": "Alternative",
+          "plays": 6
         },
         {
           "genre": "Lowfi",
@@ -382,6 +378,10 @@
         },
         {
           "genre": "Latin",
+          "plays": 2
+        },
+        {
+          "genre": "Soft Rock",
           "plays": 2
         },
         {
@@ -398,14 +398,6 @@
         },
         {
           "genre": "R & B",
-          "plays": 1
-        },
-        {
-          "genre": "French Pop",
-          "plays": 1
-        },
-        {
-          "genre": "Musique francophone",
           "plays": 1
         },
         {
@@ -427,13 +419,21 @@
         {
           "genre": "Disco",
           "plays": 1
+        },
+        {
+          "genre": "Arabic",
+          "plays": 1
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 244,
+          "plays": 196,
           "genre": "Dance"
         },
         {
@@ -443,34 +443,28 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 14,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Edge of Seventeen",
           "artist": "Stevie Nicks",
           "plays": 12,
           "genre": "Rock"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 11,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Happy Birthday",
           "artist": "Joe Dassin",
-          "plays": 8,
+          "plays": 7,
           "genre": "Variété française"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 7,
+          "plays": 5,
           "genre": "Comedy"
-        },
-        {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 6,
-          "genre": "mashup"
         },
         {
           "song": "Decade Mixtape 90's",
@@ -485,34 +479,22 @@
           "genre": "Dance"
         },
         {
-          "song": "Sky and Sand",
-          "artist": "Paul Kalkbrenner",
-          "plays": 3,
-          "genre": "Electronic"
+          "song": "1992 - 2002 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 2,
+          "genre": "mashup"
         },
         {
-          "song": "Peanut Butter Jelly",
-          "artist": "Galantis",
-          "plays": 3,
-          "genre": "Dance"
+          "song": "Sky and Sand",
+          "artist": "Paul Kalkbrenner",
+          "plays": 2,
+          "genre": "Electronic"
         },
         {
           "song": "Lost In Japan (Remix)",
           "artist": "Shawn Mendes",
-          "plays": 3,
+          "plays": 2,
           "genre": "Electronic"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 2,
-          "genre": "Comedy"
         },
         {
           "song": "Spectre",
@@ -527,40 +509,16 @@
           "genre": "Comedy"
         },
         {
-          "song": "Klopp to the Kop",
-          "artist": "442oons",
-          "plays": 1,
-          "genre": "Comedy"
-        },
-        {
           "song": "I think I like it",
           "artist": "Fake Blood",
           "plays": 1,
           "genre": "Electronic"
         },
         {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
           "song": "Aéro Dynamik",
           "artist": "Kraftwerk",
           "plays": 1,
           "genre": "Electronique"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 1,
-          "genre": "Rock"
         },
         {
           "song": "Smooth",
@@ -579,96 +537,78 @@
           "artist": "The Cardigans",
           "plays": 1,
           "genre": "Pop"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Yeah 3X",
+          "artist": "Chris Brown",
+          "plays": 1,
+          "genre": "R&B/Soul"
+        },
+        {
+          "song": "Never Gonna Wake You Up (NilsOfficial Mashup)",
+          "artist": "Avicii & Rick Astley",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "Killing Me Softly With His Song",
+          "artist": "Fugees",
+          "plays": 1,
+          "genre": "R & B"
+        },
+        {
+          "song": "Ride It",
+          "artist": "Regard",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Face to Face",
+          "artist": "Daft Punk",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Mr. Blue Sky",
+          "artist": "Electric Light Orchestra",
+          "plays": 1,
+          "genre": "Rock"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1406,
+      "total_plays": 1050,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 255
+          "plays": 207
         },
         {
           "artist": "Milky",
-          "plays": 245
+          "plays": 197
         },
         {
           "artist": "442oons",
-          "plays": 76
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 38
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 27
-        },
-        {
-          "artist": "The Glitch Mob",
-          "plays": 26
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 25
-        },
-        {
-          "artist": "Angèle",
-          "plays": 24
-        },
-        {
-          "artist": "Serge Gainsbourg",
-          "plays": 24
-        },
-        {
-          "artist": "Chicago",
-          "plays": 24
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 24
+          "plays": 69
         },
         {
           "artist": "Dayglow",
           "plays": 23
         },
         {
-          "artist": "Calvin Harris",
-          "plays": 23
-        },
-        {
-          "artist": "Miossec",
-          "plays": 23
-        },
-        {
-          "artist": "Doechii",
-          "plays": 23
-        },
-        {
-          "artist": "Le Nonsense",
-          "plays": 23
-        },
-        {
-          "artist": "Poolside",
-          "plays": 23
-        },
-        {
-          "artist": "Yolanda Be Cool & DCUP",
-          "plays": 23
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 22
+          "artist": "France Football Anthem",
+          "plays": 21
         },
         {
           "artist": "Electronic",
-          "plays": 21
-        },
-        {
-          "artist": "MIdnight Runners",
-          "plays": 21
+          "plays": 20
         },
         {
           "artist": "Visitor",
@@ -685,52 +625,100 @@
         {
           "artist": "Oliver Heldens",
           "plays": 18
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 17
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 17
+        },
+        {
+          "artist": "Beastie Boys",
+          "plays": 17
+        },
+        {
+          "artist": "Avicii",
+          "plays": 15
+        },
+        {
+          "artist": "Cassius",
+          "plays": 14
+        },
+        {
+          "artist": "Laufey",
+          "plays": 14
+        },
+        {
+          "artist": "Stevie Nicks",
+          "plays": 12
+        },
+        {
+          "artist": "Pink Floyd",
+          "plays": 10
+        },
+        {
+          "artist": "Shawn Mendes",
+          "plays": 10
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 9
+        },
+        {
+          "artist": "Steve Reich",
+          "plays": 9
+        },
+        {
+          "artist": "HNNY",
+          "plays": 9
+        },
+        {
+          "artist": "Yolanda Be Cool & DCUP",
+          "plays": 9
+        },
+        {
+          "artist": "Nocti",
+          "plays": 8
+        },
+        {
+          "artist": "Tom Misch",
+          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 432
+          "plays": 306
         },
         {
           "genre": "Electronic",
-          "plays": 163
+          "plays": 123
         },
         {
           "genre": "Pop",
-          "plays": 129
-        },
-        {
-          "genre": "Alternative",
-          "plays": 88
+          "plays": 109
         },
         {
           "genre": "Comedy",
-          "plays": 84
+          "plays": 77
+        },
+        {
+          "genre": "Alternative",
+          "plays": 67
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 79
+          "plays": 58
         },
         {
           "genre": "Variete Francaise",
-          "plays": 75
+          "plays": 51
         },
         {
           "genre": "Rock",
-          "plays": 65
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 32
-        },
-        {
-          "genre": "French Pop",
-          "plays": 27
-        },
-        {
-          "genre": "Indie",
-          "plays": 25
+          "plays": 48
         },
         {
           "genre": "Future Funk",
@@ -738,11 +726,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 23
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 23
+          "plays": 19
         },
         {
           "genre": "Classic Rock",
@@ -757,16 +741,32 @@
           "plays": 11
         },
         {
+          "genre": "Soft Rock",
+          "plays": 11
+        },
+        {
           "genre": "Variété française",
-          "plays": 10
+          "plays": 9
         },
         {
           "genre": "Latin",
           "plays": 9
         },
         {
+          "genre": "French Pop",
+          "plays": 8
+        },
+        {
           "genre": "House",
           "plays": 8
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
+        },
+        {
+          "genre": "Musique francophone",
+          "plays": 6
         },
         {
           "genre": "City Pop",
@@ -793,50 +793,20 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 244,
+          "plays": 196,
           "genre": "Dance"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 32,
+          "plays": 30,
           "genre": "Comedy"
         },
         {
           "song": "Premier League Song",
           "artist": "442oons",
-          "plays": 27,
+          "plays": 25,
           "genre": "Comedy"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 23,
-          "genre": "Rock"
         },
         {
           "song": "Can I Call You Tonight",
@@ -845,76 +815,16 @@
           "genre": "Alternative"
         },
         {
-          "song": "My Way",
-          "artist": "Calvin Harris",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
-          "song": "La facture d'électricité",
-          "artist": "Miossec",
-          "plays": 23,
-          "genre": "French Pop"
-        },
-        {
-          "song": "No Comment",
-          "artist": "Serge Gainsbourg",
-          "plays": 23,
-          "genre": "Musique francophone"
-        },
-        {
-          "song": "You're The Inspiration",
-          "artist": "Chicago",
-          "plays": 23,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "What It Is ft. Kodak Black",
-          "artist": "Doechii",
-          "plays": 23,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Soulreply (Le Nonsense Remix)",
-          "artist": "Le Nonsense",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
-          "song": "Harvest Moon",
-          "artist": "Poolside",
-          "plays": 23,
-          "genre": "Indie"
-        },
-        {
-          "song": "We No Speak Americano",
-          "artist": "Yolanda Be Cool & DCUP",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
-          "song": "We Can Make The World Stop",
-          "artist": "The Glitch Mob",
-          "plays": 23,
-          "genre": "Electronic"
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 21,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Disappointed",
           "artist": "Electronic",
-          "plays": 21,
+          "plays": 20,
           "genre": "Pop"
-        },
-        {
-          "song": "Come On Eileen!",
-          "artist": "MIdnight Runners",
-          "plays": 21,
-          "genre": "Pop"
-        },
-        {
-          "song": "Trust in Me (Polo & Pan Remix)",
-          "artist": "Polo & Pan",
-          "plays": 21,
-          "genre": "Electronic"
         },
         {
           "song": "Godzilla",
@@ -939,47 +849,125 @@
           "artist": "Beastie Boys & Fatboy Slim",
           "plays": 17,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
+          "genre": "Dance"
+        },
+        {
+          "song": "From The Start",
+          "artist": "Laufey",
+          "plays": 14,
+          "genre": "Ambient"
+        },
+        {
+          "song": "Edge of Seventeen",
+          "artist": "Stevie Nicks",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Lost In Japan (Remix)",
+          "artist": "Shawn Mendes",
+          "plays": 10,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Nagoya Marimba (HNNY Extended Remake)",
+          "artist": "Steve Reich and HNNY",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
+          "song": "We No Speak Americano",
+          "artist": "Yolanda Be Cool & DCUP",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
+          "song": "Little Demons",
+          "artist": "Nocti",
+          "plays": 8,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Who Dat Boy",
+          "artist": "Tyler, The Creator",
+          "plays": 8,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "We Didn't Start the Fire",
+          "artist": "Billy Joel",
+          "plays": 8,
+          "genre": "Rock"
+        },
+        {
+          "song": "Happy Birthday",
+          "artist": "Joe Dassin",
+          "plays": 7,
+          "genre": "Variété française"
+        },
+        {
+          "song": "Windy Summer",
+          "artist": "Anri & Night Tempo",
+          "plays": 7,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Comfortably Numb",
+          "artist": "Pink Floyd",
+          "plays": 6,
+          "genre": "Rock"
+        },
+        {
+          "song": "No Comment",
+          "artist": "Serge Gainsbourg",
+          "plays": 6,
+          "genre": "Musique francophone"
+        },
+        {
+          "song": "Harvest Moon",
+          "artist": "Poolside",
+          "plays": 6,
+          "genre": "Indie"
+        },
+        {
+          "song": "Cos I Love You",
+          "artist": "Tom Misch",
+          "plays": 5,
+          "genre": "Alternative"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2522,
+      "total_plays": 1881,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 292
+          "plays": 244
         },
         {
           "artist": "David Guetta",
-          "plays": 255
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 137
-        },
-        {
-          "artist": "442oons",
-          "plays": 106
+          "plays": 207
         },
         {
           "artist": "Luther Vandross",
           "plays": 96
         },
         {
-          "artist": "Calvin Harris",
-          "plays": 75
+          "artist": "442oons",
+          "plays": 89
         },
         {
           "artist": "France Football Anthem",
-          "plays": 69
+          "plays": 66
         },
         {
-          "artist": "Cour De Recré",
-          "plays": 60
-        },
-        {
-          "artist": "Bon Entendeur",
+          "artist": "Calvin Harris",
           "plays": 54
         },
         {
@@ -992,141 +980,133 @@
         },
         {
           "artist": "Supermode",
-          "plays": 45
+          "plays": 44
         },
         {
           "artist": "Maya",
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
-          "plays": 36
-        },
-        {
           "artist": "Daft Punk",
-          "plays": 35
+          "plays": 34
         },
         {
-          "artist": "Pink Floyd",
-          "plays": 28
+          "artist": "Bon Entendeur",
+          "plays": 31
         },
         {
-          "artist": "The Glitch Mob",
-          "plays": 27
-        },
-        {
-          "artist": "Taylor Swift",
-          "plays": 27
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 25
-        },
-        {
-          "artist": "Chicago",
-          "plays": 25
-        },
-        {
-          "artist": "Angèle",
-          "plays": 24
-        },
-        {
-          "artist": "Serge Gainsbourg",
-          "plays": 24
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 24
+          "artist": "Nihonzera",
+          "plays": 26
         },
         {
           "artist": "Dayglow",
           "plays": 23
         },
         {
-          "artist": "Miossec",
-          "plays": 23
+          "artist": "Electronic",
+          "plays": 20
+        },
+        {
+          "artist": "Fatboy Slim",
+          "plays": 20
+        },
+        {
+          "artist": "Visitor",
+          "plays": 19
+        },
+        {
+          "artist": "Blue Oyster Cult",
+          "plays": 19
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
+          "plays": 18
+        },
+        {
+          "artist": "Beastie Boys",
+          "plays": 18
+        },
+        {
+          "artist": "Taylor Swift",
+          "plays": 17
+        },
+        {
+          "artist": "Avicii",
+          "plays": 16
+        },
+        {
+          "artist": "Roudoudou",
+          "plays": 16
+        },
+        {
+          "artist": "Laufey",
+          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 617
-        },
-        {
-          "genre": "Electronic",
           "plays": 486
         },
         {
+          "genre": "Electronic",
+          "plays": 257
+        },
+        {
           "genre": "Pop",
-          "plays": 247
+          "plays": 211
         },
         {
           "genre": "Variete Francaise",
-          "plays": 206
+          "plays": 169
         },
         {
           "genre": "Soft Rock",
-          "plays": 141
+          "plays": 114
         },
         {
           "genre": "Comedy",
-          "plays": 115
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 102
-        },
-        {
-          "genre": "Alternative",
           "plays": 98
         },
         {
-          "genre": "Rock",
-          "plays": 74
+          "genre": "Hip Hop/Rap",
+          "plays": 79
         },
         {
-          "genre": "Vaporwave",
-          "plays": 36
+          "genre": "Alternative",
+          "plays": 76
+        },
+        {
+          "genre": "Rock",
+          "plays": 56
         },
         {
           "genre": "mashup",
-          "plays": 32
-        },
-        {
-          "genre": "Disco",
-          "plays": 30
-        },
-        {
-          "genre": "French Pop",
-          "plays": 28
+          "plays": 27
         },
         {
           "genre": "Future Funk",
-          "plays": 28
+          "plays": 27
         },
         {
           "genre": "House",
           "plays": 26
         },
         {
-          "genre": "Indie",
-          "plays": 25
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 23
+          "genre": "Vaporwave",
+          "plays": 26
         },
         {
           "genre": "Oldies",
           "plays": 22
         },
         {
-          "genre": "Britpop",
-          "plays": 21
-        },
-        {
-          "genre": "Folk",
-          "plays": 20
+          "genre": "Disco",
+          "plays": 19
         },
         {
           "genre": "Classic Rock",
@@ -1141,26 +1121,40 @@
           "plays": 16
         },
         {
+          "genre": "Folk",
+          "plays": 15
+        },
+        {
           "genre": "Variété française",
-          "plays": 11
+          "plays": 10
+        },
+        {
+          "genre": "French Pop",
+          "plays": 9
         },
         {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Latin",
+          "plays": 9
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 8
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         }
       ],
       "top_tracks": [
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 244,
+          "plays": 196,
           "genre": "Dance"
-        },
-        {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 137,
-          "genre": "Electronic"
         },
         {
           "song": "Never Too Much",
@@ -1171,14 +1165,8 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 69,
+          "plays": 66,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 60,
-          "genre": "Electronic"
         },
         {
           "song": "Flying Fingers",
@@ -1201,13 +1189,13 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 45,
+          "plays": 44,
           "genre": "Dance"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 44,
+          "plays": 42,
           "genre": "Comedy"
         },
         {
@@ -1219,44 +1207,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 36,
+          "plays": 26,
           "genre": "Vaporwave"
         },
         {
           "song": "Premier League Song",
           "artist": "442oons",
-          "plays": 27,
+          "plays": 25,
           "genre": "Comedy"
-        },
-        {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 27,
-          "genre": "Pop"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 23,
-          "genre": "Rock"
         },
         {
           "song": "Can I Call You Tonight",
@@ -1265,81 +1223,111 @@
           "genre": "Alternative"
         },
         {
-          "song": "My Way",
-          "artist": "Calvin Harris",
-          "plays": 23,
-          "genre": "Dance"
+          "song": "Disappointed",
+          "artist": "Electronic",
+          "plays": 20,
+          "genre": "Pop"
         },
         {
-          "song": "La facture d'électricité",
-          "artist": "Miossec",
-          "plays": 23,
-          "genre": "French Pop"
+          "song": "Godzilla",
+          "artist": "Blue Oyster Cult",
+          "plays": 19,
+          "genre": "Classic Rock"
         },
         {
-          "song": "No Comment",
-          "artist": "Serge Gainsbourg",
-          "plays": 23,
-          "genre": "Musique francophone"
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 18,
+          "genre": "Electronic"
         },
         {
-          "song": "You're The Inspiration",
-          "artist": "Chicago",
-          "plays": 23,
-          "genre": "Soft Rock"
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
         },
         {
-          "song": "What It Is ft. Kodak Black",
-          "artist": "Doechii",
-          "plays": 23,
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Body Movin' (Fatboy Slim Remix)",
+          "artist": "Beastie Boys & Fatboy Slim",
+          "plays": 18,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Soulreply (Le Nonsense Remix)",
-          "artist": "Le Nonsense",
-          "plays": 23,
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "plays": 17,
+          "genre": "Pop"
+        },
+        {
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
+          "plays": 16,
+          "genre": "Electronic"
+        },
+        {
+          "song": "From The Start",
+          "artist": "Laufey",
+          "plays": 16,
+          "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
           "genre": "Dance"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Edge of Seventeen",
+          "artist": "Stevie Nicks",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 2522,
+      "total_plays": 1881,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 292
+          "plays": 244
         },
         {
           "artist": "David Guetta",
-          "plays": 255
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 137
-        },
-        {
-          "artist": "442oons",
-          "plays": 106
+          "plays": 207
         },
         {
           "artist": "Luther Vandross",
           "plays": 96
         },
         {
-          "artist": "Calvin Harris",
-          "plays": 75
+          "artist": "442oons",
+          "plays": 89
         },
         {
           "artist": "France Football Anthem",
-          "plays": 69
+          "plays": 66
         },
         {
-          "artist": "Cour De Recré",
-          "plays": 60
-        },
-        {
-          "artist": "Bon Entendeur",
+          "artist": "Calvin Harris",
           "plays": 54
         },
         {
@@ -1352,141 +1340,133 @@
         },
         {
           "artist": "Supermode",
-          "plays": 45
+          "plays": 44
         },
         {
           "artist": "Maya",
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
-          "plays": 36
-        },
-        {
           "artist": "Daft Punk",
-          "plays": 35
+          "plays": 34
         },
         {
-          "artist": "Pink Floyd",
-          "plays": 28
+          "artist": "Bon Entendeur",
+          "plays": 31
         },
         {
-          "artist": "The Glitch Mob",
-          "plays": 27
-        },
-        {
-          "artist": "Taylor Swift",
-          "plays": 27
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 25
-        },
-        {
-          "artist": "Chicago",
-          "plays": 25
-        },
-        {
-          "artist": "Angèle",
-          "plays": 24
-        },
-        {
-          "artist": "Serge Gainsbourg",
-          "plays": 24
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 24
+          "artist": "Nihonzera",
+          "plays": 26
         },
         {
           "artist": "Dayglow",
           "plays": 23
         },
         {
-          "artist": "Miossec",
-          "plays": 23
+          "artist": "Electronic",
+          "plays": 20
+        },
+        {
+          "artist": "Fatboy Slim",
+          "plays": 20
+        },
+        {
+          "artist": "Visitor",
+          "plays": 19
+        },
+        {
+          "artist": "Blue Oyster Cult",
+          "plays": 19
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
+          "plays": 18
+        },
+        {
+          "artist": "Beastie Boys",
+          "plays": 18
+        },
+        {
+          "artist": "Taylor Swift",
+          "plays": 17
+        },
+        {
+          "artist": "Avicii",
+          "plays": 16
+        },
+        {
+          "artist": "Roudoudou",
+          "plays": 16
+        },
+        {
+          "artist": "Laufey",
+          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 617
-        },
-        {
-          "genre": "Electronic",
           "plays": 486
         },
         {
+          "genre": "Electronic",
+          "plays": 257
+        },
+        {
           "genre": "Pop",
-          "plays": 247
+          "plays": 211
         },
         {
           "genre": "Variete Francaise",
-          "plays": 206
+          "plays": 169
         },
         {
           "genre": "Soft Rock",
-          "plays": 141
+          "plays": 114
         },
         {
           "genre": "Comedy",
-          "plays": 115
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 102
-        },
-        {
-          "genre": "Alternative",
           "plays": 98
         },
         {
-          "genre": "Rock",
-          "plays": 74
+          "genre": "Hip Hop/Rap",
+          "plays": 79
         },
         {
-          "genre": "Vaporwave",
-          "plays": 36
+          "genre": "Alternative",
+          "plays": 76
+        },
+        {
+          "genre": "Rock",
+          "plays": 56
         },
         {
           "genre": "mashup",
-          "plays": 32
-        },
-        {
-          "genre": "Disco",
-          "plays": 30
-        },
-        {
-          "genre": "French Pop",
-          "plays": 28
+          "plays": 27
         },
         {
           "genre": "Future Funk",
-          "plays": 28
+          "plays": 27
         },
         {
           "genre": "House",
           "plays": 26
         },
         {
-          "genre": "Indie",
-          "plays": 25
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 23
+          "genre": "Vaporwave",
+          "plays": 26
         },
         {
           "genre": "Oldies",
           "plays": 22
         },
         {
-          "genre": "Britpop",
-          "plays": 21
-        },
-        {
-          "genre": "Folk",
-          "plays": 20
+          "genre": "Disco",
+          "plays": 19
         },
         {
           "genre": "Classic Rock",
@@ -1501,26 +1481,40 @@
           "plays": 16
         },
         {
+          "genre": "Folk",
+          "plays": 15
+        },
+        {
           "genre": "Variété française",
-          "plays": 11
+          "plays": 10
+        },
+        {
+          "genre": "French Pop",
+          "plays": 9
         },
         {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Latin",
+          "plays": 9
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 8
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         }
       ],
       "top_tracks": [
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 244,
+          "plays": 196,
           "genre": "Dance"
-        },
-        {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 137,
-          "genre": "Electronic"
         },
         {
           "song": "Never Too Much",
@@ -1531,14 +1525,8 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 69,
+          "plays": 66,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 60,
-          "genre": "Electronic"
         },
         {
           "song": "Flying Fingers",
@@ -1561,13 +1549,13 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 45,
+          "plays": 44,
           "genre": "Dance"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 44,
+          "plays": 42,
           "genre": "Comedy"
         },
         {
@@ -1579,44 +1567,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 36,
+          "plays": 26,
           "genre": "Vaporwave"
         },
         {
           "song": "Premier League Song",
           "artist": "442oons",
-          "plays": 27,
+          "plays": 25,
           "genre": "Comedy"
-        },
-        {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 27,
-          "genre": "Pop"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 23,
-          "genre": "Rock"
         },
         {
           "song": "Can I Call You Tonight",
@@ -1625,81 +1583,111 @@
           "genre": "Alternative"
         },
         {
-          "song": "My Way",
-          "artist": "Calvin Harris",
-          "plays": 23,
-          "genre": "Dance"
+          "song": "Disappointed",
+          "artist": "Electronic",
+          "plays": 20,
+          "genre": "Pop"
         },
         {
-          "song": "La facture d'électricité",
-          "artist": "Miossec",
-          "plays": 23,
-          "genre": "French Pop"
+          "song": "Godzilla",
+          "artist": "Blue Oyster Cult",
+          "plays": 19,
+          "genre": "Classic Rock"
         },
         {
-          "song": "No Comment",
-          "artist": "Serge Gainsbourg",
-          "plays": 23,
-          "genre": "Musique francophone"
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 18,
+          "genre": "Electronic"
         },
         {
-          "song": "You're The Inspiration",
-          "artist": "Chicago",
-          "plays": 23,
-          "genre": "Soft Rock"
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
         },
         {
-          "song": "What It Is ft. Kodak Black",
-          "artist": "Doechii",
-          "plays": 23,
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Body Movin' (Fatboy Slim Remix)",
+          "artist": "Beastie Boys & Fatboy Slim",
+          "plays": 18,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Soulreply (Le Nonsense Remix)",
-          "artist": "Le Nonsense",
-          "plays": 23,
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "plays": 17,
+          "genre": "Pop"
+        },
+        {
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
+          "plays": 16,
+          "genre": "Electronic"
+        },
+        {
+          "song": "From The Start",
+          "artist": "Laufey",
+          "plays": 16,
+          "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
           "genre": "Dance"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Edge of Seventeen",
+          "artist": "Stevie Nicks",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 2522,
+      "total_plays": 1881,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 292
+          "plays": 244
         },
         {
           "artist": "David Guetta",
-          "plays": 255
-        },
-        {
-          "artist": "Roudoudou",
-          "plays": 137
-        },
-        {
-          "artist": "442oons",
-          "plays": 106
+          "plays": 207
         },
         {
           "artist": "Luther Vandross",
           "plays": 96
         },
         {
-          "artist": "Calvin Harris",
-          "plays": 75
+          "artist": "442oons",
+          "plays": 89
         },
         {
           "artist": "France Football Anthem",
-          "plays": 69
+          "plays": 66
         },
         {
-          "artist": "Cour De Recré",
-          "plays": 60
-        },
-        {
-          "artist": "Bon Entendeur",
+          "artist": "Calvin Harris",
           "plays": 54
         },
         {
@@ -1712,141 +1700,133 @@
         },
         {
           "artist": "Supermode",
-          "plays": 45
+          "plays": 44
         },
         {
           "artist": "Maya",
           "plays": 40
         },
         {
-          "artist": "Nihonzera",
-          "plays": 36
-        },
-        {
           "artist": "Daft Punk",
-          "plays": 35
+          "plays": 34
         },
         {
-          "artist": "Pink Floyd",
-          "plays": 28
+          "artist": "Bon Entendeur",
+          "plays": 31
         },
         {
-          "artist": "The Glitch Mob",
-          "plays": 27
-        },
-        {
-          "artist": "Taylor Swift",
-          "plays": 27
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 25
-        },
-        {
-          "artist": "Chicago",
-          "plays": 25
-        },
-        {
-          "artist": "Angèle",
-          "plays": 24
-        },
-        {
-          "artist": "Serge Gainsbourg",
-          "plays": 24
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 24
+          "artist": "Nihonzera",
+          "plays": 26
         },
         {
           "artist": "Dayglow",
           "plays": 23
         },
         {
-          "artist": "Miossec",
-          "plays": 23
+          "artist": "Electronic",
+          "plays": 20
+        },
+        {
+          "artist": "Fatboy Slim",
+          "plays": 20
+        },
+        {
+          "artist": "Visitor",
+          "plays": 19
+        },
+        {
+          "artist": "Blue Oyster Cult",
+          "plays": 19
+        },
+        {
+          "artist": "Préface",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
+          "plays": 18
+        },
+        {
+          "artist": "Beastie Boys",
+          "plays": 18
+        },
+        {
+          "artist": "Taylor Swift",
+          "plays": 17
+        },
+        {
+          "artist": "Avicii",
+          "plays": 16
+        },
+        {
+          "artist": "Roudoudou",
+          "plays": 16
+        },
+        {
+          "artist": "Laufey",
+          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 617
-        },
-        {
-          "genre": "Electronic",
           "plays": 486
         },
         {
+          "genre": "Electronic",
+          "plays": 257
+        },
+        {
           "genre": "Pop",
-          "plays": 247
+          "plays": 211
         },
         {
           "genre": "Variete Francaise",
-          "plays": 206
+          "plays": 169
         },
         {
           "genre": "Soft Rock",
-          "plays": 141
+          "plays": 114
         },
         {
           "genre": "Comedy",
-          "plays": 115
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 102
-        },
-        {
-          "genre": "Alternative",
           "plays": 98
         },
         {
-          "genre": "Rock",
-          "plays": 74
+          "genre": "Hip Hop/Rap",
+          "plays": 79
         },
         {
-          "genre": "Vaporwave",
-          "plays": 36
+          "genre": "Alternative",
+          "plays": 76
+        },
+        {
+          "genre": "Rock",
+          "plays": 56
         },
         {
           "genre": "mashup",
-          "plays": 32
-        },
-        {
-          "genre": "Disco",
-          "plays": 30
-        },
-        {
-          "genre": "French Pop",
-          "plays": 28
+          "plays": 27
         },
         {
           "genre": "Future Funk",
-          "plays": 28
+          "plays": 27
         },
         {
           "genre": "House",
           "plays": 26
         },
         {
-          "genre": "Indie",
-          "plays": 25
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 23
+          "genre": "Vaporwave",
+          "plays": 26
         },
         {
           "genre": "Oldies",
           "plays": 22
         },
         {
-          "genre": "Britpop",
-          "plays": 21
-        },
-        {
-          "genre": "Folk",
-          "plays": 20
+          "genre": "Disco",
+          "plays": 19
         },
         {
           "genre": "Classic Rock",
@@ -1861,26 +1841,40 @@
           "plays": 16
         },
         {
+          "genre": "Folk",
+          "plays": 15
+        },
+        {
           "genre": "Variété française",
-          "plays": 11
+          "plays": 10
+        },
+        {
+          "genre": "French Pop",
+          "plays": 9
         },
         {
           "genre": "Jazz",
           "plays": 9
+        },
+        {
+          "genre": "Latin",
+          "plays": 9
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 8
+        },
+        {
+          "genre": "Indie",
+          "plays": 8
         }
       ],
       "top_tracks": [
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 244,
+          "plays": 196,
           "genre": "Dance"
-        },
-        {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 137,
-          "genre": "Electronic"
         },
         {
           "song": "Never Too Much",
@@ -1891,14 +1885,8 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 69,
+          "plays": 66,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "GiscardPunk",
-          "artist": "Cour De Recré",
-          "plays": 60,
-          "genre": "Electronic"
         },
         {
           "song": "Flying Fingers",
@@ -1921,13 +1909,13 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 45,
+          "plays": 44,
           "genre": "Dance"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 44,
+          "plays": 42,
           "genre": "Comedy"
         },
         {
@@ -1939,44 +1927,14 @@
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
           "artist": "Nihonzera",
-          "plays": 36,
+          "plays": 26,
           "genre": "Vaporwave"
         },
         {
           "song": "Premier League Song",
           "artist": "442oons",
-          "plays": 27,
+          "plays": 25,
           "genre": "Comedy"
-        },
-        {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 27,
-          "genre": "Pop"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Decade Mixtape 60's",
-          "artist": "Bon Entendeur",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "In My Place",
-          "artist": "Coldplay",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 23,
-          "genre": "Rock"
         },
         {
           "song": "Can I Call You Tonight",
@@ -1985,40 +1943,82 @@
           "genre": "Alternative"
         },
         {
-          "song": "My Way",
-          "artist": "Calvin Harris",
-          "plays": 23,
-          "genre": "Dance"
+          "song": "Disappointed",
+          "artist": "Electronic",
+          "plays": 20,
+          "genre": "Pop"
         },
         {
-          "song": "La facture d'électricité",
-          "artist": "Miossec",
-          "plays": 23,
-          "genre": "French Pop"
+          "song": "Godzilla",
+          "artist": "Blue Oyster Cult",
+          "plays": 19,
+          "genre": "Classic Rock"
         },
         {
-          "song": "No Comment",
-          "artist": "Serge Gainsbourg",
-          "plays": 23,
-          "genre": "Musique francophone"
+          "song": "Los Feeling (Alan Braxe Remix)",
+          "artist": "Visitor & Alan Braxe",
+          "plays": 18,
+          "genre": "Electronic"
         },
         {
-          "song": "You're The Inspiration",
-          "artist": "Chicago",
-          "plays": 23,
-          "genre": "Soft Rock"
+          "song": "Palace hotel",
+          "artist": "Préface",
+          "plays": 18,
+          "genre": "Variete Francaise"
         },
         {
-          "song": "What It Is ft. Kodak Black",
-          "artist": "Doechii",
-          "plays": 23,
+          "song": "Gecko (Original Mix)",
+          "artist": "Oliver Heldens",
+          "plays": 18,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Body Movin' (Fatboy Slim Remix)",
+          "artist": "Beastie Boys & Fatboy Slim",
+          "plays": 18,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Soulreply (Le Nonsense Remix)",
-          "artist": "Le Nonsense",
-          "plays": 23,
+          "song": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "plays": 17,
+          "genre": "Pop"
+        },
+        {
+          "song": "Peace And Tranquility To Earth",
+          "artist": "Roudoudou",
+          "plays": 16,
+          "genre": "Electronic"
+        },
+        {
+          "song": "From The Start",
+          "artist": "Laufey",
+          "plays": 16,
+          "genre": "Ambient"
+        },
+        {
+          "song": "My Feelings for You (Original Mix)",
+          "artist": "Avicii & Sebastien Drums & Cassius",
+          "plays": 14,
           "genre": "Dance"
+        },
+        {
+          "song": "I Can't Wait",
+          "artist": "Bob Sinclar",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Edge of Seventeen",
+          "artist": "Stevie Nicks",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Break My Love",
+          "artist": "RÜFÜS DU SOL",
+          "plays": 11,
+          "genre": "Pop"
         }
       ]
     }
@@ -2043,11 +2043,6 @@
       "date": "2026-06-08",
       "id": "0206ea2e72ea2631",
       "plays": 3
-    },
-    {
-      "date": "2026-06-10",
-      "id": "0206ea2e72ea2631",
-      "plays": 1
     },
     {
       "date": "2026-05-29",
@@ -2085,11 +2080,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "05933a0e30df18d2",
-      "plays": 1
-    },
-    {
       "date": "2026-05-29",
       "id": "059894de66c892ae",
       "plays": 1
@@ -2110,29 +2100,9 @@
       "plays": 2
     },
     {
-      "date": "2026-06-08",
-      "id": "06048179b9d5ea26",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "06048179b9d5ea26",
-      "plays": 1
-    },
-    {
       "date": "2026-06-07",
       "id": "0682789680d47f31",
       "plays": 2
-    },
-    {
-      "date": "2026-06-08",
-      "id": "0682789680d47f31",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "0682789680d47f31",
-      "plays": 1
     },
     {
       "date": "2026-06-11",
@@ -2145,24 +2115,9 @@
       "plays": 2
     },
     {
-      "date": "2026-06-12",
-      "id": "07461bbde20b1c3d",
-      "plays": 4
-    },
-    {
       "date": "2026-06-07",
       "id": "07b29556a6de8d8a",
       "plays": 6
-    },
-    {
-      "date": "2026-06-08",
-      "id": "07b29556a6de8d8a",
-      "plays": 16
-    },
-    {
-      "date": "2026-06-10",
-      "id": "07b29556a6de8d8a",
-      "plays": 1
     },
     {
       "date": "2026-05-10",
@@ -2193,11 +2148,6 @@
       "date": "2026-04-24",
       "id": "08538c93d3f8c5c6",
       "plays": 5
-    },
-    {
-      "date": "2026-04-26",
-      "id": "08538c93d3f8c5c6",
-      "plays": 50
     },
     {
       "date": "2026-05-02",
@@ -2295,17 +2245,7 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "0e3f3649e5de80c6",
-      "plays": 1
-    },
-    {
       "date": "2026-05-16",
-      "id": "0f2e9579f0496e24",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "0f2e9579f0496e24",
       "plays": 1
     },
@@ -2375,11 +2315,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "125fd55b49f40a54",
-      "plays": 1
-    },
-    {
       "date": "2026-06-10",
       "id": "125fd55b49f40a54",
       "plays": 1
@@ -2430,11 +2365,6 @@
       "plays": 1
     },
     {
-      "date": "2026-04-26",
-      "id": "147af573cb48f9de",
-      "plays": 10
-    },
-    {
       "date": "2026-05-28",
       "id": "14d38e1171836bb9",
       "plays": 1
@@ -2473,11 +2403,6 @@
       "date": "2026-06-08",
       "id": "163c3197ab2cab7e",
       "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "163c3197ab2cab7e",
-      "plays": 1
     },
     {
       "date": "2026-05-10",
@@ -2533,11 +2458,6 @@
       "date": "2026-06-08",
       "id": "1ce8468787591925",
       "plays": 3
-    },
-    {
-      "date": "2026-06-10",
-      "id": "1ce8468787591925",
-      "plays": 1
     },
     {
       "date": "2026-06-11",
@@ -2685,11 +2605,6 @@
       "plays": 2
     },
     {
-      "date": "2026-05-17",
-      "id": "284b8d3f68ff722e",
-      "plays": 2
-    },
-    {
       "date": "2026-05-28",
       "id": "284b8d3f68ff722e",
       "plays": 2
@@ -2706,11 +2621,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "29c77a4d46fcea4e",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "29c77a4d46fcea4e",
       "plays": 1
     },
@@ -2750,11 +2660,6 @@
       "plays": 2
     },
     {
-      "date": "2026-06-12",
-      "id": "2d2047c29074a015",
-      "plays": 1
-    },
-    {
       "date": "2026-05-21",
       "id": "2d7f4033df893f91",
       "plays": 1
@@ -2780,16 +2685,6 @@
       "plays": 2
     },
     {
-      "date": "2026-06-08",
-      "id": "2e5bf87ea5dd984c",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "2e5bf87ea5dd984c",
-      "plays": 1
-    },
-    {
       "date": "2026-05-29",
       "id": "2ee3f9d38e275edd",
       "plays": 1
@@ -2808,11 +2703,6 @@
       "date": "2026-06-11",
       "id": "309b672879b8ff42",
       "plays": 1
-    },
-    {
-      "date": "2026-06-12",
-      "id": "309b672879b8ff42",
-      "plays": 2
     },
     {
       "date": "2026-05-29",
@@ -2900,16 +2790,6 @@
       "plays": 4
     },
     {
-      "date": "2026-06-08",
-      "id": "36989176bcc31435",
-      "plays": 18
-    },
-    {
-      "date": "2026-06-10",
-      "id": "36989176bcc31435",
-      "plays": 1
-    },
-    {
       "date": "2026-06-15",
       "id": "3756b8dd1bfe05ac",
       "plays": 1
@@ -2921,11 +2801,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "3a1c1886e35e93f8",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "3a1c1886e35e93f8",
       "plays": 1
     },
@@ -2960,11 +2835,6 @@
       "plays": 2
     },
     {
-      "date": "2026-05-17",
-      "id": "3b62dd7766d1f537",
-      "plays": 2
-    },
-    {
       "date": "2026-06-02",
       "id": "3b62dd7766d1f537",
       "plays": 1
@@ -2978,16 +2848,6 @@
       "date": "2026-06-07",
       "id": "3b80e4197f63c391",
       "plays": 2
-    },
-    {
-      "date": "2026-06-08",
-      "id": "3b80e4197f63c391",
-      "plays": 18
-    },
-    {
-      "date": "2026-06-10",
-      "id": "3b80e4197f63c391",
-      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -3050,22 +2910,7 @@
       "plays": 6
     },
     {
-      "date": "2026-06-08",
-      "id": "41260f27f303eddd",
-      "plays": 16
-    },
-    {
-      "date": "2026-06-10",
-      "id": "41260f27f303eddd",
-      "plays": 1
-    },
-    {
       "date": "2026-05-16",
-      "id": "4178ea1835d510dd",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "4178ea1835d510dd",
       "plays": 1
     },
@@ -3200,16 +3045,6 @@
       "plays": 2
     },
     {
-      "date": "2026-06-08",
-      "id": "4d366de1529dbffa",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "4d366de1529dbffa",
-      "plays": 1
-    },
-    {
       "date": "2026-06-19",
       "id": "4d366de1529dbffa",
       "plays": 1
@@ -3290,11 +3125,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "505948207245436e",
-      "plays": 1
-    },
-    {
       "date": "2026-06-07",
       "id": "50afd10aa909c37c",
       "plays": 9
@@ -3303,11 +3133,6 @@
       "date": "2026-06-08",
       "id": "50afd10aa909c37c",
       "plays": 16
-    },
-    {
-      "date": "2026-06-10",
-      "id": "50afd10aa909c37c",
-      "plays": 2
     },
     {
       "date": "2026-06-06",
@@ -3430,11 +3255,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "5874cb6e8e0b297f",
-      "plays": 1
-    },
-    {
       "date": "2026-05-28",
       "id": "58bfb825853f598d",
       "plays": 1
@@ -3468,16 +3288,6 @@
       "date": "2026-06-07",
       "id": "5a77b513071c82bd",
       "plays": 4
-    },
-    {
-      "date": "2026-06-08",
-      "id": "5a77b513071c82bd",
-      "plays": 16
-    },
-    {
-      "date": "2026-06-10",
-      "id": "5a77b513071c82bd",
-      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -3575,16 +3385,6 @@
       "plays": 2
     },
     {
-      "date": "2026-06-08",
-      "id": "653cc9223100d841",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "653cc9223100d841",
-      "plays": 1
-    },
-    {
       "date": "2026-05-10",
       "id": "65d1283fbf587d98",
       "plays": 8
@@ -3600,17 +3400,7 @@
       "plays": 7
     },
     {
-      "date": "2026-06-15",
-      "id": "66f86a55a5aaf45c",
-      "plays": 1
-    },
-    {
       "date": "2026-05-16",
-      "id": "67642007cd04ab1a",
-      "plays": 2
-    },
-    {
-      "date": "2026-05-17",
       "id": "67642007cd04ab1a",
       "plays": 2
     },
@@ -3745,11 +3535,6 @@
       "plays": 9
     },
     {
-      "date": "2026-06-10",
-      "id": "6e6f5be12c14187a",
-      "plays": 3
-    },
-    {
       "date": "2026-06-16",
       "id": "6e6f5be12c14187a",
       "plays": 9
@@ -3835,16 +3620,6 @@
       "plays": 2
     },
     {
-      "date": "2026-06-08",
-      "id": "75ac71ab312dcc7c",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "75ac71ab312dcc7c",
-      "plays": 1
-    },
-    {
       "date": "2026-05-25",
       "id": "766a06c37a90d728",
       "plays": 8
@@ -3853,11 +3628,6 @@
       "date": "2026-06-11",
       "id": "766a06c37a90d728",
       "plays": 2
-    },
-    {
-      "date": "2026-06-12",
-      "id": "766a06c37a90d728",
-      "plays": 1
     },
     {
       "date": "2026-06-16",
@@ -3955,11 +3725,6 @@
       "plays": 7
     },
     {
-      "date": "2026-05-17",
-      "id": "7f2e6f83890c2007",
-      "plays": 7
-    },
-    {
       "date": "2026-05-21",
       "id": "7f2e6f83890c2007",
       "plays": 1
@@ -4045,11 +3810,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "8400b04d0d405e2a",
-      "plays": 1
-    },
-    {
       "date": "2026-06-16",
       "id": "8400b04d0d405e2a",
       "plays": 1
@@ -4085,22 +3845,12 @@
       "plays": 1
     },
     {
-      "date": "2026-04-26",
-      "id": "861cc3b82ae76c95",
-      "plays": 10
-    },
-    {
       "date": "2026-05-07",
       "id": "861cc3b82ae76c95",
       "plays": 1
     },
     {
       "date": "2026-05-16",
-      "id": "861cc3b82ae76c95",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "861cc3b82ae76c95",
       "plays": 1
     },
@@ -4185,11 +3935,6 @@
       "plays": 1
     },
     {
-      "date": "2026-04-26",
-      "id": "89a602a5057a08f8",
-      "plays": 10
-    },
-    {
       "date": "2026-04-30",
       "id": "89a602a5057a08f8",
       "plays": 4
@@ -4260,11 +4005,6 @@
       "plays": 1
     },
     {
-      "date": "2026-04-26",
-      "id": "8e935fe3ff0519db",
-      "plays": 10
-    },
-    {
       "date": "2026-05-29",
       "id": "8e94ce5752d2c3c2",
       "plays": 1
@@ -4296,11 +4036,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "9289203bbb1813bd",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "9289203bbb1813bd",
       "plays": 1
     },
@@ -4375,24 +4110,9 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "96b84717605bc3bb",
-      "plays": 1
-    },
-    {
       "date": "2026-06-07",
       "id": "97017becff0a3934",
       "plays": 3
-    },
-    {
-      "date": "2026-06-08",
-      "id": "97017becff0a3934",
-      "plays": 19
-    },
-    {
-      "date": "2026-06-10",
-      "id": "97017becff0a3934",
-      "plays": 1
     },
     {
       "date": "2026-06-10",
@@ -4451,11 +4171,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "9e19ca7d049b651f",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "9e19ca7d049b651f",
       "plays": 1
     },
@@ -4525,22 +4240,7 @@
       "plays": 6
     },
     {
-      "date": "2026-06-08",
-      "id": "a2786a051472d35e",
-      "plays": 16
-    },
-    {
-      "date": "2026-06-10",
-      "id": "a2786a051472d35e",
-      "plays": 1
-    },
-    {
       "date": "2026-05-16",
-      "id": "a3a8eadd0a1ee41a",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "a3a8eadd0a1ee41a",
       "plays": 1
     },
@@ -4551,11 +4251,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "a464b88677e97f5b",
-      "plays": 2
-    },
-    {
-      "date": "2026-05-17",
       "id": "a464b88677e97f5b",
       "plays": 2
     },
@@ -4578,11 +4273,6 @@
       "date": "2026-06-21",
       "id": "a698fbade8d38198",
       "plays": 182
-    },
-    {
-      "date": "2026-06-22",
-      "id": "a698fbade8d38198",
-      "plays": 48
     },
     {
       "date": "2026-05-10",
@@ -4695,17 +4385,7 @@
       "plays": 12
     },
     {
-      "date": "2026-04-26",
-      "id": "adcb42f2129a2ef7",
-      "plays": 120
-    },
-    {
       "date": "2026-05-16",
-      "id": "adcb42f2129a2ef7",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "adcb42f2129a2ef7",
       "plays": 1
     },
@@ -4728,16 +4408,6 @@
       "date": "2026-06-07",
       "id": "ae098efff069887d",
       "plays": 9
-    },
-    {
-      "date": "2026-06-08",
-      "id": "ae098efff069887d",
-      "plays": 13
-    },
-    {
-      "date": "2026-06-10",
-      "id": "ae098efff069887d",
-      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -4800,19 +4470,9 @@
       "plays": 3
     },
     {
-      "date": "2026-05-17",
-      "id": "b3818377101a86f7",
-      "plays": 3
-    },
-    {
       "date": "2026-05-16",
       "id": "b38bc241b76c7986",
       "plays": 5
-    },
-    {
-      "date": "2026-05-17",
-      "id": "b38bc241b76c7986",
-      "plays": 4
     },
     {
       "date": "2026-06-03",
@@ -4950,16 +4610,6 @@
       "plays": 2
     },
     {
-      "date": "2026-06-08",
-      "id": "c3268af5adcd0464",
-      "plays": 20
-    },
-    {
-      "date": "2026-06-10",
-      "id": "c3268af5adcd0464",
-      "plays": 1
-    },
-    {
       "date": "2026-06-19",
       "id": "c4317078b34c55e2",
       "plays": 1
@@ -4991,11 +4641,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "c756c474797c5e3a",
-      "plays": 2
-    },
-    {
-      "date": "2026-05-17",
       "id": "c756c474797c5e3a",
       "plays": 2
     },
@@ -5115,11 +4760,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "cdb21cbe1de819a4",
-      "plays": 1
-    },
-    {
       "date": "2026-06-19",
       "id": "cdb21cbe1de819a4",
       "plays": 1
@@ -5131,11 +4771,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "d26b5297e5a97dcf",
-      "plays": 2
-    },
-    {
-      "date": "2026-05-17",
       "id": "d26b5297e5a97dcf",
       "plays": 2
     },
@@ -5225,11 +4860,6 @@
       "plays": 3
     },
     {
-      "date": "2026-06-10",
-      "id": "d7ca2318c6a43dfa",
-      "plays": 1
-    },
-    {
       "date": "2026-05-18",
       "id": "d8175e76a383ad24",
       "plays": 1
@@ -5251,11 +4881,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "d92ab89ce89ea97f",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "d92ab89ce89ea97f",
       "plays": 1
     },
@@ -5365,11 +4990,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "e28d6a456463a5b9",
-      "plays": 1
-    },
-    {
       "date": "2026-04-23",
       "id": "e423b437ea588892",
       "plays": 1
@@ -5440,11 +5060,6 @@
       "plays": 6
     },
     {
-      "date": "2026-06-10",
-      "id": "e96046bde4dc449a",
-      "plays": 2
-    },
-    {
       "date": "2026-06-12",
       "id": "e96046bde4dc449a",
       "plays": 5
@@ -5470,17 +5085,7 @@
       "plays": 3
     },
     {
-      "date": "2026-06-10",
-      "id": "e9d3d8a937dc2707",
-      "plays": 1
-    },
-    {
       "date": "2026-05-16",
-      "id": "ead05b4dfbad6e1d",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "ead05b4dfbad6e1d",
       "plays": 1
     },
@@ -5496,11 +5101,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "ed7d507ddd312f3a",
-      "plays": 6
-    },
-    {
-      "date": "2026-05-17",
       "id": "ed7d507ddd312f3a",
       "plays": 6
     },
@@ -5525,11 +5125,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "ee87dd41c5ba8efe",
-      "plays": 1
-    },
-    {
       "date": "2026-04-19",
       "id": "eee8d48b66a3e9e7",
       "plays": 1
@@ -5541,11 +5136,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "eee8d48b66a3e9e7",
-      "plays": 10
-    },
-    {
-      "date": "2026-05-17",
       "id": "eee8d48b66a3e9e7",
       "plays": 10
     },
@@ -5680,11 +5270,6 @@
       "plays": 1
     },
     {
-      "date": "2026-05-17",
-      "id": "f6a42028a411e10b",
-      "plays": 1
-    },
-    {
       "date": "2026-05-29",
       "id": "f6a42028a411e10b",
       "plays": 1
@@ -5696,11 +5281,6 @@
     },
     {
       "date": "2026-05-16",
-      "id": "f704bdbbff96f345",
-      "plays": 1
-    },
-    {
-      "date": "2026-05-17",
       "id": "f704bdbbff96f345",
       "plays": 1
     },
@@ -5813,14 +5393,9 @@
       "date": "2026-04-24",
       "id": "ff3d7b179c31433d",
       "plays": 1
-    },
-    {
-      "date": "2026-04-26",
-      "id": "ff3d7b179c31433d",
-      "plays": 10
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-22",
-  "snapshot_count": 57
+  "latest_snapshot": "2026-06-23",
+  "snapshot_count": 58
 }
