@@ -164,24 +164,8 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 210,
+      "total_plays": 12,
       "top_artists": [
-        {
-          "artist": "Milky",
-          "plays": 182
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 182
-        },
-        {
-          "artist": "Beastie Boys",
-          "plays": 16
-        },
-        {
-          "artist": "Fatboy Slim",
-          "plays": 16
-        },
         {
           "artist": "Stevie Nicks",
           "plays": 12
@@ -189,31 +173,11 @@
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 182
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 16
-        },
-        {
           "genre": "Rock",
           "plays": 12
         }
       ],
       "top_tracks": [
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 182,
-          "genre": "Dance"
-        },
-        {
-          "song": "Body Movin' (Fatboy Slim Remix)",
-          "artist": "Beastie Boys & Fatboy Slim",
-          "plays": 16,
-          "genre": "Hip Hop/Rap"
-        },
         {
           "song": "Edge of Seventeen",
           "artist": "Stevie Nicks",
@@ -224,7 +188,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 358,
+      "total_plays": 351,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -307,10 +271,6 @@
           "plays": 1
         },
         {
-          "artist": "Supermode",
-          "plays": 1
-        },
-        {
           "artist": "Chris Brown",
           "plays": 1
         },
@@ -325,12 +285,16 @@
         {
           "artist": "Fugees",
           "plays": 1
+        },
+        {
+          "artist": "Regard",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 218
+          "plays": 216
         },
         {
           "genre": "Hip Hop/Rap",
@@ -350,7 +314,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 15
+          "plays": 14
         },
         {
           "genre": "mashup",
@@ -366,14 +330,10 @@
         },
         {
           "genre": "Alternative",
-          "plays": 6
+          "plays": 5
         },
         {
           "genre": "Lowfi",
-          "plays": 2
-        },
-        {
-          "genre": "Future Funk",
           "plays": 2
         },
         {
@@ -401,7 +361,7 @@
           "plays": 1
         },
         {
-          "genre": "Europop",
+          "genre": "Future Funk",
           "plays": 1
         },
         {
@@ -421,11 +381,11 @@
           "plays": 1
         },
         {
-          "genre": "Arabic",
+          "genre": "Vaporwave",
           "plays": 1
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Funk",
           "plays": 1
         }
       ],
@@ -539,12 +499,6 @@
           "genre": "Pop"
         },
         {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
           "song": "Yeah 3X",
           "artist": "Chris Brown",
           "plays": 1,
@@ -579,16 +533,22 @@
           "artist": "Electric Light Orchestra",
           "plays": 1,
           "genre": "Rock"
+        },
+        {
+          "song": "Pal",
+          "artist": "Soulitune",
+          "plays": 1,
+          "genre": "Lowfi"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1050,
+      "total_plays": 965,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 207
+          "plays": 203
         },
         {
           "artist": "Milky",
@@ -596,7 +556,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 69
+          "plays": 58
         },
         {
           "artist": "Dayglow",
@@ -631,16 +591,16 @@
           "plays": 17
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 17
-        },
-        {
           "artist": "Beastie Boys",
           "plays": 17
         },
         {
           "artist": "Avicii",
           "plays": 15
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 14
         },
         {
           "artist": "Cassius",
@@ -656,11 +616,7 @@
         },
         {
           "artist": "Pink Floyd",
-          "plays": 10
-        },
-        {
-          "artist": "Shawn Mendes",
-          "plays": 10
+          "plays": 9
         },
         {
           "artist": "Joe Dassin",
@@ -683,42 +639,46 @@
           "plays": 8
         },
         {
-          "artist": "Tom Misch",
+          "artist": "Tyler, The Creator",
+          "plays": 8
+        },
+        {
+          "artist": "Billy Joel",
           "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 306
+          "plays": 295
         },
         {
           "genre": "Electronic",
-          "plays": 123
+          "plays": 107
         },
         {
           "genre": "Pop",
-          "plays": 109
+          "plays": 96
         },
         {
           "genre": "Comedy",
-          "plays": 77
+          "plays": 63
         },
         {
           "genre": "Alternative",
-          "plays": 67
+          "plays": 62
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 58
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 51
+          "genre": "Rock",
+          "plays": 46
         },
         {
-          "genre": "Rock",
-          "plays": 48
+          "genre": "Variete Francaise",
+          "plays": 44
         },
         {
           "genre": "Future Funk",
@@ -737,15 +697,11 @@
           "plays": 14
         },
         {
-          "genre": "Oldies",
-          "plays": 11
+          "genre": "Variété française",
+          "plays": 9
         },
         {
           "genre": "Soft Rock",
-          "plays": 11
-        },
-        {
-          "genre": "Variété française",
           "plays": 9
         },
         {
@@ -757,27 +713,23 @@
           "plays": 8
         },
         {
-          "genre": "House",
+          "genre": "Indie",
           "plays": 8
         },
         {
-          "genre": "Indie",
-          "plays": 8
+          "genre": "Oldies",
+          "plays": 6
         },
         {
           "genre": "Musique francophone",
           "plays": 6
         },
         {
+          "genre": "House",
+          "plays": 6
+        },
+        {
           "genre": "City Pop",
-          "plays": 5
-        },
-        {
-          "genre": "R & B",
-          "plays": 5
-        },
-        {
-          "genre": "Funk",
           "plays": 5
         },
         {
@@ -787,6 +739,14 @@
         {
           "genre": "Folk",
           "plays": 5
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 4
+        },
+        {
+          "genre": "Country",
+          "plays": 3
         }
       ],
       "top_tracks": [
@@ -795,12 +755,6 @@
           "artist": "Milky & David Guetta",
           "plays": 196,
           "genre": "Dance"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 30,
-          "genre": "Comedy"
         },
         {
           "song": "Premier League Song",
@@ -831,6 +785,12 @@
           "artist": "Blue Oyster Cult",
           "plays": 19,
           "genre": "Classic Rock"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 19,
+          "genre": "Comedy"
         },
         {
           "song": "Los Feeling (Alan Braxe Remix)",
@@ -867,12 +827,6 @@
           "artist": "Stevie Nicks",
           "plays": 12,
           "genre": "Rock"
-        },
-        {
-          "song": "Lost In Japan (Remix)",
-          "artist": "Shawn Mendes",
-          "plays": 10,
-          "genre": "Electronic"
         },
         {
           "song": "Nagoya Marimba (HNNY Extended Remake)",
@@ -939,6 +893,12 @@
           "artist": "Tom Misch",
           "plays": 5,
           "genre": "Alternative"
+        },
+        {
+          "song": "All Night (feat. Knox Fortune)",
+          "artist": "Chance The Rapper",
+          "plays": 5,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
@@ -5396,6 +5356,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-23",
-  "snapshot_count": 58
+  "latest_snapshot": "2026-06-24",
+  "snapshot_count": 59
 }
