@@ -164,35 +164,18 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 12,
-      "top_artists": [
-        {
-          "artist": "Stevie Nicks",
-          "plays": 12
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Rock",
-          "plays": 12
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Edge of Seventeen",
-          "artist": "Stevie Nicks",
-          "plays": 12,
-          "genre": "Rock"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 351,
+      "total_plays": 297,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 199
+          "plays": 198
         },
         {
           "artist": "Milky",
@@ -223,56 +206,16 @@
           "plays": 8
         },
         {
-          "artist": "Daft Punk",
-          "plays": 7
-        },
-        {
           "artist": "Bon Entendeur",
           "plays": 5
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 3
-        },
-        {
-          "artist": "Paul Kalkbrenner",
-          "plays": 2
-        },
-        {
-          "artist": "Shawn Mendes",
-          "plays": 2
+          "artist": "Daft Punk",
+          "plays": 4
         },
         {
           "artist": "Alan Walker",
           "plays": 2
-        },
-        {
-          "artist": "Fake Blood",
-          "plays": 1
-        },
-        {
-          "artist": "Kraftwerk",
-          "plays": 1
-        },
-        {
-          "artist": "Santana",
-          "plays": 1
-        },
-        {
-          "artist": "Rob Thomas",
-          "plays": 1
-        },
-        {
-          "artist": "Cigarettes After Sex",
-          "plays": 1
-        },
-        {
-          "artist": "The Cardigans",
-          "plays": 1
-        },
-        {
-          "artist": "Chris Brown",
-          "plays": 1
         },
         {
           "artist": "Avicii",
@@ -283,42 +226,74 @@
           "plays": 1
         },
         {
-          "artist": "Fugees",
+          "artist": "Electric Light Orchestra",
           "plays": 1
         },
         {
-          "artist": "Regard",
+          "artist": "a-ha",
+          "plays": 1
+        },
+        {
+          "artist": "Mere Notilde",
+          "plays": 1
+        },
+        {
+          "artist": "James Blunt",
+          "plays": 1
+        },
+        {
+          "artist": "Durante",
+          "plays": 1
+        },
+        {
+          "artist": "Immortal Technique",
+          "plays": 1
+        },
+        {
+          "artist": "PNL",
+          "plays": 1
+        },
+        {
+          "artist": "Sofiane",
+          "plays": 1
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 1
+        },
+        {
+          "artist": "Bobby Bare",
+          "plays": 1
+        },
+        {
+          "artist": "Bonnie Tyler",
+          "plays": 1
+        },
+        {
+          "artist": "Donna Summer",
           "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 216
+          "plays": 206
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 21
         },
         {
-          "genre": "Pop",
-          "plays": 19
-        },
-        {
-          "genre": "Electronic",
-          "plays": 18
-        },
-        {
           "genre": "Rock",
-          "plays": 17
+          "plays": 13
         },
         {
           "genre": "Variete Francaise",
-          "plays": 14
+          "plays": 12
         },
         {
-          "genre": "mashup",
-          "plays": 8
+          "genre": "Electronic",
+          "plays": 9
         },
         {
           "genre": "Comedy",
@@ -329,51 +304,27 @@
           "plays": 7
         },
         {
-          "genre": "Alternative",
+          "genre": "mashup",
+          "plays": 6
+        },
+        {
+          "genre": "Pop",
           "plays": 5
         },
         {
-          "genre": "Lowfi",
+          "genre": "Alternative",
           "plays": 2
-        },
-        {
-          "genre": "Latin",
-          "plays": 2
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 2
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 2
-        },
-        {
-          "genre": "Electronique",
-          "plays": 1
-        },
-        {
-          "genre": "R&B/Soul",
-          "plays": 1
-        },
-        {
-          "genre": "R & B",
-          "plays": 1
         },
         {
           "genre": "Future Funk",
           "plays": 1
         },
         {
-          "genre": "Country",
+          "genre": "Soft Rock",
           "plays": 1
         },
         {
           "genre": "House",
-          "plays": 1
-        },
-        {
-          "genre": "Oldies",
           "plays": 1
         },
         {
@@ -385,7 +336,15 @@
           "plays": 1
         },
         {
+          "genre": "Lowfi",
+          "plays": 1
+        },
+        {
           "genre": "Funk",
+          "plays": 1
+        },
+        {
+          "genre": "Soundtrack",
           "plays": 1
         }
       ],
@@ -439,24 +398,6 @@
           "genre": "Dance"
         },
         {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "Sky and Sand",
-          "artist": "Paul Kalkbrenner",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Lost In Japan (Remix)",
-          "artist": "Shawn Mendes",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
           "song": "Spectre",
           "artist": "Alan Walker",
           "plays": 2,
@@ -469,64 +410,10 @@
           "genre": "Comedy"
         },
         {
-          "song": "I think I like it",
-          "artist": "Fake Blood",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Aéro Dynamik",
-          "artist": "Kraftwerk",
-          "plays": 1,
-          "genre": "Electronique"
-        },
-        {
-          "song": "Smooth",
-          "artist": "Santana & Rob Thomas",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Sunsetz",
-          "artist": "Cigarettes After Sex",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Lovefool",
-          "artist": "The Cardigans",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Yeah 3X",
-          "artist": "Chris Brown",
-          "plays": 1,
-          "genre": "R&B/Soul"
-        },
-        {
           "song": "Never Gonna Wake You Up (NilsOfficial Mashup)",
           "artist": "Avicii & Rick Astley",
           "plays": 1,
           "genre": "mashup"
-        },
-        {
-          "song": "Killing Me Softly With His Song",
-          "artist": "Fugees",
-          "plays": 1,
-          "genre": "R & B"
-        },
-        {
-          "song": "Ride It",
-          "artist": "Regard",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Face to Face",
-          "artist": "Daft Punk",
-          "plays": 1,
-          "genre": "Dance"
         },
         {
           "song": "Mr. Blue Sky",
@@ -535,20 +422,92 @@
           "genre": "Rock"
         },
         {
-          "song": "Pal",
-          "artist": "Soulitune",
+          "song": "Take me Anywhere",
+          "artist": "442oons",
           "plays": 1,
-          "genre": "Lowfi"
+          "genre": "Comedy"
+        },
+        {
+          "song": "Take On Me",
+          "artist": "a-ha",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Love is Gonna Getcha (Remix)",
+          "artist": "Mere Notilde",
+          "plays": 1,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Cold (ft. Léa Paci)",
+          "artist": "James Blunt & Lea Paci",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Praise you",
+          "artist": "Fatboy Slim",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Full Moon",
+          "artist": "Durante",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Decade Mixtape 60's",
+          "artist": "Bon Entendeur",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Love Don't Let Me Go (Walking Away)",
+          "artist": "David Guetta",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Dance With The Devil",
+          "artist": "Immortal Technique",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Onizuka",
+          "artist": "PNL",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Lundi",
+          "artist": "Sofiane",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "1982 - 1992 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
+          "song": "Find Out What's Happening",
+          "artist": "Bobby Bare",
+          "plays": 1,
+          "genre": "Soft Rock"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 965,
+      "total_plays": 928,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 203
+          "plays": 201
         },
         {
           "artist": "Milky",
@@ -587,20 +546,16 @@
           "plays": 18
         },
         {
-          "artist": "Daft Punk",
-          "plays": 17
-        },
-        {
           "artist": "Beastie Boys",
           "plays": 17
         },
         {
-          "artist": "Avicii",
-          "plays": 15
+          "artist": "Daft Punk",
+          "plays": 16
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 14
+          "artist": "Avicii",
+          "plays": 15
         },
         {
           "artist": "Cassius",
@@ -613,6 +568,10 @@
         {
           "artist": "Stevie Nicks",
           "plays": 12
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 11
         },
         {
           "artist": "Pink Floyd",
@@ -650,15 +609,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 295
+          "plays": 289
         },
         {
           "genre": "Electronic",
-          "plays": 107
+          "plays": 101
         },
         {
           "genre": "Pop",
-          "plays": 96
+          "plays": 91
         },
         {
           "genre": "Comedy",
@@ -666,7 +625,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 62
+          "plays": 59
         },
         {
           "genre": "Hip Hop/Rap",
@@ -674,23 +633,23 @@
         },
         {
           "genre": "Rock",
-          "plays": 46
+          "plays": 45
         },
         {
           "genre": "Variete Francaise",
-          "plays": 44
+          "plays": 41
         },
         {
           "genre": "Future Funk",
           "plays": 24
         },
         {
-          "genre": "mashup",
+          "genre": "Classic Rock",
           "plays": 19
         },
         {
-          "genre": "Classic Rock",
-          "plays": 19
+          "genre": "mashup",
+          "plays": 15
         },
         {
           "genre": "Ambient",
@@ -698,10 +657,6 @@
         },
         {
           "genre": "Variété française",
-          "plays": 9
-        },
-        {
-          "genre": "Soft Rock",
           "plays": 9
         },
         {
@@ -713,19 +668,15 @@
           "plays": 8
         },
         {
+          "genre": "Soft Rock",
+          "plays": 8
+        },
+        {
           "genre": "Indie",
           "plays": 8
         },
         {
-          "genre": "Oldies",
-          "plays": 6
-        },
-        {
           "genre": "Musique francophone",
-          "plays": 6
-        },
-        {
-          "genre": "House",
           "plays": 6
         },
         {
@@ -733,7 +684,11 @@
           "plays": 5
         },
         {
-          "genre": "Disco",
+          "genre": "Oldies",
+          "plays": 5
+        },
+        {
+          "genre": "House",
           "plays": 5
         },
         {
@@ -742,6 +697,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 4
+        },
+        {
+          "genre": "Disco",
           "plays": 4
         },
         {
@@ -5356,6 +5315,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-24",
-  "snapshot_count": 59
+  "latest_snapshot": "2026-06-25",
+  "snapshot_count": 60
 }
