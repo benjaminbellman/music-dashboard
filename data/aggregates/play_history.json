@@ -171,11 +171,11 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 297,
+      "total_plays": 285,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 198
+          "plays": 197
         },
         {
           "artist": "Milky",
@@ -198,20 +198,12 @@
           "plays": 11
         },
         {
-          "artist": "442oons",
-          "plays": 8
-        },
-        {
           "artist": "Joe Dassin",
           "plays": 8
         },
         {
           "artist": "Bon Entendeur",
           "plays": 5
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 4
         },
         {
           "artist": "Alan Walker",
@@ -227,6 +219,10 @@
         },
         {
           "artist": "Electric Light Orchestra",
+          "plays": 1
+        },
+        {
+          "artist": "442oons",
           "plays": 1
         },
         {
@@ -258,10 +254,6 @@
           "plays": 1
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 1
-        },
-        {
           "artist": "Bobby Bare",
           "plays": 1
         },
@@ -272,12 +264,20 @@
         {
           "artist": "Donna Summer",
           "plays": 1
+        },
+        {
+          "artist": "Wax Tailor",
+          "plays": 1
+        },
+        {
+          "artist": "Men Without Hats",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 206
+          "plays": 203
         },
         {
           "genre": "Hip Hop/Rap",
@@ -296,16 +296,12 @@
           "plays": 9
         },
         {
-          "genre": "Comedy",
-          "plays": 8
-        },
-        {
           "genre": "Variété française",
           "plays": 7
         },
         {
           "genre": "mashup",
-          "plays": 6
+          "plays": 5
         },
         {
           "genre": "Pop",
@@ -316,15 +312,15 @@
           "plays": 2
         },
         {
+          "genre": "Comedy",
+          "plays": 1
+        },
+        {
           "genre": "Future Funk",
           "plays": 1
         },
         {
           "genre": "Soft Rock",
-          "plays": 1
-        },
-        {
-          "genre": "House",
           "plays": 1
         },
         {
@@ -380,34 +376,16 @@
           "genre": "Variété française"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 5,
-          "genre": "Comedy"
-        },
-        {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
           "plays": 4,
           "genre": "mashup"
         },
         {
-          "song": "Robot Rock / Oh Yeah",
-          "artist": "Daft Punk",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
           "song": "Spectre",
           "artist": "Alan Walker",
           "plays": 2,
           "genre": "Electronic"
-        },
-        {
-          "song": "Who Won the League - Liverpool",
-          "artist": "442oons",
-          "plays": 2,
-          "genre": "Comedy"
         },
         {
           "song": "Never Gonna Wake You Up (NilsOfficial Mashup)",
@@ -488,16 +466,34 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "1982 - 1992 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
           "song": "Find Out What's Happening",
           "artist": "Bobby Bare",
           "plays": 1,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Total Eclipse of the Heart",
+          "artist": "Bonnie Tyler",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "She Works Hard For The Money",
+          "artist": "Donna Summer",
+          "plays": 1,
+          "genre": "Disco"
+        },
+        {
+          "song": "Que Sera",
+          "artist": "Wax Tailor",
+          "plays": 1,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "The Safety Dance ( Original )",
+          "artist": "Men Without Hats",
+          "plays": 1,
+          "genre": "Pop"
         }
       ]
     },
@@ -5315,6 +5311,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-25",
-  "snapshot_count": 60
+  "latest_snapshot": "2026-06-26",
+  "snapshot_count": 61
 }
