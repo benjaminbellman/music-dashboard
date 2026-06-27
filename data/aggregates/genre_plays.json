@@ -1,47 +1,47 @@
 [
   {
     "genre": "Pop",
-    "plays": 34936,
+    "plays": 35053,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29779,
+    "plays": 29799,
     "songs": 483
   },
   {
     "genre": "Electronic",
-    "plays": 23352,
+    "plays": 23360,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18063,
+    "plays": 18069,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13933,
+    "plays": 13938,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11590,
+    "plays": 11597,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10698,
+    "plays": 10699,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6696,
+    "plays": 6698,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5830,
+    "plays": 5836,
     "songs": 71
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3783,
+    "plays": 3785,
     "songs": 61
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3210,
+    "plays": 3214,
     "songs": 92
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2725,
+    "plays": 2731,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2707,
+    "plays": 2709,
     "songs": 69
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "genre": "Funk",
-    "plays": 916,
+    "plays": 918,
     "songs": 12
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "genre": "Vaporwave",
-    "plays": 752,
+    "plays": 754,
     "songs": 8
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "genre": "Classical",
-    "plays": 217,
+    "plays": 219,
     "songs": 16
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "genre": "Musique francophone",
-    "plays": 155,
+    "plays": 157,
     "songs": 4
   },
   {
@@ -350,14 +350,14 @@
     "songs": 1
   },
   {
+    "genre": "Musique pour enfants",
+    "plays": 66,
+    "songs": 3
+  },
+  {
     "genre": "Soul",
     "plays": 65,
     "songs": 2
-  },
-  {
-    "genre": "Musique pour enfants",
-    "plays": 64,
-    "songs": 3
   },
   {
     "genre": "Blues",
