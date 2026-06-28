@@ -305,7 +305,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4558,
+      "plays": 4582,
       "country": "FR"
     },
     {
@@ -538,15 +538,15 @@
     },
     {
       "rank": 40,
-      "artist": "Tame Impala",
-      "plays": 591,
-      "country": "AU"
+      "artist": "Drake",
+      "plays": 606,
+      "country": "CA"
     },
     {
       "rank": 41,
-      "artist": "Drake",
-      "plays": 582,
-      "country": "CA"
+      "artist": "Tame Impala",
+      "plays": 591,
+      "country": "AU"
     },
     {
       "rank": 42,
@@ -580,26 +580,26 @@
     },
     {
       "rank": 47,
+      "artist": "Vantage",
+      "plays": 529,
+      "country": "JP"
+    },
+    {
+      "rank": 48,
       "artist": "Bee Gees",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "artist": "Electric Light Orchestra",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "artist": "Pitbull",
       "plays": 528,
-      "country": "US"
-    },
-    {
-      "rank": 50,
-      "artist": "Blondie",
-      "plays": 519,
       "country": "US"
     }
   ]

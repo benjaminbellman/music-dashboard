@@ -1,47 +1,47 @@
 [
   {
     "genre": "Pop",
-    "plays": 35053,
+    "plays": 35148,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29799,
+    "plays": 29871,
     "songs": 483
   },
   {
     "genre": "Electronic",
-    "plays": 23360,
+    "plays": 23384,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18069,
+    "plays": 18093,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13938,
+    "plays": 13985,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11597,
+    "plays": 11642,
     "songs": 260
   },
   {
     "genre": "Rock",
-    "plays": 10699,
+    "plays": 10746,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6698,
+    "plays": 6722,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5836,
+    "plays": 5856,
     "songs": 71
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3785,
+    "plays": 3786,
     "songs": 61
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3236,
+    "plays": 3260,
     "songs": 44
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1669,
+    "plays": 1693,
     "songs": 45
   },
   {
@@ -315,6 +315,11 @@
     "songs": 1
   },
   {
+    "genre": "Soul and R&B",
+    "plays": 79,
+    "songs": 2
+  },
+  {
     "genre": "Tropical",
     "plays": 79,
     "songs": 1
@@ -407,11 +412,6 @@
   {
     "genre": "Singer/Songwriter",
     "plays": 56,
-    "songs": 2
-  },
-  {
-    "genre": "Soul and R&B",
-    "plays": 55,
     "songs": 2
   },
   {

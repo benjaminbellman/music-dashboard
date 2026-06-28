@@ -163,12 +163,16 @@
     {
       "date": "2026-06-27",
       "plays": 196
+    },
+    {
+      "date": "2026-06-28",
+      "plays": 361
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 196,
+      "total_plays": 557,
       "top_artists": [
         {
           "artist": "Aden Foyer",
@@ -179,8 +183,68 @@
           "plays": 26
         },
         {
+          "artist": "Michael Jackson",
+          "plays": 26
+        },
+        {
           "artist": "Vegedream",
           "plays": 26
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
+          "plays": 26
+        },
+        {
+          "artist": "Kajagoogoo",
+          "plays": 24
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 24
+        },
+        {
+          "artist": "Joris Delacroix",
+          "plays": 24
+        },
+        {
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24
+        },
+        {
+          "artist": "Francoise Hardy",
+          "plays": 24
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 24
+        },
+        {
+          "artist": "Klangkarussell",
+          "plays": 24
+        },
+        {
+          "artist": "Miki Matsubara",
+          "plays": 24
+        },
+        {
+          "artist": "CASCADA",
+          "plays": 24
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 24
+        },
+        {
+          "artist": "Astro",
+          "plays": 24
+        },
+        {
+          "artist": "Bananarama",
+          "plays": 24
+        },
+        {
+          "artist": "Drake",
+          "plays": 24
         },
         {
           "artist": "Kate Ryan",
@@ -209,91 +273,55 @@
         {
           "artist": "T-Pain",
           "plays": 3
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 2
-        },
-        {
-          "artist": "Guts",
-          "plays": 2
-        },
-        {
-          "artist": "France Gall",
-          "plays": 2
-        },
-        {
-          "artist": "Tong Song",
-          "plays": 2
-        },
-        {
-          "artist": "Regard",
-          "plays": 2
-        },
-        {
-          "artist": "The Fielders",
-          "plays": 2
-        },
-        {
-          "artist": "Placebo",
-          "plays": 2
-        },
-        {
-          "artist": "Justice",
-          "plays": 2
-        },
-        {
-          "artist": "Mere Notilde",
-          "plays": 2
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 2
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 2
-        },
-        {
-          "artist": "David Bowie",
-          "plays": 2
-        },
-        {
-          "artist": "Shanna",
-          "plays": 2
-        },
-        {
-          "artist": "Etienne de Crecy",
-          "plays": 2
-        },
-        {
-          "artist": "Epic Rap Battles of History",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 117
+          "plays": 189
         },
         {
           "genre": "Dance",
-          "plays": 20
+          "plays": 92
         },
         {
           "genre": "Electronic",
-          "plays": 8
+          "plays": 32
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 7
-        },
-        {
-          "genre": "mashup",
-          "plays": 6
+          "plays": 31
         },
         {
           "genre": "Variete Francaise",
+          "plays": 30
+        },
+        {
+          "genre": "Alternative",
+          "plays": 29
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 26
+        },
+        {
+          "genre": "Rock",
+          "plays": 25
+        },
+        {
+          "genre": "French Pop",
+          "plays": 24
+        },
+        {
+          "genre": "Soul and R&B",
+          "plays": 24
+        },
+        {
+          "genre": "City Pop",
+          "plays": 24
+        },
+        {
+          "genre": "mashup",
           "plays": 6
         },
         {
@@ -301,12 +329,12 @@
           "plays": 6
         },
         {
-          "genre": "Alternative",
-          "plays": 5
-        },
-        {
           "genre": "Comedy",
           "plays": 4
+        },
+        {
+          "genre": "Disco",
+          "plays": 3
         },
         {
           "genre": "Funk",
@@ -314,10 +342,6 @@
         },
         {
           "genre": "Musique francophone",
-          "plays": 2
-        },
-        {
-          "genre": "Disco",
           "plays": 2
         },
         {
@@ -335,14 +359,6 @@
         {
           "genre": "Classical",
           "plays": 2
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 2
-        },
-        {
-          "genre": "Rock",
-          "plays": 1
         }
       ],
       "top_tracks": [
@@ -359,10 +375,100 @@
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 26,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Message Personnel",
+          "artist": "Francoise Hardy",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Merci les bleus",
           "artist": "Vegedream",
           "plays": 24,
           "genre": "Pop"
+        },
+        {
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 24,
+          "genre": "Soul and R&B"
+        },
+        {
+          "song": "Sonnentanz (Original Version)",
+          "artist": "Klangkarussell",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Everytime We Touch Scarf! Remix",
+          "artist": "CASCADA",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Panda",
+          "artist": "Astro",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Cruel Summer (Dilemmachine Remix)",
+          "artist": "Bananarama",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Désenchantée",
@@ -405,102 +511,12 @@
           "artist": "Flight Facilities",
           "plays": 2,
           "genre": "mashup"
-        },
-        {
-          "song": "And the Living is Easy",
-          "artist": "Guts",
-          "plays": 2,
-          "genre": "Funk"
-        },
-        {
-          "song": "Ella, elle l'a",
-          "artist": "France Gall",
-          "plays": 2,
-          "genre": "Musique francophone"
-        },
-        {
-          "song": "harmonica",
-          "artist": "Tong Song",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ride It",
-          "artist": "Regard",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Jungle Boogie",
-          "artist": "The Fielders vs Sammy La MArca",
-          "plays": 2,
-          "genre": "Disco"
-        },
-        {
-          "song": "On'n'On",
-          "artist": "Justice",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Love is Gonna Getcha (Remix)",
-          "artist": "Mere Notilde",
-          "plays": 2,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "We Are The World (USA for Africa)",
-          "artist": "Michael Jackson",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Changes",
-          "artist": "David Bowie",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Il est interdit (Original Radio Edit)",
-          "artist": "Shanna",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Am I Wrong",
-          "artist": "Etienne de Crecy",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Ramenez la coupe à la maison",
-          "artist": "Vegedream",
-          "plays": 2,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Steven Spielberg vs Alfred Hitchcock",
-          "artist": "Epic Rap Battles of History",
-          "plays": 2,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Viens dans ma maison",
-          "artist": "Henri Dès",
-          "plays": 2,
-          "genre": "Musique pour enfants"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 477,
+      "total_plays": 831,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -519,8 +535,68 @@
           "plays": 36
         },
         {
+          "artist": "Michael Jackson",
+          "plays": 26
+        },
+        {
           "artist": "Vegedream",
           "plays": 26
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
+          "plays": 26
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 25
+        },
+        {
+          "artist": "Kajagoogoo",
+          "plays": 24
+        },
+        {
+          "artist": "Joris Delacroix",
+          "plays": 24
+        },
+        {
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24
+        },
+        {
+          "artist": "Francoise Hardy",
+          "plays": 24
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 24
+        },
+        {
+          "artist": "Klangkarussell",
+          "plays": 24
+        },
+        {
+          "artist": "Miki Matsubara",
+          "plays": 24
+        },
+        {
+          "artist": "CASCADA",
+          "plays": 24
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 24
+        },
+        {
+          "artist": "Astro",
+          "plays": 24
+        },
+        {
+          "artist": "Bananarama",
+          "plays": 24
+        },
+        {
+          "artist": "Drake",
+          "plays": 24
         },
         {
           "artist": "Fatboy Slim",
@@ -541,92 +617,52 @@
         {
           "artist": "France Football Anthem",
           "plays": 11
-        },
-        {
-          "artist": "Joe Dassin",
-          "plays": 8
-        },
-        {
-          "artist": "BB Brunes",
-          "plays": 4
-        },
-        {
-          "artist": "Vantage",
-          "plays": 4
-        },
-        {
-          "artist": "442oons",
-          "plays": 3
-        },
-        {
-          "artist": "Mere Notilde",
-          "plays": 3
-        },
-        {
-          "artist": "T-Pain",
-          "plays": 3
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 2
-        },
-        {
-          "artist": "Guts",
-          "plays": 2
-        },
-        {
-          "artist": "France Gall",
-          "plays": 2
-        },
-        {
-          "artist": "Tong Song",
-          "plays": 2
-        },
-        {
-          "artist": "Regard",
-          "plays": 2
-        },
-        {
-          "artist": "The Fielders",
-          "plays": 2
-        },
-        {
-          "artist": "Placebo",
-          "plays": 2
-        },
-        {
-          "artist": "Justice",
-          "plays": 2
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 222
+          "plays": 294
         },
         {
           "genre": "Pop",
-          "plays": 122
+          "plays": 194
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 28
+          "plays": 52
         },
         {
           "genre": "Variete Francaise",
-          "plays": 18
+          "plays": 42
         },
         {
           "genre": "Electronic",
-          "plays": 15
+          "plays": 39
         },
         {
           "genre": "Rock",
-          "plays": 14
+          "plays": 38
+        },
+        {
+          "genre": "Alternative",
+          "plays": 30
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 27
+        },
+        {
+          "genre": "French Pop",
+          "plays": 24
+        },
+        {
+          "genre": "Soul and R&B",
+          "plays": 24
+        },
+        {
+          "genre": "City Pop",
+          "plays": 24
         },
         {
           "genre": "mashup",
@@ -637,27 +673,15 @@
           "plays": 7
         },
         {
-          "genre": "Variété française",
-          "plays": 7
-        },
-        {
-          "genre": "Alternative",
-          "plays": 6
-        },
-        {
           "genre": "Comedy",
           "plays": 5
         },
         {
-          "genre": "Funk",
-          "plays": 3
-        },
-        {
           "genre": "Disco",
-          "plays": 3
+          "plays": 4
         },
         {
-          "genre": "Soft Rock",
+          "genre": "Funk",
           "plays": 3
         },
         {
@@ -705,10 +729,100 @@
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 26,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Message Personnel",
+          "artist": "Francoise Hardy",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Merci les bleus",
           "artist": "Vegedream",
           "plays": 24,
           "genre": "Pop"
+        },
+        {
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 24,
+          "genre": "Soul and R&B"
+        },
+        {
+          "song": "Sonnentanz (Original Version)",
+          "artist": "Klangkarussell",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Everytime We Touch Scarf! Remix",
+          "artist": "CASCADA",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Panda",
+          "artist": "Astro",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Cruel Summer (Dilemmachine Remix)",
+          "artist": "Bananarama",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Désenchantée",
@@ -741,110 +855,20 @@
           "genre": "mashup"
         },
         {
-          "song": "Happy Birthday",
-          "artist": "Joe Dassin",
-          "plays": 7,
-          "genre": "Variété française"
-        },
-        {
           "song": "Lalalove You",
           "artist": "BB Brunes",
           "plays": 4,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Ｎｕｍｂｅｒ　Ｏｎe",
-          "artist": "Vantage",
-          "plays": 4,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Love is Gonna Getcha (Remix)",
-          "artist": "Mere Notilde",
-          "plays": 3,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Turn All The Lights On",
-          "artist": "T-Pain",
-          "plays": 3,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "And the Living is Easy",
-          "artist": "Guts",
-          "plays": 2,
-          "genre": "Funk"
-        },
-        {
-          "song": "Ella, elle l'a",
-          "artist": "France Gall",
-          "plays": 2,
-          "genre": "Musique francophone"
-        },
-        {
-          "song": "harmonica",
-          "artist": "Tong Song",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ride It",
-          "artist": "Regard",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Jungle Boogie",
-          "artist": "The Fielders vs Sammy La MArca",
-          "plays": 2,
-          "genre": "Disco"
-        },
-        {
-          "song": "On'n'On",
-          "artist": "Justice",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "We Are The World (USA for Africa)",
-          "artist": "Michael Jackson",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 2,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Changes",
-          "artist": "David Bowie",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Il est interdit (Original Radio Edit)",
-          "artist": "Shanna",
-          "plays": 2,
-          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1065,
+      "total_plays": 1346,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 211
+          "plays": 210
         },
         {
           "artist": "Milky",
@@ -863,8 +887,68 @@
           "plays": 36
         },
         {
+          "artist": "Daft Punk",
+          "plays": 34
+        },
+        {
+          "artist": "Drake",
+          "plays": 28
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 27
+        },
+        {
           "artist": "Vegedream",
           "plays": 27
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
+          "plays": 27
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 25
+        },
+        {
+          "artist": "Kajagoogoo",
+          "plays": 24
+        },
+        {
+          "artist": "Joris Delacroix",
+          "plays": 24
+        },
+        {
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24
+        },
+        {
+          "artist": "Francoise Hardy",
+          "plays": 24
+        },
+        {
+          "artist": "Klangkarussell",
+          "plays": 24
+        },
+        {
+          "artist": "Miki Matsubara",
+          "plays": 24
+        },
+        {
+          "artist": "CASCADA",
+          "plays": 24
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 24
+        },
+        {
+          "artist": "Astro",
+          "plays": 24
+        },
+        {
+          "artist": "Bananarama",
+          "plays": 24
         },
         {
           "artist": "France Football Anthem",
@@ -879,125 +963,69 @@
           "plays": 19
         },
         {
-          "artist": "Blue Oyster Cult",
-          "plays": 19
-        },
-        {
-          "artist": "Fatboy Slim",
-          "plays": 18
-        },
-        {
           "artist": "Oliver Heldens",
           "plays": 18
-        },
-        {
-          "artist": "Dayglow",
-          "plays": 17
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 17
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 17
-        },
-        {
-          "artist": "Beastie Boys",
-          "plays": 17
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 15
-        },
-        {
-          "artist": "Avicii",
-          "plays": 15
-        },
-        {
-          "artist": "Cassius",
-          "plays": 14
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 9
-        },
-        {
-          "artist": "Joe Dassin",
-          "plays": 9
-        },
-        {
-          "artist": "Steve Reich",
-          "plays": 9
-        },
-        {
-          "artist": "HNNY",
-          "plays": 9
-        },
-        {
-          "artist": "Yolanda Be Cool & DCUP",
-          "plays": 9
-        },
-        {
-          "artist": "Nocti",
-          "plays": 8
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 308
+          "plays": 370
         },
         {
           "genre": "Pop",
-          "plays": 202
+          "plays": 262
         },
         {
           "genre": "Electronic",
-          "plays": 105
+          "plays": 123
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 65
-        },
-        {
-          "genre": "Comedy",
-          "plays": 61
+          "plays": 86
         },
         {
           "genre": "Alternative",
-          "plays": 52
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 47
+          "plays": 68
         },
         {
           "genre": "Rock",
-          "plays": 46
+          "plays": 67
         },
         {
-          "genre": "Future Funk",
-          "plays": 22
+          "genre": "Variete Francaise",
+          "plays": 66
         },
         {
-          "genre": "mashup",
-          "plays": 21
-        },
-        {
-          "genre": "Classic Rock",
-          "plays": 19
+          "genre": "Comedy",
+          "plays": 59
         },
         {
           "genre": "Soft Rock",
-          "plays": 10
+          "plays": 33
+        },
+        {
+          "genre": "French Pop",
+          "plays": 32
+        },
+        {
+          "genre": "City Pop",
+          "plays": 28
+        },
+        {
+          "genre": "Soul and R&B",
+          "plays": 24
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 21
+        },
+        {
+          "genre": "mashup",
+          "plays": 19
         },
         {
           "genre": "Variété française",
-          "plays": 9
-        },
-        {
-          "genre": "Latin",
           "plays": 9
         },
         {
@@ -1005,19 +1033,15 @@
           "plays": 8
         },
         {
-          "genre": "French Pop",
-          "plays": 8
-        },
-        {
           "genre": "Indie",
           "plays": 8
         },
         {
-          "genre": "Disco",
-          "plays": 6
+          "genre": "Latin",
+          "plays": 7
         },
         {
-          "genre": "City Pop",
+          "genre": "Disco",
           "plays": 5
         },
         {
@@ -1059,6 +1083,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 27,
+          "genre": "Soft Rock"
+        },
+        {
           "song": "Talk To Me",
           "artist": "Stevie Nicks",
           "plays": 26,
@@ -1074,6 +1104,90 @@
           "song": "Merci les bleus",
           "artist": "Vegedream",
           "plays": 25,
+          "genre": "Pop"
+        },
+        {
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 25,
+          "genre": "Pop"
+        },
+        {
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 25,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Message Personnel",
+          "artist": "Francoise Hardy",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 24,
+          "genre": "Soul and R&B"
+        },
+        {
+          "song": "Sonnentanz (Original Version)",
+          "artist": "Klangkarussell",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Everytime We Touch Scarf! Remix",
+          "artist": "CASCADA",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Panda",
+          "artist": "Astro",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Cruel Summer (Dilemmachine Remix)",
+          "artist": "Bananarama",
+          "plays": 24,
           "genre": "Pop"
         },
         {
@@ -1089,12 +1203,6 @@
           "genre": "Pop"
         },
         {
-          "song": "Godzilla",
-          "artist": "Blue Oyster Cult",
-          "plays": 19,
-          "genre": "Classic Rock"
-        },
-        {
           "song": "Los Feeling (Alan Braxe Remix)",
           "artist": "Visitor & Alan Braxe",
           "plays": 18,
@@ -1111,96 +1219,12 @@
           "artist": "Dayglow",
           "plays": 17,
           "genre": "Alternative"
-        },
-        {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "Body Movin' (Fatboy Slim Remix)",
-          "artist": "Beastie Boys & Fatboy Slim",
-          "plays": 17,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 15,
-          "genre": "Comedy"
-        },
-        {
-          "song": "My Feelings for You (Original Mix)",
-          "artist": "Avicii & Sebastien Drums & Cassius",
-          "plays": 14,
-          "genre": "Dance"
-        },
-        {
-          "song": "Edge of Seventeen",
-          "artist": "Stevie Nicks",
-          "plays": 12,
-          "genre": "Rock"
-        },
-        {
-          "song": "Nagoya Marimba (HNNY Extended Remake)",
-          "artist": "Steve Reich and HNNY",
-          "plays": 9,
-          "genre": "Dance"
-        },
-        {
-          "song": "We No Speak Americano",
-          "artist": "Yolanda Be Cool & DCUP",
-          "plays": 9,
-          "genre": "Dance"
-        },
-        {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 8,
-          "genre": "mashup"
-        },
-        {
-          "song": "Little Demons",
-          "artist": "Nocti",
-          "plays": 8,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Who Dat Boy",
-          "artist": "Tyler, The Creator",
-          "plays": 8,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "We Didn't Start the Fire",
-          "artist": "Billy Joel",
-          "plays": 8,
-          "genre": "Rock"
-        },
-        {
-          "song": "Happy Birthday",
-          "artist": "Joe Dassin",
-          "plays": 7,
-          "genre": "Variété française"
-        },
-        {
-          "song": "Comfortably Numb",
-          "artist": "Pink Floyd",
-          "plays": 6,
-          "genre": "Rock"
-        },
-        {
-          "song": "No Comment",
-          "artist": "Serge Gainsbourg",
-          "plays": 6,
-          "genre": "Musique francophone"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2077,
+      "total_plays": 2438,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1221,6 +1245,10 @@
         {
           "artist": "France Football Anthem",
           "plays": 66
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 58
         },
         {
           "artist": "Calvin Harris",
@@ -1255,11 +1283,23 @@
           "plays": 36
         },
         {
-          "artist": "Daft Punk",
-          "plays": 34
+          "artist": "Creedence Clearwater Revival",
+          "plays": 33
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 29
+        },
+        {
+          "artist": "Drake",
+          "plays": 28
         },
         {
           "artist": "Vegedream",
+          "plays": 27
+        },
+        {
+          "artist": "Madison Avenue",
           "plays": 27
         },
         {
@@ -1267,81 +1307,73 @@
           "plays": 26
         },
         {
-          "artist": "Dayglow",
-          "plays": 23
+          "artist": "Michael Bublé",
+          "plays": 25
         },
         {
-          "artist": "Electronic",
-          "plays": 20
+          "artist": "Miki Matsubara",
+          "plays": 25
         },
         {
-          "artist": "Fatboy Slim",
-          "plays": 20
+          "artist": "Kajagoogoo",
+          "plays": 24
         },
         {
-          "artist": "Visitor",
-          "plays": 19
+          "artist": "Joris Delacroix",
+          "plays": 24
         },
         {
-          "artist": "Blue Oyster Cult",
-          "plays": 19
-        },
-        {
-          "artist": "Préface",
-          "plays": 18
-        },
-        {
-          "artist": "Oliver Heldens",
-          "plays": 18
-        },
-        {
-          "artist": "Beastie Boys",
-          "plays": 18
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 17
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 506
+          "plays": 578
         },
         {
           "genre": "Pop",
-          "plays": 328
+          "plays": 400
         },
         {
           "genre": "Electronic",
-          "plays": 265
+          "plays": 289
         },
         {
           "genre": "Variete Francaise",
-          "plays": 175
+          "plays": 199
         },
         {
           "genre": "Soft Rock",
-          "plays": 116
+          "plays": 140
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 110
+        },
+        {
+          "genre": "Alternative",
+          "plays": 105
         },
         {
           "genre": "Comedy",
           "plays": 102
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 86
-        },
-        {
-          "genre": "Alternative",
+          "genre": "Rock",
           "plays": 81
         },
         {
-          "genre": "Rock",
-          "plays": 57
+          "genre": "City Pop",
+          "plays": 42
         },
         {
           "genre": "mashup",
+          "plays": 33
+        },
+        {
+          "genre": "French Pop",
           "plays": 33
         },
         {
@@ -1357,20 +1389,20 @@
           "plays": 26
         },
         {
+          "genre": "Soul and R&B",
+          "plays": 24
+        },
+        {
           "genre": "Oldies",
           "plays": 22
         },
         {
           "genre": "Disco",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Classic Rock",
           "plays": 19
-        },
-        {
-          "genre": "City Pop",
-          "plays": 18
         },
         {
           "genre": "Ambient",
@@ -1389,20 +1421,12 @@
           "plays": 10
         },
         {
-          "genre": "French Pop",
-          "plays": 9
-        },
-        {
           "genre": "Jazz",
           "plays": 9
         },
         {
           "genre": "Latin",
           "plays": 9
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 8
         }
       ],
       "top_tracks": [
@@ -1467,6 +1491,18 @@
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 33,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 27,
+          "genre": "Dance"
+        },
+        {
           "song": "Talk To Me",
           "artist": "Stevie Nicks",
           "plays": 26,
@@ -1491,76 +1527,64 @@
           "genre": "Pop"
         },
         {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 20,
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 25,
           "genre": "Pop"
         },
         {
-          "song": "Godzilla",
-          "artist": "Blue Oyster Cult",
-          "plays": 19,
-          "genre": "Classic Rock"
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 25,
+          "genre": "City Pop"
         },
         {
-          "song": "Los Feeling (Alan Braxe Remix)",
-          "artist": "Visitor & Alan Braxe",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 18,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Gecko (Original Mix)",
-          "artist": "Oliver Heldens",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Body Movin' (Fatboy Slim Remix)",
-          "artist": "Beastie Boys & Fatboy Slim",
-          "plays": 18,
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 25,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 17,
-          "genre": "Pop"
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
         },
         {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 17,
-          "genre": "Pop"
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 16,
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
           "genre": "Electronic"
         },
         {
-          "song": "From The Start",
-          "artist": "Laufey",
-          "plays": 16,
-          "genre": "Ambient"
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Message Personnel",
+          "artist": "Francoise Hardy",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 24,
+          "genre": "Soul and R&B"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 2077,
+      "total_plays": 2438,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1581,6 +1605,10 @@
         {
           "artist": "France Football Anthem",
           "plays": 66
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 58
         },
         {
           "artist": "Calvin Harris",
@@ -1615,11 +1643,23 @@
           "plays": 36
         },
         {
-          "artist": "Daft Punk",
-          "plays": 34
+          "artist": "Creedence Clearwater Revival",
+          "plays": 33
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 29
+        },
+        {
+          "artist": "Drake",
+          "plays": 28
         },
         {
           "artist": "Vegedream",
+          "plays": 27
+        },
+        {
+          "artist": "Madison Avenue",
           "plays": 27
         },
         {
@@ -1627,81 +1667,73 @@
           "plays": 26
         },
         {
-          "artist": "Dayglow",
-          "plays": 23
+          "artist": "Michael Bublé",
+          "plays": 25
         },
         {
-          "artist": "Electronic",
-          "plays": 20
+          "artist": "Miki Matsubara",
+          "plays": 25
         },
         {
-          "artist": "Fatboy Slim",
-          "plays": 20
+          "artist": "Kajagoogoo",
+          "plays": 24
         },
         {
-          "artist": "Visitor",
-          "plays": 19
+          "artist": "Joris Delacroix",
+          "plays": 24
         },
         {
-          "artist": "Blue Oyster Cult",
-          "plays": 19
-        },
-        {
-          "artist": "Préface",
-          "plays": 18
-        },
-        {
-          "artist": "Oliver Heldens",
-          "plays": 18
-        },
-        {
-          "artist": "Beastie Boys",
-          "plays": 18
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 17
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 506
+          "plays": 578
         },
         {
           "genre": "Pop",
-          "plays": 328
+          "plays": 400
         },
         {
           "genre": "Electronic",
-          "plays": 265
+          "plays": 289
         },
         {
           "genre": "Variete Francaise",
-          "plays": 175
+          "plays": 199
         },
         {
           "genre": "Soft Rock",
-          "plays": 116
+          "plays": 140
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 110
+        },
+        {
+          "genre": "Alternative",
+          "plays": 105
         },
         {
           "genre": "Comedy",
           "plays": 102
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 86
-        },
-        {
-          "genre": "Alternative",
+          "genre": "Rock",
           "plays": 81
         },
         {
-          "genre": "Rock",
-          "plays": 57
+          "genre": "City Pop",
+          "plays": 42
         },
         {
           "genre": "mashup",
+          "plays": 33
+        },
+        {
+          "genre": "French Pop",
           "plays": 33
         },
         {
@@ -1717,20 +1749,20 @@
           "plays": 26
         },
         {
+          "genre": "Soul and R&B",
+          "plays": 24
+        },
+        {
           "genre": "Oldies",
           "plays": 22
         },
         {
           "genre": "Disco",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Classic Rock",
           "plays": 19
-        },
-        {
-          "genre": "City Pop",
-          "plays": 18
         },
         {
           "genre": "Ambient",
@@ -1749,20 +1781,12 @@
           "plays": 10
         },
         {
-          "genre": "French Pop",
-          "plays": 9
-        },
-        {
           "genre": "Jazz",
           "plays": 9
         },
         {
           "genre": "Latin",
           "plays": 9
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 8
         }
       ],
       "top_tracks": [
@@ -1827,6 +1851,18 @@
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 33,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 27,
+          "genre": "Dance"
+        },
+        {
           "song": "Talk To Me",
           "artist": "Stevie Nicks",
           "plays": 26,
@@ -1851,76 +1887,64 @@
           "genre": "Pop"
         },
         {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 20,
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 25,
           "genre": "Pop"
         },
         {
-          "song": "Godzilla",
-          "artist": "Blue Oyster Cult",
-          "plays": 19,
-          "genre": "Classic Rock"
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 25,
+          "genre": "City Pop"
         },
         {
-          "song": "Los Feeling (Alan Braxe Remix)",
-          "artist": "Visitor & Alan Braxe",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 18,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Gecko (Original Mix)",
-          "artist": "Oliver Heldens",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Body Movin' (Fatboy Slim Remix)",
-          "artist": "Beastie Boys & Fatboy Slim",
-          "plays": 18,
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 25,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 17,
-          "genre": "Pop"
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
         },
         {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 17,
-          "genre": "Pop"
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 16,
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
           "genre": "Electronic"
         },
         {
-          "song": "From The Start",
-          "artist": "Laufey",
-          "plays": 16,
-          "genre": "Ambient"
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Message Personnel",
+          "artist": "Francoise Hardy",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 24,
+          "genre": "Soul and R&B"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 2077,
+      "total_plays": 2438,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1941,6 +1965,10 @@
         {
           "artist": "France Football Anthem",
           "plays": 66
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 58
         },
         {
           "artist": "Calvin Harris",
@@ -1975,11 +2003,23 @@
           "plays": 36
         },
         {
-          "artist": "Daft Punk",
-          "plays": 34
+          "artist": "Creedence Clearwater Revival",
+          "plays": 33
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 29
+        },
+        {
+          "artist": "Drake",
+          "plays": 28
         },
         {
           "artist": "Vegedream",
+          "plays": 27
+        },
+        {
+          "artist": "Madison Avenue",
           "plays": 27
         },
         {
@@ -1987,81 +2027,73 @@
           "plays": 26
         },
         {
-          "artist": "Dayglow",
-          "plays": 23
+          "artist": "Michael Bublé",
+          "plays": 25
         },
         {
-          "artist": "Electronic",
-          "plays": 20
+          "artist": "Miki Matsubara",
+          "plays": 25
         },
         {
-          "artist": "Fatboy Slim",
-          "plays": 20
+          "artist": "Kajagoogoo",
+          "plays": 24
         },
         {
-          "artist": "Visitor",
-          "plays": 19
+          "artist": "Joris Delacroix",
+          "plays": 24
         },
         {
-          "artist": "Blue Oyster Cult",
-          "plays": 19
-        },
-        {
-          "artist": "Préface",
-          "plays": 18
-        },
-        {
-          "artist": "Oliver Heldens",
-          "plays": 18
-        },
-        {
-          "artist": "Beastie Boys",
-          "plays": 18
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 17
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 506
+          "plays": 578
         },
         {
           "genre": "Pop",
-          "plays": 328
+          "plays": 400
         },
         {
           "genre": "Electronic",
-          "plays": 265
+          "plays": 289
         },
         {
           "genre": "Variete Francaise",
-          "plays": 175
+          "plays": 199
         },
         {
           "genre": "Soft Rock",
-          "plays": 116
+          "plays": 140
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 110
+        },
+        {
+          "genre": "Alternative",
+          "plays": 105
         },
         {
           "genre": "Comedy",
           "plays": 102
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 86
-        },
-        {
-          "genre": "Alternative",
+          "genre": "Rock",
           "plays": 81
         },
         {
-          "genre": "Rock",
-          "plays": 57
+          "genre": "City Pop",
+          "plays": 42
         },
         {
           "genre": "mashup",
+          "plays": 33
+        },
+        {
+          "genre": "French Pop",
           "plays": 33
         },
         {
@@ -2077,20 +2109,20 @@
           "plays": 26
         },
         {
+          "genre": "Soul and R&B",
+          "plays": 24
+        },
+        {
           "genre": "Oldies",
           "plays": 22
         },
         {
           "genre": "Disco",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Classic Rock",
           "plays": 19
-        },
-        {
-          "genre": "City Pop",
-          "plays": 18
         },
         {
           "genre": "Ambient",
@@ -2109,20 +2141,12 @@
           "plays": 10
         },
         {
-          "genre": "French Pop",
-          "plays": 9
-        },
-        {
           "genre": "Jazz",
           "plays": 9
         },
         {
           "genre": "Latin",
           "plays": 9
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 8
         }
       ],
       "top_tracks": [
@@ -2187,6 +2211,18 @@
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 33,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 27,
+          "genre": "Dance"
+        },
+        {
           "song": "Talk To Me",
           "artist": "Stevie Nicks",
           "plays": 26,
@@ -2211,70 +2247,58 @@
           "genre": "Pop"
         },
         {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 23,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 20,
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 25,
           "genre": "Pop"
         },
         {
-          "song": "Godzilla",
-          "artist": "Blue Oyster Cult",
-          "plays": 19,
-          "genre": "Classic Rock"
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 25,
+          "genre": "City Pop"
         },
         {
-          "song": "Los Feeling (Alan Braxe Remix)",
-          "artist": "Visitor & Alan Braxe",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Palace hotel",
-          "artist": "Préface",
-          "plays": 18,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Gecko (Original Mix)",
-          "artist": "Oliver Heldens",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Body Movin' (Fatboy Slim Remix)",
-          "artist": "Beastie Boys & Fatboy Slim",
-          "plays": 18,
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 25,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 17,
-          "genre": "Pop"
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
         },
         {
-          "song": "The Fate of Ophelia",
-          "artist": "Taylor Swift",
-          "plays": 17,
-          "genre": "Pop"
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
-          "song": "Peace And Tranquility To Earth",
-          "artist": "Roudoudou",
-          "plays": 16,
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
           "genre": "Electronic"
         },
         {
-          "song": "From The Start",
-          "artist": "Laufey",
-          "plays": 16,
-          "genre": "Ambient"
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
+        },
+        {
+          "song": "Message Personnel",
+          "artist": "Francoise Hardy",
+          "plays": 24,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 24,
+          "genre": "Soul and R&B"
         }
       ]
     }
@@ -2476,6 +2500,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-28",
+      "id": "0b4a20a647ee73a1",
+      "plays": 24
+    },
+    {
       "date": "2026-06-03",
       "id": "0b984333d8164252",
       "plays": 3
@@ -2559,6 +2588,11 @@
       "date": "2026-06-27",
       "id": "1113663e0778bdfc",
       "plays": 2
+    },
+    {
+      "date": "2026-06-28",
+      "id": "112a1501c7070fea",
+      "plays": 24
     },
     {
       "date": "2026-06-02",
@@ -2934,6 +2968,11 @@
       "date": "2026-06-27",
       "id": "2a870c321c8627c3",
       "plays": 1
+    },
+    {
+      "date": "2026-06-28",
+      "id": "2a98ce52f172fe30",
+      "plays": 24
     },
     {
       "date": "2026-04-24",
@@ -3316,6 +3355,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-28",
+      "id": "49701d108856cf4a",
+      "plays": 24
+    },
+    {
       "date": "2026-05-21",
       "id": "4990a189b5363454",
       "plays": 1
@@ -3379,6 +3423,11 @@
       "date": "2026-05-28",
       "id": "4bab744146ff03d0",
       "plays": 1
+    },
+    {
+      "date": "2026-06-28",
+      "id": "4cee1b290254744e",
+      "plays": 24
     },
     {
       "date": "2026-06-13",
@@ -4071,6 +4120,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-28",
+      "id": "7cb247a5587deec0",
+      "plays": 24
+    },
+    {
       "date": "2026-06-27",
       "id": "7cf58954694148fd",
       "plays": 2
@@ -4124,6 +4178,11 @@
       "date": "2026-06-16",
       "id": "7fbf2ccbf417348f",
       "plays": 1
+    },
+    {
+      "date": "2026-06-28",
+      "id": "7fcf780b451f5546",
+      "plays": 24
     },
     {
       "date": "2026-05-06",
@@ -4234,6 +4293,11 @@
       "date": "2026-05-25",
       "id": "8572cbc71f8dc761",
       "plays": 3
+    },
+    {
+      "date": "2026-06-28",
+      "id": "85a5c72105044197",
+      "plays": 24
     },
     {
       "date": "2026-06-15",
@@ -4601,6 +4665,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-28",
+      "id": "9f0450701cbb1676",
+      "plays": 24
+    },
+    {
       "date": "2026-06-11",
       "id": "9f4cacf8b7b3213a",
       "plays": 1
@@ -4613,6 +4682,11 @@
     {
       "date": "2026-05-26",
       "id": "a05588ecd51936fe",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-28",
+      "id": "a06b487dadfb8697",
       "plays": 1
     },
     {
@@ -5031,6 +5105,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-28",
+      "id": "c2f753a7e9aa08ea",
+      "plays": 24
+    },
+    {
       "date": "2026-06-02",
       "id": "c3176da41505db26",
       "plays": 1
@@ -5114,6 +5193,11 @@
       "date": "2026-05-26",
       "id": "caa2bb472c93b329",
       "plays": 1
+    },
+    {
+      "date": "2026-06-28",
+      "id": "caa2bb472c93b329",
+      "plays": 24
     },
     {
       "date": "2026-05-02",
@@ -5291,6 +5375,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-28",
+      "id": "d6b088ce38afacd8",
+      "plays": 24
+    },
+    {
       "date": "2026-05-29",
       "id": "d700ec31d2bfb161",
       "plays": 1
@@ -5409,6 +5498,11 @@
       "date": "2026-06-11",
       "id": "e012426a6d7cf587",
       "plays": 1
+    },
+    {
+      "date": "2026-06-28",
+      "id": "e029f0c4ecda30d8",
+      "plays": 24
     },
     {
       "date": "2026-06-27",
@@ -5566,6 +5660,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-28",
+      "id": "ed2723605f0dcbf6",
+      "plays": 24
+    },
+    {
       "date": "2026-05-29",
       "id": "ed68bab25be4603a",
       "plays": 1
@@ -5584,6 +5683,11 @@
       "date": "2026-06-27",
       "id": "ed7d507ddd312f3a",
       "plays": 2
+    },
+    {
+      "date": "2026-06-28",
+      "id": "ed7d507ddd312f3a",
+      "plays": 24
     },
     {
       "date": "2026-06-02",
@@ -5877,6 +5981,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-27",
-  "snapshot_count": 62
+  "latest_snapshot": "2026-06-28",
+  "snapshot_count": 63
 }
