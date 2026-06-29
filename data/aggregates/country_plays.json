@@ -1,19 +1,19 @@
 [
   {
     "country": "FR",
-    "plays": 64059,
+    "plays": 64063,
     "artists": 434,
     "songs": 1056
   },
   {
     "country": "US",
-    "plays": 62121,
+    "plays": 62131,
     "artists": 752,
     "songs": 1338
   },
   {
     "country": "GB",
-    "plays": 31146,
+    "plays": 31151,
     "artists": 270,
     "songs": 570
   },
@@ -25,31 +25,31 @@
   },
   {
     "country": "JP",
-    "plays": 6239,
+    "plays": 6241,
     "artists": 46,
     "songs": 80
   },
   {
     "country": "AU",
-    "plays": 5312,
+    "plays": 5313,
     "artists": 53,
     "songs": 89
   },
   {
     "country": "SE",
-    "plays": 5218,
+    "plays": 5220,
     "artists": 39,
     "songs": 79
   },
   {
     "country": "DE",
-    "plays": 5067,
+    "plays": 5068,
     "artists": 59,
     "songs": 97
   },
   {
     "country": "NL",
-    "plays": 3044,
+    "plays": 3045,
     "artists": 36,
     "songs": 60
   },
@@ -73,7 +73,7 @@
   },
   {
     "country": "RU",
-    "plays": 1439,
+    "plays": 1440,
     "artists": 11,
     "songs": 20
   },
@@ -121,7 +121,7 @@
   },
   {
     "country": "AT",
-    "plays": 555,
+    "plays": 556,
     "artists": 6,
     "songs": 15
   },

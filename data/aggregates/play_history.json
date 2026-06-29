@@ -167,12 +167,16 @@
     {
       "date": "2026-06-28",
       "plays": 361
+    },
+    {
+      "date": "2026-06-29",
+      "plays": 28
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 557,
+      "total_plays": 585,
       "top_artists": [
         {
           "artist": "Aden Foyer",
@@ -278,14 +282,18 @@
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 189
+          "plays": 198
         },
         {
           "genre": "Dance",
-          "plays": 92
+          "plays": 93
         },
         {
           "genre": "Electronic",
+          "plays": 36
+        },
+        {
+          "genre": "Variete Francaise",
           "plays": 32
         },
         {
@@ -293,19 +301,19 @@
           "plays": 31
         },
         {
-          "genre": "Variete Francaise",
+          "genre": "Alternative",
           "plays": 30
         },
         {
-          "genre": "Alternative",
+          "genre": "Rock",
           "plays": 29
         },
         {
           "genre": "Soft Rock",
-          "plays": 26
+          "plays": 28
         },
         {
-          "genre": "Rock",
+          "genre": "City Pop",
           "plays": 25
         },
         {
@@ -314,10 +322,6 @@
         },
         {
           "genre": "Soul and R&B",
-          "plays": 24
-        },
-        {
-          "genre": "City Pop",
           "plays": 24
         },
         {
@@ -337,6 +341,14 @@
           "plays": 3
         },
         {
+          "genre": "Vaporwave",
+          "plays": 3
+        },
+        {
+          "genre": "Classical",
+          "plays": 3
+        },
+        {
           "genre": "Funk",
           "plays": 2
         },
@@ -349,16 +361,16 @@
           "plays": 2
         },
         {
-          "genre": "Vaporwave",
-          "plays": 2
-        },
-        {
           "genre": "Soundtrack",
           "plays": 2
         },
         {
-          "genre": "Classical",
-          "plays": 2
+          "genre": "Folk",
+          "plays": 1
+        },
+        {
+          "genre": "Oldies",
+          "plays": 1
         }
       ],
       "top_tracks": [
@@ -507,16 +519,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
+          "song": "\"La ci darem la mano\"",
+          "artist": "Mozart",
+          "plays": 3,
+          "genre": "Classical"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 831,
+      "total_plays": 851,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -547,11 +559,11 @@
           "plays": 26
         },
         {
-          "artist": "Daft Punk",
-          "plays": 25
+          "artist": "Kajagoogoo",
+          "plays": 24
         },
         {
-          "artist": "Kajagoogoo",
+          "artist": "Daft Punk",
           "plays": 24
         },
         {
@@ -611,12 +623,12 @@
           "plays": 16
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "France Football Anthem",
           "plays": 11
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 11
+          "artist": "Bon Entendeur",
+          "plays": 10
         }
       ],
       "top_genres": [
@@ -626,31 +638,35 @@
         },
         {
           "genre": "Pop",
-          "plays": 194
+          "plays": 201
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 52
+          "plays": 51
         },
         {
           "genre": "Variete Francaise",
+          "plays": 44
+        },
+        {
+          "genre": "Rock",
           "plays": 42
         },
         {
           "genre": "Electronic",
-          "plays": 39
-        },
-        {
-          "genre": "Rock",
-          "plays": 38
+          "plays": 42
         },
         {
           "genre": "Alternative",
-          "plays": 30
+          "plays": 31
         },
         {
           "genre": "Soft Rock",
-          "plays": 27
+          "plays": 29
+        },
+        {
+          "genre": "City Pop",
+          "plays": 25
         },
         {
           "genre": "French Pop",
@@ -661,16 +677,12 @@
           "plays": 24
         },
         {
-          "genre": "City Pop",
-          "plays": 24
-        },
-        {
           "genre": "mashup",
-          "plays": 11
+          "plays": 9
         },
         {
           "genre": "Future Funk",
-          "plays": 7
+          "plays": 6
         },
         {
           "genre": "Comedy",
@@ -681,15 +693,19 @@
           "plays": 4
         },
         {
+          "genre": "Vaporwave",
+          "plays": 4
+        },
+        {
           "genre": "Funk",
           "plays": 3
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Soundtrack",
           "plays": 3
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Classical",
           "plays": 3
         },
         {
@@ -701,11 +717,15 @@
           "plays": 2
         },
         {
-          "genre": "Classical",
-          "plays": 2
+          "genre": "Folk",
+          "plays": 1
         },
         {
           "genre": "Lowfi",
+          "plays": 1
+        },
+        {
+          "genre": "Oldies",
           "plays": 1
         }
       ],
@@ -851,7 +871,7 @@
         {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
-          "plays": 8,
+          "plays": 7,
           "genre": "mashup"
         },
         {
@@ -864,7 +884,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1346,
+      "total_plays": 1374,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -970,31 +990,31 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 370
+          "plays": 371
         },
         {
           "genre": "Pop",
-          "plays": 262
+          "plays": 271
         },
         {
           "genre": "Electronic",
-          "plays": 123
+          "plays": 127
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 86
         },
         {
-          "genre": "Alternative",
-          "plays": 68
+          "genre": "Rock",
+          "plays": 71
         },
         {
-          "genre": "Rock",
-          "plays": 67
+          "genre": "Alternative",
+          "plays": 69
         },
         {
           "genre": "Variete Francaise",
-          "plays": 66
+          "plays": 68
         },
         {
           "genre": "Comedy",
@@ -1002,7 +1022,7 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 33
+          "plays": 35
         },
         {
           "genre": "French Pop",
@@ -1010,7 +1030,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "Soul and R&B",
@@ -1045,6 +1065,14 @@
           "plays": 5
         },
         {
+          "genre": "Oldies",
+          "plays": 5
+        },
+        {
+          "genre": "Folk",
+          "plays": 5
+        },
+        {
           "genre": "Soundtrack",
           "plays": 5
         },
@@ -1057,16 +1085,8 @@
           "plays": 4
         },
         {
-          "genre": "Oldies",
+          "genre": "Classical",
           "plays": 4
-        },
-        {
-          "genre": "Folk",
-          "plays": 4
-        },
-        {
-          "genre": "Country",
-          "plays": 3
         }
       ],
       "top_tracks": [
@@ -1224,7 +1244,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2438,
+      "total_plays": 2466,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1299,12 +1319,12 @@
           "plays": 27
         },
         {
-          "artist": "Madison Avenue",
+          "artist": "Nihonzera",
           "plays": 27
         },
         {
-          "artist": "Nihonzera",
-          "plays": 26
+          "artist": "Madison Avenue",
+          "plays": 27
         },
         {
           "artist": "Michael Bublé",
@@ -1330,23 +1350,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 578
+          "plays": 579
         },
         {
           "genre": "Pop",
-          "plays": 400
+          "plays": 409
         },
         {
           "genre": "Electronic",
-          "plays": 289
+          "plays": 293
         },
         {
           "genre": "Variete Francaise",
-          "plays": 199
+          "plays": 201
         },
         {
           "genre": "Soft Rock",
-          "plays": 140
+          "plays": 142
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1354,7 +1374,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 105
+          "plays": 106
         },
         {
           "genre": "Comedy",
@@ -1362,11 +1382,11 @@
         },
         {
           "genre": "Rock",
-          "plays": 81
+          "plays": 85
         },
         {
           "genre": "City Pop",
-          "plays": 42
+          "plays": 43
         },
         {
           "genre": "mashup",
@@ -1382,7 +1402,7 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "House",
@@ -1394,7 +1414,7 @@
         },
         {
           "genre": "Oldies",
-          "plays": 22
+          "plays": 23
         },
         {
           "genre": "Disco",
@@ -1405,12 +1425,12 @@
           "plays": 19
         },
         {
-          "genre": "Ambient",
+          "genre": "Folk",
           "plays": 16
         },
         {
-          "genre": "Folk",
-          "plays": 15
+          "genre": "Ambient",
+          "plays": 16
         },
         {
           "genre": "Variété française",
@@ -1497,6 +1517,12 @@
           "genre": "Soft Rock"
         },
         {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 27,
+          "genre": "Vaporwave"
+        },
+        {
           "song": "Don't call me baby (Mousse T Extended Remix)",
           "artist": "Madison Avenue",
           "plays": 27,
@@ -1507,12 +1533,6 @@
           "artist": "Stevie Nicks",
           "plays": 26,
           "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 26,
-          "genre": "Vaporwave"
         },
         {
           "song": "Premier League Song",
@@ -1584,7 +1604,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2438,
+      "total_plays": 2466,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1659,12 +1679,12 @@
           "plays": 27
         },
         {
-          "artist": "Madison Avenue",
+          "artist": "Nihonzera",
           "plays": 27
         },
         {
-          "artist": "Nihonzera",
-          "plays": 26
+          "artist": "Madison Avenue",
+          "plays": 27
         },
         {
           "artist": "Michael Bublé",
@@ -1690,23 +1710,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 578
+          "plays": 579
         },
         {
           "genre": "Pop",
-          "plays": 400
+          "plays": 409
         },
         {
           "genre": "Electronic",
-          "plays": 289
+          "plays": 293
         },
         {
           "genre": "Variete Francaise",
-          "plays": 199
+          "plays": 201
         },
         {
           "genre": "Soft Rock",
-          "plays": 140
+          "plays": 142
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1714,7 +1734,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 105
+          "plays": 106
         },
         {
           "genre": "Comedy",
@@ -1722,11 +1742,11 @@
         },
         {
           "genre": "Rock",
-          "plays": 81
+          "plays": 85
         },
         {
           "genre": "City Pop",
-          "plays": 42
+          "plays": 43
         },
         {
           "genre": "mashup",
@@ -1742,7 +1762,7 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "House",
@@ -1754,7 +1774,7 @@
         },
         {
           "genre": "Oldies",
-          "plays": 22
+          "plays": 23
         },
         {
           "genre": "Disco",
@@ -1765,12 +1785,12 @@
           "plays": 19
         },
         {
-          "genre": "Ambient",
+          "genre": "Folk",
           "plays": 16
         },
         {
-          "genre": "Folk",
-          "plays": 15
+          "genre": "Ambient",
+          "plays": 16
         },
         {
           "genre": "Variété française",
@@ -1857,6 +1877,12 @@
           "genre": "Soft Rock"
         },
         {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 27,
+          "genre": "Vaporwave"
+        },
+        {
           "song": "Don't call me baby (Mousse T Extended Remix)",
           "artist": "Madison Avenue",
           "plays": 27,
@@ -1867,12 +1893,6 @@
           "artist": "Stevie Nicks",
           "plays": 26,
           "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 26,
-          "genre": "Vaporwave"
         },
         {
           "song": "Premier League Song",
@@ -1944,7 +1964,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2438,
+      "total_plays": 2466,
       "top_artists": [
         {
           "artist": "Milky",
@@ -2019,12 +2039,12 @@
           "plays": 27
         },
         {
-          "artist": "Madison Avenue",
+          "artist": "Nihonzera",
           "plays": 27
         },
         {
-          "artist": "Nihonzera",
-          "plays": 26
+          "artist": "Madison Avenue",
+          "plays": 27
         },
         {
           "artist": "Michael Bublé",
@@ -2050,23 +2070,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 578
+          "plays": 579
         },
         {
           "genre": "Pop",
-          "plays": 400
+          "plays": 409
         },
         {
           "genre": "Electronic",
-          "plays": 289
+          "plays": 293
         },
         {
           "genre": "Variete Francaise",
-          "plays": 199
+          "plays": 201
         },
         {
           "genre": "Soft Rock",
-          "plays": 140
+          "plays": 142
         },
         {
           "genre": "Hip Hop/Rap",
@@ -2074,7 +2094,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 105
+          "plays": 106
         },
         {
           "genre": "Comedy",
@@ -2082,11 +2102,11 @@
         },
         {
           "genre": "Rock",
-          "plays": 81
+          "plays": 85
         },
         {
           "genre": "City Pop",
-          "plays": 42
+          "plays": 43
         },
         {
           "genre": "mashup",
@@ -2102,7 +2122,7 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "House",
@@ -2114,7 +2134,7 @@
         },
         {
           "genre": "Oldies",
-          "plays": 22
+          "plays": 23
         },
         {
           "genre": "Disco",
@@ -2125,12 +2145,12 @@
           "plays": 19
         },
         {
-          "genre": "Ambient",
+          "genre": "Folk",
           "plays": 16
         },
         {
-          "genre": "Folk",
-          "plays": 15
+          "genre": "Ambient",
+          "plays": 16
         },
         {
           "genre": "Variété française",
@@ -2217,6 +2237,12 @@
           "genre": "Soft Rock"
         },
         {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 27,
+          "genre": "Vaporwave"
+        },
+        {
           "song": "Don't call me baby (Mousse T Extended Remix)",
           "artist": "Madison Avenue",
           "plays": 27,
@@ -2227,12 +2253,6 @@
           "artist": "Stevie Nicks",
           "plays": 26,
           "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 26,
-          "genre": "Vaporwave"
         },
         {
           "song": "Premier League Song",
@@ -2660,6 +2680,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "1328a6dcf554aec8",
+      "plays": 1
+    },
+    {
       "date": "2026-04-30",
       "id": "13e8cf251a8c4ad2",
       "plays": 1
@@ -2770,6 +2795,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "1b45c0148956220f",
+      "plays": 1
+    },
+    {
       "date": "2026-06-15",
       "id": "1b9427d7f3fa84c9",
       "plays": 1
@@ -2783,6 +2813,11 @@
       "date": "2026-06-08",
       "id": "1ce8468787591925",
       "plays": 3
+    },
+    {
+      "date": "2026-06-29",
+      "id": "1d332cec9363cd1a",
+      "plays": 1
     },
     {
       "date": "2026-06-11",
@@ -3205,6 +3240,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "3b62dd7766d1f537",
+      "plays": 1
+    },
+    {
       "date": "2026-06-06",
       "id": "3b6d00d707753cd1",
       "plays": 14
@@ -3213,6 +3253,11 @@
       "date": "2026-06-07",
       "id": "3b80e4197f63c391",
       "plays": 2
+    },
+    {
+      "date": "2026-06-29",
+      "id": "3b80e4197f63c391",
+      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -3390,6 +3435,11 @@
       "plays": 4
     },
     {
+      "date": "2026-06-29",
+      "id": "4a20fee36d9db640",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "4a85cce2881269a0",
       "plays": 1
@@ -3447,6 +3497,11 @@
     {
       "date": "2026-06-02",
       "id": "4d7df4f3f434902f",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-29",
+      "id": "4de9fb64cc210ce2",
       "plays": 1
     },
     {
@@ -3630,6 +3685,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "566c8f7fad54d95a",
+      "plays": 1
+    },
+    {
       "date": "2026-05-02",
       "id": "5673df36a79f0b79",
       "plays": 6
@@ -3678,6 +3738,11 @@
       "date": "2026-06-22",
       "id": "58ee1c5f0f234ad3",
       "plays": 12
+    },
+    {
+      "date": "2026-06-29",
+      "id": "59a6c495bcbd06b9",
+      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -3775,6 +3840,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "61f53b8505bd4d63",
+      "plays": 1
+    },
+    {
       "date": "2026-05-29",
       "id": "62b841e9193d9d8e",
       "plays": 1
@@ -3830,6 +3900,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "67c4c092da821a07",
+      "plays": 1
+    },
+    {
       "date": "2026-05-29",
       "id": "681f161ef88678c9",
       "plays": 1
@@ -3838,6 +3913,11 @@
       "date": "2026-05-23",
       "id": "68304ab9a440e3f2",
       "plays": 2
+    },
+    {
+      "date": "2026-06-29",
+      "id": "68304ab9a440e3f2",
+      "plays": 1
     },
     {
       "date": "2026-05-21",
@@ -3877,6 +3957,11 @@
     {
       "date": "2026-04-30",
       "id": "6aba7f3ef09ca864",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-29",
+      "id": "6ae9ff54318a05e0",
       "plays": 1
     },
     {
@@ -3985,6 +4070,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "70e2d18005402c38",
+      "plays": 1
+    },
+    {
       "date": "2026-05-21",
       "id": "717ad08b52dd5a40",
       "plays": 1
@@ -4085,6 +4175,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-29",
+      "id": "782ad9665f640dd0",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "78ebd253e62bee12",
       "plays": 1
@@ -4173,6 +4268,11 @@
       "date": "2026-05-21",
       "id": "7f2e6f83890c2007",
       "plays": 1
+    },
+    {
+      "date": "2026-06-29",
+      "id": "7f991a9664b83191",
+      "plays": 2
     },
     {
       "date": "2026-06-16",
@@ -4406,6 +4506,11 @@
     },
     {
       "date": "2026-06-16",
+      "id": "89a602a5057a08f8",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-29",
       "id": "89a602a5057a08f8",
       "plays": 1
     },
@@ -4691,6 +4796,11 @@
     },
     {
       "date": "2026-06-11",
+      "id": "a18020275fc6a7aa",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-29",
       "id": "a18020275fc6a7aa",
       "plays": 1
     },
@@ -5120,6 +5230,16 @@
       "plays": 2
     },
     {
+      "date": "2026-06-29",
+      "id": "c33b5dfaa2fbb199",
+      "plays": 1
+    },
+    {
+      "date": "2026-06-29",
+      "id": "c364ddcc84928b05",
+      "plays": 1
+    },
+    {
       "date": "2026-06-19",
       "id": "c4317078b34c55e2",
       "plays": 1
@@ -5153,6 +5273,11 @@
       "date": "2026-05-16",
       "id": "c756c474797c5e3a",
       "plays": 2
+    },
+    {
+      "date": "2026-06-29",
+      "id": "c7a73bd07db98261",
+      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -5375,6 +5500,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "d6af5a2ec0c5c46b",
+      "plays": 1
+    },
+    {
       "date": "2026-06-28",
       "id": "d6b088ce38afacd8",
       "plays": 24
@@ -5393,6 +5523,11 @@
       "date": "2026-06-08",
       "id": "d7ca2318c6a43dfa",
       "plays": 3
+    },
+    {
+      "date": "2026-06-29",
+      "id": "d804b9f5f0869740",
+      "plays": 1
     },
     {
       "date": "2026-05-18",
@@ -5480,6 +5615,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "dee03a4aaf1bd11c",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "df3313fe2c4585c5",
       "plays": 1
@@ -5515,6 +5655,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-29",
+      "id": "e0d946621b9ec7f6",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "e11b3ec0fb6b9050",
       "plays": 1
@@ -5533,6 +5678,11 @@
       "date": "2026-06-27",
       "id": "e1e1f157629800a8",
       "plays": 2
+    },
+    {
+      "date": "2026-06-29",
+      "id": "e1e1f157629800a8",
+      "plays": 1
     },
     {
       "date": "2026-06-27",
@@ -5845,6 +5995,11 @@
       "plays": 2
     },
     {
+      "date": "2026-06-29",
+      "id": "f5fe3aa063ef51e8",
+      "plays": 1
+    },
+    {
       "date": "2026-04-20",
       "id": "f677d913ce15ff7c",
       "plays": 2
@@ -5981,6 +6136,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-28",
-  "snapshot_count": 63
+  "latest_snapshot": "2026-06-29",
+  "snapshot_count": 64
 }
