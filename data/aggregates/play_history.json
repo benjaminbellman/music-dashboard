@@ -171,33 +171,17 @@
     {
       "date": "2026-06-29",
       "plays": 28
+    },
+    {
+      "date": "2026-06-30",
+      "plays": 9
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 585,
+      "total_plays": 398,
       "top_artists": [
-        {
-          "artist": "Aden Foyer",
-          "plays": 36
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 26
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 26
-        },
-        {
-          "artist": "Vegedream",
-          "plays": 26
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 26
-        },
         {
           "artist": "Kajagoogoo",
           "plays": 24
@@ -220,6 +204,10 @@
         },
         {
           "artist": "Michael Bublé",
+          "plays": 24
+        },
+        {
+          "artist": "Michael Jackson",
           "plays": 24
         },
         {
@@ -251,69 +239,81 @@
           "plays": 24
         },
         {
-          "artist": "Kate Ryan",
-          "plays": 16
+          "artist": "Creedence Clearwater Revival",
+          "plays": 24
         },
         {
-          "artist": "Milky",
-          "plays": 10
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 10
-        },
-        {
-          "artist": "Bon Entendeur",
+          "artist": "MotorBass",
           "plays": 6
         },
         {
+          "artist": "Cannons",
+          "plays": 2
+        },
+        {
+          "artist": "Eagles",
+          "plays": 1
+        },
+        {
           "artist": "BB Brunes",
-          "plays": 4
+          "plays": 1
         },
         {
-          "artist": "Vantage",
-          "plays": 4
+          "artist": "SebastiAn Ingrosso",
+          "plays": 1
         },
         {
-          "artist": "T-Pain",
-          "plays": 3
+          "artist": "Dire Straits",
+          "plays": 1
+        },
+        {
+          "artist": "Cut Copy",
+          "plays": 1
+        },
+        {
+          "artist": "MIdnight Runners",
+          "plays": 1
+        },
+        {
+          "artist": "Piper",
+          "plays": 1
+        },
+        {
+          "artist": "Simon",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 198
+          "plays": 81
         },
         {
           "genre": "Dance",
-          "plays": 93
+          "plays": 74
         },
         {
           "genre": "Electronic",
-          "plays": 36
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 32
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 31
-        },
-        {
-          "genre": "Alternative",
-          "plays": 30
+          "plays": 34
         },
         {
           "genre": "Rock",
           "plays": 29
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 27
+        },
+        {
           "genre": "Soft Rock",
-          "plays": 28
+          "plays": 26
         },
         {
           "genre": "City Pop",
+          "plays": 25
+        },
+        {
+          "genre": "Alternative",
           "plays": 25
         },
         {
@@ -325,73 +325,31 @@
           "plays": 24
         },
         {
-          "genre": "mashup",
-          "plays": 6
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 6
-        },
-        {
-          "genre": "Comedy",
-          "plays": 4
-        },
-        {
-          "genre": "Disco",
-          "plays": 3
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 3
-        },
-        {
-          "genre": "Classical",
-          "plays": 3
-        },
-        {
-          "genre": "Funk",
-          "plays": 2
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 2
-        },
-        {
-          "genre": "Musique pour enfants",
-          "plays": 2
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 2
+          "genre": "Hip Hop/Rap",
+          "plays": 24
         },
         {
           "genre": "Folk",
           "plays": 1
         },
         {
+          "genre": "Vaporwave",
+          "plays": 1
+        },
+        {
+          "genre": "Disco",
+          "plays": 1
+        },
+        {
           "genre": "Oldies",
+          "plays": 1
+        },
+        {
+          "genre": "Classical",
           "plays": 1
         }
       ],
       "top_tracks": [
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 36,
-          "genre": "Pop"
-        },
-        {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
-          "plays": 26,
-          "genre": "Pop"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 26,
-          "genre": "Soft Rock"
-        },
         {
           "song": "Too Shy",
           "artist": "Kajagoogoo",
@@ -421,12 +379,6 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Merci les bleus",
-          "artist": "Vegedream",
-          "plays": 24,
-          "genre": "Pop"
         },
         {
           "song": "Haven't Met You Yet",
@@ -483,64 +435,88 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 16,
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 6,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Loving You",
+          "artist": "Cannons",
+          "plays": 2,
           "genre": "Pop"
         },
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 10,
-          "genre": "Dance"
+          "song": "Hotel California",
+          "artist": "Eagles",
+          "plays": 1,
+          "genre": "Rock"
         },
         {
           "song": "Lalalove You",
           "artist": "BB Brunes",
-          "plays": 4,
+          "plays": 1,
           "genre": "Variete Francaise"
         },
         {
-          "song": "Ｎｕｍｂｅｒ　Ｏｎe",
-          "artist": "Vantage",
-          "plays": 4,
-          "genre": "Future Funk"
+          "song": "Calling (Lose My Mind)  [Radio Edit]",
+          "artist": "SebastiAn Ingrosso",
+          "plays": 1,
+          "genre": "Electronic"
         },
         {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 4,
-          "genre": "mashup"
+          "song": "Why Worry",
+          "artist": "Dire Straits",
+          "plays": 1,
+          "genre": "Soft Rock"
         },
         {
-          "song": "Turn All The Lights On",
-          "artist": "T-Pain",
-          "plays": 3,
-          "genre": "Hip Hop/Rap"
+          "song": "Saturdays",
+          "artist": "Cut Copy",
+          "plays": 1,
+          "genre": "Electronic"
         },
         {
-          "song": "\"La ci darem la mano\"",
-          "artist": "Mozart",
-          "plays": 3,
-          "genre": "Classical"
+          "song": "Come On Eileen!",
+          "artist": "MIdnight Runners",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Summer Breeze",
+          "artist": "Piper",
+          "plays": 1,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Mrs. Robinson",
+          "artist": "Simon and Garfunkel",
+          "plays": 1,
+          "genre": "Folk"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 851,
+      "total_plays": 835,
       "top_artists": [
+        {
+          "artist": "Milky",
+          "plays": 207
+        },
         {
           "artist": "David Guetta",
           "plays": 207
         },
         {
-          "artist": "Milky",
-          "plays": 206
-        },
-        {
           "artist": "Stevie Nicks",
-          "plays": 38
+          "plays": 39
         },
         {
           "artist": "Aden Foyer",
@@ -623,38 +599,38 @@
           "plays": 16
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 11
-        },
-        {
           "artist": "Bon Entendeur",
           "plays": 10
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 6
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 294
+          "plays": 292
         },
         {
           "genre": "Pop",
-          "plays": 201
+          "plays": 199
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 51
+          "plays": 49
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 44
+          "genre": "Electronic",
+          "plays": 46
         },
         {
           "genre": "Rock",
           "plays": 42
         },
         {
-          "genre": "Electronic",
-          "plays": 42
+          "genre": "Variete Francaise",
+          "plays": 36
         },
         {
           "genre": "Alternative",
@@ -662,7 +638,7 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 29
+          "plays": 28
         },
         {
           "genre": "City Pop",
@@ -686,14 +662,6 @@
         },
         {
           "genre": "Comedy",
-          "plays": 5
-        },
-        {
-          "genre": "Disco",
-          "plays": 4
-        },
-        {
-          "genre": "Vaporwave",
           "plays": 4
         },
         {
@@ -701,7 +669,11 @@
           "plays": 3
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Disco",
+          "plays": 3
+        },
+        {
+          "genre": "Vaporwave",
           "plays": 3
         },
         {
@@ -717,11 +689,11 @@
           "plays": 2
         },
         {
-          "genre": "Folk",
-          "plays": 1
+          "genre": "Soundtrack",
+          "plays": 2
         },
         {
-          "genre": "Lowfi",
+          "genre": "Folk",
           "plays": 1
         },
         {
@@ -733,7 +705,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 206,
+          "plays": 207,
           "genre": "Dance"
         },
         {
@@ -859,14 +831,8 @@
         {
           "song": "Edge of Seventeen",
           "artist": "Stevie Nicks",
-          "plays": 12,
+          "plays": 13,
           "genre": "Rock"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 11,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Decade Mixtape 90's",
@@ -875,24 +841,30 @@
           "genre": "mashup"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 6,
+          "genre": "Electronic"
+        },
+        {
           "song": "Lalalove You",
           "artist": "BB Brunes",
-          "plays": 4,
+          "plays": 5,
           "genre": "Variete Francaise"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1374,
+      "total_plays": 1383,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 210
+          "plays": 211
         },
         {
           "artist": "Milky",
-          "plays": 207
+          "plays": 208
         },
         {
           "artist": "442oons",
@@ -900,7 +872,7 @@
         },
         {
           "artist": "Stevie Nicks",
-          "plays": 38
+          "plays": 39
         },
         {
           "artist": "Aden Foyer",
@@ -990,7 +962,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 371
+          "plays": 372
         },
         {
           "genre": "Pop",
@@ -998,7 +970,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 127
+          "plays": 133
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1006,15 +978,15 @@
         },
         {
           "genre": "Rock",
-          "plays": 71
+          "plays": 72
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 69
         },
         {
           "genre": "Alternative",
           "plays": 69
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 68
         },
         {
           "genre": "Comedy",
@@ -1093,7 +1065,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 206,
+          "plays": 207,
           "genre": "Dance"
         },
         {
@@ -1244,15 +1216,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2466,
+      "total_plays": 2475,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 254
+          "plays": 255
         },
         {
           "artist": "David Guetta",
-          "plays": 217
+          "plays": 218
         },
         {
           "artist": "Luther Vandross",
@@ -1267,15 +1239,15 @@
           "plays": 66
         },
         {
+          "artist": "MotorBass",
+          "plays": 60
+        },
+        {
           "artist": "Daft Punk",
           "plays": 58
         },
         {
           "artist": "Calvin Harris",
-          "plays": 54
-        },
-        {
-          "artist": "MotorBass",
           "plays": 54
         },
         {
@@ -1292,7 +1264,7 @@
         },
         {
           "artist": "Stevie Nicks",
-          "plays": 38
+          "plays": 39
         },
         {
           "artist": "Bon Entendeur",
@@ -1350,7 +1322,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 579
+          "plays": 580
         },
         {
           "genre": "Pop",
@@ -1358,11 +1330,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 293
+          "plays": 299
         },
         {
           "genre": "Variete Francaise",
-          "plays": 201
+          "plays": 202
         },
         {
           "genre": "Soft Rock",
@@ -1382,7 +1354,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 85
+          "plays": 86
         },
         {
           "genre": "City Pop",
@@ -1453,7 +1425,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 206,
+          "plays": 207,
           "genre": "Dance"
         },
         {
@@ -1471,7 +1443,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 54,
+          "plays": 60,
           "genre": "Electronic"
         },
         {
@@ -1604,15 +1576,15 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2466,
+      "total_plays": 2475,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 254
+          "plays": 255
         },
         {
           "artist": "David Guetta",
-          "plays": 217
+          "plays": 218
         },
         {
           "artist": "Luther Vandross",
@@ -1627,15 +1599,15 @@
           "plays": 66
         },
         {
+          "artist": "MotorBass",
+          "plays": 60
+        },
+        {
           "artist": "Daft Punk",
           "plays": 58
         },
         {
           "artist": "Calvin Harris",
-          "plays": 54
-        },
-        {
-          "artist": "MotorBass",
           "plays": 54
         },
         {
@@ -1652,7 +1624,7 @@
         },
         {
           "artist": "Stevie Nicks",
-          "plays": 38
+          "plays": 39
         },
         {
           "artist": "Bon Entendeur",
@@ -1710,7 +1682,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 579
+          "plays": 580
         },
         {
           "genre": "Pop",
@@ -1718,11 +1690,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 293
+          "plays": 299
         },
         {
           "genre": "Variete Francaise",
-          "plays": 201
+          "plays": 202
         },
         {
           "genre": "Soft Rock",
@@ -1742,7 +1714,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 85
+          "plays": 86
         },
         {
           "genre": "City Pop",
@@ -1813,7 +1785,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 206,
+          "plays": 207,
           "genre": "Dance"
         },
         {
@@ -1831,7 +1803,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 54,
+          "plays": 60,
           "genre": "Electronic"
         },
         {
@@ -1964,15 +1936,15 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2466,
+      "total_plays": 2475,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 254
+          "plays": 255
         },
         {
           "artist": "David Guetta",
-          "plays": 217
+          "plays": 218
         },
         {
           "artist": "Luther Vandross",
@@ -1987,15 +1959,15 @@
           "plays": 66
         },
         {
+          "artist": "MotorBass",
+          "plays": 60
+        },
+        {
           "artist": "Daft Punk",
           "plays": 58
         },
         {
           "artist": "Calvin Harris",
-          "plays": 54
-        },
-        {
-          "artist": "MotorBass",
           "plays": 54
         },
         {
@@ -2012,7 +1984,7 @@
         },
         {
           "artist": "Stevie Nicks",
-          "plays": 38
+          "plays": 39
         },
         {
           "artist": "Bon Entendeur",
@@ -2070,7 +2042,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 579
+          "plays": 580
         },
         {
           "genre": "Pop",
@@ -2078,11 +2050,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 293
+          "plays": 299
         },
         {
           "genre": "Variete Francaise",
-          "plays": 201
+          "plays": 202
         },
         {
           "genre": "Soft Rock",
@@ -2102,7 +2074,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 85
+          "plays": 86
         },
         {
           "genre": "City Pop",
@@ -2173,7 +2145,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 206,
+          "plays": 207,
           "genre": "Dance"
         },
         {
@@ -2191,7 +2163,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 54,
+          "plays": 60,
           "genre": "Electronic"
         },
         {
@@ -2748,6 +2720,11 @@
       "date": "2026-06-27",
       "id": "162e1839baf6ebb0",
       "plays": 4
+    },
+    {
+      "date": "2026-06-30",
+      "id": "162e1839baf6ebb0",
+      "plays": 1
     },
     {
       "date": "2026-06-08",
@@ -3738,6 +3715,11 @@
       "date": "2026-06-22",
       "id": "58ee1c5f0f234ad3",
       "plays": 12
+    },
+    {
+      "date": "2026-06-30",
+      "id": "58ee1c5f0f234ad3",
+      "plays": 1
     },
     {
       "date": "2026-06-29",
@@ -4880,6 +4862,11 @@
       "plays": 10
     },
     {
+      "date": "2026-06-30",
+      "id": "a698fbade8d38198",
+      "plays": 1
+    },
+    {
       "date": "2026-05-10",
       "id": "a6b46341449f075e",
       "plays": 8
@@ -5975,6 +5962,11 @@
       "plays": 1
     },
     {
+      "date": "2026-06-30",
+      "id": "f2603e959d7cf580",
+      "plays": 6
+    },
+    {
       "date": "2026-05-29",
       "id": "f299846965177232",
       "plays": 1
@@ -6136,6 +6128,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-29",
-  "snapshot_count": 64
+  "latest_snapshot": "2026-06-30",
+  "snapshot_count": 65
 }

@@ -812,12 +812,12 @@
   {
     "year": 2026,
     "genre": "Dance",
-    "plays": 953
+    "plays": 956
   },
   {
     "year": 2026,
     "genre": "Electronic",
-    "plays": 672
+    "plays": 678
   },
   {
     "year": 2026,
@@ -832,7 +832,7 @@
   {
     "year": 2026,
     "genre": "Rock",
-    "plays": 219
+    "plays": 220
   },
   {
     "year": 2026,
@@ -842,6 +842,6 @@
   {
     "year": 2026,
     "genre": "Variete Francaise",
-    "plays": 299
+    "plays": 300
   }
 ]
