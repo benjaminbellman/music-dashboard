@@ -1,8 +1,8 @@
 {
   "total_plays": 206964,
-  "track_count": 3839,
-  "artist_count": 2178,
-  "avg_plays": 53.9109,
-  "median_plays": 37,
-  "stdev_plays": 53.9664
+  "track_count": 3844,
+  "artist_count": 2181,
+  "avg_plays": 53.8408,
+  "median_plays": 37.0,
+  "stdev_plays": 53.9663
 }

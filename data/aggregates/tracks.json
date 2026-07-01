@@ -57644,6 +57644,21 @@
     "country": "IL"
   },
   {
+    "id": "498f01ecedba3059",
+    "song": "Talk To You [No Art]",
+    "artist": "ANOTR ft. 54 Ultra",
+    "credits": [
+      "ANOTR"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 190,
+    "date_added": "2026-07-01T07:46:14",
+    "last_played": null,
+    "genre": "Dance",
+    "country": null
+  },
+  {
     "id": "4700a1254f334856",
     "song": "Son of the Mask - part 3 of 10 (Free)",
     "artist": "Bad Musician",
@@ -57674,6 +57689,21 @@
     "country": "DE"
   },
   {
+    "id": "9481a3789785adf5",
+    "song": "Blunted People",
+    "artist": "Demon",
+    "credits": [
+      "Demon"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 304,
+    "date_added": "2026-07-01T07:52:00",
+    "last_played": null,
+    "genre": "Dance",
+    "country": "FR"
+  },
+  {
     "id": "20ea58c23fdcd7f1",
     "song": "A Little Less Sixteen Candles, a Little More \"Touch Me\"",
     "artist": "Fall Out Boy",
@@ -57687,5 +57717,50 @@
     "last_played": null,
     "genre": "Alternative",
     "country": "US"
+  },
+  {
+    "id": "6ba87d1b5737f2cb",
+    "song": "F9 Riot Squad (Original Mix)",
+    "artist": "Jess & Crabbe",
+    "credits": [
+      "Jess & Crabbe"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 420,
+    "date_added": "2026-07-01T07:55:22",
+    "last_played": null,
+    "genre": "Dance",
+    "country": null
+  },
+  {
+    "id": "803c086c4dae2a2c",
+    "song": "Vermeille",
+    "artist": "Pépé Bradock",
+    "credits": [
+      "Pépé Bradock"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 351,
+    "date_added": "2026-07-01T07:53:31",
+    "last_played": null,
+    "genre": "Dance",
+    "country": null
+  },
+  {
+    "id": "1d519ce614dc7539",
+    "song": "Superfunk - Sugar Pop (Original Mix)",
+    "artist": "Superfunk",
+    "credits": [
+      "Superfunk"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 332,
+    "date_added": "2026-07-01T07:56:19",
+    "last_played": null,
+    "genre": "Dance",
+    "country": "FR"
   }
 ]
