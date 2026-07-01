@@ -175,73 +175,17 @@
     {
       "date": "2026-06-30",
       "plays": 9
+    },
+    {
+      "date": "2026-07-01",
+      "plays": 1
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 398,
+      "total_plays": 38,
       "top_artists": [
-        {
-          "artist": "Kajagoogoo",
-          "plays": 24
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 24
-        },
-        {
-          "artist": "Joris Delacroix",
-          "plays": 24
-        },
-        {
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24
-        },
-        {
-          "artist": "Francoise Hardy",
-          "plays": 24
-        },
-        {
-          "artist": "Michael Bublé",
-          "plays": 24
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 24
-        },
-        {
-          "artist": "Klangkarussell",
-          "plays": 24
-        },
-        {
-          "artist": "Miki Matsubara",
-          "plays": 24
-        },
-        {
-          "artist": "CASCADA",
-          "plays": 24
-        },
-        {
-          "artist": "Madison Avenue",
-          "plays": 24
-        },
-        {
-          "artist": "Astro",
-          "plays": 24
-        },
-        {
-          "artist": "Bananarama",
-          "plays": 24
-        },
-        {
-          "artist": "Drake",
-          "plays": 24
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 24
-        },
         {
           "artist": "MotorBass",
           "plays": 6
@@ -275,58 +219,106 @@
           "plays": 1
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 1
+        },
+        {
           "artist": "Piper",
           "plays": 1
         },
         {
           "artist": "Simon",
           "plays": 1
+        },
+        {
+          "artist": "The Trashmen",
+          "plays": 1
+        },
+        {
+          "artist": "Stevie Nicks",
+          "plays": 1
+        },
+        {
+          "artist": "America",
+          "plays": 1
+        },
+        {
+          "artist": "Darius",
+          "plays": 1
+        },
+        {
+          "artist": "Brigitte Bardot",
+          "plays": 1
+        },
+        {
+          "artist": "Tony Igy",
+          "plays": 1
+        },
+        {
+          "artist": "Camila Cabello",
+          "plays": 1
+        },
+        {
+          "artist": "Supertramp",
+          "plays": 1
+        },
+        {
+          "artist": "The Tee Set",
+          "plays": 1
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 1
+        },
+        {
+          "artist": "Kim Petras",
+          "plays": 1
+        },
+        {
+          "artist": "Milky",
+          "plays": 1
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 1
+        },
+        {
+          "artist": "BJ Thomas",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Pop",
-          "plays": 81
-        },
-        {
-          "genre": "Dance",
-          "plays": 74
-        },
-        {
           "genre": "Electronic",
-          "plays": 34
+          "plays": 10
+        },
+        {
+          "genre": "Pop",
+          "plays": 9
         },
         {
           "genre": "Rock",
-          "plays": 29
+          "plays": 5
         },
         {
           "genre": "Variete Francaise",
-          "plays": 27
+          "plays": 3
         },
         {
           "genre": "Soft Rock",
-          "plays": 26
+          "plays": 2
+        },
+        {
+          "genre": "Dance",
+          "plays": 2
+        },
+        {
+          "genre": "mashup",
+          "plays": 1
         },
         {
           "genre": "City Pop",
-          "plays": 25
-        },
-        {
-          "genre": "Alternative",
-          "plays": 25
-        },
-        {
-          "genre": "French Pop",
-          "plays": 24
-        },
-        {
-          "genre": "Soul and R&B",
-          "plays": 24
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 24
+          "plays": 1
         },
         {
           "genre": "Folk",
@@ -337,11 +329,11 @@
           "plays": 1
         },
         {
-          "genre": "Disco",
+          "genre": "Oldies",
           "plays": 1
         },
         {
-          "genre": "Oldies",
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -350,96 +342,6 @@
         }
       ],
       "top_tracks": [
-        {
-          "song": "Too Shy",
-          "artist": "Kajagoogoo",
-          "plays": 24,
-          "genre": "Rock"
-        },
-        {
-          "song": "Voyager",
-          "artist": "Daft Punk",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Air France [HD]",
-          "artist": "Joris Delacroix",
-          "plays": 24,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Femme que j'aime",
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24,
-          "genre": "French Pop"
-        },
-        {
-          "song": "Message Personnel",
-          "artist": "Francoise Hardy",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Haven't Met You Yet",
-          "artist": "Michael Bublé",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Billy Jean",
-          "artist": "Michael Jackson",
-          "plays": 24,
-          "genre": "Soul and R&B"
-        },
-        {
-          "song": "Sonnentanz (Original Version)",
-          "artist": "Klangkarussell",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Stay With Me",
-          "artist": "Miki Matsubara",
-          "plays": 24,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Everytime We Touch Scarf! Remix",
-          "artist": "CASCADA",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Don't call me baby (Mousse T Extended Remix)",
-          "artist": "Madison Avenue",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Panda",
-          "artist": "Astro",
-          "plays": 24,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Cruel Summer (Dilemmachine Remix)",
-          "artist": "Bananarama",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Hotline Bling",
-          "artist": "Drake",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 24,
-          "genre": "Soft Rock"
-        },
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
@@ -489,6 +391,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Decade Mixtape 90's",
+          "artist": "Bon Entendeur",
+          "plays": 1,
+          "genre": "mashup"
+        },
+        {
           "song": "Summer Breeze",
           "artist": "Piper",
           "plays": 1,
@@ -499,12 +407,96 @@
           "artist": "Simon and Garfunkel",
           "plays": 1,
           "genre": "Folk"
+        },
+        {
+          "song": "Surfin' Bird",
+          "artist": "The Trashmen",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "Edge of Seventeen",
+          "artist": "Stevie Nicks",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "A Horse With No Name",
+          "artist": "America",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "Espoir",
+          "artist": "Darius",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Tu Veux Ou Tu Veux Pas",
+          "artist": "Brigitte Bardot",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Astronomia",
+          "artist": "Tony Igy",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Havana",
+          "artist": "Camila Cabello",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't Leave me now",
+          "artist": "Supertramp",
+          "plays": 1,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Ma Belle Amie",
+          "artist": "The Tee Set",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
+          "artist": "Nihonzera",
+          "plays": 1,
+          "genre": "Vaporwave"
+        },
+        {
+          "song": "Problématique",
+          "artist": "Kim Petras",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Raindrops keep falling on my head",
+          "artist": "BJ Thomas",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Super Trouper",
+          "artist": "ABBA",
+          "plays": 1,
+          "genre": "Pop"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 835,
+      "total_plays": 836,
       "top_artists": [
         {
           "artist": "Milky",
@@ -600,7 +592,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 10
+          "plays": 11
         },
         {
           "artist": "MotorBass",
@@ -654,7 +646,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 9
+          "plays": 10
         },
         {
           "genre": "Future Funk",
@@ -837,7 +829,7 @@
         {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
-          "plays": 7,
+          "plays": 8,
           "genre": "mashup"
         },
         {
@@ -856,7 +848,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1383,
+      "total_plays": 1384,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -955,7 +947,7 @@
           "plays": 19
         },
         {
-          "artist": "Oliver Heldens",
+          "artist": "Bon Entendeur",
           "plays": 18
         }
       ],
@@ -1014,7 +1006,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 19
+          "plays": 20
         },
         {
           "genre": "Variété française",
@@ -1216,7 +1208,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2475,
+      "total_plays": 2476,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1268,7 +1260,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 37
+          "plays": 38
         },
         {
           "artist": "Aden Foyer",
@@ -1362,7 +1354,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 33
+          "plays": 34
         },
         {
           "genre": "French Pop",
@@ -1576,7 +1568,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2475,
+      "total_plays": 2476,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1628,7 +1620,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 37
+          "plays": 38
         },
         {
           "artist": "Aden Foyer",
@@ -1722,7 +1714,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 33
+          "plays": 34
         },
         {
           "genre": "French Pop",
@@ -1936,7 +1928,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2475,
+      "total_plays": 2476,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1988,7 +1980,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 37
+          "plays": 38
         },
         {
           "artist": "Aden Foyer",
@@ -2082,7 +2074,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 33
+          "plays": 34
         },
         {
           "genre": "French Pop",
@@ -3410,6 +3402,11 @@
       "date": "2026-06-27",
       "id": "49e6651d7e88edd5",
       "plays": 4
+    },
+    {
+      "date": "2026-07-01",
+      "id": "49e6651d7e88edd5",
+      "plays": 1
     },
     {
       "date": "2026-06-29",
@@ -6128,6 +6125,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-06-30",
-  "snapshot_count": 65
+  "latest_snapshot": "2026-07-01",
+  "snapshot_count": 66
 }
