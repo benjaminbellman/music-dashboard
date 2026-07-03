@@ -179,324 +179,68 @@
     {
       "date": "2026-07-01",
       "plays": 1
+    },
+    {
+      "date": "2026-07-03",
+      "plays": 12
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 38,
+      "total_plays": 13,
       "top_artists": [
         {
-          "artist": "MotorBass",
-          "plays": 6
+          "artist": "Kungs",
+          "plays": 10
         },
         {
-          "artist": "Cannons",
+          "artist": "Purple Disco Machine",
+          "plays": 10
+        },
+        {
+          "artist": "Demon",
           "plays": 2
         },
         {
-          "artist": "Eagles",
-          "plays": 1
-        },
-        {
-          "artist": "BB Brunes",
-          "plays": 1
-        },
-        {
-          "artist": "SebastiAn Ingrosso",
-          "plays": 1
-        },
-        {
-          "artist": "Dire Straits",
-          "plays": 1
-        },
-        {
-          "artist": "Cut Copy",
-          "plays": 1
-        },
-        {
-          "artist": "MIdnight Runners",
-          "plays": 1
-        },
-        {
           "artist": "Bon Entendeur",
-          "plays": 1
-        },
-        {
-          "artist": "Piper",
-          "plays": 1
-        },
-        {
-          "artist": "Simon",
-          "plays": 1
-        },
-        {
-          "artist": "The Trashmen",
-          "plays": 1
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 1
-        },
-        {
-          "artist": "America",
-          "plays": 1
-        },
-        {
-          "artist": "Darius",
-          "plays": 1
-        },
-        {
-          "artist": "Brigitte Bardot",
-          "plays": 1
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 1
-        },
-        {
-          "artist": "Camila Cabello",
-          "plays": 1
-        },
-        {
-          "artist": "Supertramp",
-          "plays": 1
-        },
-        {
-          "artist": "The Tee Set",
-          "plays": 1
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 1
-        },
-        {
-          "artist": "Kim Petras",
-          "plays": 1
-        },
-        {
-          "artist": "Milky",
-          "plays": 1
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 1
-        },
-        {
-          "artist": "BJ Thomas",
           "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 10
-        },
-        {
-          "genre": "Pop",
-          "plays": 9
-        },
-        {
-          "genre": "Rock",
-          "plays": 5
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 3
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 2
-        },
-        {
           "genre": "Dance",
-          "plays": 2
+          "plays": 12
         },
         {
           "genre": "mashup",
-          "plays": 1
-        },
-        {
-          "genre": "City Pop",
-          "plays": 1
-        },
-        {
-          "genre": "Folk",
-          "plays": 1
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 1
-        },
-        {
-          "genre": "Oldies",
-          "plays": 1
-        },
-        {
-          "genre": "Alternative",
-          "plays": 1
-        },
-        {
-          "genre": "Classical",
           "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 6,
-          "genre": "Electronic"
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 10,
+          "genre": "Dance"
         },
         {
-          "song": "Loving You",
-          "artist": "Cannons",
+          "song": "Blunted People",
+          "artist": "Demon",
           "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Hotel California",
-          "artist": "Eagles",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Lalalove You",
-          "artist": "BB Brunes",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Calling (Lose My Mind)  [Radio Edit]",
-          "artist": "SebastiAn Ingrosso",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Why Worry",
-          "artist": "Dire Straits",
-          "plays": 1,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Come On Eileen!",
-          "artist": "MIdnight Runners",
-          "plays": 1,
-          "genre": "Pop"
+          "genre": "Dance"
         },
         {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
           "plays": 1,
           "genre": "mashup"
-        },
-        {
-          "song": "Summer Breeze",
-          "artist": "Piper",
-          "plays": 1,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Mrs. Robinson",
-          "artist": "Simon and Garfunkel",
-          "plays": 1,
-          "genre": "Folk"
-        },
-        {
-          "song": "Surfin' Bird",
-          "artist": "The Trashmen",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Edge of Seventeen",
-          "artist": "Stevie Nicks",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "A Horse With No Name",
-          "artist": "America",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Espoir",
-          "artist": "Darius",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Tu Veux Ou Tu Veux Pas",
-          "artist": "Brigitte Bardot",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Astronomia",
-          "artist": "Tony Igy",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Havana",
-          "artist": "Camila Cabello",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Don't Leave me now",
-          "artist": "Supertramp",
-          "plays": 1,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Ma Belle Amie",
-          "artist": "The Tee Set",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 1,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "Problématique",
-          "artist": "Kim Petras",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Raindrops keep falling on my head",
-          "artist": "BJ Thomas",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Super Trouper",
-          "artist": "ABBA",
-          "plays": 1,
-          "genre": "Pop"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 836,
+      "total_plays": 831,
       "top_artists": [
         {
           "artist": "Milky",
@@ -579,10 +323,6 @@
           "plays": 24
         },
         {
-          "artist": "Fatboy Slim",
-          "plays": 17
-        },
-        {
           "artist": "Kate Ryan",
           "plays": 16
         },
@@ -591,42 +331,46 @@
           "plays": 16
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 11
+          "artist": "Fatboy Slim",
+          "plays": 16
         },
         {
-          "artist": "MotorBass",
-          "plays": 6
+          "artist": "Kungs",
+          "plays": 10
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 292
+          "plays": 302
         },
         {
           "genre": "Pop",
-          "plays": 199
+          "plays": 198
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 49
-        },
-        {
-          "genre": "Electronic",
-          "plays": 46
+          "plays": 47
         },
         {
           "genre": "Rock",
           "plays": 42
         },
         {
+          "genre": "Electronic",
+          "plays": 42
+        },
+        {
           "genre": "Variete Francaise",
-          "plays": 36
+          "plays": 33
         },
         {
           "genre": "Alternative",
-          "plays": 31
+          "plays": 30
         },
         {
           "genre": "Soft Rock",
@@ -646,7 +390,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 10
+          "plays": 7
         },
         {
           "genre": "Future Funk",
@@ -655,10 +399,6 @@
         {
           "genre": "Comedy",
           "plays": 4
-        },
-        {
-          "genre": "Funk",
-          "plays": 3
         },
         {
           "genre": "Disco",
@@ -671,6 +411,10 @@
         {
           "genre": "Classical",
           "plays": 3
+        },
+        {
+          "genre": "Funk",
+          "plays": 2
         },
         {
           "genre": "Musique francophone",
@@ -827,10 +571,10 @@
           "genre": "Rock"
         },
         {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 8,
-          "genre": "mashup"
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 10,
+          "genre": "Dance"
         },
         {
           "song": "Flying Fingers",
@@ -848,19 +592,19 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1384,
+      "total_plays": 1211,
       "top_artists": [
         {
           "artist": "David Guetta",
-          "plays": 211
+          "plays": 210
         },
         {
           "artist": "Milky",
-          "plays": 208
+          "plays": 207
         },
         {
           "artist": "442oons",
-          "plays": 54
+          "plays": 50
         },
         {
           "artist": "Stevie Nicks",
@@ -872,27 +616,23 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 34
-        },
-        {
-          "artist": "Drake",
-          "plays": 28
+          "plays": 31
         },
         {
           "artist": "Michael Jackson",
-          "plays": 27
+          "plays": 26
         },
         {
           "artist": "Vegedream",
-          "plays": 27
+          "plays": 26
+        },
+        {
+          "artist": "Drake",
+          "plays": 26
         },
         {
           "artist": "Creedence Clearwater Revival",
-          "plays": 27
-        },
-        {
-          "artist": "Michael Bublé",
-          "plays": 25
+          "plays": 26
         },
         {
           "artist": "Kajagoogoo",
@@ -908,6 +648,10 @@
         },
         {
           "artist": "Francoise Hardy",
+          "plays": 24
+        },
+        {
+          "artist": "Michael Bublé",
           "plays": 24
         },
         {
@@ -935,122 +679,122 @@
           "plays": 24
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 21
-        },
-        {
           "artist": "Electronic",
           "plays": 20
         },
         {
-          "artist": "Visitor",
-          "plays": 19
+          "artist": "France Football Anthem",
+          "plays": 20
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "Visitor",
+          "plays": 18
+        },
+        {
+          "artist": "Oliver Heldens",
           "plays": 18
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 372
+          "plays": 367
         },
         {
           "genre": "Pop",
-          "plays": 271
+          "plays": 245
         },
         {
           "genre": "Electronic",
-          "plays": 133
+          "plays": 103
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 86
+          "plays": 65
         },
         {
           "genre": "Rock",
-          "plays": 72
+          "plays": 61
         },
         {
           "genre": "Variete Francaise",
-          "plays": 69
-        },
-        {
-          "genre": "Alternative",
-          "plays": 69
-        },
-        {
-          "genre": "Comedy",
           "plays": 59
         },
         {
-          "genre": "Soft Rock",
-          "plays": 35
+          "genre": "Alternative",
+          "plays": 56
         },
         {
-          "genre": "French Pop",
+          "genre": "Comedy",
+          "plays": 52
+        },
+        {
+          "genre": "Soft Rock",
           "plays": 32
         },
         {
+          "genre": "French Pop",
+          "plays": 28
+        },
+        {
           "genre": "City Pop",
-          "plays": 29
+          "plays": 25
         },
         {
           "genre": "Soul and R&B",
           "plays": 24
         },
         {
-          "genre": "Future Funk",
-          "plays": 21
-        },
-        {
           "genre": "mashup",
-          "plays": 20
+          "plays": 17
         },
         {
-          "genre": "Variété française",
-          "plays": 9
+          "genre": "Future Funk",
+          "plays": 16
         },
         {
           "genre": "Musique francophone",
           "plays": 8
         },
         {
-          "genre": "Indie",
-          "plays": 8
-        },
-        {
-          "genre": "Latin",
+          "genre": "Variété française",
           "plays": 7
         },
         {
-          "genre": "Disco",
-          "plays": 5
+          "genre": "Indie",
+          "plays": 6
         },
         {
-          "genre": "Oldies",
-          "plays": 5
+          "genre": "Disco",
+          "plays": 4
         },
         {
           "genre": "Folk",
-          "plays": 5
+          "plays": 4
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 4
         },
         {
           "genre": "Soundtrack",
-          "plays": 5
+          "plays": 4
         },
         {
           "genre": "Funk",
-          "plays": 4
+          "plays": 3
         },
         {
-          "genre": "Lowfi",
-          "plays": 4
+          "genre": "World",
+          "plays": 3
         },
         {
           "genre": "Classical",
-          "plays": 4
+          "plays": 3
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 2
         }
       ],
       "top_tracks": [
@@ -1067,40 +811,22 @@
           "genre": "Pop"
         },
         {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 27,
-          "genre": "Soft Rock"
-        },
-        {
           "song": "Talk To Me",
           "artist": "Stevie Nicks",
           "plays": 26,
           "genre": "Pop"
         },
         {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 26,
+          "genre": "Soft Rock"
+        },
+        {
           "song": "Premier League Song",
           "artist": "442oons",
           "plays": 25,
           "genre": "Comedy"
-        },
-        {
-          "song": "Merci les bleus",
-          "artist": "Vegedream",
-          "plays": 25,
-          "genre": "Pop"
-        },
-        {
-          "song": "Haven't Met You Yet",
-          "artist": "Michael Bublé",
-          "plays": 25,
-          "genre": "Pop"
-        },
-        {
-          "song": "Hotline Bling",
-          "artist": "Drake",
-          "plays": 25,
-          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Too Shy",
@@ -1131,6 +857,18 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Merci les bleus",
+          "artist": "Vegedream",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Haven't Met You Yet",
+          "artist": "Michael Bublé",
+          "plays": 24,
+          "genre": "Pop"
         },
         {
           "song": "Billy Jean",
@@ -1175,16 +913,22 @@
           "genre": "Pop"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 21,
-          "genre": "Variete Francaise"
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Disappointed",
           "artist": "Electronic",
           "plays": 20,
           "genre": "Pop"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 20,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Los Feeling (Alan Braxe Remix)",
@@ -1201,14 +945,14 @@
         {
           "song": "Can I Call You Tonight",
           "artist": "Dayglow",
-          "plays": 17,
+          "plays": 16,
           "genre": "Alternative"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2476,
+      "total_plays": 2488,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1314,7 +1058,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 580
+          "plays": 592
         },
         {
           "genre": "Pop",
@@ -1568,7 +1312,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2476,
+      "total_plays": 2488,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1674,7 +1418,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 580
+          "plays": 592
         },
         {
           "genre": "Pop",
@@ -1928,7 +1672,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2476,
+      "total_plays": 2488,
       "top_artists": [
         {
           "artist": "Milky",
@@ -2034,7 +1778,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 580
+          "plays": 592
         },
         {
           "genre": "Pop",
@@ -3389,6 +3133,11 @@
       "plays": 3
     },
     {
+      "date": "2026-07-03",
+      "id": "49a8e200a97614c3",
+      "plays": 10
+    },
+    {
       "date": "2026-06-15",
       "id": "49e6651d7e88edd5",
       "plays": 1
@@ -4631,6 +4380,11 @@
     {
       "date": "2026-06-27",
       "id": "9446043a92d2c454",
+      "plays": 2
+    },
+    {
+      "date": "2026-07-03",
+      "id": "9481a3789785adf5",
       "plays": 2
     },
     {
@@ -6125,6 +5879,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-01",
-  "snapshot_count": 66
+  "latest_snapshot": "2026-07-03",
+  "snapshot_count": 67
 }
