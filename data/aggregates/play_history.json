@@ -183,45 +183,89 @@
     {
       "date": "2026-07-03",
       "plays": 12
+    },
+    {
+      "date": "2026-07-04",
+      "plays": 62
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 13,
+      "total_plays": 74,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 10
+          "plays": 36
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 10
+          "plays": 36
+        },
+        {
+          "artist": "Melanie Martinez",
+          "plays": 16
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 14
+        },
+        {
+          "artist": "Superfunk",
+          "plays": 4
+        },
+        {
+          "artist": "Claptone",
+          "plays": 2
         },
         {
           "artist": "Demon",
           "plays": 2
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 12
+          "plays": 44
         },
         {
-          "genre": "mashup",
-          "plays": 1
+          "genre": "Pop",
+          "plays": 16
+        },
+        {
+          "genre": "Electronic",
+          "plays": 14
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 10,
+          "plays": 36,
+          "genre": "Dance"
+        },
+        {
+          "song": "Play Date",
+          "artist": "Melanie Martinez",
+          "plays": 16,
+          "genre": "Pop"
+        },
+        {
+          "song": "Around the world (Version Longue)",
+          "artist": "Daft Punk",
+          "plays": 14,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Sugar Pop (Original Mix)",
+          "artist": "Superfunk",
+          "plays": 4,
+          "genre": "Dance"
+        },
+        {
+          "song": "Control (Original Mix)",
+          "artist": "Claptone",
+          "plays": 2,
           "genre": "Dance"
         },
         {
@@ -229,30 +273,36 @@
           "artist": "Demon",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 1,
-          "genre": "mashup"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 831,
+      "total_plays": 879,
       "top_artists": [
         {
           "artist": "Milky",
-          "plays": 207
+          "plays": 193
         },
         {
           "artist": "David Guetta",
-          "plays": 207
+          "plays": 193
         },
         {
           "artist": "Stevie Nicks",
           "plays": 39
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 38
+        },
+        {
+          "artist": "Kungs",
+          "plays": 36
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 36
         },
         {
           "artist": "Aden Foyer",
@@ -272,10 +322,6 @@
         },
         {
           "artist": "Kajagoogoo",
-          "plays": 24
-        },
-        {
-          "artist": "Daft Punk",
           "plays": 24
         },
         {
@@ -327,30 +373,26 @@
           "plays": 16
         },
         {
+          "artist": "Melanie Martinez",
+          "plays": 16
+        },
+        {
           "artist": "Beastie Boys",
           "plays": 16
-        },
-        {
-          "artist": "Fatboy Slim",
-          "plays": 16
-        },
-        {
-          "artist": "Kungs",
-          "plays": 10
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 10
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 302
+          "plays": 320
         },
         {
           "genre": "Pop",
-          "plays": 198
+          "plays": 214
+        },
+        {
+          "genre": "Electronic",
+          "plays": 56
         },
         {
           "genre": "Hip Hop/Rap",
@@ -358,10 +400,6 @@
         },
         {
           "genre": "Rock",
-          "plays": 42
-        },
-        {
-          "genre": "Electronic",
           "plays": 42
         },
         {
@@ -441,7 +479,13 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
-          "plays": 207,
+          "plays": 193,
+          "genre": "Dance"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 36,
           "genre": "Dance"
         },
         {
@@ -559,40 +603,34 @@
           "genre": "Pop"
         },
         {
+          "song": "Play Date",
+          "artist": "Melanie Martinez",
+          "plays": 16,
+          "genre": "Pop"
+        },
+        {
           "song": "Body Movin' (Fatboy Slim Remix)",
           "artist": "Beastie Boys & Fatboy Slim",
           "plays": 16,
           "genre": "Hip Hop/Rap"
         },
         {
+          "song": "Around the world (Version Longue)",
+          "artist": "Daft Punk",
+          "plays": 14,
+          "genre": "Electronic"
+        },
+        {
           "song": "Edge of Seventeen",
           "artist": "Stevie Nicks",
           "plays": 13,
           "genre": "Rock"
-        },
-        {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 10,
-          "genre": "Dance"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 6,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Lalalove You",
-          "artist": "BB Brunes",
-          "plays": 5,
-          "genre": "Variete Francaise"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1211,
+      "total_plays": 1251,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -607,16 +645,24 @@
           "plays": 50
         },
         {
+          "artist": "Daft Punk",
+          "plays": 45
+        },
+        {
           "artist": "Stevie Nicks",
           "plays": 39
         },
         {
-          "artist": "Aden Foyer",
+          "artist": "Kungs",
+          "plays": 37
+        },
+        {
+          "artist": "Purple Disco Machine",
           "plays": 36
         },
         {
-          "artist": "Daft Punk",
-          "plays": 31
+          "artist": "Aden Foyer",
+          "plays": 36
         },
         {
           "artist": "Michael Jackson",
@@ -624,10 +670,6 @@
         },
         {
           "artist": "Vegedream",
-          "plays": 26
-        },
-        {
-          "artist": "Drake",
           "plays": 26
         },
         {
@@ -679,38 +721,34 @@
           "plays": 24
         },
         {
+          "artist": "Drake",
+          "plays": 24
+        },
+        {
           "artist": "Electronic",
           "plays": 20
         },
         {
           "artist": "France Football Anthem",
           "plays": 20
-        },
-        {
-          "artist": "Visitor",
-          "plays": 18
-        },
-        {
-          "artist": "Oliver Heldens",
-          "plays": 18
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 367
+          "plays": 394
         },
         {
           "genre": "Pop",
-          "plays": 245
+          "plays": 255
         },
         {
           "genre": "Electronic",
-          "plays": 103
+          "plays": 116
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 65
+          "plays": 62
         },
         {
           "genre": "Rock",
@@ -722,7 +760,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 56
+          "plays": 54
         },
         {
           "genre": "Comedy",
@@ -745,12 +783,12 @@
           "plays": 24
         },
         {
-          "genre": "mashup",
-          "plays": 17
-        },
-        {
           "genre": "Future Funk",
           "plays": 16
+        },
+        {
+          "genre": "mashup",
+          "plays": 15
         },
         {
           "genre": "Musique francophone",
@@ -766,10 +804,6 @@
         },
         {
           "genre": "Disco",
-          "plays": 4
-        },
-        {
-          "genre": "Folk",
           "plays": 4
         },
         {
@@ -795,6 +829,10 @@
         {
           "genre": "Lowfi",
           "plays": 2
+        },
+        {
+          "genre": "Latin",
+          "plays": 2
         }
       ],
       "top_tracks": [
@@ -802,6 +840,12 @@
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 207,
+          "genre": "Dance"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 36,
           "genre": "Dance"
         },
         {
@@ -941,18 +985,12 @@
           "artist": "Oliver Heldens",
           "plays": 18,
           "genre": "Electronic"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 16,
-          "genre": "Alternative"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2488,
+      "total_plays": 2550,
       "top_artists": [
         {
           "artist": "Milky",
@@ -971,16 +1009,16 @@
           "plays": 91
         },
         {
+          "artist": "Daft Punk",
+          "plays": 72
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 66
         },
         {
           "artist": "MotorBass",
           "plays": 60
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 58
         },
         {
           "artist": "Calvin Harris",
@@ -1005,6 +1043,14 @@
         {
           "artist": "Bon Entendeur",
           "plays": 38
+        },
+        {
+          "artist": "Kungs",
+          "plays": 37
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 37
         },
         {
           "artist": "Aden Foyer",
@@ -1045,28 +1091,20 @@
         {
           "artist": "Kajagoogoo",
           "plays": 24
-        },
-        {
-          "artist": "Joris Delacroix",
-          "plays": 24
-        },
-        {
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 592
+          "plays": 624
         },
         {
           "genre": "Pop",
-          "plays": 409
+          "plays": 425
         },
         {
           "genre": "Electronic",
-          "plays": 299
+          "plays": 313
         },
         {
           "genre": "Variete Francaise",
@@ -1213,6 +1251,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 36,
+          "genre": "Dance"
+        },
+        {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
@@ -1301,18 +1345,12 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Billy Jean",
-          "artist": "Michael Jackson",
-          "plays": 24,
-          "genre": "Soul and R&B"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 2488,
+      "total_plays": 2550,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1331,16 +1369,16 @@
           "plays": 91
         },
         {
+          "artist": "Daft Punk",
+          "plays": 72
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 66
         },
         {
           "artist": "MotorBass",
           "plays": 60
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 58
         },
         {
           "artist": "Calvin Harris",
@@ -1365,6 +1403,14 @@
         {
           "artist": "Bon Entendeur",
           "plays": 38
+        },
+        {
+          "artist": "Kungs",
+          "plays": 37
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 37
         },
         {
           "artist": "Aden Foyer",
@@ -1405,28 +1451,20 @@
         {
           "artist": "Kajagoogoo",
           "plays": 24
-        },
-        {
-          "artist": "Joris Delacroix",
-          "plays": 24
-        },
-        {
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 592
+          "plays": 624
         },
         {
           "genre": "Pop",
-          "plays": 409
+          "plays": 425
         },
         {
           "genre": "Electronic",
-          "plays": 299
+          "plays": 313
         },
         {
           "genre": "Variete Francaise",
@@ -1573,6 +1611,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 36,
+          "genre": "Dance"
+        },
+        {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
@@ -1661,18 +1705,12 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Billy Jean",
-          "artist": "Michael Jackson",
-          "plays": 24,
-          "genre": "Soul and R&B"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 2488,
+      "total_plays": 2550,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1691,16 +1729,16 @@
           "plays": 91
         },
         {
+          "artist": "Daft Punk",
+          "plays": 72
+        },
+        {
           "artist": "France Football Anthem",
           "plays": 66
         },
         {
           "artist": "MotorBass",
           "plays": 60
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 58
         },
         {
           "artist": "Calvin Harris",
@@ -1725,6 +1763,14 @@
         {
           "artist": "Bon Entendeur",
           "plays": 38
+        },
+        {
+          "artist": "Kungs",
+          "plays": 37
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 37
         },
         {
           "artist": "Aden Foyer",
@@ -1765,28 +1811,20 @@
         {
           "artist": "Kajagoogoo",
           "plays": 24
-        },
-        {
-          "artist": "Joris Delacroix",
-          "plays": 24
-        },
-        {
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 592
+          "plays": 624
         },
         {
           "genre": "Pop",
-          "plays": 409
+          "plays": 425
         },
         {
           "genre": "Electronic",
-          "plays": 299
+          "plays": 313
         },
         {
           "genre": "Variete Francaise",
@@ -1933,6 +1971,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 36,
+          "genre": "Dance"
+        },
+        {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
@@ -2021,12 +2065,6 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Billy Jean",
-          "artist": "Michael Jackson",
-          "plays": 24,
-          "genre": "Soul and R&B"
         }
       ]
     }
@@ -2476,6 +2514,11 @@
       "date": "2026-05-18",
       "id": "16c81cbfefe6d139",
       "plays": 1
+    },
+    {
+      "date": "2026-07-04",
+      "id": "195a96aaebcea5d7",
+      "plays": 2
     },
     {
       "date": "2026-05-25",
@@ -3136,6 +3179,11 @@
       "date": "2026-07-03",
       "id": "49a8e200a97614c3",
       "plays": 10
+    },
+    {
+      "date": "2026-07-04",
+      "id": "49a8e200a97614c3",
+      "plays": 26
     },
     {
       "date": "2026-06-15",
@@ -4428,6 +4476,11 @@
       "plays": 3
     },
     {
+      "date": "2026-07-04",
+      "id": "97c172fcc502b663",
+      "plays": 14
+    },
+    {
       "date": "2026-06-10",
       "id": "97c5bf4dda6474ec",
       "plays": 1
@@ -5233,6 +5286,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-04",
+      "id": "d622d4a40abb2973",
+      "plays": 16
+    },
+    {
       "date": "2026-06-02",
       "id": "d69dc0b9ab3f19c0",
       "plays": 1
@@ -5401,6 +5459,11 @@
       "date": "2026-06-02",
       "id": "e11b3ec0fb6b9050",
       "plays": 1
+    },
+    {
+      "date": "2026-07-04",
+      "id": "e11ec853ef599068",
+      "plays": 4
     },
     {
       "date": "2026-06-03",
@@ -5879,6 +5942,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-03",
-  "snapshot_count": 67
+  "latest_snapshot": "2026-07-04",
+  "snapshot_count": 68
 }

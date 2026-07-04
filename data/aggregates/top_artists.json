@@ -305,7 +305,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4582,
+      "plays": 4596,
       "country": "FR"
     },
     {
@@ -485,7 +485,7 @@
     {
       "rank": 31,
       "artist": "Purple Disco Machine",
-      "plays": 696,
+      "plays": 722,
       "country": "DE"
     },
     {
@@ -508,27 +508,27 @@
     },
     {
       "rank": 35,
+      "artist": "Kungs",
+      "plays": 647,
+      "country": "FR"
+    },
+    {
+      "rank": 36,
       "artist": "Eric Prydz",
       "plays": 634,
       "country": "SE"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "artist": "L'Impératrice",
       "plays": 632,
       "country": "FR"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "artist": "The Beatles",
       "plays": 629,
       "country": "GB"
-    },
-    {
-      "rank": 38,
-      "artist": "Kungs",
-      "plays": 621,
-      "country": "FR"
     },
     {
       "rank": 39,

@@ -277,7 +277,7 @@
   {
     "year": 2014,
     "genre": "Dance",
-    "plays": 3099
+    "plays": 3101
   },
   {
     "year": 2014,
@@ -597,7 +597,7 @@
   {
     "year": 2021,
     "genre": "Electronic",
-    "plays": 1896
+    "plays": 1910
   },
   {
     "year": 2021,
@@ -787,7 +787,7 @@
   {
     "year": 2025,
     "genre": "Pop",
-    "plays": 1482
+    "plays": 1498
   },
   {
     "year": 2025,
@@ -812,12 +812,17 @@
   {
     "year": 2026,
     "genre": "Dance",
-    "plays": 971
+    "plays": 1001
   },
   {
     "year": 2026,
     "genre": "Electronic",
     "plays": 678
+  },
+  {
+    "year": 2026,
+    "genre": "Hip Hop/Rap",
+    "plays": 0
   },
   {
     "year": 2026,

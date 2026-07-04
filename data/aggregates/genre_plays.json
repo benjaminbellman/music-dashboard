@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 35157,
+    "plays": 35173,
     "songs": 710
   },
   {
     "genre": "Dance",
-    "plays": 29890,
-    "songs": 490
+    "plays": 29922,
+    "songs": 491
   },
   {
     "genre": "Electronic",
-    "plays": 23394,
+    "plays": 23408,
     "songs": 389
   },
   {
@@ -27,7 +27,7 @@
   {
     "genre": "Hip Hop/Rap",
     "plays": 11642,
-    "songs": 260
+    "songs": 261
   },
   {
     "genre": "Rock",
