@@ -232,7 +232,7 @@
   {
     "year": 2013,
     "genre": "Dance",
-    "plays": 3055
+    "plays": 3079
   },
   {
     "year": 2013,
@@ -247,7 +247,7 @@
   {
     "year": 2013,
     "genre": "Other",
-    "plays": 6150
+    "plays": 6158
   },
   {
     "year": 2013,
@@ -812,7 +812,7 @@
   {
     "year": 2026,
     "genre": "Dance",
-    "plays": 1001
+    "plays": 1040
   },
   {
     "year": 2026,
@@ -822,7 +822,7 @@
   {
     "year": 2026,
     "genre": "Hip Hop/Rap",
-    "plays": 0
+    "plays": 32
   },
   {
     "year": 2026,
@@ -847,6 +847,6 @@
   {
     "year": 2026,
     "genre": "Variete Francaise",
-    "plays": 300
+    "plays": 316
   }
 ]

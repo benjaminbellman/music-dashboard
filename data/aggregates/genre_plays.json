@@ -6,7 +6,7 @@
   },
   {
     "genre": "Dance",
-    "plays": 29922,
+    "plays": 29985,
     "songs": 491
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18096,
+    "plays": 18112,
     "songs": 282
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11642,
+    "plays": 11674,
     "songs": 261
   },
   {
@@ -235,6 +235,11 @@
     "songs": 4
   },
   {
+    "genre": "Metal",
+    "plays": 200,
+    "songs": 6
+  },
+  {
     "genre": "Electroswing",
     "plays": 197,
     "songs": 4
@@ -243,11 +248,6 @@
     "genre": "Arabic",
     "plays": 194,
     "songs": 1
-  },
-  {
-    "genre": "Metal",
-    "plays": 192,
-    "songs": 6
   },
   {
     "genre": "Vocal",

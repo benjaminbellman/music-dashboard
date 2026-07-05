@@ -187,20 +187,40 @@
     {
       "date": "2026-07-04",
       "plays": 62
+    },
+    {
+      "date": "2026-07-05",
+      "plays": 119
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 74,
+      "total_plays": 193,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 36
+          "plays": 44
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 36
+          "plays": 44
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 32
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
+        },
+        {
+          "artist": "French Ball",
+          "plays": 24
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 16
         },
         {
           "artist": "Melanie Martinez",
@@ -209,6 +229,10 @@
         {
           "artist": "Daft Punk",
           "plays": 14
+        },
+        {
+          "artist": "Iron Maiden",
+          "plays": 8
         },
         {
           "artist": "Superfunk",
@@ -226,7 +250,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 44
+          "plays": 107
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 32
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 16
         },
         {
           "genre": "Pop",
@@ -235,14 +267,42 @@
         {
           "genre": "Electronic",
           "plays": 14
+        },
+        {
+          "genre": "Metal",
+          "plays": 8
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 36,
+          "plays": 44,
           "genre": "Dance"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 32,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
+        },
+        {
+          "song": "Piste 01",
+          "artist": "French Ball",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 16,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Play Date",
@@ -255,6 +315,12 @@
           "artist": "Daft Punk",
           "plays": 14,
           "genre": "Electronic"
+        },
+        {
+          "song": "Run to The Hills",
+          "artist": "Iron Maiden",
+          "plays": 8,
+          "genre": "Metal"
         },
         {
           "song": "Sugar Pop (Original Mix)",
@@ -278,15 +344,15 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 879,
+      "total_plays": 800,
       "top_artists": [
         {
-          "artist": "Milky",
-          "plays": 193
+          "artist": "Kungs",
+          "plays": 44
         },
         {
-          "artist": "David Guetta",
-          "plays": 193
+          "artist": "Purple Disco Machine",
+          "plays": 44
         },
         {
           "artist": "Stevie Nicks",
@@ -297,16 +363,16 @@
           "plays": 38
         },
         {
-          "artist": "Kungs",
-          "plays": 36
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 36
-        },
-        {
           "artist": "Aden Foyer",
           "plays": 36
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 32
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -334,6 +400,10 @@
         },
         {
           "artist": "Francoise Hardy",
+          "plays": 24
+        },
+        {
+          "artist": "French Ball",
           "plays": 24
         },
         {
@@ -373,38 +443,34 @@
           "plays": 16
         },
         {
-          "artist": "Melanie Martinez",
-          "plays": 16
-        },
-        {
-          "artist": "Beastie Boys",
+          "artist": "France Football Anthem",
           "plays": 16
         }
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 320
-        },
-        {
           "genre": "Pop",
           "plays": 214
+        },
+        {
+          "genre": "Dance",
+          "plays": 201
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 63
         },
         {
           "genre": "Electronic",
           "plays": 56
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 47
+          "genre": "Variete Francaise",
+          "plays": 49
         },
         {
           "genre": "Rock",
           "plays": 42
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 33
         },
         {
           "genre": "Alternative",
@@ -425,6 +491,10 @@
         {
           "genre": "Soul and R&B",
           "plays": 24
+        },
+        {
+          "genre": "Metal",
+          "plays": 8
         },
         {
           "genre": "mashup",
@@ -477,15 +547,9 @@
       ],
       "top_tracks": [
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 193,
-          "genre": "Dance"
-        },
-        {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 36,
+          "plays": 44,
           "genre": "Dance"
         },
         {
@@ -493,6 +557,18 @@
           "artist": "Aden Foyer",
           "plays": 36,
           "genre": "Pop"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 32,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
         },
         {
           "song": "Talk To Me",
@@ -535,6 +611,12 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Piste 01",
+          "artist": "French Ball",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "Merci les bleus",
@@ -603,34 +685,22 @@
           "genre": "Pop"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 16,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Play Date",
           "artist": "Melanie Martinez",
           "plays": 16,
           "genre": "Pop"
-        },
-        {
-          "song": "Body Movin' (Fatboy Slim Remix)",
-          "artist": "Beastie Boys & Fatboy Slim",
-          "plays": 16,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 14,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Edge of Seventeen",
-          "artist": "Stevie Nicks",
-          "plays": 13,
-          "genre": "Rock"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1251,
+      "total_plays": 1370,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -649,20 +719,32 @@
           "plays": 45
         },
         {
+          "artist": "Kungs",
+          "plays": 45
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 44
+        },
+        {
           "artist": "Stevie Nicks",
           "plays": 39
         },
         {
-          "artist": "Kungs",
-          "plays": 37
-        },
-        {
-          "artist": "Purple Disco Machine",
+          "artist": "France Football Anthem",
           "plays": 36
         },
         {
           "artist": "Aden Foyer",
           "plays": 36
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 32
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -693,6 +775,10 @@
           "plays": 24
         },
         {
+          "artist": "French Ball",
+          "plays": 24
+        },
+        {
           "artist": "Michael Bublé",
           "plays": 24
         },
@@ -715,28 +801,12 @@
         {
           "artist": "Astro",
           "plays": 24
-        },
-        {
-          "artist": "Bananarama",
-          "plays": 24
-        },
-        {
-          "artist": "Drake",
-          "plays": 24
-        },
-        {
-          "artist": "Electronic",
-          "plays": 20
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 20
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 394
+          "plays": 457
         },
         {
           "genre": "Pop",
@@ -748,15 +818,15 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 62
+          "plays": 94
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 75
         },
         {
           "genre": "Rock",
           "plays": 61
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 59
         },
         {
           "genre": "Alternative",
@@ -795,6 +865,10 @@
           "plays": 8
         },
         {
+          "genre": "Metal",
+          "plays": 8
+        },
+        {
           "genre": "Variété française",
           "plays": 7
         },
@@ -829,10 +903,6 @@
         {
           "genre": "Lowfi",
           "plays": 2
-        },
-        {
-          "genre": "Latin",
-          "plays": 2
         }
       ],
       "top_tracks": [
@@ -845,14 +915,32 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 36,
+          "plays": 44,
           "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 36,
+          "genre": "Variete Francaise"
         },
         {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
           "genre": "Pop"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 32,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
         },
         {
           "song": "Talk To Me",
@@ -901,6 +989,12 @@
           "artist": "Francoise Hardy",
           "plays": 24,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Piste 01",
+          "artist": "French Ball",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "Merci les bleus",
@@ -961,36 +1055,12 @@
           "artist": "Drake",
           "plays": 24,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 20,
-          "genre": "Pop"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 20,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Los Feeling (Alan Braxe Remix)",
-          "artist": "Visitor & Alan Braxe",
-          "plays": 18,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Gecko (Original Mix)",
-          "artist": "Oliver Heldens",
-          "plays": 18,
-          "genre": "Electronic"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2550,
+      "total_plays": 2669,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1009,12 +1079,12 @@
           "plays": 91
         },
         {
-          "artist": "Daft Punk",
-          "plays": 72
+          "artist": "France Football Anthem",
+          "plays": 82
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 66
+          "artist": "Daft Punk",
+          "plays": 72
         },
         {
           "artist": "MotorBass",
@@ -1027,6 +1097,14 @@
         {
           "artist": "John Newman",
           "plays": 51
+        },
+        {
+          "artist": "Kungs",
+          "plays": 45
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 45
         },
         {
           "artist": "Supermode",
@@ -1045,20 +1123,20 @@
           "plays": 38
         },
         {
-          "artist": "Kungs",
-          "plays": 37
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 37
-        },
-        {
           "artist": "Aden Foyer",
           "plays": 36
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 32
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -1083,20 +1161,12 @@
         {
           "artist": "Michael Bublé",
           "plays": 25
-        },
-        {
-          "artist": "Miki Matsubara",
-          "plays": 25
-        },
-        {
-          "artist": "Kajagoogoo",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 624
+          "plays": 687
         },
         {
           "genre": "Pop",
@@ -1108,15 +1178,15 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 202
+          "plays": 218
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 142
         },
         {
           "genre": "Soft Rock",
           "plays": 142
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 110
         },
         {
           "genre": "Alternative",
@@ -1211,7 +1281,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 66,
+          "plays": 82,
           "genre": "Variete Francaise"
         },
         {
@@ -1239,6 +1309,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 44,
+          "genre": "Dance"
+        },
+        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 42,
@@ -1251,12 +1327,6 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 36,
-          "genre": "Dance"
-        },
-        {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
@@ -1267,6 +1337,18 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 32,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -1333,24 +1415,12 @@
           "artist": "Joris Delacroix",
           "plays": 24,
           "genre": "Electronic"
-        },
-        {
-          "song": "Femme que j'aime",
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24,
-          "genre": "French Pop"
-        },
-        {
-          "song": "Message Personnel",
-          "artist": "Francoise Hardy",
-          "plays": 24,
-          "genre": "Variete Francaise"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 2550,
+      "total_plays": 2669,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1369,12 +1439,12 @@
           "plays": 91
         },
         {
-          "artist": "Daft Punk",
-          "plays": 72
+          "artist": "France Football Anthem",
+          "plays": 82
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 66
+          "artist": "Daft Punk",
+          "plays": 72
         },
         {
           "artist": "MotorBass",
@@ -1387,6 +1457,14 @@
         {
           "artist": "John Newman",
           "plays": 51
+        },
+        {
+          "artist": "Kungs",
+          "plays": 45
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 45
         },
         {
           "artist": "Supermode",
@@ -1405,20 +1483,20 @@
           "plays": 38
         },
         {
-          "artist": "Kungs",
-          "plays": 37
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 37
-        },
-        {
           "artist": "Aden Foyer",
           "plays": 36
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 32
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -1443,20 +1521,12 @@
         {
           "artist": "Michael Bublé",
           "plays": 25
-        },
-        {
-          "artist": "Miki Matsubara",
-          "plays": 25
-        },
-        {
-          "artist": "Kajagoogoo",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 624
+          "plays": 687
         },
         {
           "genre": "Pop",
@@ -1468,15 +1538,15 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 202
+          "plays": 218
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 142
         },
         {
           "genre": "Soft Rock",
           "plays": 142
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 110
         },
         {
           "genre": "Alternative",
@@ -1571,7 +1641,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 66,
+          "plays": 82,
           "genre": "Variete Francaise"
         },
         {
@@ -1599,6 +1669,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 44,
+          "genre": "Dance"
+        },
+        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 42,
@@ -1611,12 +1687,6 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 36,
-          "genre": "Dance"
-        },
-        {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
@@ -1627,6 +1697,18 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 32,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -1693,24 +1775,12 @@
           "artist": "Joris Delacroix",
           "plays": 24,
           "genre": "Electronic"
-        },
-        {
-          "song": "Femme que j'aime",
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24,
-          "genre": "French Pop"
-        },
-        {
-          "song": "Message Personnel",
-          "artist": "Francoise Hardy",
-          "plays": 24,
-          "genre": "Variete Francaise"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 2550,
+      "total_plays": 2669,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1729,12 +1799,12 @@
           "plays": 91
         },
         {
-          "artist": "Daft Punk",
-          "plays": 72
+          "artist": "France Football Anthem",
+          "plays": 82
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 66
+          "artist": "Daft Punk",
+          "plays": 72
         },
         {
           "artist": "MotorBass",
@@ -1747,6 +1817,14 @@
         {
           "artist": "John Newman",
           "plays": 51
+        },
+        {
+          "artist": "Kungs",
+          "plays": 45
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 45
         },
         {
           "artist": "Supermode",
@@ -1765,20 +1843,20 @@
           "plays": 38
         },
         {
-          "artist": "Kungs",
-          "plays": 37
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 37
-        },
-        {
           "artist": "Aden Foyer",
           "plays": 36
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 32
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -1803,20 +1881,12 @@
         {
           "artist": "Michael Bublé",
           "plays": 25
-        },
-        {
-          "artist": "Miki Matsubara",
-          "plays": 25
-        },
-        {
-          "artist": "Kajagoogoo",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 624
+          "plays": 687
         },
         {
           "genre": "Pop",
@@ -1828,15 +1898,15 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 202
+          "plays": 218
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 142
         },
         {
           "genre": "Soft Rock",
           "plays": 142
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 110
         },
         {
           "genre": "Alternative",
@@ -1931,7 +2001,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 66,
+          "plays": 82,
           "genre": "Variete Francaise"
         },
         {
@@ -1959,6 +2029,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 44,
+          "genre": "Dance"
+        },
+        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 42,
@@ -1971,12 +2047,6 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 36,
-          "genre": "Dance"
-        },
-        {
           "song": "The Ballet Girl",
           "artist": "Aden Foyer",
           "plays": 36,
@@ -1987,6 +2057,18 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 32,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -2053,18 +2135,6 @@
           "artist": "Joris Delacroix",
           "plays": 24,
           "genre": "Electronic"
-        },
-        {
-          "song": "Femme que j'aime",
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24,
-          "genre": "French Pop"
-        },
-        {
-          "song": "Message Personnel",
-          "artist": "Francoise Hardy",
-          "plays": 24,
-          "genre": "Variete Francaise"
         }
       ]
     }
@@ -3186,6 +3256,11 @@
       "plays": 26
     },
     {
+      "date": "2026-07-05",
+      "id": "49a8e200a97614c3",
+      "plays": 8
+    },
+    {
       "date": "2026-06-15",
       "id": "49e6651d7e88edd5",
       "plays": 1
@@ -3354,6 +3429,11 @@
       "date": "2026-06-08",
       "id": "50afd10aa909c37c",
       "plays": 16
+    },
+    {
+      "date": "2026-07-05",
+      "id": "50d4516c3f413d30",
+      "plays": 24
     },
     {
       "date": "2026-06-06",
@@ -3824,6 +3904,11 @@
       "date": "2026-06-19",
       "id": "6e6f5be12c14187a",
       "plays": 2
+    },
+    {
+      "date": "2026-07-05",
+      "id": "6e6f5be12c14187a",
+      "plays": 16
     },
     {
       "date": "2026-05-23",
@@ -4309,6 +4394,11 @@
       "date": "2026-04-20",
       "id": "8b701014df56d8c4",
       "plays": 1
+    },
+    {
+      "date": "2026-07-05",
+      "id": "8be19e6b18a0b05b",
+      "plays": 8
     },
     {
       "date": "2026-06-02",
@@ -5211,6 +5301,11 @@
       "plays": 2
     },
     {
+      "date": "2026-07-05",
+      "id": "cfac439a0ebb5862",
+      "plays": 31
+    },
+    {
       "date": "2026-05-16",
       "id": "d26b5297e5a97dcf",
       "plays": 2
@@ -5791,6 +5886,11 @@
       "plays": 40
     },
     {
+      "date": "2026-07-05",
+      "id": "f42c1ccdd36e13a6",
+      "plays": 32
+    },
+    {
       "date": "2026-04-20",
       "id": "f5ca600648757d56",
       "plays": 2
@@ -5942,6 +6042,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-04",
-  "snapshot_count": 68
+  "latest_snapshot": "2026-07-05",
+  "snapshot_count": 69
 }
