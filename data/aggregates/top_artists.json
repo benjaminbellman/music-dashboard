@@ -341,7 +341,7 @@
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1862,
+      "plays": 1896,
       "country": "FR"
     },
     {
@@ -466,50 +466,50 @@
     },
     {
       "rank": 28,
+      "artist": "Purple Disco Machine",
+      "plays": 818,
+      "country": "DE"
+    },
+    {
+      "rank": 29,
       "artist": "Synapson",
       "plays": 806,
       "country": "FR"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "artist": "Gigamesh",
       "plays": 791,
       "country": "US"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "artist": "Pink Floyd",
       "plays": 755,
       "country": "GB"
     },
     {
-      "rank": 31,
-      "artist": "Purple Disco Machine",
-      "plays": 730,
-      "country": "DE"
+      "rank": 32,
+      "artist": "Kungs",
+      "plays": 743,
+      "country": "FR"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "artist": "Maroon 5",
       "plays": 678,
       "country": "US"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "artist": "AIR (Band)",
       "plays": 659,
       "country": "FR"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "artist": "Calogero",
       "plays": 657,
-      "country": "FR"
-    },
-    {
-      "rank": 35,
-      "artist": "Kungs",
-      "plays": 655,
       "country": "FR"
     },
     {

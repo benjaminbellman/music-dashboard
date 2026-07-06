@@ -191,20 +191,32 @@
     {
       "date": "2026-07-05",
       "plays": 119
+    },
+    {
+      "date": "2026-07-06",
+      "plays": 338
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 193,
+      "total_plays": 519,
       "top_artists": [
         {
+          "artist": "ANOTR",
+          "plays": 192
+        },
+        {
           "artist": "Kungs",
-          "plays": 44
+          "plays": 122
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 44
+          "plays": 122
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 34
         },
         {
           "artist": "KITSCHKRIEG",
@@ -216,6 +228,10 @@
         },
         {
           "artist": "French Ball",
+          "plays": 24
+        },
+        {
+          "artist": "Britney Spears",
           "plays": 24
         },
         {
@@ -241,16 +257,20 @@
         {
           "artist": "Claptone",
           "plays": 2
-        },
-        {
-          "artist": "Demon",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 107
+          "plays": 375
+        },
+        {
+          "genre": "Electronic",
+          "plays": 48
+        },
+        {
+          "genre": "Pop",
+          "plays": 40
         },
         {
           "genre": "Hip Hop/Rap",
@@ -261,24 +281,28 @@
           "plays": 16
         },
         {
-          "genre": "Pop",
-          "plays": 16
-        },
-        {
-          "genre": "Electronic",
-          "plays": 14
-        },
-        {
           "genre": "Metal",
           "plays": 8
         }
       ],
       "top_tracks": [
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 192,
+          "genre": "Dance"
+        },
+        {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 44,
+          "plays": 122,
           "genre": "Dance"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 34,
+          "genre": "Electronic"
         },
         {
           "song": "GUT GENUG",
@@ -297,6 +321,12 @@
           "artist": "French Ball",
           "plays": 24,
           "genre": "Dance"
+        },
+        {
+          "song": "Me Against the Music (feat. Madonna)",
+          "artist": "Britney Spears",
+          "plays": 24,
+          "genre": "Pop"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -333,34 +363,32 @@
           "artist": "Claptone",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 2,
-          "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 800,
+      "total_plays": 1126,
       "top_artists": [
         {
+          "artist": "ANOTR",
+          "plays": 192
+        },
+        {
           "artist": "Kungs",
-          "plays": 44
+          "plays": 132
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 44
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 39
+          "plays": 132
         },
         {
           "artist": "Daft Punk",
           "plays": 38
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 36
         },
         {
           "artist": "Aden Foyer",
@@ -373,6 +401,10 @@
         {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 31
+        },
+        {
+          "artist": "Stevie Nicks",
+          "plays": 27
         },
         {
           "artist": "Michael Jackson",
@@ -407,6 +439,10 @@
           "plays": 24
         },
         {
+          "artist": "Britney Spears",
+          "plays": 24
+        },
+        {
           "artist": "Michael Bublé",
           "plays": 24
         },
@@ -433,36 +469,24 @@
         {
           "artist": "Bananarama",
           "plays": 24
-        },
-        {
-          "artist": "Drake",
-          "plays": 24
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 16
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 16
         }
       ],
       "top_genres": [
         {
-          "genre": "Pop",
-          "plays": 214
+          "genre": "Dance",
+          "plays": 481
         },
         {
-          "genre": "Dance",
-          "plays": 201
+          "genre": "Pop",
+          "plays": 238
+        },
+        {
+          "genre": "Electronic",
+          "plays": 90
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 63
-        },
-        {
-          "genre": "Electronic",
-          "plays": 56
         },
         {
           "genre": "Variete Francaise",
@@ -470,7 +494,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 42
+          "plays": 30
         },
         {
           "genre": "Alternative",
@@ -547,10 +571,22 @@
       ],
       "top_tracks": [
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 192,
+          "genre": "Dance"
+        },
+        {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 44,
+          "plays": 132,
           "genre": "Dance"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 36,
+          "genre": "Electronic"
         },
         {
           "song": "The Ballet Girl",
@@ -619,6 +655,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Me Against the Music (feat. Madonna)",
+          "artist": "Britney Spears",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
           "song": "Merci les bleus",
           "artist": "Vegedream",
           "plays": 24,
@@ -677,30 +719,12 @@
           "artist": "Drake",
           "plays": 24,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 16,
-          "genre": "Pop"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 16,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Play Date",
-          "artist": "Melanie Martinez",
-          "plays": 16,
-          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1370,
+      "total_plays": 1610,
       "top_artists": [
         {
           "artist": "David Guetta",
@@ -711,6 +735,18 @@
           "plays": 207
         },
         {
+          "artist": "ANOTR",
+          "plays": 192
+        },
+        {
+          "artist": "Kungs",
+          "plays": 133
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 132
+        },
+        {
           "artist": "442oons",
           "plays": 50
         },
@@ -719,12 +755,8 @@
           "plays": 45
         },
         {
-          "artist": "Kungs",
-          "plays": 45
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 44
+          "artist": "Polo & Pan",
+          "plays": 41
         },
         {
           "artist": "Stevie Nicks",
@@ -779,6 +811,10 @@
           "plays": 24
         },
         {
+          "artist": "Britney Spears",
+          "plays": 24
+        },
+        {
           "artist": "Michael Bublé",
           "plays": 24
         },
@@ -789,36 +825,24 @@
         {
           "artist": "Miki Matsubara",
           "plays": 24
-        },
-        {
-          "artist": "CASCADA",
-          "plays": 24
-        },
-        {
-          "artist": "Madison Avenue",
-          "plays": 24
-        },
-        {
-          "artist": "Astro",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 457
+          "plays": 715
         },
         {
           "genre": "Pop",
-          "plays": 255
+          "plays": 279
         },
         {
           "genre": "Electronic",
-          "plays": 116
+          "plays": 114
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 94
+          "plays": 86
         },
         {
           "genre": "Variete Francaise",
@@ -826,15 +850,15 @@
         },
         {
           "genre": "Rock",
-          "plays": 61
-        },
-        {
-          "genre": "Alternative",
-          "plays": 54
+          "plays": 53
         },
         {
           "genre": "Comedy",
           "plays": 52
+        },
+        {
+          "genre": "Alternative",
+          "plays": 38
         },
         {
           "genre": "Soft Rock",
@@ -853,15 +877,15 @@
           "plays": 24
         },
         {
-          "genre": "Future Funk",
-          "plays": 16
-        },
-        {
           "genre": "mashup",
           "plays": 15
         },
         {
           "genre": "Musique francophone",
+          "plays": 8
+        },
+        {
+          "genre": "Future Funk",
           "plays": 8
         },
         {
@@ -913,10 +937,22 @@
           "genre": "Dance"
         },
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 192,
+          "genre": "Dance"
+        },
+        {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 44,
+          "plays": 132,
           "genre": "Dance"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 36,
+          "genre": "Electronic"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -997,6 +1033,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Me Against the Music (feat. Madonna)",
+          "artist": "Britney Spears",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
           "song": "Merci les bleus",
           "artist": "Vegedream",
           "plays": 24,
@@ -1037,30 +1079,12 @@
           "artist": "Madison Avenue",
           "plays": 24,
           "genre": "Dance"
-        },
-        {
-          "song": "Panda",
-          "artist": "Astro",
-          "plays": 24,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Cruel Summer (Dilemmachine Remix)",
-          "artist": "Bananarama",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Hotline Bling",
-          "artist": "Drake",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2669,
+      "total_plays": 3007,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1069,6 +1093,18 @@
         {
           "artist": "David Guetta",
           "plays": 218
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 192
+        },
+        {
+          "artist": "Kungs",
+          "plays": 133
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 133
         },
         {
           "artist": "Luther Vandross",
@@ -1099,16 +1135,12 @@
           "plays": 51
         },
         {
-          "artist": "Kungs",
-          "plays": 45
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 45
-        },
-        {
           "artist": "Supermode",
           "plays": 44
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 43
         },
         {
           "artist": "Maya",
@@ -1153,28 +1185,20 @@
         {
           "artist": "Nihonzera",
           "plays": 27
-        },
-        {
-          "artist": "Madison Avenue",
-          "plays": 27
-        },
-        {
-          "artist": "Michael Bublé",
-          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 687
+          "plays": 967
         },
         {
           "genre": "Pop",
-          "plays": 425
+          "plays": 449
         },
         {
           "genre": "Electronic",
-          "plays": 313
+          "plays": 347
         },
         {
           "genre": "Variete Francaise",
@@ -1273,6 +1297,18 @@
           "genre": "Dance"
         },
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 192,
+          "genre": "Dance"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 132,
+          "genre": "Dance"
+        },
+        {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
           "plays": 96,
@@ -1309,12 +1345,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 44,
-          "genre": "Dance"
-        },
-        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 42,
@@ -1325,6 +1355,12 @@
           "artist": "Maya",
           "plays": 40,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 36,
+          "genre": "Electronic"
         },
         {
           "song": "The Ballet Girl",
@@ -1403,24 +1439,12 @@
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
-        },
-        {
-          "song": "Voyager",
-          "artist": "Daft Punk",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Air France [HD]",
-          "artist": "Joris Delacroix",
-          "plays": 24,
-          "genre": "Electronic"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 2669,
+      "total_plays": 3007,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1429,6 +1453,18 @@
         {
           "artist": "David Guetta",
           "plays": 218
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 192
+        },
+        {
+          "artist": "Kungs",
+          "plays": 133
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 133
         },
         {
           "artist": "Luther Vandross",
@@ -1459,16 +1495,12 @@
           "plays": 51
         },
         {
-          "artist": "Kungs",
-          "plays": 45
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 45
-        },
-        {
           "artist": "Supermode",
           "plays": 44
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 43
         },
         {
           "artist": "Maya",
@@ -1513,28 +1545,20 @@
         {
           "artist": "Nihonzera",
           "plays": 27
-        },
-        {
-          "artist": "Madison Avenue",
-          "plays": 27
-        },
-        {
-          "artist": "Michael Bublé",
-          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 687
+          "plays": 967
         },
         {
           "genre": "Pop",
-          "plays": 425
+          "plays": 449
         },
         {
           "genre": "Electronic",
-          "plays": 313
+          "plays": 347
         },
         {
           "genre": "Variete Francaise",
@@ -1633,6 +1657,18 @@
           "genre": "Dance"
         },
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 192,
+          "genre": "Dance"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 132,
+          "genre": "Dance"
+        },
+        {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
           "plays": 96,
@@ -1669,12 +1705,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 44,
-          "genre": "Dance"
-        },
-        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 42,
@@ -1685,6 +1715,12 @@
           "artist": "Maya",
           "plays": 40,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 36,
+          "genre": "Electronic"
         },
         {
           "song": "The Ballet Girl",
@@ -1763,24 +1799,12 @@
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
-        },
-        {
-          "song": "Voyager",
-          "artist": "Daft Punk",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Air France [HD]",
-          "artist": "Joris Delacroix",
-          "plays": 24,
-          "genre": "Electronic"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 2669,
+      "total_plays": 3007,
       "top_artists": [
         {
           "artist": "Milky",
@@ -1789,6 +1813,18 @@
         {
           "artist": "David Guetta",
           "plays": 218
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 192
+        },
+        {
+          "artist": "Kungs",
+          "plays": 133
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 133
         },
         {
           "artist": "Luther Vandross",
@@ -1819,16 +1855,12 @@
           "plays": 51
         },
         {
-          "artist": "Kungs",
-          "plays": 45
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 45
-        },
-        {
           "artist": "Supermode",
           "plays": 44
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 43
         },
         {
           "artist": "Maya",
@@ -1873,28 +1905,20 @@
         {
           "artist": "Nihonzera",
           "plays": 27
-        },
-        {
-          "artist": "Madison Avenue",
-          "plays": 27
-        },
-        {
-          "artist": "Michael Bublé",
-          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 687
+          "plays": 967
         },
         {
           "genre": "Pop",
-          "plays": 425
+          "plays": 449
         },
         {
           "genre": "Electronic",
-          "plays": 313
+          "plays": 347
         },
         {
           "genre": "Variete Francaise",
@@ -1993,6 +2017,18 @@
           "genre": "Dance"
         },
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 192,
+          "genre": "Dance"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 132,
+          "genre": "Dance"
+        },
+        {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
           "plays": 96,
@@ -2029,12 +2065,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 44,
-          "genre": "Dance"
-        },
-        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 42,
@@ -2045,6 +2075,12 @@
           "artist": "Maya",
           "plays": 40,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 36,
+          "genre": "Electronic"
         },
         {
           "song": "The Ballet Girl",
@@ -2123,18 +2159,6 @@
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
-        },
-        {
-          "song": "Voyager",
-          "artist": "Daft Punk",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Air France [HD]",
-          "artist": "Joris Delacroix",
-          "plays": 24,
-          "genre": "Electronic"
         }
       ]
     }
@@ -3206,6 +3230,11 @@
       "plays": 2
     },
     {
+      "date": "2026-07-06",
+      "id": "475328419492f99b",
+      "plays": 34
+    },
+    {
       "date": "2026-05-29",
       "id": "48485f671515e755",
       "plays": 1
@@ -3229,6 +3258,11 @@
       "date": "2026-06-28",
       "id": "49701d108856cf4a",
       "plays": 24
+    },
+    {
+      "date": "2026-07-06",
+      "id": "498f01ecedba3059",
+      "plays": 192
     },
     {
       "date": "2026-05-21",
@@ -3259,6 +3293,11 @@
       "date": "2026-07-05",
       "id": "49a8e200a97614c3",
       "plays": 8
+    },
+    {
+      "date": "2026-07-06",
+      "id": "49a8e200a97614c3",
+      "plays": 88
     },
     {
       "date": "2026-06-15",
@@ -3664,6 +3703,11 @@
       "date": "2026-06-02",
       "id": "5dea4f28d6ddc5ce",
       "plays": 1
+    },
+    {
+      "date": "2026-07-06",
+      "id": "5e91a7f1f39199a8",
+      "plays": 24
     },
     {
       "date": "2026-04-30",
@@ -6042,6 +6086,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-05",
-  "snapshot_count": 69
+  "latest_snapshot": "2026-07-06",
+  "snapshot_count": 70
 }
