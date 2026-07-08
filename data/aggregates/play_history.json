@@ -195,97 +195,67 @@
     {
       "date": "2026-07-06",
       "plays": 338
+    },
+    {
+      "date": "2026-07-08",
+      "plays": 444
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 519,
+      "total_plays": 782,
       "top_artists": [
+        {
+          "artist": "Kungs",
+          "plays": 434
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 434
+        },
         {
           "artist": "ANOTR",
           "plays": 192
         },
         {
-          "artist": "Kungs",
-          "plays": 122
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 122
+          "artist": "Demon",
+          "plays": 95
         },
         {
           "artist": "Polo & Pan",
           "plays": 34
         },
         {
-          "artist": "KITSCHKRIEG",
-          "plays": 32
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
-        },
-        {
-          "artist": "French Ball",
-          "plays": 24
-        },
-        {
           "artist": "Britney Spears",
           "plays": 24
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 16
-        },
-        {
-          "artist": "Melanie Martinez",
-          "plays": 16
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 14
-        },
-        {
-          "artist": "Iron Maiden",
-          "plays": 8
-        },
-        {
-          "artist": "Superfunk",
-          "plays": 4
-        },
-        {
-          "artist": "Claptone",
-          "plays": 2
+          "artist": "Cut Copy",
+          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 375
+          "plays": 721
         },
         {
           "genre": "Electronic",
-          "plays": 48
+          "plays": 37
         },
         {
           "genre": "Pop",
-          "plays": 40
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 32
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 16
-        },
-        {
-          "genre": "Metal",
-          "plays": 8
+          "plays": 24
         }
       ],
       "top_tracks": [
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 434,
+          "genre": "Dance"
+        },
         {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
@@ -293,9 +263,9 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 122,
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 95,
           "genre": "Dance"
         },
         {
@@ -305,82 +275,38 @@
           "genre": "Electronic"
         },
         {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 32,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
-        },
-        {
-          "song": "Piste 01",
-          "artist": "French Ball",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
           "song": "Me Against the Music (feat. Madonna)",
           "artist": "Britney Spears",
           "plays": 24,
           "genre": "Pop"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 16,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Play Date",
-          "artist": "Melanie Martinez",
-          "plays": 16,
-          "genre": "Pop"
-        },
-        {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 14,
+          "song": "Saturdays",
+          "artist": "Cut Copy",
+          "plays": 3,
           "genre": "Electronic"
-        },
-        {
-          "song": "Run to The Hills",
-          "artist": "Iron Maiden",
-          "plays": 8,
-          "genre": "Metal"
-        },
-        {
-          "song": "Sugar Pop (Original Mix)",
-          "artist": "Superfunk",
-          "plays": 4,
-          "genre": "Dance"
-        },
-        {
-          "song": "Control (Original Mix)",
-          "artist": "Claptone",
-          "plays": 2,
-          "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 1126,
+      "total_plays": 1570,
       "top_artists": [
+        {
+          "artist": "Kungs",
+          "plays": 478
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 478
+        },
         {
           "artist": "ANOTR",
           "plays": 192
         },
         {
-          "artist": "Kungs",
-          "plays": 132
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 132
+          "artist": "Demon",
+          "plays": 97
         },
         {
           "artist": "Daft Punk",
@@ -465,16 +391,12 @@
         {
           "artist": "Astro",
           "plays": 24
-        },
-        {
-          "artist": "Bananarama",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 481
+          "plays": 922
         },
         {
           "genre": "Pop",
@@ -482,7 +404,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 90
+          "plays": 93
         },
         {
           "genre": "Hip Hop/Rap",
@@ -571,15 +493,21 @@
       ],
       "top_tracks": [
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 478,
+          "genre": "Dance"
+        },
+        {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
           "plays": 192,
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 132,
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 97,
           "genre": "Dance"
         },
         {
@@ -713,19 +641,21 @@
           "artist": "Bananarama",
           "plays": 24,
           "genre": "Pop"
-        },
-        {
-          "song": "Hotline Bling",
-          "artist": "Drake",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1610,
+      "total_plays": 1928,
       "top_artists": [
+        {
+          "artist": "Kungs",
+          "plays": 479
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 478
+        },
         {
           "artist": "David Guetta",
           "plays": 210
@@ -739,32 +669,20 @@
           "plays": 192
         },
         {
-          "artist": "Kungs",
-          "plays": 133
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 132
-        },
-        {
-          "artist": "442oons",
-          "plays": 50
+          "artist": "Demon",
+          "plays": 97
         },
         {
           "artist": "Daft Punk",
           "plays": 45
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 41
-        },
-        {
           "artist": "Stevie Nicks",
           "plays": 39
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 36
+          "artist": "Polo & Pan",
+          "plays": 37
         },
         {
           "artist": "Aden Foyer",
@@ -777,6 +695,10 @@
         {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 31
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 27
         },
         {
           "artist": "Michael Jackson",
@@ -830,47 +752,43 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 715
+          "plays": 1140
         },
         {
           "genre": "Pop",
-          "plays": 279
+          "plays": 257
         },
         {
           "genre": "Electronic",
-          "plays": 114
+          "plays": 111
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 86
+          "plays": 84
         },
         {
           "genre": "Variete Francaise",
-          "plays": 75
+          "plays": 64
         },
         {
           "genre": "Rock",
-          "plays": 53
-        },
-        {
-          "genre": "Comedy",
-          "plays": 52
+          "plays": 47
         },
         {
           "genre": "Alternative",
-          "plays": 38
+          "plays": 36
         },
         {
           "genre": "Soft Rock",
-          "plays": 32
-        },
-        {
-          "genre": "French Pop",
-          "plays": 28
+          "plays": 30
         },
         {
           "genre": "City Pop",
           "plays": 25
+        },
+        {
+          "genre": "French Pop",
+          "plays": 24
         },
         {
           "genre": "Soul and R&B",
@@ -881,8 +799,8 @@
           "plays": 15
         },
         {
-          "genre": "Musique francophone",
-          "plays": 8
+          "genre": "Comedy",
+          "plays": 12
         },
         {
           "genre": "Future Funk",
@@ -895,10 +813,6 @@
         {
           "genre": "Variété française",
           "plays": 7
-        },
-        {
-          "genre": "Indie",
-          "plays": 6
         },
         {
           "genre": "Disco",
@@ -917,19 +831,33 @@
           "plays": 3
         },
         {
-          "genre": "World",
-          "plays": 3
-        },
-        {
           "genre": "Classical",
           "plays": 3
         },
         {
+          "genre": "Musique francophone",
+          "plays": 2
+        },
+        {
           "genre": "Lowfi",
+          "plays": 2
+        },
+        {
+          "genre": "Latin",
+          "plays": 2
+        },
+        {
+          "genre": "Musique pour enfants",
           "plays": 2
         }
       ],
       "top_tracks": [
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 478,
+          "genre": "Dance"
+        },
         {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
@@ -943,9 +871,9 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 132,
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 97,
           "genre": "Dance"
         },
         {
@@ -953,12 +881,6 @@
           "artist": "Polo & Pan",
           "plays": 36,
           "genre": "Electronic"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 36,
-          "genre": "Variete Francaise"
         },
         {
           "song": "The Ballet Girl",
@@ -979,6 +901,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 27,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Talk To Me",
           "artist": "Stevie Nicks",
           "plays": 26,
@@ -989,12 +917,6 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 26,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 25,
-          "genre": "Comedy"
         },
         {
           "song": "Too Shy",
@@ -1084,8 +1006,16 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3007,
+      "total_plays": 3451,
       "top_artists": [
+        {
+          "artist": "Kungs",
+          "plays": 479
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 479
+        },
         {
           "artist": "Milky",
           "plays": 255
@@ -1099,12 +1029,8 @@
           "plays": 192
         },
         {
-          "artist": "Kungs",
-          "plays": 133
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 133
+          "artist": "Demon",
+          "plays": 97
         },
         {
           "artist": "Luther Vandross",
@@ -1181,16 +1107,12 @@
         {
           "artist": "Vegedream",
           "plays": 27
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 27
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 967
+          "plays": 1408
         },
         {
           "genre": "Pop",
@@ -1198,7 +1120,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 347
+          "plays": 350
         },
         {
           "genre": "Variete Francaise",
@@ -1291,6 +1213,12 @@
       ],
       "top_tracks": [
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 478,
+          "genre": "Dance"
+        },
+        {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 207,
@@ -1303,9 +1231,9 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 132,
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 97,
           "genre": "Dance"
         },
         {
@@ -1433,19 +1361,21 @@
           "artist": "Drake",
           "plays": 25,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Too Shy",
-          "artist": "Kajagoogoo",
-          "plays": 24,
-          "genre": "Rock"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 3007,
+      "total_plays": 3451,
       "top_artists": [
+        {
+          "artist": "Kungs",
+          "plays": 479
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 479
+        },
         {
           "artist": "Milky",
           "plays": 255
@@ -1459,12 +1389,8 @@
           "plays": 192
         },
         {
-          "artist": "Kungs",
-          "plays": 133
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 133
+          "artist": "Demon",
+          "plays": 97
         },
         {
           "artist": "Luther Vandross",
@@ -1541,16 +1467,12 @@
         {
           "artist": "Vegedream",
           "plays": 27
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 27
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 967
+          "plays": 1408
         },
         {
           "genre": "Pop",
@@ -1558,7 +1480,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 347
+          "plays": 350
         },
         {
           "genre": "Variete Francaise",
@@ -1651,6 +1573,12 @@
       ],
       "top_tracks": [
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 478,
+          "genre": "Dance"
+        },
+        {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 207,
@@ -1663,9 +1591,9 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 132,
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 97,
           "genre": "Dance"
         },
         {
@@ -1793,19 +1721,21 @@
           "artist": "Drake",
           "plays": 25,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Too Shy",
-          "artist": "Kajagoogoo",
-          "plays": 24,
-          "genre": "Rock"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 3007,
+      "total_plays": 3451,
       "top_artists": [
+        {
+          "artist": "Kungs",
+          "plays": 479
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 479
+        },
         {
           "artist": "Milky",
           "plays": 255
@@ -1819,12 +1749,8 @@
           "plays": 192
         },
         {
-          "artist": "Kungs",
-          "plays": 133
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 133
+          "artist": "Demon",
+          "plays": 97
         },
         {
           "artist": "Luther Vandross",
@@ -1901,16 +1827,12 @@
         {
           "artist": "Vegedream",
           "plays": 27
-        },
-        {
-          "artist": "Nihonzera",
-          "plays": 27
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 967
+          "plays": 1408
         },
         {
           "genre": "Pop",
@@ -1918,7 +1840,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 347
+          "plays": 350
         },
         {
           "genre": "Variete Francaise",
@@ -2011,6 +1933,12 @@
       ],
       "top_tracks": [
         {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 478,
+          "genre": "Dance"
+        },
+        {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 207,
@@ -2023,9 +1951,9 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 132,
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 97,
           "genre": "Dance"
         },
         {
@@ -2153,12 +2081,6 @@
           "artist": "Drake",
           "plays": 25,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Too Shy",
-          "artist": "Kajagoogoo",
-          "plays": 24,
-          "genre": "Rock"
         }
       ]
     }
@@ -3095,6 +3017,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-08",
+      "id": "3b62dd7766d1f537",
+      "plays": 3
+    },
+    {
       "date": "2026-06-06",
       "id": "3b6d00d707753cd1",
       "plays": 14
@@ -3298,6 +3225,11 @@
       "date": "2026-07-06",
       "id": "49a8e200a97614c3",
       "plays": 88
+    },
+    {
+      "date": "2026-07-08",
+      "id": "49a8e200a97614c3",
+      "plays": 346
     },
     {
       "date": "2026-06-15",
@@ -4568,6 +4500,11 @@
       "date": "2026-07-03",
       "id": "9481a3789785adf5",
       "plays": 2
+    },
+    {
+      "date": "2026-07-08",
+      "id": "9481a3789785adf5",
+      "plays": 95
     },
     {
       "date": "2026-06-02",
@@ -6086,6 +6023,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-06",
-  "snapshot_count": 70
+  "latest_snapshot": "2026-07-08",
+  "snapshot_count": 71
 }
