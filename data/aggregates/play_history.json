@@ -204,31 +204,19 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 782,
+      "total_plays": 444,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 434
+          "plays": 346
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 434
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 192
+          "plays": 346
         },
         {
           "artist": "Demon",
           "plays": 95
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 34
-        },
-        {
-          "artist": "Britney Spears",
-          "plays": 24
         },
         {
           "artist": "Cut Copy",
@@ -238,28 +226,18 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 721
+          "plays": 441
         },
         {
           "genre": "Electronic",
-          "plays": 37
-        },
-        {
-          "genre": "Pop",
-          "plays": 24
+          "plays": 3
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 434,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 192,
+          "plays": 346,
           "genre": "Dance"
         },
         {
@@ -267,18 +245,6 @@
           "artist": "Demon",
           "plays": 95,
           "genre": "Dance"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 34,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Me Against the Music (feat. Madonna)",
-          "artist": "Britney Spears",
-          "plays": 24,
-          "genre": "Pop"
         },
         {
           "song": "Saturdays",
@@ -6023,6 +5989,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-08",
-  "snapshot_count": 71
+  "latest_snapshot": "2026-07-09",
+  "snapshot_count": 72
 }
