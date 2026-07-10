@@ -70,6 +70,136 @@ def _apply_exclusions(conn) -> None:
     )
 
 
+_FILTER_CACHE = None
+
+
+def _snapshot_filter(conn) -> dict:
+    """Read snapshots and apply both phantom filters (strict last_played +
+    per-day cap). Returns:
+      - deltas:     list[(date, track_id, filtered_delta)]
+      - first_seen: dict[track_id -> (first_date, first_plays)]
+    Cached so play_history() and _apply_verified_lifetime() share one pass."""
+    global _FILTER_CACHE
+    if _FILTER_CACHE is not None:
+        return _FILTER_CACHE
+
+    snapshots = conn.execute(
+        "SELECT snapshot_date, track_id, plays, last_played FROM snapshots "
+        "ORDER BY track_id, snapshot_date"
+    ).fetchall()
+
+    deltas: list[tuple[str, str, int]] = []
+    first_seen: dict = {}
+    last_plays: dict = {}
+    last_lp: dict = {}
+    last_date: dict = {}
+    phantom_drops = 0
+    phantom_plays = 0
+    capped_hits = 0
+    capped_plays_dropped = 0
+    for r in snapshots:
+        tid = r["track_id"]
+        date = r["snapshot_date"]
+        plays = r["plays"]
+        lp = r["last_played"]
+        if tid not in first_seen:
+            first_seen[tid] = (date, plays)
+        prev_plays = last_plays.get(tid)
+        if prev_plays is not None:
+            d = plays - prev_plays
+            if d > 0:
+                prev_lp = last_lp.get(tid)
+                advanced = lp is not None and (prev_lp is None or lp > prev_lp)
+                if advanced:
+                    prev_date = last_date.get(tid, date)
+                    days_gap = max(
+                        1,
+                        (dt.date.fromisoformat(date) - dt.date.fromisoformat(prev_date)).days,
+                    )
+                    cap = days_gap * MAX_PLAYS_PER_DAY_PER_TRACK
+                    if d > cap:
+                        capped_hits += 1
+                        capped_plays_dropped += d - cap
+                        d = cap
+                    deltas.append((date, tid, d))
+                else:
+                    phantom_drops += 1
+                    phantom_plays += d
+        last_plays[tid] = plays
+        last_lp[tid] = lp
+        last_date[tid] = date
+
+    if phantom_drops:
+        print(
+            f"  filtered {phantom_drops} phantom deltas "
+            f"({phantom_plays} plays) — counter jumped without last_played moving"
+        )
+    if capped_hits:
+        print(
+            f"  capped {capped_hits} suspicious deltas "
+            f"(dropped {capped_plays_dropped} plays) — exceeded "
+            f"{MAX_PLAYS_PER_DAY_PER_TRACK}/day/track ceiling"
+        )
+
+    _FILTER_CACHE = {"deltas": deltas, "first_seen": first_seen}
+    return _FILTER_CACHE
+
+
+def _apply_verified_lifetime(conn) -> None:
+    """Replace tracks_current.plays with (baseline + filtered deltas).
+
+    Baseline = plays observed at the first snapshot for the track, itself
+    capped at MAX_PLAYS_PER_DAY_PER_TRACK * days_since_added_before_first_seen
+    (kills the pattern where adding a track to library credits hundreds of
+    historical streaming plays before we can snapshot). Old tracks
+    (baseline set before phantom filtering was possible) are grandfathered.
+
+    Rollback-protected — data/music.db is never mutated."""
+    result = _snapshot_filter(conn)
+    delta_sums: dict = defaultdict(int)
+    for _date, tid, d in result["deltas"]:
+        delta_sums[tid] += d
+
+    reset_tracks = 0
+    plays_dropped = 0
+    for r in conn.execute(
+        "SELECT track_id, plays, date_added FROM tracks_current"
+    ).fetchall():
+        tid = r["track_id"]
+        current_plays = r["plays"]
+        first = result["first_seen"].get(tid)
+        if not first:
+            continue
+        first_date, baseline_plays = first
+        try:
+            added = dt.date.fromisoformat((r["date_added"] or "")[:10])
+            fs_date = dt.date.fromisoformat(first_date)
+        except ValueError:
+            continue
+        baseline_days = max(1, (fs_date - added).days)
+        baseline_cap = baseline_days * MAX_PLAYS_PER_DAY_PER_TRACK
+        verified_baseline = min(baseline_plays, baseline_cap)
+        verified = verified_baseline + delta_sums.get(tid, 0)
+        # Never claim more plays than Apple's current counter shows: if
+        # Apple corrected an inflation downward (or reset the track), so
+        # should we. This is our authoritative upper bound.
+        verified = min(verified, current_plays)
+        if verified < current_plays:
+            plays_dropped += current_plays - verified
+            reset_tracks += 1
+        if verified != current_plays:
+            conn.execute(
+                "UPDATE tracks_current SET plays = ? WHERE track_id = ?",
+                (verified, tid),
+            )
+    if reset_tracks:
+        print(
+            f"  reset lifetime plays on {reset_tracks} tracks "
+            f"(dropped {plays_dropped} phantom plays) — "
+            f"used snapshot baseline + filtered deltas"
+        )
+
+
 def _write(name: str, obj) -> None:
     """Write each aggregate to data/aggregates/<name>.json AND accumulate into
     the combined file the dashboard loads."""
@@ -349,73 +479,16 @@ def play_history(conn) -> dict:
       - latest_snapshot, first_snapshot, snapshot_count: metadata so the
         UI can tell the user "you have N days of trend data so far."
     """
-    snapshots = conn.execute(
-        "SELECT snapshot_date, track_id, plays, last_played FROM snapshots "
-        "ORDER BY track_id, snapshot_date"
+    snapshot_dates_query = conn.execute(
+        "SELECT DISTINCT snapshot_date FROM snapshots ORDER BY snapshot_date"
     ).fetchall()
-
-    if not snapshots:
+    if not snapshot_dates_query:
         return {"daily": [], "windows": {}, "snapshot_count": 0}
 
-    # Compute per-track positive deltas between consecutive snapshots.
-    # Two filters guard against Apple's iCloud reconciliation, which can add
-    # hundreds of plays to the lifetime counter without any real listens on
-    # this device:
-    #   1. Strict — the delta only counts if `last_played` also advanced.
-    #      Catches the common case where the counter jumps but the timestamp
-    #      stays frozen.
-    #   2. Cap — even when both advance, cap the delta at
-    #      MAX_PLAYS_PER_DAY_PER_TRACK * days_gap. Catches the case where
-    #      adding a song to library credits all historical streams at once
-    #      (counter and timestamp both jump).
-    deltas: list[tuple[str, str, int]] = []
-    last_plays: dict = {}
-    last_lp: dict = {}
-    last_date: dict = {}
-    phantom_drops = 0
-    phantom_plays = 0
-    capped_hits = 0
-    capped_plays_dropped = 0
-    for r in snapshots:
-        tid = r["track_id"]
-        date = r["snapshot_date"]
-        plays = r["plays"]
-        lp = r["last_played"]
-        prev_plays = last_plays.get(tid)
-        if prev_plays is not None:
-            d = plays - prev_plays
-            if d > 0:
-                prev_lp = last_lp.get(tid)
-                advanced = lp is not None and (prev_lp is None or lp > prev_lp)
-                if advanced:
-                    prev_date = last_date.get(tid, date)
-                    days_gap = max(
-                        1,
-                        (dt.date.fromisoformat(date) - dt.date.fromisoformat(prev_date)).days,
-                    )
-                    cap = days_gap * MAX_PLAYS_PER_DAY_PER_TRACK
-                    if d > cap:
-                        capped_hits += 1
-                        capped_plays_dropped += d - cap
-                        d = cap
-                    deltas.append((date, tid, d))
-                else:
-                    phantom_drops += 1
-                    phantom_plays += d
-        last_plays[tid] = plays
-        last_lp[tid] = lp
-        last_date[tid] = date
-    if phantom_drops:
-        print(
-            f"  filtered {phantom_drops} phantom deltas "
-            f"({phantom_plays} plays) — counter jumped without last_played moving"
-        )
-    if capped_hits:
-        print(
-            f"  capped {capped_hits} suspicious deltas "
-            f"(dropped {capped_plays_dropped} plays) — exceeded "
-            f"{MAX_PLAYS_PER_DAY_PER_TRACK}/day/track ceiling"
-        )
+    # Filtered deltas shared with _apply_verified_lifetime — same guards
+    # (strict last_played + per-day cap) so lifetime and trends stay
+    # consistent.
+    deltas = _snapshot_filter(conn)["deltas"]
 
     # Track metadata, indexed by track_id.
     track_meta: dict = {}
@@ -437,7 +510,7 @@ def play_history(conn) -> dict:
         daily_totals[date] += d
     daily = [{"date": d, "plays": p} for d, p in sorted(daily_totals.items())]
 
-    snapshot_dates = sorted({r["snapshot_date"] for r in snapshots})
+    snapshot_dates = [r["snapshot_date"] for r in snapshot_dates_query]
     latest = snapshot_dates[-1]
     today = dt.date.fromisoformat(latest)
 
@@ -521,6 +594,7 @@ def main() -> None:
     AGGREGATES_DIR.mkdir(parents=True, exist_ok=True)
 
     _apply_exclusions(conn)
+    _apply_verified_lifetime(conn)
 
     _write("kpis", kpis(conn))
     _write("top_artists", top_artists(conn))

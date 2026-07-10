@@ -305,55 +305,55 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4600,
+      "plays": 4599,
       "country": "FR"
     },
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3588,
+      "plays": 3565,
       "country": "FR"
     },
     {
       "rank": 3,
       "artist": "Joe Dassin",
-      "plays": 3240,
+      "plays": 3239,
       "country": "FR"
     },
     {
       "rank": 4,
       "artist": "Chicago",
-      "plays": 3175,
+      "plays": 3154,
       "country": "US"
     },
     {
       "rank": 5,
       "artist": "Dua Lipa",
-      "plays": 2388,
+      "plays": 2387,
       "country": "GB"
     },
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2167,
+      "plays": 2146,
       "country": "GB"
     },
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1938,
+      "plays": 1869,
       "country": "FR"
     },
     {
       "rank": 8,
       "artist": "Baddiel Skinner",
-      "plays": 1609,
+      "plays": 1595,
       "country": "GB"
     },
     {
       "rank": 9,
       "artist": "Lifelike",
-      "plays": 1284,
+      "plays": 1283,
       "country": "FR"
     },
     {
@@ -364,74 +364,74 @@
     },
     {
       "rank": 11,
-      "artist": "David Guetta",
-      "plays": 1174,
-      "country": "FR"
-    },
-    {
-      "rank": 12,
       "artist": "Jacques Brel",
       "plays": 1149,
       "country": "FR"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "artist": "Justice",
-      "plays": 1145,
+      "plays": 1144,
       "country": "FR"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "artist": "Charles Aznavour",
       "plays": 1137,
       "country": "FR"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "artist": "Renaud",
       "plays": 1125,
       "country": "FR"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "artist": "PNL",
       "plays": 1086,
       "country": "FR"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "artist": "ABBA",
       "plays": 1045,
       "country": "SE"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "artist": "The Weeknd",
       "plays": 1025,
       "country": "CA"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "artist": "Anri",
-      "plays": 1022,
+      "plays": 1021,
       "country": "JP"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "artist": "442oons",
-      "plays": 1008,
+      "plays": 991,
       "country": "GB"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "artist": "Tatsuro Yamashita",
       "plays": 983,
       "country": "JP"
     },
     {
+      "rank": 21,
+      "artist": "David Guetta",
+      "plays": 968,
+      "country": "FR"
+    },
+    {
       "rank": 22,
       "artist": "Serge Gainsbourg",
-      "plays": 981,
+      "plays": 964,
       "country": "FR"
     },
     {
@@ -449,25 +449,25 @@
     {
       "rank": 25,
       "artist": "MIKA",
-      "plays": 898,
+      "plays": 896,
       "country": "GB"
     },
     {
       "rank": 26,
       "artist": "Calvin Harris",
-      "plays": 868,
+      "plays": 845,
       "country": "GB"
     },
     {
       "rank": 27,
       "artist": "Night Tempo",
-      "plays": 828,
+      "plays": 827,
       "country": "KR"
     },
     {
       "rank": 28,
       "artist": "Synapson",
-      "plays": 806,
+      "plays": 805,
       "country": "FR"
     },
     {
@@ -479,7 +479,7 @@
     {
       "rank": 30,
       "artist": "Pink Floyd",
-      "plays": 757,
+      "plays": 740,
       "country": "GB"
     },
     {
@@ -515,7 +515,7 @@
     {
       "rank": 36,
       "artist": "L'Impératrice",
-      "plays": 632,
+      "plays": 631,
       "country": "FR"
     },
     {
@@ -580,26 +580,26 @@
     },
     {
       "rank": 47,
-      "artist": "Vantage",
-      "plays": 529,
-      "country": "JP"
-    },
-    {
-      "rank": 48,
       "artist": "Bee Gees",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "artist": "Electric Light Orchestra",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "artist": "Pitbull",
       "plays": 528,
+      "country": "US"
+    },
+    {
+      "rank": 50,
+      "artist": "Michael Jackson",
+      "plays": 520,
       "country": "US"
     }
   ]
