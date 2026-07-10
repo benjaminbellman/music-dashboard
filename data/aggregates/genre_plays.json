@@ -1,22 +1,22 @@
 [
   {
     "genre": "Pop",
-    "plays": 35222,
-    "songs": 710
+    "plays": 35230,
+    "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 31280,
-    "songs": 491
+    "plays": 30063,
+    "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23483,
+    "plays": 23503,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18208,
+    "plays": 18230,
     "songs": 282
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 12426,
+    "plays": 11642,
     "songs": 261
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5856,
+    "plays": 5858,
     "songs": 71
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "genre": "Disco",
-    "plays": 3786,
+    "plays": 3788,
     "songs": 61
   },
   {
@@ -66,12 +66,12 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3261,
+    "plays": 3263,
     "songs": 44
   },
   {
     "genre": "Comedy",
-    "plays": 3214,
+    "plays": 3216,
     "songs": 92
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2732,
+    "plays": 2740,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2709,
+    "plays": 2711,
     "songs": 69
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1546,
+    "plays": 1548,
     "songs": 28
   },
   {
@@ -140,18 +140,18 @@
     "songs": 20
   },
   {
+    "genre": "Metal",
+    "plays": 600,
+    "songs": 6
+  },
+  {
     "genre": "Classic Rock",
     "plays": 588,
     "songs": 5
   },
   {
-    "genre": "Metal",
-    "plays": 584,
-    "songs": 6
-  },
-  {
     "genre": "Psychedlic Rock",
-    "plays": 464,
+    "plays": 466,
     "songs": 10
   },
   {
@@ -582,7 +582,7 @@
   {
     "genre": "Humor",
     "plays": 10,
-    "songs": 1
+    "songs": 2
   },
   {
     "genre": "Karaoke",

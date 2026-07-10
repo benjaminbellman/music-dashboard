@@ -305,13 +305,13 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4596,
+      "plays": 4600,
       "country": "FR"
     },
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3582,
+      "plays": 3588,
       "country": "FR"
     },
     {
@@ -341,7 +341,7 @@
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1934,
+      "plays": 1938,
       "country": "FR"
     },
     {
@@ -370,237 +370,237 @@
     },
     {
       "rank": 12,
-      "artist": "Purple Disco Machine",
-      "plays": 1164,
-      "country": "DE"
-    },
-    {
-      "rank": 13,
       "artist": "Jacques Brel",
       "plays": 1149,
       "country": "FR"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "artist": "Justice",
       "plays": 1145,
       "country": "FR"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "artist": "Charles Aznavour",
       "plays": 1137,
       "country": "FR"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "artist": "Renaud",
       "plays": 1125,
       "country": "FR"
     },
     {
-      "rank": 17,
-      "artist": "Kungs",
-      "plays": 1089,
-      "country": "FR"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "artist": "PNL",
       "plays": 1086,
       "country": "FR"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "artist": "ABBA",
       "plays": 1045,
       "country": "SE"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "artist": "The Weeknd",
       "plays": 1025,
       "country": "CA"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "artist": "Anri",
       "plays": 1022,
       "country": "JP"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "artist": "442oons",
-      "plays": 1006,
+      "plays": 1008,
       "country": "GB"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "artist": "Tatsuro Yamashita",
       "plays": 983,
       "country": "JP"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "artist": "Serge Gainsbourg",
       "plays": 981,
       "country": "FR"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "artist": "Beach Boys",
       "plays": 906,
       "country": "US"
     },
     {
-      "rank": 26,
+      "rank": 24,
       "artist": "Queen",
       "plays": 902,
       "country": "GB"
     },
     {
-      "rank": 27,
+      "rank": 25,
       "artist": "MIKA",
       "plays": 898,
       "country": "GB"
     },
     {
-      "rank": 28,
+      "rank": 26,
       "artist": "Calvin Harris",
       "plays": 868,
       "country": "GB"
     },
     {
-      "rank": 29,
+      "rank": 27,
       "artist": "Night Tempo",
       "plays": 828,
       "country": "KR"
     },
     {
-      "rank": 30,
+      "rank": 28,
       "artist": "Synapson",
       "plays": 806,
       "country": "FR"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "artist": "Gigamesh",
       "plays": 791,
       "country": "US"
     },
     {
-      "rank": 32,
-      "artist": "KITSCHKRIEG",
-      "plays": 784,
-      "country": null
-    },
-    {
-      "rank": 33,
+      "rank": 30,
       "artist": "Pink Floyd",
-      "plays": 755,
+      "plays": 757,
       "country": "GB"
     },
     {
-      "rank": 34,
+      "rank": 31,
+      "artist": "Purple Disco Machine",
+      "plays": 685,
+      "country": "DE"
+    },
+    {
+      "rank": 32,
       "artist": "Maroon 5",
       "plays": 678,
       "country": "US"
     },
     {
-      "rank": 35,
+      "rank": 33,
       "artist": "AIR (Band)",
       "plays": 659,
       "country": "FR"
     },
     {
-      "rank": 36,
+      "rank": 34,
       "artist": "Calogero",
       "plays": 657,
       "country": "FR"
     },
     {
-      "rank": 37,
+      "rank": 35,
       "artist": "Eric Prydz",
       "plays": 634,
       "country": "SE"
     },
     {
-      "rank": 38,
+      "rank": 36,
       "artist": "L'Impératrice",
       "plays": 632,
       "country": "FR"
     },
     {
-      "rank": 39,
+      "rank": 37,
       "artist": "The Beatles",
       "plays": 629,
       "country": "GB"
     },
     {
-      "rank": 40,
+      "rank": 38,
       "artist": "Modern Talking",
       "plays": 615,
       "country": "DE"
     },
     {
-      "rank": 41,
+      "rank": 39,
+      "artist": "Kungs",
+      "plays": 610,
+      "country": "FR"
+    },
+    {
+      "rank": 40,
       "artist": "Drake",
       "plays": 606,
       "country": "CA"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "artist": "Tame Impala",
       "plays": 591,
       "country": "AU"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "artist": "Johnny Cash",
       "plays": 573,
       "country": "US"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "artist": "Visitor",
       "plays": 571,
       "country": "AU"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "artist": "Madonna",
       "plays": 556,
       "country": "US"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "artist": "MACROSS 82-99",
       "plays": 550,
       "country": "MX"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "artist": "Avicii",
       "plays": 541,
       "country": "SE"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "artist": "Vantage",
       "plays": 529,
       "country": "JP"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "artist": "Bee Gees",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "artist": "Electric Light Orchestra",
       "plays": 528,
       "country": "GB"
+    },
+    {
+      "rank": 50,
+      "artist": "Pitbull",
+      "plays": 528,
+      "country": "US"
     }
   ]
 }
