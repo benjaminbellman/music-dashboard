@@ -18,7 +18,7 @@
     },
     {
       "date": "2026-04-26",
-      "plays": 311
+      "plays": 267
     },
     {
       "date": "2026-04-27",
@@ -46,7 +46,7 @@
     },
     {
       "date": "2026-05-07",
-      "plays": 41
+      "plays": 28
     },
     {
       "date": "2026-05-10",
@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-05-23",
-      "plays": 67
+      "plays": 45
     },
     {
       "date": "2026-05-25",
@@ -154,7 +154,7 @@
     },
     {
       "date": "2026-06-21",
-      "plays": 198
+      "plays": 40
     },
     {
       "date": "2026-06-22",
@@ -162,7 +162,7 @@
     },
     {
       "date": "2026-06-27",
-      "plays": 196
+      "plays": 182
     },
     {
       "date": "2026-06-28",
@@ -186,37 +186,37 @@
     },
     {
       "date": "2026-07-04",
-      "plays": 62
+      "plays": 60
     },
     {
       "date": "2026-07-05",
-      "plays": 119
+      "plays": 104
     },
     {
       "date": "2026-07-06",
-      "plays": 338
+      "plays": 96
     },
     {
       "date": "2026-07-08",
-      "plays": 444
+      "plays": 99
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 444,
+      "total_plays": 99,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 346
+          "plays": 48
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 346
+          "plays": 48
         },
         {
           "artist": "Demon",
-          "plays": 95
+          "plays": 48
         },
         {
           "artist": "Cut Copy",
@@ -226,7 +226,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 441
+          "plays": 96
         },
         {
           "genre": "Electronic",
@@ -237,13 +237,13 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 346,
+          "plays": 48,
           "genre": "Dance"
         },
         {
           "song": "Blunted People",
           "artist": "Demon",
-          "plays": 95,
+          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -256,50 +256,30 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1570,
+      "total_plays": 952,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 478
+          "plays": 114
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 478
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 192
+          "plays": 114
         },
         {
           "artist": "Demon",
-          "plays": 97
+          "plays": 50
         },
         {
           "artist": "Daft Punk",
           "plays": 38
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 36
-        },
-        {
-          "artist": "Aden Foyer",
-          "plays": 36
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 32
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 27
-        },
-        {
           "artist": "Michael Jackson",
+          "plays": 26
+        },
+        {
+          "artist": "Polo & Pan",
           "plays": 26
         },
         {
@@ -311,6 +291,10 @@
           "plays": 26
         },
         {
+          "artist": "Stevie Nicks",
+          "plays": 25
+        },
+        {
           "artist": "Kajagoogoo",
           "plays": 24
         },
@@ -320,6 +304,10 @@
         },
         {
           "artist": "Jean-Luc Lahaye",
+          "plays": 24
+        },
+        {
+          "artist": "ANOTR",
           "plays": 24
         },
         {
@@ -355,26 +343,38 @@
           "plays": 24
         },
         {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 24
+        },
+        {
           "artist": "Astro",
+          "plays": 24
+        },
+        {
+          "artist": "Bananarama",
+          "plays": 24
+        },
+        {
+          "artist": "Drake",
           "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 922
+          "plays": 336
         },
         {
           "genre": "Pop",
-          "plays": 238
+          "plays": 224
         },
         {
           "genre": "Electronic",
-          "plays": 93
+          "plays": 83
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 63
+          "plays": 55
         },
         {
           "genre": "Variete Francaise",
@@ -461,50 +461,20 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 478,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 192,
+          "plays": 114,
           "genre": "Dance"
         },
         {
           "song": "Blunted People",
           "artist": "Demon",
-          "plays": 97,
+          "plays": 50,
           "genre": "Dance"
         },
         {
           "song": "Pays Imaginaire",
           "artist": "Polo & Pan",
-          "plays": 36,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 36,
-          "genre": "Pop"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 32,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
           "plays": 26,
-          "genre": "Pop"
+          "genre": "Electronic"
         },
         {
           "song": "Down On The Corner",
@@ -517,6 +487,12 @@
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
+        },
+        {
+          "song": "Talk To Me",
+          "artist": "Stevie Nicks",
+          "plays": 24,
+          "genre": "Pop"
         },
         {
           "song": "Voyager",
@@ -535,6 +511,12 @@
           "artist": "Jean-Luc Lahaye",
           "plays": 24,
           "genre": "French Pop"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "Message Personnel",
@@ -597,6 +579,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
           "song": "Panda",
           "artist": "Astro",
           "plays": 24,
@@ -607,36 +595,44 @@
           "artist": "Bananarama",
           "plays": 24,
           "genre": "Pop"
+        },
+        {
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "The Ballet Girl",
+          "artist": "Aden Foyer",
+          "plays": 24,
+          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1928,
+      "total_plays": 1152,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 479
+          "plays": 115
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 478
+          "plays": 114
         },
         {
           "artist": "David Guetta",
-          "plays": 210
-        },
-        {
-          "artist": "Milky",
-          "plays": 207
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 192
+          "plays": 52
         },
         {
           "artist": "Demon",
-          "plays": 97
+          "plays": 50
+        },
+        {
+          "artist": "Milky",
+          "plays": 49
         },
         {
           "artist": "Daft Punk",
@@ -644,23 +640,11 @@
         },
         {
           "artist": "Stevie Nicks",
-          "plays": 39
-        },
-        {
-          "artist": "Polo & Pan",
           "plays": 37
         },
         {
-          "artist": "Aden Foyer",
-          "plays": 36
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 32
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
+          "artist": "Polo & Pan",
+          "plays": 27
         },
         {
           "artist": "France Football Anthem",
@@ -691,6 +675,10 @@
           "plays": 24
         },
         {
+          "artist": "ANOTR",
+          "plays": 24
+        },
+        {
           "artist": "Francoise Hardy",
           "plays": 24
         },
@@ -713,24 +701,36 @@
         {
           "artist": "Miki Matsubara",
           "plays": 24
+        },
+        {
+          "artist": "CASCADA",
+          "plays": 24
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 24
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1140
+          "plays": 396
         },
         {
           "genre": "Pop",
-          "plays": 257
+          "plays": 243
         },
         {
           "genre": "Electronic",
-          "plays": 111
+          "plays": 101
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 84
+          "plays": 76
         },
         {
           "genre": "Variete Francaise",
@@ -821,49 +821,19 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 478,
-          "genre": "Dance"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 207,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 192,
+          "plays": 114,
           "genre": "Dance"
         },
         {
           "song": "Blunted People",
           "artist": "Demon",
-          "plays": 97,
+          "plays": 50,
           "genre": "Dance"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 36,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 36,
-          "genre": "Pop"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 32,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
+          "song": "Just The Way You Are",
+          "artist": "Milky & David Guetta",
+          "plays": 49,
           "genre": "Dance"
         },
         {
@@ -873,10 +843,10 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
           "plays": 26,
-          "genre": "Pop"
+          "genre": "Electronic"
         },
         {
           "song": "Down On The Corner",
@@ -889,6 +859,12 @@
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
+        },
+        {
+          "song": "Talk To Me",
+          "artist": "Stevie Nicks",
+          "plays": 24,
+          "genre": "Pop"
         },
         {
           "song": "Voyager",
@@ -907,6 +883,12 @@
           "artist": "Jean-Luc Lahaye",
           "plays": 24,
           "genre": "French Pop"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "Message Personnel",
@@ -967,40 +949,38 @@
           "artist": "Madison Avenue",
           "plays": 24,
           "genre": "Dance"
+        },
+        {
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Panda",
+          "artist": "Astro",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Cruel Summer (Dilemmachine Remix)",
+          "artist": "Bananarama",
+          "plays": 24,
+          "genre": "Pop"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 3451,
+      "total_plays": 2596,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 479
+          "plays": 115
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 479
-        },
-        {
-          "artist": "Milky",
-          "plays": 255
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 218
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 192
-        },
-        {
-          "artist": "Demon",
-          "plays": 97
-        },
-        {
-          "artist": "Luther Vandross",
-          "plays": 96
+          "plays": 115
         },
         {
           "artist": "442oons",
@@ -1011,56 +991,60 @@
           "plays": 82
         },
         {
+          "artist": "Milky",
+          "plays": 75
+        },
+        {
           "artist": "Daft Punk",
           "plays": 72
         },
         {
-          "artist": "MotorBass",
+          "artist": "David Guetta",
           "plays": 60
         },
         {
-          "artist": "Calvin Harris",
+          "artist": "Luther Vandross",
           "plays": 54
         },
         {
+          "artist": "Calvin Harris",
+          "plays": 52
+        },
+        {
+          "artist": "Demon",
+          "plays": 50
+        },
+        {
           "artist": "John Newman",
-          "plays": 51
+          "plays": 49
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 47
         },
         {
           "artist": "Supermode",
           "plays": 44
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 43
-        },
-        {
           "artist": "Maya",
           "plays": 40
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 39
         },
         {
           "artist": "Bon Entendeur",
           "plays": 38
         },
         {
-          "artist": "Aden Foyer",
-          "plays": 36
+          "artist": "Stevie Nicks",
+          "plays": 37
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 33
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 32
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -1073,20 +1057,36 @@
         {
           "artist": "Vegedream",
           "plays": 27
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 27
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 27
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 25
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1408
+          "plays": 662
         },
         {
           "genre": "Pop",
-          "plays": 449
+          "plays": 413
         },
         {
           "genre": "Electronic",
-          "plays": 350
+          "plays": 327
         },
         {
           "genre": "Variete Francaise",
@@ -1094,11 +1094,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 142
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 142
+          "plays": 134
         },
         {
           "genre": "Alternative",
@@ -1107,6 +1103,10 @@
         {
           "genre": "Comedy",
           "plays": 102
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 100
         },
         {
           "genre": "Rock",
@@ -1181,32 +1181,8 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 478,
+          "plays": 114,
           "genre": "Dance"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 207,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 192,
-          "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 97,
-          "genre": "Dance"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 96,
-          "genre": "Soft Rock"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1215,22 +1191,34 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 60,
-          "genre": "Electronic"
+          "song": "Never Too Much",
+          "artist": "Luther Vandross",
+          "plays": 54,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 50,
+          "genre": "Dance"
         },
         {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
-          "plays": 51,
+          "plays": 49,
           "genre": "Dance"
         },
         {
           "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 48,
-          "genre": "Pop"
+          "artist": "Milky & David Guetta",
+          "plays": 49,
+          "genre": "Dance"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 47,
+          "genre": "Electronic"
         },
         {
           "song": "Tell Me Why",
@@ -1251,34 +1239,10 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 36,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 36,
-          "genre": "Pop"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 32,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -1293,10 +1257,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
+          "song": "Just The Way You Are",
+          "artist": "Milky",
           "plays": 26,
           "genre": "Pop"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 26,
+          "genre": "Electronic"
         },
         {
           "song": "Premier League Song",
@@ -1327,40 +1297,50 @@
           "artist": "Drake",
           "plays": 25,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "Talk To Me",
+          "artist": "Stevie Nicks",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 3451,
+      "total_plays": 2596,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 479
+          "plays": 115
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 479
-        },
-        {
-          "artist": "Milky",
-          "plays": 255
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 218
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 192
-        },
-        {
-          "artist": "Demon",
-          "plays": 97
-        },
-        {
-          "artist": "Luther Vandross",
-          "plays": 96
+          "plays": 115
         },
         {
           "artist": "442oons",
@@ -1371,56 +1351,60 @@
           "plays": 82
         },
         {
+          "artist": "Milky",
+          "plays": 75
+        },
+        {
           "artist": "Daft Punk",
           "plays": 72
         },
         {
-          "artist": "MotorBass",
+          "artist": "David Guetta",
           "plays": 60
         },
         {
-          "artist": "Calvin Harris",
+          "artist": "Luther Vandross",
           "plays": 54
         },
         {
+          "artist": "Calvin Harris",
+          "plays": 52
+        },
+        {
+          "artist": "Demon",
+          "plays": 50
+        },
+        {
           "artist": "John Newman",
-          "plays": 51
+          "plays": 49
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 47
         },
         {
           "artist": "Supermode",
           "plays": 44
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 43
-        },
-        {
           "artist": "Maya",
           "plays": 40
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 39
         },
         {
           "artist": "Bon Entendeur",
           "plays": 38
         },
         {
-          "artist": "Aden Foyer",
-          "plays": 36
+          "artist": "Stevie Nicks",
+          "plays": 37
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 33
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 32
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -1433,20 +1417,36 @@
         {
           "artist": "Vegedream",
           "plays": 27
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 27
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 27
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 25
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1408
+          "plays": 662
         },
         {
           "genre": "Pop",
-          "plays": 449
+          "plays": 413
         },
         {
           "genre": "Electronic",
-          "plays": 350
+          "plays": 327
         },
         {
           "genre": "Variete Francaise",
@@ -1454,11 +1454,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 142
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 142
+          "plays": 134
         },
         {
           "genre": "Alternative",
@@ -1467,6 +1463,10 @@
         {
           "genre": "Comedy",
           "plays": 102
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 100
         },
         {
           "genre": "Rock",
@@ -1541,32 +1541,8 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 478,
+          "plays": 114,
           "genre": "Dance"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 207,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 192,
-          "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 97,
-          "genre": "Dance"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 96,
-          "genre": "Soft Rock"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1575,22 +1551,34 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 60,
-          "genre": "Electronic"
+          "song": "Never Too Much",
+          "artist": "Luther Vandross",
+          "plays": 54,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 50,
+          "genre": "Dance"
         },
         {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
-          "plays": 51,
+          "plays": 49,
           "genre": "Dance"
         },
         {
           "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 48,
-          "genre": "Pop"
+          "artist": "Milky & David Guetta",
+          "plays": 49,
+          "genre": "Dance"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 47,
+          "genre": "Electronic"
         },
         {
           "song": "Tell Me Why",
@@ -1611,34 +1599,10 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 36,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 36,
-          "genre": "Pop"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 32,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -1653,10 +1617,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
+          "song": "Just The Way You Are",
+          "artist": "Milky",
           "plays": 26,
           "genre": "Pop"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 26,
+          "genre": "Electronic"
         },
         {
           "song": "Premier League Song",
@@ -1687,40 +1657,50 @@
           "artist": "Drake",
           "plays": 25,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "Talk To Me",
+          "artist": "Stevie Nicks",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 3451,
+      "total_plays": 2596,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 479
+          "plays": 115
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 479
-        },
-        {
-          "artist": "Milky",
-          "plays": 255
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 218
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 192
-        },
-        {
-          "artist": "Demon",
-          "plays": 97
-        },
-        {
-          "artist": "Luther Vandross",
-          "plays": 96
+          "plays": 115
         },
         {
           "artist": "442oons",
@@ -1731,56 +1711,60 @@
           "plays": 82
         },
         {
+          "artist": "Milky",
+          "plays": 75
+        },
+        {
           "artist": "Daft Punk",
           "plays": 72
         },
         {
-          "artist": "MotorBass",
+          "artist": "David Guetta",
           "plays": 60
         },
         {
-          "artist": "Calvin Harris",
+          "artist": "Luther Vandross",
           "plays": 54
         },
         {
+          "artist": "Calvin Harris",
+          "plays": 52
+        },
+        {
+          "artist": "Demon",
+          "plays": 50
+        },
+        {
           "artist": "John Newman",
-          "plays": 51
+          "plays": 49
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 47
         },
         {
           "artist": "Supermode",
           "plays": 44
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 43
-        },
-        {
           "artist": "Maya",
           "plays": 40
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 39
         },
         {
           "artist": "Bon Entendeur",
           "plays": 38
         },
         {
-          "artist": "Aden Foyer",
-          "plays": 36
+          "artist": "Stevie Nicks",
+          "plays": 37
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 33
         },
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 32
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
         },
         {
           "artist": "Michael Jackson",
@@ -1793,20 +1777,36 @@
         {
           "artist": "Vegedream",
           "plays": 27
+        },
+        {
+          "artist": "Nihonzera",
+          "plays": 27
+        },
+        {
+          "artist": "Madison Avenue",
+          "plays": 27
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 25
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1408
+          "plays": 662
         },
         {
           "genre": "Pop",
-          "plays": 449
+          "plays": 413
         },
         {
           "genre": "Electronic",
-          "plays": 350
+          "plays": 327
         },
         {
           "genre": "Variete Francaise",
@@ -1814,11 +1814,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 142
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 142
+          "plays": 134
         },
         {
           "genre": "Alternative",
@@ -1827,6 +1823,10 @@
         {
           "genre": "Comedy",
           "plays": 102
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 100
         },
         {
           "genre": "Rock",
@@ -1901,32 +1901,8 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 478,
+          "plays": 114,
           "genre": "Dance"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 207,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 192,
-          "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 97,
-          "genre": "Dance"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 96,
-          "genre": "Soft Rock"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -1935,22 +1911,34 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 60,
-          "genre": "Electronic"
+          "song": "Never Too Much",
+          "artist": "Luther Vandross",
+          "plays": 54,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 50,
+          "genre": "Dance"
         },
         {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
-          "plays": 51,
+          "plays": 49,
           "genre": "Dance"
         },
         {
           "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 48,
-          "genre": "Pop"
+          "artist": "Milky & David Guetta",
+          "plays": 49,
+          "genre": "Dance"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 47,
+          "genre": "Electronic"
         },
         {
           "song": "Tell Me Why",
@@ -1971,34 +1959,10 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 36,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 36,
-          "genre": "Pop"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 32,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
         },
         {
           "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
@@ -2013,10 +1977,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
+          "song": "Just The Way You Are",
+          "artist": "Milky",
           "plays": 26,
           "genre": "Pop"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 26,
+          "genre": "Electronic"
         },
         {
           "song": "Premier League Song",
@@ -2047,6 +2017,36 @@
           "artist": "Drake",
           "plays": 25,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Too Shy",
+          "artist": "Kajagoogoo",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "Talk To Me",
+          "artist": "Stevie Nicks",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Voyager",
+          "artist": "Daft Punk",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Air France [HD]",
+          "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Femme que j'aime",
+          "artist": "Jean-Luc Lahaye",
+          "plays": 24,
+          "genre": "French Pop"
         }
       ]
     }
@@ -2295,7 +2295,7 @@
     {
       "date": "2026-06-27",
       "id": "0df7daf837fc02cd",
-      "plays": 26
+      "plays": 24
     },
     {
       "date": "2026-05-16",
@@ -2605,7 +2605,7 @@
     {
       "date": "2026-05-23",
       "id": "1f14a2471c028a20",
-      "plays": 46
+      "plays": 24
     },
     {
       "date": "2026-06-03",
@@ -2655,7 +2655,7 @@
     {
       "date": "2026-04-26",
       "id": "2242043c0be42ec5",
-      "plays": 50
+      "plays": 48
     },
     {
       "date": "2026-06-16",
@@ -2755,7 +2755,7 @@
     {
       "date": "2026-04-26",
       "id": "2a994e384c651f7c",
-      "plays": 90
+      "plays": 48
     },
     {
       "date": "2026-05-25",
@@ -3125,7 +3125,7 @@
     {
       "date": "2026-07-06",
       "id": "475328419492f99b",
-      "plays": 34
+      "plays": 24
     },
     {
       "date": "2026-05-29",
@@ -3155,7 +3155,7 @@
     {
       "date": "2026-07-06",
       "id": "498f01ecedba3059",
-      "plays": 192
+      "plays": 24
     },
     {
       "date": "2026-05-21",
@@ -3180,7 +3180,7 @@
     {
       "date": "2026-07-04",
       "id": "49a8e200a97614c3",
-      "plays": 26
+      "plays": 24
     },
     {
       "date": "2026-07-05",
@@ -3190,12 +3190,12 @@
     {
       "date": "2026-07-06",
       "id": "49a8e200a97614c3",
-      "plays": 88
+      "plays": 24
     },
     {
       "date": "2026-07-08",
       "id": "49a8e200a97614c3",
-      "plays": 346
+      "plays": 48
     },
     {
       "date": "2026-06-15",
@@ -4470,7 +4470,7 @@
     {
       "date": "2026-07-08",
       "id": "9481a3789785adf5",
-      "plays": 95
+      "plays": 48
     },
     {
       "date": "2026-06-02",
@@ -4695,7 +4695,7 @@
     {
       "date": "2026-06-21",
       "id": "a698fbade8d38198",
-      "plays": 182
+      "plays": 24
     },
     {
       "date": "2026-06-27",
@@ -5250,7 +5250,7 @@
     {
       "date": "2026-07-05",
       "id": "cfac439a0ebb5862",
-      "plays": 31
+      "plays": 24
     },
     {
       "date": "2026-05-16",
@@ -5745,7 +5745,7 @@
     {
       "date": "2026-06-27",
       "id": "f022bcc40a9d08b0",
-      "plays": 36
+      "plays": 24
     },
     {
       "date": "2026-05-21",
@@ -5805,7 +5805,7 @@
     {
       "date": "2026-05-07",
       "id": "f2603e959d7cf580",
-      "plays": 37
+      "plays": 24
     },
     {
       "date": "2026-05-21",
@@ -5835,7 +5835,7 @@
     {
       "date": "2026-07-05",
       "id": "f42c1ccdd36e13a6",
-      "plays": 32
+      "plays": 24
     },
     {
       "date": "2026-04-20",

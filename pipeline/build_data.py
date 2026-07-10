@@ -21,6 +21,14 @@ DASHBOARD_DATA = ROOT / "docs" / "data"
 
 EXCLUDED_ARTISTS = ("Rucka Rucka Ali",)
 
+# Per-track daily plays cap for the trend charts. Bounds the effect of iCloud
+# reconciliation when Apple's lifetime counter jumps AND last_played moves at
+# the same time (e.g. adding a song to library credits all historical streams
+# at once, moving both counter and timestamp). A 3-min track on non-stop
+# repeat = ~20 plays/hour, and Apple only credits plays >50% complete, so 24
+# plays per snapshot day per track is a very generous ceiling for one person.
+MAX_PLAYS_PER_DAY_PER_TRACK = 24
+
 _emitted: dict = {}
 
 
@@ -342,7 +350,7 @@ def play_history(conn) -> dict:
         UI can tell the user "you have N days of trend data so far."
     """
     snapshots = conn.execute(
-        "SELECT snapshot_date, track_id, plays FROM snapshots "
+        "SELECT snapshot_date, track_id, plays, last_played FROM snapshots "
         "ORDER BY track_id, snapshot_date"
     ).fetchall()
 
@@ -350,17 +358,64 @@ def play_history(conn) -> dict:
         return {"daily": [], "windows": {}, "snapshot_count": 0}
 
     # Compute per-track positive deltas between consecutive snapshots.
-    # (date, track_id, delta) for each window where the count grew.
+    # Two filters guard against Apple's iCloud reconciliation, which can add
+    # hundreds of plays to the lifetime counter without any real listens on
+    # this device:
+    #   1. Strict — the delta only counts if `last_played` also advanced.
+    #      Catches the common case where the counter jumps but the timestamp
+    #      stays frozen.
+    #   2. Cap — even when both advance, cap the delta at
+    #      MAX_PLAYS_PER_DAY_PER_TRACK * days_gap. Catches the case where
+    #      adding a song to library credits all historical streams at once
+    #      (counter and timestamp both jump).
     deltas: list[tuple[str, str, int]] = []
     last_plays: dict = {}
+    last_lp: dict = {}
+    last_date: dict = {}
+    phantom_drops = 0
+    phantom_plays = 0
+    capped_hits = 0
+    capped_plays_dropped = 0
     for r in snapshots:
-        tid, date, plays = r["track_id"], r["snapshot_date"], r["plays"]
-        prev = last_plays.get(tid)
-        if prev is not None:
-            d = plays - prev
+        tid = r["track_id"]
+        date = r["snapshot_date"]
+        plays = r["plays"]
+        lp = r["last_played"]
+        prev_plays = last_plays.get(tid)
+        if prev_plays is not None:
+            d = plays - prev_plays
             if d > 0:
-                deltas.append((date, tid, d))
+                prev_lp = last_lp.get(tid)
+                advanced = lp is not None and (prev_lp is None or lp > prev_lp)
+                if advanced:
+                    prev_date = last_date.get(tid, date)
+                    days_gap = max(
+                        1,
+                        (dt.date.fromisoformat(date) - dt.date.fromisoformat(prev_date)).days,
+                    )
+                    cap = days_gap * MAX_PLAYS_PER_DAY_PER_TRACK
+                    if d > cap:
+                        capped_hits += 1
+                        capped_plays_dropped += d - cap
+                        d = cap
+                    deltas.append((date, tid, d))
+                else:
+                    phantom_drops += 1
+                    phantom_plays += d
         last_plays[tid] = plays
+        last_lp[tid] = lp
+        last_date[tid] = date
+    if phantom_drops:
+        print(
+            f"  filtered {phantom_drops} phantom deltas "
+            f"({phantom_plays} plays) — counter jumped without last_played moving"
+        )
+    if capped_hits:
+        print(
+            f"  capped {capped_hits} suspicious deltas "
+            f"(dropped {capped_plays_dropped} plays) — exceeded "
+            f"{MAX_PLAYS_PER_DAY_PER_TRACK}/day/track ceiling"
+        )
 
     # Track metadata, indexed by track_id.
     track_meta: dict = {}
