@@ -203,32 +203,28 @@
     {
       "date": "2026-07-10",
       "plays": 72
+    },
+    {
+      "date": "2026-07-11",
+      "plays": 22
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 171,
+      "total_plays": 94,
       "top_artists": [
-        {
-          "artist": "Kungs",
-          "plays": 48
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 48
-        },
-        {
-          "artist": "Demon",
-          "plays": 48
-        },
         {
           "artist": "France Football Anthem",
           "plays": 20
         },
         {
+          "artist": "CTID",
+          "plays": 16
+        },
+        {
           "artist": "Cut Copy",
-          "plays": 15
+          "plays": 12
         },
         {
           "artist": "Bon Entendeur",
@@ -237,6 +233,10 @@
         {
           "artist": "Jess & Crabbe",
           "plays": 6
+        },
+        {
+          "artist": "Surnevis",
+          "plays": 4
         },
         {
           "artist": "Daft Punk",
@@ -271,6 +271,10 @@
           "plays": 2
         },
         {
+          "artist": "Cyril",
+          "plays": 2
+        },
+        {
           "artist": "Saint Pepsi",
           "plays": 2
         },
@@ -293,24 +297,28 @@
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 102
-        },
-        {
           "genre": "Variete Francaise",
           "plays": 22
         },
         {
+          "genre": "Pop",
+          "plays": 22
+        },
+        {
           "genre": "Electronic",
-          "plays": 19
+          "plays": 16
         },
         {
           "genre": "mashup",
           "plays": 8
         },
         {
-          "genre": "Pop",
-          "plays": 6
+          "genre": "Dance",
+          "plays": 8
+        },
+        {
+          "genre": "Humor",
+          "plays": 4
         },
         {
           "genre": "House",
@@ -343,27 +351,21 @@
       ],
       "top_tracks": [
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 48,
-          "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 48,
-          "genre": "Dance"
-        },
-        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 20,
           "genre": "Variete Francaise"
         },
         {
+          "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
+          "artist": "CTID",
+          "plays": 16,
+          "genre": "Pop"
+        },
+        {
           "song": "Saturdays",
           "artist": "Cut Copy",
-          "plays": 15,
+          "plays": 12,
           "genre": "Electronic"
         },
         {
@@ -377,6 +379,12 @@
           "artist": "Jess & Crabbe",
           "plays": 6,
           "genre": "Dance"
+        },
+        {
+          "song": "Kylian Dictator (English Lyrics)",
+          "artist": "Surnevis",
+          "plays": 4,
+          "genre": "Humor"
         },
         {
           "song": "Around the world (Version Longue)",
@@ -427,6 +435,12 @@
           "genre": "Pop"
         },
         {
+          "song": "Stumblin' In (Official Music Video)",
+          "artist": "Cyril",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
           "song": "Pineapple Juniors (MACROSS 82 99 Remix)",
           "artist": "Saint Pepsi & MACROSS 82",
           "plays": 2,
@@ -460,7 +474,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1024,
+      "total_plays": 864,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -483,31 +497,15 @@
           "plays": 36
         },
         {
-          "artist": "Michael Jackson",
-          "plays": 26
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 26
-        },
-        {
-          "artist": "Vegedream",
-          "plays": 26
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 26
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 25
-        },
-        {
           "artist": "Kajagoogoo",
           "plays": 24
         },
         {
           "artist": "Joris Delacroix",
+          "plays": 24
+        },
+        {
+          "artist": "Polo & Pan",
           "plays": 24
         },
         {
@@ -532,6 +530,10 @@
         },
         {
           "artist": "Michael Bublé",
+          "plays": 24
+        },
+        {
+          "artist": "Michael Jackson",
           "plays": 24
         },
         {
@@ -561,44 +563,56 @@
         {
           "artist": "Bananarama",
           "plays": 24
+        },
+        {
+          "artist": "Drake",
+          "plays": 24
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
+          "plays": 24
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 342
+          "plays": 324
         },
         {
           "genre": "Pop",
-          "plays": 230
+          "plays": 143
         },
         {
           "genre": "Electronic",
-          "plays": 99
+          "plays": 91
         },
         {
           "genre": "Variete Francaise",
-          "plays": 71
+          "plays": 65
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 55
+          "plays": 48
         },
         {
           "genre": "Rock",
-          "plays": 30
-        },
-        {
-          "genre": "Alternative",
-          "plays": 30
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "City Pop",
           "plays": 27
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 26
+        },
+        {
+          "genre": "Alternative",
+          "plays": 25
         },
         {
           "genre": "French Pop",
@@ -610,34 +624,18 @@
         },
         {
           "genre": "mashup",
-          "plays": 15
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 8
+          "plays": 9
         },
         {
           "genre": "Metal",
           "plays": 8
         },
         {
-          "genre": "Comedy",
-          "plays": 6
-        },
-        {
-          "genre": "Disco",
-          "plays": 5
-        },
-        {
-          "genre": "Soundtrack",
+          "genre": "Humor",
           "plays": 4
         },
         {
-          "genre": "Vaporwave",
-          "plays": 3
-        },
-        {
-          "genre": "Classical",
+          "genre": "Disco",
           "plays": 3
         },
         {
@@ -645,23 +643,35 @@
           "plays": 2
         },
         {
-          "genre": "Funk",
-          "plays": 2
-        },
-        {
           "genre": "Psychedlic Rock",
           "plays": 2
         },
         {
-          "genre": "Musique francophone",
+          "genre": "Future Funk",
           "plays": 2
         },
         {
-          "genre": "Musique pour enfants",
+          "genre": "Soundtrack",
+          "plays": 2
+        },
+        {
+          "genre": "Comedy",
           "plays": 2
         },
         {
           "genre": "Folk",
+          "plays": 1
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 1
+        },
+        {
+          "genre": "Oldies",
+          "plays": 1
+        },
+        {
+          "genre": "Classical",
           "plays": 1
         }
       ],
@@ -685,28 +695,10 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 26,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 26,
-          "genre": "Soft Rock"
-        },
-        {
           "song": "Too Shy",
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
-        },
-        {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
-          "plays": 24,
-          "genre": "Pop"
         },
         {
           "song": "Voyager",
@@ -717,6 +709,12 @@
         {
           "song": "Air France [HD]",
           "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
           "plays": 24,
           "genre": "Electronic"
         },
@@ -747,12 +745,6 @@
         {
           "song": "Me Against the Music (feat. Madonna)",
           "artist": "Britney Spears",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Merci les bleus",
-          "artist": "Vegedream",
           "plays": 24,
           "genre": "Pop"
         },
@@ -815,12 +807,30 @@
           "artist": "Drake",
           "plays": 24,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Around the world (Version Longue)",
+          "artist": "Daft Punk",
+          "plays": 18,
+          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1217,
+      "total_plays": 1185,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -832,15 +842,11 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 52
+          "plays": 51
         },
         {
           "artist": "Demon",
           "plays": 50
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 49
         },
         {
           "artist": "Milky",
@@ -849,6 +855,10 @@
         {
           "artist": "France Football Anthem",
           "plays": 47
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 46
         },
         {
           "artist": "Stevie Nicks",
@@ -926,19 +936,19 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 400
+          "plays": 392
         },
         {
           "genre": "Pop",
-          "plays": 249
+          "plays": 251
         },
         {
           "genre": "Electronic",
-          "plays": 117
+          "plays": 108
         },
         {
           "genre": "Variete Francaise",
-          "plays": 85
+          "plays": 83
         },
         {
           "genre": "Hip Hop/Rap",
@@ -946,15 +956,15 @@
         },
         {
           "genre": "Rock",
-          "plays": 47
+          "plays": 43
         },
         {
           "genre": "Alternative",
-          "plays": 35
+          "plays": 32
         },
         {
           "genre": "Soft Rock",
-          "plays": 30
+          "plays": 29
         },
         {
           "genre": "City Pop",
@@ -970,7 +980,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 23
+          "plays": 21
         },
         {
           "genre": "Comedy",
@@ -994,7 +1004,11 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 6
+          "plays": 5
+        },
+        {
+          "genre": "Humor",
+          "plays": 4
         },
         {
           "genre": "Vaporwave",
@@ -1018,10 +1032,6 @@
         },
         {
           "genre": "Musique francophone",
-          "plays": 2
-        },
-        {
-          "genre": "Lowfi",
           "plays": 2
         }
       ],
@@ -1180,7 +1190,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2668,
+      "total_plays": 2690,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -1286,11 +1296,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 668
+          "plays": 670
         },
         {
           "genre": "Pop",
-          "plays": 419
+          "plays": 435
         },
         {
           "genre": "Electronic",
@@ -1540,7 +1550,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2668,
+      "total_plays": 2690,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -1646,11 +1656,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 668
+          "plays": 670
         },
         {
           "genre": "Pop",
-          "plays": 419
+          "plays": 435
         },
         {
           "genre": "Electronic",
@@ -1900,7 +1910,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2668,
+      "total_plays": 2690,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -2006,11 +2016,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 668
+          "plays": 670
         },
         {
           "genre": "Pop",
-          "plays": 419
+          "plays": 435
         },
         {
           "genre": "Electronic",
@@ -3671,6 +3681,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-11",
+      "id": "53ee8e0decb065f2",
+      "plays": 4
+    },
+    {
       "date": "2026-05-26",
       "id": "54422d4ca9f41bc5",
       "plays": 1
@@ -4876,6 +4891,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-11",
+      "id": "9fbcb5ccdfa4ba0c",
+      "plays": 2
+    },
+    {
       "date": "2026-05-26",
       "id": "a05588ecd51936fe",
       "plays": 1
@@ -5399,6 +5419,11 @@
       "date": "2026-06-06",
       "id": "c9938c8825f07a2a",
       "plays": 1
+    },
+    {
+      "date": "2026-07-11",
+      "id": "ca40f19c651c4631",
+      "plays": 16
     },
     {
       "date": "2026-05-02",
@@ -6282,6 +6307,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-10",
-  "snapshot_count": 73
+  "latest_snapshot": "2026-07-11",
+  "snapshot_count": 74
 }

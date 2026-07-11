@@ -1,12 +1,12 @@
 [
   {
     "genre": "Pop",
-    "plays": 35108,
+    "plays": 35124,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 29622,
+    "plays": 29624,
     "songs": 492
   },
   {
@@ -560,6 +560,11 @@
     "songs": 1
   },
   {
+    "genre": "Humor",
+    "plays": 14,
+    "songs": 2
+  },
+  {
     "genre": "Instrumental",
     "plays": 13,
     "songs": 1
@@ -578,11 +583,6 @@
     "genre": "Punk Rock",
     "plays": 11,
     "songs": 1
-  },
-  {
-    "genre": "Humor",
-    "plays": 10,
-    "songs": 2
   },
   {
     "genre": "Karaoke",

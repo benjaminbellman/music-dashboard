@@ -193,6 +193,10 @@
       "plays": 31
     },
     {
+      "country": "NO",
+      "plays": 31
+    },
+    {
       "country": "JM",
       "plays": 28
     },
@@ -203,10 +207,6 @@
     {
       "country": "ZA",
       "plays": 21
-    },
-    {
-      "country": "NO",
-      "plays": 15
     },
     {
       "country": "NZ",
