@@ -474,7 +474,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 864,
+      "total_plays": 503,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -489,35 +489,15 @@
           "plays": 50
         },
         {
-          "artist": "Daft Punk",
-          "plays": 42
-        },
-        {
           "artist": "France Football Anthem",
           "plays": 36
-        },
-        {
-          "artist": "Kajagoogoo",
-          "plays": 24
-        },
-        {
-          "artist": "Joris Delacroix",
-          "plays": 24
         },
         {
           "artist": "Polo & Pan",
           "plays": 24
         },
         {
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24
-        },
-        {
           "artist": "ANOTR",
-          "plays": 24
-        },
-        {
-          "artist": "Francoise Hardy",
           "plays": 24
         },
         {
@@ -529,97 +509,93 @@
           "plays": 24
         },
         {
-          "artist": "Michael Bublé",
-          "plays": 24
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 24
-        },
-        {
-          "artist": "Klangkarussell",
-          "plays": 24
-        },
-        {
-          "artist": "Miki Matsubara",
-          "plays": 24
-        },
-        {
-          "artist": "CASCADA",
-          "plays": 24
-        },
-        {
-          "artist": "Madison Avenue",
-          "plays": 24
-        },
-        {
           "artist": "Oliver Tree & Robin Schulz",
-          "plays": 24
-        },
-        {
-          "artist": "Astro",
-          "plays": 24
-        },
-        {
-          "artist": "Bananarama",
-          "plays": 24
-        },
-        {
-          "artist": "Drake",
-          "plays": 24
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
           "plays": 24
         },
         {
           "artist": "KITSCHKRIEG",
           "plays": 24
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 18
+        },
+        {
+          "artist": "Cut Copy",
+          "plays": 16
+        },
+        {
+          "artist": "CTID",
+          "plays": 16
+        },
+        {
+          "artist": "Melanie Martinez",
+          "plays": 16
+        },
+        {
+          "artist": "Iron Maiden",
+          "plays": 8
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 7
+        },
+        {
+          "artist": "Jess & Crabbe",
+          "plays": 6
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 6
+        },
+        {
+          "artist": "Surnevis",
+          "plays": 4
+        },
+        {
+          "artist": "Superfunk",
+          "plays": 4
+        },
+        {
+          "artist": "Cigarettes After Sex",
+          "plays": 2
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 2
+        },
+        {
+          "artist": "Pink Floyd",
+          "plays": 2
+        },
+        {
+          "artist": "Claptone",
+          "plays": 2
+        },
+        {
+          "artist": "Romeo et Juliette",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 324
+          "plays": 252
         },
         {
           "genre": "Pop",
-          "plays": 143
+          "plays": 71
         },
         {
           "genre": "Electronic",
-          "plays": 91
+          "plays": 67
         },
         {
           "genre": "Variete Francaise",
-          "plays": 65
+          "plays": 41
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 48
-        },
-        {
-          "genre": "Rock",
-          "plays": 29
-        },
-        {
-          "genre": "City Pop",
-          "plays": 27
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 26
-        },
-        {
-          "genre": "Alternative",
-          "plays": 25
-        },
-        {
-          "genre": "French Pop",
-          "plays": 24
-        },
-        {
-          "genre": "Soul and R&B",
           "plays": 24
         },
         {
@@ -631,11 +607,15 @@
           "plays": 8
         },
         {
+          "genre": "Rock",
+          "plays": 5
+        },
+        {
           "genre": "Humor",
           "plays": 4
         },
         {
-          "genre": "Disco",
+          "genre": "City Pop",
           "plays": 3
         },
         {
@@ -644,6 +624,10 @@
         },
         {
           "genre": "Psychedlic Rock",
+          "plays": 2
+        },
+        {
+          "genre": "Soft Rock",
           "plays": 2
         },
         {
@@ -659,6 +643,10 @@
           "plays": 2
         },
         {
+          "genre": "Disco",
+          "plays": 2
+        },
+        {
           "genre": "Folk",
           "plays": 1
         },
@@ -668,6 +656,10 @@
         },
         {
           "genre": "Oldies",
+          "plays": 1
+        },
+        {
+          "genre": "Alternative",
           "plays": 1
         },
         {
@@ -695,46 +687,16 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Too Shy",
-          "artist": "Kajagoogoo",
-          "plays": 24,
-          "genre": "Rock"
-        },
-        {
-          "song": "Voyager",
-          "artist": "Daft Punk",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Air France [HD]",
-          "artist": "Joris Delacroix",
-          "plays": 24,
-          "genre": "Electronic"
-        },
-        {
           "song": "Pays Imaginaire",
           "artist": "Polo & Pan",
           "plays": 24,
           "genre": "Electronic"
         },
         {
-          "song": "Femme que j'aime",
-          "artist": "Jean-Luc Lahaye",
-          "plays": 24,
-          "genre": "French Pop"
-        },
-        {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
           "plays": 24,
           "genre": "Dance"
-        },
-        {
-          "song": "Message Personnel",
-          "artist": "Francoise Hardy",
-          "plays": 24,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Piste 01",
@@ -749,70 +711,10 @@
           "genre": "Pop"
         },
         {
-          "song": "Haven't Met You Yet",
-          "artist": "Michael Bublé",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Billy Jean",
-          "artist": "Michael Jackson",
-          "plays": 24,
-          "genre": "Soul and R&B"
-        },
-        {
-          "song": "Sonnentanz (Original Version)",
-          "artist": "Klangkarussell",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Stay With Me",
-          "artist": "Miki Matsubara",
-          "plays": 24,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Everytime We Touch Scarf! Remix",
-          "artist": "CASCADA",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Don't call me baby (Mousse T Extended Remix)",
-          "artist": "Madison Avenue",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
           "song": "Miss You",
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 24,
           "genre": "Dance"
-        },
-        {
-          "song": "Panda",
-          "artist": "Astro",
-          "plays": 24,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Cruel Summer (Dilemmachine Remix)",
-          "artist": "Bananarama",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Hotline Bling",
-          "artist": "Drake",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 24,
-          "genre": "Soft Rock"
         },
         {
           "song": "GUT GENUG",
@@ -825,12 +727,102 @@
           "artist": "Daft Punk",
           "plays": 18,
           "genre": "Electronic"
+        },
+        {
+          "song": "Saturdays",
+          "artist": "Cut Copy",
+          "plays": 16,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
+          "artist": "CTID",
+          "plays": 16,
+          "genre": "Pop"
+        },
+        {
+          "song": "Play Date",
+          "artist": "Melanie Martinez",
+          "plays": 16,
+          "genre": "Pop"
+        },
+        {
+          "song": "Run to The Hills",
+          "artist": "Iron Maiden",
+          "plays": 8,
+          "genre": "Metal"
+        },
+        {
+          "song": "Decade Mixtape 90's",
+          "artist": "Bon Entendeur",
+          "plays": 7,
+          "genre": "mashup"
+        },
+        {
+          "song": "F9 Riot Squad (Original Mix)",
+          "artist": "Jess & Crabbe",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 6,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Kylian Dictator (English Lyrics)",
+          "artist": "Surnevis",
+          "plays": 4,
+          "genre": "Humor"
+        },
+        {
+          "song": "Sugar Pop (Original Mix)",
+          "artist": "Superfunk",
+          "plays": 4,
+          "genre": "Dance"
+        },
+        {
+          "song": "K. (Klesh Remix)",
+          "artist": "Cigarettes After Sex & Klesh",
+          "plays": 2,
+          "genre": "House"
+        },
+        {
+          "song": "1992 - 2002 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 2,
+          "genre": "mashup"
+        },
+        {
+          "song": "Set The Controls For The Heart Of The Sun",
+          "artist": "Pink Floyd",
+          "plays": 2,
+          "genre": "Psychedlic Rock"
+        },
+        {
+          "song": "Control (Original Mix)",
+          "artist": "Claptone",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Les Rois du Monde",
+          "artist": "Romeo et Juliette",
+          "plays": 2,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Loving You",
+          "artist": "Cannons",
+          "plays": 2,
+          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1185,
+      "total_plays": 1173,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -842,7 +834,7 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 51
+          "plays": 50
         },
         {
           "artist": "Demon",
@@ -858,7 +850,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 46
+          "plays": 43
         },
         {
           "artist": "Stevie Nicks",
@@ -936,7 +928,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 392
+          "plays": 389
         },
         {
           "genre": "Pop",
@@ -980,11 +972,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 21
-        },
-        {
-          "genre": "Comedy",
-          "plays": 14
+          "plays": 20
         },
         {
           "genre": "Future Funk",
@@ -993,6 +981,10 @@
         {
           "genre": "Metal",
           "plays": 8
+        },
+        {
+          "genre": "Comedy",
+          "plays": 7
         },
         {
           "genre": "Variété française",
@@ -1015,16 +1007,16 @@
           "plays": 4
         },
         {
-          "genre": "House",
-          "plays": 3
-        },
-        {
           "genre": "Funk",
           "plays": 3
         },
         {
           "genre": "Classical",
           "plays": 3
+        },
+        {
+          "genre": "House",
+          "plays": 2
         },
         {
           "genre": "Psychedlic Rock",
@@ -6307,6 +6299,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-11",
-  "snapshot_count": 74
+  "latest_snapshot": "2026-07-12",
+  "snapshot_count": 75
 }
