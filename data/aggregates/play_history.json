@@ -207,155 +207,77 @@
     {
       "date": "2026-07-11",
       "plays": 22
+    },
+    {
+      "date": "2026-07-13",
+      "plays": 31
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 94,
+      "total_plays": 53,
       "top_artists": [
-        {
-          "artist": "France Football Anthem",
-          "plays": 20
-        },
         {
           "artist": "CTID",
           "plays": 16
         },
         {
-          "artist": "Cut Copy",
+          "artist": "Kungs",
           "plays": 12
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "Purple Disco Machine",
+          "plays": 12
+        },
+        {
+          "artist": "Cyril",
           "plays": 6
         },
         {
-          "artist": "Jess & Crabbe",
+          "artist": "442oons",
           "plays": 6
+        },
+        {
+          "artist": "Drake",
+          "plays": 5
         },
         {
           "artist": "Surnevis",
           "plays": 4
         },
         {
-          "artist": "Daft Punk",
-          "plays": 4
-        },
-        {
-          "artist": "Cigarettes After Sex",
+          "artist": "Carly Rae Jepsen",
           "plays": 2
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 2
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 2
-        },
-        {
-          "artist": "Romeo et Juliette",
-          "plays": 2
-        },
-        {
-          "artist": "Van She",
-          "plays": 2
-        },
-        {
-          "artist": "Men Without Hats",
-          "plays": 2
-        },
-        {
-          "artist": "Dalida",
-          "plays": 2
-        },
-        {
-          "artist": "Cyril",
-          "plays": 2
-        },
-        {
-          "artist": "Saint Pepsi",
-          "plays": 2
-        },
-        {
-          "artist": "Disney",
-          "plays": 2
-        },
-        {
-          "artist": "Meiko Nakahara",
-          "plays": 2
-        },
-        {
-          "artist": "442oons",
-          "plays": 2
-        },
-        {
-          "artist": "Cerrone",
+          "artist": "Supermode",
           "plays": 2
         }
       ],
       "top_genres": [
         {
-          "genre": "Variete Francaise",
-          "plays": 22
+          "genre": "Dance",
+          "plays": 20
         },
         {
           "genre": "Pop",
-          "plays": 22
+          "plays": 18
         },
         {
-          "genre": "Electronic",
-          "plays": 16
+          "genre": "Comedy",
+          "plays": 6
         },
         {
-          "genre": "mashup",
-          "plays": 8
-        },
-        {
-          "genre": "Dance",
-          "plays": 8
+          "genre": "Hip Hop/Rap",
+          "plays": 5
         },
         {
           "genre": "Humor",
           "plays": 4
-        },
-        {
-          "genre": "House",
-          "plays": 2
-        },
-        {
-          "genre": "Psychedlic Rock",
-          "plays": 2
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 2
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 2
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
-        },
-        {
-          "genre": "Comedy",
-          "plays": 2
-        },
-        {
-          "genre": "Disco",
-          "plays": 2
         }
       ],
       "top_tracks": [
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 20,
-          "genre": "Variete Francaise"
-        },
         {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
           "artist": "CTID",
@@ -363,22 +285,28 @@
           "genre": "Pop"
         },
         {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
           "plays": 12,
-          "genre": "Electronic"
+          "genre": "Dance"
         },
         {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 6,
-          "genre": "mashup"
-        },
-        {
-          "song": "F9 Riot Squad (Original Mix)",
-          "artist": "Jess & Crabbe",
+          "song": "Stumblin' In (Official Music Video)",
+          "artist": "Cyril",
           "plays": 6,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 6,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Madiba Riddim",
+          "artist": "Drake",
+          "plays": 5,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Kylian Dictator (English Lyrics)",
@@ -387,102 +315,30 @@
           "genre": "Humor"
         },
         {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 4,
-          "genre": "Electronic"
-        },
-        {
-          "song": "K. (Klesh Remix)",
-          "artist": "Cigarettes After Sex & Klesh",
-          "plays": 2,
-          "genre": "House"
-        },
-        {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "Set The Controls For The Heart Of The Sun",
-          "artist": "Pink Floyd",
-          "plays": 2,
-          "genre": "Psychedlic Rock"
-        },
-        {
-          "song": "Les Rois du Monde",
-          "artist": "Romeo et Juliette",
-          "plays": 2,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Jamaica",
-          "artist": "Van She",
+          "song": "Call Me Maybe",
+          "artist": "Carly Rae Jepsen",
           "plays": 2,
           "genre": "Pop"
         },
         {
-          "song": "The Safety Dance ( Original )",
-          "artist": "Men Without Hats",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Mourir Sur Scene",
-          "artist": "Dalida",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Stumblin' In (Official Music Video)",
-          "artist": "Cyril",
+          "song": "Tell Me Why",
+          "artist": "Supermode",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Pineapple Juniors (MACROSS 82 99 Remix)",
-          "artist": "Saint Pepsi & MACROSS 82",
-          "plays": 2,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "I Found a New Friend",
-          "artist": "Disney",
-          "plays": 2,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Fantasy",
-          "artist": "Meiko Nakahara",
-          "plays": 2,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 2,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Supernature",
-          "artist": "Cerrone",
-          "plays": 2,
-          "genre": "Disco"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 503,
+      "total_plays": 506,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 114
+          "plays": 126
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 114
+          "plays": 126
         },
         {
           "artist": "Demon",
@@ -521,10 +377,6 @@
           "plays": 18
         },
         {
-          "artist": "Cut Copy",
-          "plays": 16
-        },
-        {
           "artist": "CTID",
           "plays": 16
         },
@@ -533,7 +385,15 @@
           "plays": 16
         },
         {
+          "artist": "Cut Copy",
+          "plays": 15
+        },
+        {
           "artist": "Iron Maiden",
+          "plays": 8
+        },
+        {
+          "artist": "442oons",
           "plays": 8
         },
         {
@@ -545,8 +405,16 @@
           "plays": 6
         },
         {
+          "artist": "Cyril",
+          "plays": 6
+        },
+        {
           "artist": "MotorBass",
           "plays": 6
+        },
+        {
+          "artist": "Drake",
+          "plays": 5
         },
         {
           "artist": "Surnevis",
@@ -563,40 +431,28 @@
         {
           "artist": "Flight Facilities",
           "plays": 2
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 2
-        },
-        {
-          "artist": "Claptone",
-          "plays": 2
-        },
-        {
-          "artist": "Romeo et Juliette",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 252
+          "plays": 269
         },
         {
           "genre": "Pop",
-          "plays": 71
+          "plays": 64
         },
         {
           "genre": "Electronic",
-          "plays": 67
+          "plays": 63
         },
         {
           "genre": "Variete Francaise",
-          "plays": 41
+          "plays": 39
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 24
+          "plays": 29
         },
         {
           "genre": "mashup",
@@ -607,16 +463,12 @@
           "plays": 8
         },
         {
-          "genre": "Rock",
-          "plays": 5
+          "genre": "Comedy",
+          "plays": 8
         },
         {
           "genre": "Humor",
           "plays": 4
-        },
-        {
-          "genre": "City Pop",
-          "plays": 3
         },
         {
           "genre": "House",
@@ -624,10 +476,6 @@
         },
         {
           "genre": "Psychedlic Rock",
-          "plays": 2
-        },
-        {
-          "genre": "Soft Rock",
           "plays": 2
         },
         {
@@ -639,7 +487,7 @@
           "plays": 2
         },
         {
-          "genre": "Comedy",
+          "genre": "City Pop",
           "plays": 2
         },
         {
@@ -647,23 +495,7 @@
           "plays": 2
         },
         {
-          "genre": "Folk",
-          "plays": 1
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 1
-        },
-        {
-          "genre": "Oldies",
-          "plays": 1
-        },
-        {
-          "genre": "Alternative",
-          "plays": 1
-        },
-        {
-          "genre": "Classical",
+          "genre": "Rock",
           "plays": 1
         }
       ],
@@ -671,7 +503,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 114,
+          "plays": 126,
           "genre": "Dance"
         },
         {
@@ -729,12 +561,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
-          "plays": 16,
-          "genre": "Electronic"
-        },
-        {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
           "artist": "CTID",
           "plays": 16,
@@ -747,10 +573,22 @@
           "genre": "Pop"
         },
         {
+          "song": "Saturdays",
+          "artist": "Cut Copy",
+          "plays": 15,
+          "genre": "Electronic"
+        },
+        {
           "song": "Run to The Hills",
           "artist": "Iron Maiden",
           "plays": 8,
           "genre": "Metal"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 8,
+          "genre": "Comedy"
         },
         {
           "song": "Decade Mixtape 90's",
@@ -765,10 +603,22 @@
           "genre": "Dance"
         },
         {
+          "song": "Stumblin' In (Official Music Video)",
+          "artist": "Cyril",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 6,
           "genre": "Electronic"
+        },
+        {
+          "song": "Madiba Riddim",
+          "artist": "Drake",
+          "plays": 5,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Kylian Dictator (English Lyrics)",
@@ -799,38 +649,20 @@
           "artist": "Pink Floyd",
           "plays": 2,
           "genre": "Psychedlic Rock"
-        },
-        {
-          "song": "Control (Original Mix)",
-          "artist": "Claptone",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Les Rois du Monde",
-          "artist": "Romeo et Juliette",
-          "plays": 2,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Loving You",
-          "artist": "Cannons",
-          "plays": 2,
-          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1173,
+      "total_plays": 1200,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 114
+          "plays": 126
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 114
+          "plays": 126
         },
         {
           "artist": "David Guetta",
@@ -857,11 +689,15 @@
           "plays": 37
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 27
+          "artist": "Drake",
+          "plays": 29
         },
         {
           "artist": "Michael Jackson",
+          "plays": 26
+        },
+        {
+          "artist": "Polo & Pan",
           "plays": 26
         },
         {
@@ -919,24 +755,20 @@
         {
           "artist": "Madison Avenue",
           "plays": 24
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 389
+          "plays": 406
         },
         {
           "genre": "Pop",
-          "plays": 251
+          "plays": 253
         },
         {
           "genre": "Electronic",
-          "plays": 108
+          "plays": 106
         },
         {
           "genre": "Variete Francaise",
@@ -944,7 +776,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 76
+          "plays": 81
         },
         {
           "genre": "Rock",
@@ -952,7 +784,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 32
+          "plays": 31
         },
         {
           "genre": "Soft Rock",
@@ -975,16 +807,16 @@
           "plays": 20
         },
         {
+          "genre": "Comedy",
+          "plays": 13
+        },
+        {
           "genre": "Future Funk",
           "plays": 9
         },
         {
           "genre": "Metal",
           "plays": 8
-        },
-        {
-          "genre": "Comedy",
-          "plays": 7
         },
         {
           "genre": "Variété française",
@@ -1031,7 +863,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 114,
+          "plays": 126,
           "genre": "Dance"
         },
         {
@@ -1182,15 +1014,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2690,
+      "total_plays": 2721,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 115
+          "plays": 127
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 115
+          "plays": 127
         },
         {
           "artist": "France Football Anthem",
@@ -1198,7 +1030,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 93
+          "plays": 99
         },
         {
           "artist": "Daft Punk",
@@ -1234,7 +1066,7 @@
         },
         {
           "artist": "Supermode",
-          "plays": 44
+          "plays": 46
         },
         {
           "artist": "Bon Entendeur",
@@ -1253,16 +1085,16 @@
           "plays": 33
         },
         {
+          "artist": "Drake",
+          "plays": 33
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
         },
         {
           "artist": "Michael Jackson",
           "plays": 29
-        },
-        {
-          "artist": "Drake",
-          "plays": 28
         },
         {
           "artist": "Vegedream",
@@ -1288,11 +1120,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 670
+          "plays": 688
         },
         {
           "genre": "Pop",
-          "plays": 435
+          "plays": 437
         },
         {
           "genre": "Electronic",
@@ -1304,15 +1136,15 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 134
+          "plays": 139
+        },
+        {
+          "genre": "Comedy",
+          "plays": 110
         },
         {
           "genre": "Alternative",
           "plays": 106
-        },
-        {
-          "genre": "Comedy",
-          "plays": 104
         },
         {
           "genre": "Soft Rock",
@@ -1391,7 +1223,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 114,
+          "plays": 126,
           "genre": "Dance"
         },
         {
@@ -1411,6 +1243,12 @@
           "artist": "Demon",
           "plays": 50,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 50,
+          "genre": "Comedy"
         },
         {
           "song": "Blame",
@@ -1433,14 +1271,8 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 44,
+          "plays": 46,
           "genre": "Dance"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 44,
-          "genre": "Comedy"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -1542,15 +1374,15 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2690,
+      "total_plays": 2721,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 115
+          "plays": 127
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 115
+          "plays": 127
         },
         {
           "artist": "France Football Anthem",
@@ -1558,7 +1390,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 93
+          "plays": 99
         },
         {
           "artist": "Daft Punk",
@@ -1594,7 +1426,7 @@
         },
         {
           "artist": "Supermode",
-          "plays": 44
+          "plays": 46
         },
         {
           "artist": "Bon Entendeur",
@@ -1613,16 +1445,16 @@
           "plays": 33
         },
         {
+          "artist": "Drake",
+          "plays": 33
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
         },
         {
           "artist": "Michael Jackson",
           "plays": 29
-        },
-        {
-          "artist": "Drake",
-          "plays": 28
         },
         {
           "artist": "Vegedream",
@@ -1648,11 +1480,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 670
+          "plays": 688
         },
         {
           "genre": "Pop",
-          "plays": 435
+          "plays": 437
         },
         {
           "genre": "Electronic",
@@ -1664,15 +1496,15 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 134
+          "plays": 139
+        },
+        {
+          "genre": "Comedy",
+          "plays": 110
         },
         {
           "genre": "Alternative",
           "plays": 106
-        },
-        {
-          "genre": "Comedy",
-          "plays": 104
         },
         {
           "genre": "Soft Rock",
@@ -1751,7 +1583,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 114,
+          "plays": 126,
           "genre": "Dance"
         },
         {
@@ -1771,6 +1603,12 @@
           "artist": "Demon",
           "plays": 50,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 50,
+          "genre": "Comedy"
         },
         {
           "song": "Blame",
@@ -1793,14 +1631,8 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 44,
+          "plays": 46,
           "genre": "Dance"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 44,
-          "genre": "Comedy"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -1902,15 +1734,15 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2690,
+      "total_plays": 2721,
       "top_artists": [
         {
           "artist": "Kungs",
-          "plays": 115
+          "plays": 127
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 115
+          "plays": 127
         },
         {
           "artist": "France Football Anthem",
@@ -1918,7 +1750,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 93
+          "plays": 99
         },
         {
           "artist": "Daft Punk",
@@ -1954,7 +1786,7 @@
         },
         {
           "artist": "Supermode",
-          "plays": 44
+          "plays": 46
         },
         {
           "artist": "Bon Entendeur",
@@ -1973,16 +1805,16 @@
           "plays": 33
         },
         {
+          "artist": "Drake",
+          "plays": 33
+        },
+        {
           "artist": "Creedence Clearwater Revival",
           "plays": 33
         },
         {
           "artist": "Michael Jackson",
           "plays": 29
-        },
-        {
-          "artist": "Drake",
-          "plays": 28
         },
         {
           "artist": "Vegedream",
@@ -2008,11 +1840,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 670
+          "plays": 688
         },
         {
           "genre": "Pop",
-          "plays": 435
+          "plays": 437
         },
         {
           "genre": "Electronic",
@@ -2024,15 +1856,15 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 134
+          "plays": 139
+        },
+        {
+          "genre": "Comedy",
+          "plays": 110
         },
         {
           "genre": "Alternative",
           "plays": 106
-        },
-        {
-          "genre": "Comedy",
-          "plays": 104
         },
         {
           "genre": "Soft Rock",
@@ -2111,7 +1943,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 114,
+          "plays": 126,
           "genre": "Dance"
         },
         {
@@ -2131,6 +1963,12 @@
           "artist": "Demon",
           "plays": 50,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 50,
+          "genre": "Comedy"
         },
         {
           "song": "Blame",
@@ -2153,14 +1991,8 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 44,
+          "plays": 46,
           "genre": "Dance"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 44,
-          "genre": "Comedy"
         },
         {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
@@ -2533,6 +2365,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-13",
+      "id": "0f7178ead7d42650",
+      "plays": 2
+    },
+    {
       "date": "2026-06-02",
       "id": "0f7a76b8319bc4ed",
       "plays": 1
@@ -2611,6 +2448,11 @@
       "date": "2026-06-10",
       "id": "125fd55b49f40a54",
       "plays": 1
+    },
+    {
+      "date": "2026-07-13",
+      "id": "125fd55b49f40a54",
+      "plays": 2
     },
     {
       "date": "2026-06-02",
@@ -3373,6 +3215,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-13",
+      "id": "48d2a696b7595f29",
+      "plays": 5
+    },
+    {
       "date": "2026-07-10",
       "id": "4933321cc73490be",
       "plays": 2
@@ -3431,6 +3278,11 @@
       "date": "2026-07-08",
       "id": "49a8e200a97614c3",
       "plays": 48
+    },
+    {
+      "date": "2026-07-13",
+      "id": "49a8e200a97614c3",
+      "plays": 12
     },
     {
       "date": "2026-06-15",
@@ -4888,6 +4740,11 @@
       "plays": 2
     },
     {
+      "date": "2026-07-13",
+      "id": "9fbcb5ccdfa4ba0c",
+      "plays": 4
+    },
+    {
       "date": "2026-05-26",
       "id": "a05588ecd51936fe",
       "plays": 1
@@ -5923,6 +5780,11 @@
       "plays": 2
     },
     {
+      "date": "2026-07-13",
+      "id": "e96046bde4dc449a",
+      "plays": 6
+    },
+    {
       "date": "2026-05-26",
       "id": "e975e0e8508e5696",
       "plays": 1
@@ -6299,6 +6161,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-12",
-  "snapshot_count": 75
+  "latest_snapshot": "2026-07-13",
+  "snapshot_count": 76
 }

@@ -413,7 +413,7 @@
     {
       "rank": 19,
       "artist": "442oons",
-      "plays": 991,
+      "plays": 997,
       "country": "GB"
     },
     {
@@ -485,7 +485,7 @@
     {
       "rank": 31,
       "artist": "Purple Disco Machine",
-      "plays": 685,
+      "plays": 697,
       "country": "DE"
     },
     {
@@ -526,20 +526,20 @@
     },
     {
       "rank": 38,
+      "artist": "Kungs",
+      "plays": 622,
+      "country": "FR"
+    },
+    {
+      "rank": 39,
       "artist": "Modern Talking",
       "plays": 615,
       "country": "DE"
     },
     {
-      "rank": 39,
-      "artist": "Kungs",
-      "plays": 610,
-      "country": "FR"
-    },
-    {
       "rank": 40,
       "artist": "Drake",
-      "plays": 606,
+      "plays": 611,
       "country": "CA"
     },
     {
