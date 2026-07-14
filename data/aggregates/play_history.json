@@ -211,17 +211,17 @@
     {
       "date": "2026-07-13",
       "plays": 31
+    },
+    {
+      "date": "2026-07-14",
+      "plays": 6
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 53,
+      "total_plays": 37,
       "top_artists": [
-        {
-          "artist": "CTID",
-          "plays": 16
-        },
         {
           "artist": "Kungs",
           "plays": 12
@@ -229,10 +229,6 @@
         {
           "artist": "Purple Disco Machine",
           "plays": 12
-        },
-        {
-          "artist": "Cyril",
-          "plays": 6
         },
         {
           "artist": "442oons",
@@ -243,7 +239,11 @@
           "plays": 5
         },
         {
-          "artist": "Surnevis",
+          "artist": "Disney",
+          "plays": 4
+        },
+        {
+          "artist": "Cyril",
           "plays": 4
         },
         {
@@ -253,15 +253,19 @@
         {
           "artist": "Supermode",
           "plays": 2
+        },
+        {
+          "artist": "Jean Jacques Goldman",
+          "plays": 1
+        },
+        {
+          "artist": "The Chemical Brothers",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 20
-        },
-        {
-          "genre": "Pop",
           "plays": 18
         },
         {
@@ -273,27 +277,27 @@
           "plays": 5
         },
         {
-          "genre": "Humor",
+          "genre": "Soundtrack",
           "plays": 4
+        },
+        {
+          "genre": "Pop",
+          "plays": 2
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 1
+        },
+        {
+          "genre": "Electronic",
+          "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
-          "artist": "CTID",
-          "plays": 16,
-          "genre": "Pop"
-        },
-        {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
           "plays": 12,
-          "genre": "Dance"
-        },
-        {
-          "song": "Stumblin' In (Official Music Video)",
-          "artist": "Cyril",
-          "plays": 6,
           "genre": "Dance"
         },
         {
@@ -309,10 +313,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Kylian Dictator (English Lyrics)",
-          "artist": "Surnevis",
+          "song": "Hawaiian Roller Coaster Ride 2025",
+          "artist": "Disney",
           "plays": 4,
-          "genre": "Humor"
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Stumblin' In (Official Music Video)",
+          "artist": "Cyril",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "Call Me Maybe",
@@ -325,12 +335,24 @@
           "artist": "Supermode",
           "plays": 2,
           "genre": "Dance"
+        },
+        {
+          "song": "Je Te Donne",
+          "artist": "Jean Jacques Goldman",
+          "plays": 1,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Swoon (Boys Noize Summer Mix)",
+          "artist": "The Chemical Brothers",
+          "plays": 1,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 506,
+      "total_plays": 503,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -405,11 +427,11 @@
           "plays": 6
         },
         {
-          "artist": "Cyril",
+          "artist": "Disney",
           "plays": 6
         },
         {
-          "artist": "MotorBass",
+          "artist": "Cyril",
           "plays": 6
         },
         {
@@ -436,7 +458,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 269
+          "plays": 268
         },
         {
           "genre": "Pop",
@@ -444,7 +466,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 63
+          "plays": 58
         },
         {
           "genre": "Variete Francaise",
@@ -467,6 +489,10 @@
           "plays": 8
         },
         {
+          "genre": "Soundtrack",
+          "plays": 6
+        },
+        {
           "genre": "Humor",
           "plays": 4
         },
@@ -483,20 +509,12 @@
           "plays": 2
         },
         {
-          "genre": "Soundtrack",
-          "plays": 2
-        },
-        {
           "genre": "City Pop",
           "plays": 2
         },
         {
           "genre": "Disco",
           "plays": 2
-        },
-        {
-          "genre": "Rock",
-          "plays": 1
         }
       ],
       "top_tracks": [
@@ -609,12 +627,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 6,
-          "genre": "Electronic"
-        },
-        {
           "song": "Madiba Riddim",
           "artist": "Drake",
           "plays": 5,
@@ -625,6 +637,12 @@
           "artist": "Surnevis",
           "plays": 4,
           "genre": "Humor"
+        },
+        {
+          "song": "Hawaiian Roller Coaster Ride 2025",
+          "artist": "Disney",
+          "plays": 4,
+          "genre": "Soundtrack"
         },
         {
           "song": "Sugar Pop (Original Mix)",
@@ -654,7 +672,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1200,
+      "total_plays": 1199,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -768,11 +786,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 106
+          "plays": 107
         },
         {
           "genre": "Variete Francaise",
-          "plays": 83
+          "plays": 84
         },
         {
           "genre": "Hip Hop/Rap",
@@ -815,20 +833,16 @@
           "plays": 9
         },
         {
+          "genre": "Soundtrack",
+          "plays": 9
+        },
+        {
           "genre": "Metal",
           "plays": 8
         },
         {
-          "genre": "Variété française",
-          "plays": 7
-        },
-        {
           "genre": "Disco",
           "plays": 6
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 5
         },
         {
           "genre": "Humor",
@@ -856,6 +870,10 @@
         },
         {
           "genre": "Musique francophone",
+          "plays": 2
+        },
+        {
+          "genre": "Musique pour enfants",
           "plays": 2
         }
       ],
@@ -1014,7 +1032,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2721,
+      "total_plays": 2727,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -1128,11 +1146,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 343
+          "plays": 344
         },
         {
           "genre": "Variete Francaise",
-          "plays": 240
+          "plays": 241
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1199,12 +1217,12 @@
           "plays": 16
         },
         {
-          "genre": "Ambient",
+          "genre": "Soundtrack",
           "plays": 16
         },
         {
-          "genre": "Soundtrack",
-          "plays": 12
+          "genre": "Ambient",
+          "plays": 16
         },
         {
           "genre": "Variété française",
@@ -1374,7 +1392,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2721,
+      "total_plays": 2727,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -1488,11 +1506,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 343
+          "plays": 344
         },
         {
           "genre": "Variete Francaise",
-          "plays": 240
+          "plays": 241
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1559,12 +1577,12 @@
           "plays": 16
         },
         {
-          "genre": "Ambient",
+          "genre": "Soundtrack",
           "plays": 16
         },
         {
-          "genre": "Soundtrack",
-          "plays": 12
+          "genre": "Ambient",
+          "plays": 16
         },
         {
           "genre": "Variété française",
@@ -1734,7 +1752,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2721,
+      "total_plays": 2727,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -1848,11 +1866,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 343
+          "plays": 344
         },
         {
           "genre": "Variete Francaise",
-          "plays": 240
+          "plays": 241
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1919,12 +1937,12 @@
           "plays": 16
         },
         {
-          "genre": "Ambient",
+          "genre": "Soundtrack",
           "plays": 16
         },
         {
-          "genre": "Soundtrack",
-          "plays": 12
+          "genre": "Ambient",
+          "plays": 16
         },
         {
           "genre": "Variété française",
@@ -2887,6 +2905,11 @@
     {
       "date": "2026-04-29",
       "id": "2fab9b6c663cf6e7",
+      "plays": 1
+    },
+    {
+      "date": "2026-07-14",
+      "id": "3078b471e332595d",
       "plays": 1
     },
     {
@@ -4058,6 +4081,11 @@
       "date": "2026-06-11",
       "id": "766a06c37a90d728",
       "plays": 2
+    },
+    {
+      "date": "2026-07-14",
+      "id": "76785b7599bc2492",
+      "plays": 4
     },
     {
       "date": "2026-06-16",
@@ -5385,6 +5413,11 @@
       "plays": 2
     },
     {
+      "date": "2026-07-14",
+      "id": "ce8b954e54f83412",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "ced7f20b5e8e762a",
       "plays": 1
@@ -6161,6 +6194,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-13",
-  "snapshot_count": 76
+  "latest_snapshot": "2026-07-14",
+  "snapshot_count": 77
 }
