@@ -215,20 +215,32 @@
     {
       "date": "2026-07-14",
       "plays": 6
+    },
+    {
+      "date": "2026-07-15",
+      "plays": 28
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 37,
+      "total_plays": 65,
       "top_artists": [
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 13
+        },
         {
           "artist": "Kungs",
           "plays": 12
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 12
+          "artist": "France Football Anthem",
+          "plays": 9
+        },
+        {
+          "artist": "Disney",
+          "plays": 8
         },
         {
           "artist": "442oons",
@@ -239,12 +251,12 @@
           "plays": 5
         },
         {
-          "artist": "Disney",
+          "artist": "Cyril",
           "plays": 4
         },
         {
-          "artist": "Cyril",
-          "plays": 4
+          "artist": "Depeche Mode",
+          "plays": 3
         },
         {
           "artist": "Carly Rae Jepsen",
@@ -255,7 +267,55 @@
           "plays": 2
         },
         {
+          "artist": "Asaf Avidan",
+          "plays": 1
+        },
+        {
+          "artist": "Toto",
+          "plays": 1
+        },
+        {
+          "artist": "Coke Royalty",
+          "plays": 1
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 1
+        },
+        {
           "artist": "Jean Jacques Goldman",
+          "plays": 1
+        },
+        {
+          "artist": "The Rolling Stones",
+          "plays": 1
+        },
+        {
+          "artist": "Stevie Wonder",
+          "plays": 1
+        },
+        {
+          "artist": "Metronomy",
+          "plays": 1
+        },
+        {
+          "artist": "Trinidad Cardona DaVido Aisha",
+          "plays": 1
+        },
+        {
+          "artist": "Psg",
+          "plays": 1
+        },
+        {
+          "artist": "Tobtok",
+          "plays": 1
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 1
+        },
+        {
+          "artist": "Claude François",
           "plays": 1
         },
         {
@@ -266,30 +326,50 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 18
+          "plays": 22
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 10
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 8
         },
         {
           "genre": "Comedy",
-          "plays": 6
+          "plays": 7
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 5
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Pop",
           "plays": 4
         },
         {
-          "genre": "Pop",
-          "plays": 2
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 1
+          "genre": "Alternative",
+          "plays": 3
         },
         {
           "genre": "Electronic",
+          "plays": 2
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 1
+        },
+        {
+          "genre": "Rock",
+          "plays": 1
+        },
+        {
+          "genre": "R&B/Soul",
+          "plays": 1
+        },
+        {
+          "genre": "House",
           "plays": 1
         }
       ],
@@ -299,6 +379,18 @@
           "artist": "Kungs & Purple Disco Machine",
           "plays": 12,
           "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 9,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Hawaiian Roller Coaster Ride 2025",
+          "artist": "Disney",
+          "plays": 8,
+          "genre": "Soundtrack"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
@@ -313,16 +405,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Hawaiian Roller Coaster Ride 2025",
-          "artist": "Disney",
-          "plays": 4,
-          "genre": "Soundtrack"
-        },
-        {
           "song": "Stumblin' In (Official Music Video)",
           "artist": "Cyril",
           "plays": 4,
           "genre": "Dance"
+        },
+        {
+          "song": "Enjoy the Silence",
+          "artist": "Depeche Mode",
+          "plays": 3,
+          "genre": "Alternative"
         },
         {
           "song": "Call Me Maybe",
@@ -337,10 +429,82 @@
           "genre": "Dance"
         },
         {
+          "song": "One day - Reckoning Song (Wankelmut Remix)",
+          "artist": "Asaf Avidan",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Africa",
+          "artist": "Toto",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Yellow Arches",
+          "artist": "Coke Royalty",
+          "plays": 1,
+          "genre": "Vaporwave"
+        },
+        {
+          "song": "Ex-fan des sixties",
+          "artist": "Bon Entendeur & Jane Birkin",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
           "song": "Je Te Donne",
           "artist": "Jean Jacques Goldman",
           "plays": 1,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "She's A Rainbow",
+          "artist": "The Rolling Stones",
+          "plays": 1,
+          "genre": "Rock"
+        },
+        {
+          "song": "I Just Called to Say I Love You",
+          "artist": "Stevie Wonder",
+          "plays": 1,
+          "genre": "R&B/Soul"
+        },
+        {
+          "song": "The Bay (Purple Disco Machine Remix)",
+          "artist": "Metronomy & Purple Disco Machine",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Hayya Hayya (Better Together)",
+          "artist": "Trinidad Cardona DaVido Aisha",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "Ne ramenez pas la coupe à la maison",
+          "artist": "Psg",
+          "plays": 1,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Aber",
+          "artist": "Tobtok",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Around the world (Version Longue)",
+          "artist": "Daft Punk",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Magnolias for Ever (Fred Falke Remix)",
+          "artist": "Claude François & Fred Falke",
+          "plays": 1,
+          "genre": "House"
         },
         {
           "song": "Swoon (Boys Noize Summer Mix)",
@@ -352,14 +516,14 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 503,
+      "total_plays": 530,
       "top_artists": [
         {
-          "artist": "Kungs",
-          "plays": 126
+          "artist": "Purple Disco Machine",
+          "plays": 127
         },
         {
-          "artist": "Purple Disco Machine",
+          "artist": "Kungs",
           "plays": 126
         },
         {
@@ -368,7 +532,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 36
+          "plays": 45
         },
         {
           "artist": "Polo & Pan",
@@ -396,7 +560,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 18
+          "plays": 19
         },
         {
           "artist": "CTID",
@@ -409,6 +573,10 @@
         {
           "artist": "Cut Copy",
           "plays": 15
+        },
+        {
+          "artist": "Disney",
+          "plays": 10
         },
         {
           "artist": "Iron Maiden",
@@ -424,10 +592,6 @@
         },
         {
           "artist": "Jess & Crabbe",
-          "plays": 6
-        },
-        {
-          "artist": "Disney",
           "plays": 6
         },
         {
@@ -447,50 +611,50 @@
           "plays": 4
         },
         {
-          "artist": "Cigarettes After Sex",
-          "plays": 2
+          "artist": "Depeche Mode",
+          "plays": 3
         },
         {
-          "artist": "Flight Facilities",
+          "artist": "Cigarettes After Sex",
           "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 268
+          "plays": 272
         },
         {
           "genre": "Pop",
-          "plays": 64
+          "plays": 66
         },
         {
           "genre": "Electronic",
-          "plays": 58
+          "plays": 59
         },
         {
           "genre": "Variete Francaise",
-          "plays": 39
+          "plays": 48
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 29
         },
         {
-          "genre": "mashup",
+          "genre": "Soundtrack",
+          "plays": 10
+        },
+        {
+          "genre": "Comedy",
           "plays": 9
+        },
+        {
+          "genre": "mashup",
+          "plays": 8
         },
         {
           "genre": "Metal",
           "plays": 8
-        },
-        {
-          "genre": "Comedy",
-          "plays": 8
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 6
         },
         {
           "genre": "Humor",
@@ -498,7 +662,11 @@
         },
         {
           "genre": "House",
-          "plays": 2
+          "plays": 3
+        },
+        {
+          "genre": "Alternative",
+          "plays": 3
         },
         {
           "genre": "Psychedlic Rock",
@@ -515,6 +683,18 @@
         {
           "genre": "Disco",
           "plays": 2
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 1
+        },
+        {
+          "genre": "Rock",
+          "plays": 1
+        },
+        {
+          "genre": "R&B/Soul",
+          "plays": 1
         }
       ],
       "top_tracks": [
@@ -533,7 +713,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 36,
+          "plays": 45,
           "genre": "Variete Francaise"
         },
         {
@@ -575,7 +755,7 @@
         {
           "song": "Around the world (Version Longue)",
           "artist": "Daft Punk",
-          "plays": 18,
+          "plays": 19,
           "genre": "Electronic"
         },
         {
@@ -597,6 +777,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "Hawaiian Roller Coaster Ride 2025",
+          "artist": "Disney",
+          "plays": 8,
+          "genre": "Soundtrack"
+        },
+        {
           "song": "Run to The Hills",
           "artist": "Iron Maiden",
           "plays": 8,
@@ -611,7 +797,7 @@
         {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
-          "plays": 7,
+          "plays": 6,
           "genre": "mashup"
         },
         {
@@ -639,16 +825,16 @@
           "genre": "Humor"
         },
         {
-          "song": "Hawaiian Roller Coaster Ride 2025",
-          "artist": "Disney",
-          "plays": 4,
-          "genre": "Soundtrack"
-        },
-        {
           "song": "Sugar Pop (Original Mix)",
           "artist": "Superfunk",
           "plays": 4,
           "genre": "Dance"
+        },
+        {
+          "song": "Enjoy the Silence",
+          "artist": "Depeche Mode",
+          "plays": 3,
+          "genre": "Alternative"
         },
         {
           "song": "K. (Klesh Remix)",
@@ -661,26 +847,24 @@
           "artist": "Flight Facilities",
           "plays": 2,
           "genre": "mashup"
-        },
-        {
-          "song": "Set The Controls For The Heart Of The Sun",
-          "artist": "Pink Floyd",
-          "plays": 2,
-          "genre": "Psychedlic Rock"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1199,
+      "total_plays": 1219,
       "top_artists": [
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 127
+        },
         {
           "artist": "Kungs",
           "plays": 126
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 126
+          "artist": "France Football Anthem",
+          "plays": 56
         },
         {
           "artist": "David Guetta",
@@ -693,10 +877,6 @@
         {
           "artist": "Milky",
           "plays": 49
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 47
         },
         {
           "artist": "Daft Punk",
@@ -778,7 +958,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 406
+          "plays": 409
         },
         {
           "genre": "Pop",
@@ -790,19 +970,19 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 84
+          "plays": 93
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 81
+          "plays": 80
         },
         {
           "genre": "Rock",
-          "plays": 43
+          "plays": 44
         },
         {
           "genre": "Alternative",
-          "plays": 31
+          "plays": 34
         },
         {
           "genre": "Soft Rock",
@@ -822,19 +1002,19 @@
         },
         {
           "genre": "mashup",
-          "plays": 20
+          "plays": 18
         },
         {
           "genre": "Comedy",
+          "plays": 14
+        },
+        {
+          "genre": "Soundtrack",
           "plays": 13
         },
         {
           "genre": "Future Funk",
-          "plays": 9
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 9
+          "plays": 8
         },
         {
           "genre": "Metal",
@@ -845,12 +1025,16 @@
           "plays": 6
         },
         {
+          "genre": "Vaporwave",
+          "plays": 5
+        },
+        {
           "genre": "Humor",
           "plays": 4
         },
         {
-          "genre": "Vaporwave",
-          "plays": 4
+          "genre": "House",
+          "plays": 3
         },
         {
           "genre": "Funk",
@@ -859,10 +1043,6 @@
         {
           "genre": "Classical",
           "plays": 3
-        },
-        {
-          "genre": "House",
-          "plays": 2
         },
         {
           "genre": "Psychedlic Rock",
@@ -885,6 +1065,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 56,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Blunted People",
           "artist": "Demon",
           "plays": 50,
@@ -895,12 +1081,6 @@
           "artist": "Milky & David Guetta",
           "plays": 49,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 47,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Pays Imaginaire",
@@ -1032,19 +1212,19 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2727,
+      "total_plays": 2755,
       "top_artists": [
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 128
+        },
         {
           "artist": "Kungs",
           "plays": 127
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 127
-        },
-        {
           "artist": "France Football Anthem",
-          "plays": 102
+          "plays": 111
         },
         {
           "artist": "442oons",
@@ -1052,7 +1232,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 76
+          "plays": 77
         },
         {
           "artist": "Milky",
@@ -1088,7 +1268,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 44
+          "plays": 45
         },
         {
           "artist": "Maya",
@@ -1138,19 +1318,19 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 688
+          "plays": 692
         },
         {
           "genre": "Pop",
-          "plays": 437
+          "plays": 439
         },
         {
           "genre": "Electronic",
-          "plays": 344
+          "plays": 345
         },
         {
           "genre": "Variete Francaise",
-          "plays": 241
+          "plays": 250
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1158,11 +1338,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 110
+          "plays": 111
         },
         {
           "genre": "Alternative",
-          "plays": 106
+          "plays": 109
         },
         {
           "genre": "Soft Rock",
@@ -1170,7 +1350,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 86
+          "plays": 87
         },
         {
           "genre": "City Pop",
@@ -1190,11 +1370,11 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 29
+          "plays": 30
         },
         {
           "genre": "House",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "Disco",
@@ -1209,15 +1389,15 @@
           "plays": 23
         },
         {
+          "genre": "Soundtrack",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
           "genre": "Folk",
-          "plays": 16
-        },
-        {
-          "genre": "Soundtrack",
           "plays": 16
         },
         {
@@ -1247,7 +1427,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 102,
+          "plays": 111,
           "genre": "Variete Francaise"
         },
         {
@@ -1392,19 +1572,19 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 2727,
+      "total_plays": 2755,
       "top_artists": [
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 128
+        },
         {
           "artist": "Kungs",
           "plays": 127
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 127
-        },
-        {
           "artist": "France Football Anthem",
-          "plays": 102
+          "plays": 111
         },
         {
           "artist": "442oons",
@@ -1412,7 +1592,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 76
+          "plays": 77
         },
         {
           "artist": "Milky",
@@ -1448,7 +1628,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 44
+          "plays": 45
         },
         {
           "artist": "Maya",
@@ -1498,19 +1678,19 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 688
+          "plays": 692
         },
         {
           "genre": "Pop",
-          "plays": 437
+          "plays": 439
         },
         {
           "genre": "Electronic",
-          "plays": 344
+          "plays": 345
         },
         {
           "genre": "Variete Francaise",
-          "plays": 241
+          "plays": 250
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1518,11 +1698,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 110
+          "plays": 111
         },
         {
           "genre": "Alternative",
-          "plays": 106
+          "plays": 109
         },
         {
           "genre": "Soft Rock",
@@ -1530,7 +1710,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 86
+          "plays": 87
         },
         {
           "genre": "City Pop",
@@ -1550,11 +1730,11 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 29
+          "plays": 30
         },
         {
           "genre": "House",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "Disco",
@@ -1569,15 +1749,15 @@
           "plays": 23
         },
         {
+          "genre": "Soundtrack",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
           "genre": "Folk",
-          "plays": 16
-        },
-        {
-          "genre": "Soundtrack",
           "plays": 16
         },
         {
@@ -1607,7 +1787,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 102,
+          "plays": 111,
           "genre": "Variete Francaise"
         },
         {
@@ -1752,19 +1932,19 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 2727,
+      "total_plays": 2755,
       "top_artists": [
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 128
+        },
         {
           "artist": "Kungs",
           "plays": 127
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 127
-        },
-        {
           "artist": "France Football Anthem",
-          "plays": 102
+          "plays": 111
         },
         {
           "artist": "442oons",
@@ -1772,7 +1952,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 76
+          "plays": 77
         },
         {
           "artist": "Milky",
@@ -1808,7 +1988,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 44
+          "plays": 45
         },
         {
           "artist": "Maya",
@@ -1858,19 +2038,19 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 688
+          "plays": 692
         },
         {
           "genre": "Pop",
-          "plays": 437
+          "plays": 439
         },
         {
           "genre": "Electronic",
-          "plays": 344
+          "plays": 345
         },
         {
           "genre": "Variete Francaise",
-          "plays": 241
+          "plays": 250
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1878,11 +2058,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 110
+          "plays": 111
         },
         {
           "genre": "Alternative",
-          "plays": 106
+          "plays": 109
         },
         {
           "genre": "Soft Rock",
@@ -1890,7 +2070,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 86
+          "plays": 87
         },
         {
           "genre": "City Pop",
@@ -1910,11 +2090,11 @@
         },
         {
           "genre": "Vaporwave",
-          "plays": 29
+          "plays": 30
         },
         {
           "genre": "House",
-          "plays": 28
+          "plays": 29
         },
         {
           "genre": "Disco",
@@ -1929,15 +2109,15 @@
           "plays": 23
         },
         {
+          "genre": "Soundtrack",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
           "genre": "Folk",
-          "plays": 16
-        },
-        {
-          "genre": "Soundtrack",
           "plays": 16
         },
         {
@@ -1967,7 +2147,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 102,
+          "plays": 111,
           "genre": "Variete Francaise"
         },
         {
@@ -2112,6 +2292,11 @@
     }
   },
   "deltas": [
+    {
+      "date": "2026-07-15",
+      "id": "0005abc9e159c3e8",
+      "plays": 1
+    },
     {
       "date": "2026-05-21",
       "id": "008a13a8b1886f81",
@@ -2378,6 +2563,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-15",
+      "id": "0ef50763cf609e48",
+      "plays": 1
+    },
+    {
       "date": "2026-05-16",
       "id": "0f2e9579f0496e24",
       "plays": 1
@@ -2495,6 +2685,11 @@
     {
       "date": "2026-06-29",
       "id": "1328a6dcf554aec8",
+      "plays": 1
+    },
+    {
+      "date": "2026-07-15",
+      "id": "13a7167175958268",
       "plays": 1
     },
     {
@@ -2895,6 +3090,11 @@
     {
       "date": "2026-05-29",
       "id": "2ee3f9d38e275edd",
+      "plays": 1
+    },
+    {
+      "date": "2026-07-15",
+      "id": "2f5fb4a9da75afd1",
       "plays": 1
     },
     {
@@ -3758,6 +3958,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-15",
+      "id": "6191f88d83a49dd6",
+      "plays": 1
+    },
+    {
       "date": "2026-06-29",
       "id": "61f53b8505bd4d63",
       "plays": 1
@@ -3775,6 +3980,11 @@
     {
       "date": "2026-05-29",
       "id": "63825a5486676b31",
+      "plays": 1
+    },
+    {
+      "date": "2026-07-15",
+      "id": "63cb78ee944a3214",
       "plays": 1
     },
     {
@@ -3983,6 +4193,11 @@
       "plays": 20
     },
     {
+      "date": "2026-07-15",
+      "id": "6e6f5be12c14187a",
+      "plays": 9
+    },
+    {
       "date": "2026-05-23",
       "id": "6fd428fecf6cfcab",
       "plays": 2
@@ -4005,6 +4220,11 @@
     {
       "date": "2026-06-29",
       "id": "70e2d18005402c38",
+      "plays": 1
+    },
+    {
+      "date": "2026-07-15",
+      "id": "7124de6546b2ba24",
       "plays": 1
     },
     {
@@ -4084,6 +4304,11 @@
     },
     {
       "date": "2026-07-14",
+      "id": "76785b7599bc2492",
+      "plays": 4
+    },
+    {
+      "date": "2026-07-15",
       "id": "76785b7599bc2492",
       "plays": 4
     },
@@ -4176,6 +4401,11 @@
       "date": "2026-04-23",
       "id": "7deb174c9cdb9a3b",
       "plays": 4
+    },
+    {
+      "date": "2026-07-15",
+      "id": "7e6e5de50918cefc",
+      "plays": 1
     },
     {
       "date": "2026-06-02",
@@ -4291,6 +4521,11 @@
       "date": "2026-06-27",
       "id": "835640b44cacb0b4",
       "plays": 2
+    },
+    {
+      "date": "2026-07-15",
+      "id": "83920a838bb857de",
+      "plays": 1
     },
     {
       "date": "2026-05-29",
@@ -4435,6 +4670,11 @@
     {
       "date": "2026-06-02",
       "id": "88c7737ef72b957b",
+      "plays": 1
+    },
+    {
+      "date": "2026-07-15",
+      "id": "8951a86db3756636",
       "plays": 1
     },
     {
@@ -4673,6 +4913,11 @@
       "plays": 4
     },
     {
+      "date": "2026-07-15",
+      "id": "97c172fcc502b663",
+      "plays": 1
+    },
+    {
       "date": "2026-06-10",
       "id": "97c5bf4dda6474ec",
       "plays": 1
@@ -4716,6 +4961,11 @@
       "date": "2026-06-02",
       "id": "9d44d0dbde0c5a84",
       "plays": 1
+    },
+    {
+      "date": "2026-07-15",
+      "id": "9d44d0dbde0c5a84",
+      "plays": 3
     },
     {
       "date": "2026-06-02",
@@ -5176,6 +5426,11 @@
       "date": "2026-04-26",
       "id": "bcf443a888c0ec76",
       "plays": 10
+    },
+    {
+      "date": "2026-07-15",
+      "id": "bcf443a888c0ec76",
+      "plays": 1
     },
     {
       "date": "2026-06-11",
@@ -6194,6 +6449,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-14",
-  "snapshot_count": 77
+  "latest_snapshot": "2026-07-15",
+  "snapshot_count": 78
 }
