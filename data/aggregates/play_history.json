@@ -224,16 +224,8 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 65,
+      "total_plays": 34,
       "top_artists": [
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 13
-        },
-        {
-          "artist": "Kungs",
-          "plays": 12
-        },
         {
           "artist": "France Football Anthem",
           "plays": 9
@@ -243,28 +235,8 @@
           "plays": 8
         },
         {
-          "artist": "442oons",
-          "plays": 6
-        },
-        {
-          "artist": "Drake",
-          "plays": 5
-        },
-        {
-          "artist": "Cyril",
-          "plays": 4
-        },
-        {
           "artist": "Depeche Mode",
           "plays": 3
-        },
-        {
-          "artist": "Carly Rae Jepsen",
-          "plays": 2
-        },
-        {
-          "artist": "Supermode",
-          "plays": 2
         },
         {
           "artist": "Asaf Avidan",
@@ -299,6 +271,10 @@
           "plays": 1
         },
         {
+          "artist": "Purple Disco Machine",
+          "plays": 1
+        },
+        {
           "artist": "Trinidad Cardona DaVido Aisha",
           "plays": 1
         },
@@ -325,10 +301,6 @@
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 22
-        },
-        {
           "genre": "Variete Francaise",
           "plays": 10
         },
@@ -337,20 +309,16 @@
           "plays": 8
         },
         {
-          "genre": "Comedy",
-          "plays": 7
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 5
-        },
-        {
-          "genre": "Pop",
+          "genre": "Dance",
           "plays": 4
         },
         {
           "genre": "Alternative",
           "plays": 3
+        },
+        {
+          "genre": "Pop",
+          "plays": 2
         },
         {
           "genre": "Electronic",
@@ -369,17 +337,15 @@
           "plays": 1
         },
         {
+          "genre": "Comedy",
+          "plays": 1
+        },
+        {
           "genre": "House",
           "plays": 1
         }
       ],
       "top_tracks": [
-        {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 12,
-          "genre": "Dance"
-        },
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
@@ -393,40 +359,10 @@
           "genre": "Soundtrack"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 6,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Madiba Riddim",
-          "artist": "Drake",
-          "plays": 5,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Stumblin' In (Official Music Video)",
-          "artist": "Cyril",
-          "plays": 4,
-          "genre": "Dance"
-        },
-        {
           "song": "Enjoy the Silence",
           "artist": "Depeche Mode",
           "plays": 3,
           "genre": "Alternative"
-        },
-        {
-          "song": "Call Me Maybe",
-          "artist": "Carly Rae Jepsen",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 2,
-          "genre": "Dance"
         },
         {
           "song": "One day - Reckoning Song (Wankelmut Remix)",
@@ -852,7 +788,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1219,
+      "total_plays": 1194,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -863,20 +799,20 @@
           "plays": 126
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 56
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 50
-        },
-        {
           "artist": "Demon",
           "plays": 50
         },
         {
           "artist": "Milky",
           "plays": 49
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 49
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 47
         },
         {
           "artist": "Daft Punk",
@@ -958,27 +894,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 409
+          "plays": 406
         },
         {
           "genre": "Pop",
-          "plays": 253
+          "plays": 251
         },
         {
           "genre": "Electronic",
-          "plays": 107
+          "plays": 105
         },
         {
           "genre": "Variete Francaise",
-          "plays": 93
+          "plays": 84
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 80
+          "plays": 78
         },
         {
           "genre": "Rock",
-          "plays": 44
+          "plays": 43
         },
         {
           "genre": "Alternative",
@@ -986,7 +922,7 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 29
+          "plays": 28
         },
         {
           "genre": "City Pop",
@@ -1006,11 +942,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 14
+          "plays": 13
         },
         {
           "genre": "Soundtrack",
-          "plays": 13
+          "plays": 12
         },
         {
           "genre": "Future Funk",
@@ -1022,11 +958,11 @@
         },
         {
           "genre": "Disco",
-          "plays": 6
+          "plays": 5
         },
         {
           "genre": "Vaporwave",
-          "plays": 5
+          "plays": 4
         },
         {
           "genre": "Humor",
@@ -1065,12 +1001,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 56,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Blunted People",
           "artist": "Demon",
           "plays": 50,
@@ -1081,6 +1011,12 @@
           "artist": "Milky & David Guetta",
           "plays": 49,
           "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 47,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Pays Imaginaire",
@@ -6449,6 +6385,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-15",
-  "snapshot_count": 78
+  "latest_snapshot": "2026-07-16",
+  "snapshot_count": 79
 }
