@@ -224,247 +224,26 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 34,
-      "top_artists": [
-        {
-          "artist": "France Football Anthem",
-          "plays": 9
-        },
-        {
-          "artist": "Disney",
-          "plays": 8
-        },
-        {
-          "artist": "Depeche Mode",
-          "plays": 3
-        },
-        {
-          "artist": "Asaf Avidan",
-          "plays": 1
-        },
-        {
-          "artist": "Toto",
-          "plays": 1
-        },
-        {
-          "artist": "Coke Royalty",
-          "plays": 1
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 1
-        },
-        {
-          "artist": "Jean Jacques Goldman",
-          "plays": 1
-        },
-        {
-          "artist": "The Rolling Stones",
-          "plays": 1
-        },
-        {
-          "artist": "Stevie Wonder",
-          "plays": 1
-        },
-        {
-          "artist": "Metronomy",
-          "plays": 1
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 1
-        },
-        {
-          "artist": "Trinidad Cardona DaVido Aisha",
-          "plays": 1
-        },
-        {
-          "artist": "Psg",
-          "plays": 1
-        },
-        {
-          "artist": "Tobtok",
-          "plays": 1
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 1
-        },
-        {
-          "artist": "Claude François",
-          "plays": 1
-        },
-        {
-          "artist": "The Chemical Brothers",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Variete Francaise",
-          "plays": 10
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 8
-        },
-        {
-          "genre": "Dance",
-          "plays": 4
-        },
-        {
-          "genre": "Alternative",
-          "plays": 3
-        },
-        {
-          "genre": "Pop",
-          "plays": 2
-        },
-        {
-          "genre": "Electronic",
-          "plays": 2
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 1
-        },
-        {
-          "genre": "Rock",
-          "plays": 1
-        },
-        {
-          "genre": "R&B/Soul",
-          "plays": 1
-        },
-        {
-          "genre": "Comedy",
-          "plays": 1
-        },
-        {
-          "genre": "House",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 9,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Hawaiian Roller Coaster Ride 2025",
-          "artist": "Disney",
-          "plays": 8,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Enjoy the Silence",
-          "artist": "Depeche Mode",
-          "plays": 3,
-          "genre": "Alternative"
-        },
-        {
-          "song": "One day - Reckoning Song (Wankelmut Remix)",
-          "artist": "Asaf Avidan",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Africa",
-          "artist": "Toto",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Yellow Arches",
-          "artist": "Coke Royalty",
-          "plays": 1,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "Ex-fan des sixties",
-          "artist": "Bon Entendeur & Jane Birkin",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Je Te Donne",
-          "artist": "Jean Jacques Goldman",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "She's A Rainbow",
-          "artist": "The Rolling Stones",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "I Just Called to Say I Love You",
-          "artist": "Stevie Wonder",
-          "plays": 1,
-          "genre": "R&B/Soul"
-        },
-        {
-          "song": "The Bay (Purple Disco Machine Remix)",
-          "artist": "Metronomy & Purple Disco Machine",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Hayya Hayya (Better Together)",
-          "artist": "Trinidad Cardona DaVido Aisha",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ne ramenez pas la coupe à la maison",
-          "artist": "Psg",
-          "plays": 1,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Aber",
-          "artist": "Tobtok",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 1,
-          "genre": "House"
-        },
-        {
-          "song": "Swoon (Boys Noize Summer Mix)",
-          "artist": "The Chemical Brothers",
-          "plays": 1,
-          "genre": "Electronic"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 530,
+      "total_plays": 458,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 127
+          "plays": 93
         },
         {
           "artist": "Kungs",
-          "plays": 126
+          "plays": 92
         },
         {
           "artist": "Demon",
-          "plays": 50
+          "plays": 48
         },
         {
           "artist": "France Football Anthem",
@@ -495,15 +274,7 @@
           "plays": 24
         },
         {
-          "artist": "Daft Punk",
-          "plays": 19
-        },
-        {
           "artist": "CTID",
-          "plays": 16
-        },
-        {
-          "artist": "Melanie Martinez",
           "plays": 16
         },
         {
@@ -539,11 +310,11 @@
           "plays": 5
         },
         {
-          "artist": "Surnevis",
-          "plays": 4
+          "artist": "Daft Punk",
+          "plays": 5
         },
         {
-          "artist": "Superfunk",
+          "artist": "Surnevis",
           "plays": 4
         },
         {
@@ -553,24 +324,32 @@
         {
           "artist": "Cigarettes After Sex",
           "plays": 2
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 2
+        },
+        {
+          "artist": "Pink Floyd",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 272
+          "plays": 230
         },
         {
           "genre": "Pop",
-          "plays": 66
-        },
-        {
-          "genre": "Electronic",
-          "plays": 59
+          "plays": 50
         },
         {
           "genre": "Variete Francaise",
           "plays": 48
+        },
+        {
+          "genre": "Electronic",
+          "plays": 45
         },
         {
           "genre": "Hip Hop/Rap",
@@ -637,13 +416,13 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 126,
+          "plays": 92,
           "genre": "Dance"
         },
         {
           "song": "Blunted People",
           "artist": "Demon",
-          "plays": 50,
+          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -689,20 +468,8 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 19,
-          "genre": "Electronic"
-        },
-        {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
           "artist": "CTID",
-          "plays": 16,
-          "genre": "Pop"
-        },
-        {
-          "song": "Play Date",
-          "artist": "Melanie Martinez",
           "plays": 16,
           "genre": "Pop"
         },
@@ -755,16 +522,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
+          "song": "Around the world (Version Longue)",
+          "artist": "Daft Punk",
+          "plays": 5,
+          "genre": "Electronic"
+        },
+        {
           "song": "Kylian Dictator (English Lyrics)",
           "artist": "Surnevis",
           "plays": 4,
           "genre": "Humor"
-        },
-        {
-          "song": "Sugar Pop (Original Mix)",
-          "artist": "Superfunk",
-          "plays": 4,
-          "genre": "Dance"
         },
         {
           "song": "Enjoy the Silence",
@@ -783,6 +550,18 @@
           "artist": "Flight Facilities",
           "plays": 2,
           "genre": "mashup"
+        },
+        {
+          "song": "Set The Controls For The Heart Of The Sun",
+          "artist": "Pink Floyd",
+          "plays": 2,
+          "genre": "Psychedlic Rock"
+        },
+        {
+          "song": "Call Me Maybe",
+          "artist": "Carly Rae Jepsen",
+          "plays": 2,
+          "genre": "Pop"
         }
       ]
     },
@@ -1148,7 +927,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2755,
+      "total_plays": 2753,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1258,7 +1037,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 439
+          "plays": 438
         },
         {
           "genre": "Electronic",
@@ -1266,7 +1045,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 250
+          "plays": 249
         },
         {
           "genre": "Hip Hop/Rap",
@@ -6385,6 +6164,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-16",
-  "snapshot_count": 79
+  "latest_snapshot": "2026-07-18",
+  "snapshot_count": 80
 }
