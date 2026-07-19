@@ -231,15 +231,15 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 458,
+      "total_plays": 354,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 93
+          "plays": 85
         },
         {
           "artist": "Kungs",
-          "plays": 92
+          "plays": 84
         },
         {
           "artist": "Demon",
@@ -247,7 +247,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 45
+          "plays": 29
         },
         {
           "artist": "Polo & Pan",
@@ -258,19 +258,7 @@
           "plays": 24
         },
         {
-          "artist": "French Ball",
-          "plays": 24
-        },
-        {
           "artist": "Britney Spears",
-          "plays": 24
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 24
-        },
-        {
-          "artist": "KITSCHKRIEG",
           "plays": 24
         },
         {
@@ -284,10 +272,6 @@
         {
           "artist": "Disney",
           "plays": 10
-        },
-        {
-          "artist": "Iron Maiden",
-          "plays": 8
         },
         {
           "artist": "442oons",
@@ -332,28 +316,40 @@
         {
           "artist": "Pink Floyd",
           "plays": 2
+        },
+        {
+          "artist": "Carly Rae Jepsen",
+          "plays": 2
+        },
+        {
+          "artist": "Supermode",
+          "plays": 2
+        },
+        {
+          "artist": "Romeo et Juliette",
+          "plays": 2
+        },
+        {
+          "artist": "Van She",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 230
+          "plays": 174
         },
         {
           "genre": "Pop",
           "plays": 50
         },
         {
-          "genre": "Variete Francaise",
-          "plays": 48
-        },
-        {
           "genre": "Electronic",
           "plays": 45
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 29
+          "genre": "Variete Francaise",
+          "plays": 32
         },
         {
           "genre": "Soundtrack",
@@ -368,8 +364,8 @@
           "plays": 8
         },
         {
-          "genre": "Metal",
-          "plays": 8
+          "genre": "Hip Hop/Rap",
+          "plays": 5
         },
         {
           "genre": "Humor",
@@ -416,7 +412,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 92,
+          "plays": 84,
           "genre": "Dance"
         },
         {
@@ -428,7 +424,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 45,
+          "plays": 29,
           "genre": "Variete Francaise"
         },
         {
@@ -444,28 +440,10 @@
           "genre": "Dance"
         },
         {
-          "song": "Piste 01",
-          "artist": "French Ball",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
           "song": "Me Against the Music (feat. Madonna)",
           "artist": "Britney Spears",
           "plays": 24,
           "genre": "Pop"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
@@ -484,12 +462,6 @@
           "artist": "Disney",
           "plays": 8,
           "genre": "Soundtrack"
-        },
-        {
-          "song": "Run to The Hills",
-          "artist": "Iron Maiden",
-          "plays": 8,
-          "genre": "Metal"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
@@ -562,12 +534,36 @@
           "artist": "Carly Rae Jepsen",
           "plays": 2,
           "genre": "Pop"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Les Rois du Monde",
+          "artist": "Romeo et Juliette",
+          "plays": 2,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Jamaica",
+          "artist": "Van She",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
+          "song": "The Safety Dance ( Original )",
+          "artist": "Men Without Hats",
+          "plays": 2,
+          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1194,
+      "total_plays": 1177,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -591,7 +587,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 47
+          "plays": 45
         },
         {
           "artist": "Daft Punk",
@@ -673,23 +669,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 406
+          "plays": 404
         },
         {
           "genre": "Pop",
-          "plays": 251
+          "plays": 250
         },
         {
           "genre": "Electronic",
-          "plays": 105
+          "plays": 101
         },
         {
           "genre": "Variete Francaise",
-          "plays": 84
+          "plays": 81
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 78
+          "plays": 76
         },
         {
           "genre": "Rock",
@@ -697,7 +693,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 34
+          "plays": 33
         },
         {
           "genre": "Soft Rock",
@@ -717,7 +713,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 18
+          "plays": 15
         },
         {
           "genre": "Comedy",
@@ -752,12 +748,12 @@
           "plays": 3
         },
         {
-          "genre": "Funk",
+          "genre": "Classical",
           "plays": 3
         },
         {
-          "genre": "Classical",
-          "plays": 3
+          "genre": "Funk",
+          "plays": 2
         },
         {
           "genre": "Psychedlic Rock",
@@ -794,7 +790,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 47,
+          "plays": 45,
           "genre": "Variete Francaise"
         },
         {
@@ -927,7 +923,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2753,
+      "total_plays": 2713,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -939,19 +935,19 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 111
+          "plays": 110
         },
         {
           "artist": "442oons",
           "plays": 99
         },
         {
-          "artist": "Daft Punk",
-          "plays": 77
-        },
-        {
           "artist": "Milky",
           "plays": 75
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 73
         },
         {
           "artist": "David Guetta",
@@ -978,12 +974,12 @@
           "plays": 47
         },
         {
-          "artist": "Supermode",
-          "plays": 46
-        },
-        {
           "artist": "Bon Entendeur",
           "plays": 45
+        },
+        {
+          "artist": "Supermode",
+          "plays": 44
         },
         {
           "artist": "Maya",
@@ -994,10 +990,6 @@
           "plays": 37
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 33
-        },
-        {
           "artist": "Drake",
           "plays": 33
         },
@@ -1006,15 +998,15 @@
           "plays": 33
         },
         {
+          "artist": "Polo & Pan",
+          "plays": 31
+        },
+        {
           "artist": "Michael Jackson",
           "plays": 29
         },
         {
           "artist": "Vegedream",
-          "plays": 27
-        },
-        {
-          "artist": "Nihonzera",
           "plays": 27
         },
         {
@@ -1028,28 +1020,32 @@
         {
           "artist": "Michael Bublé",
           "plays": 25
+        },
+        {
+          "artist": "Miki Matsubara",
+          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 692
+          "plays": 682
         },
         {
           "genre": "Pop",
-          "plays": 438
+          "plays": 436
         },
         {
           "genre": "Electronic",
-          "plays": 345
+          "plays": 344
         },
         {
           "genre": "Variete Francaise",
-          "plays": 249
+          "plays": 246
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 139
+          "plays": 135
         },
         {
           "genre": "Comedy",
@@ -1065,15 +1061,15 @@
         },
         {
           "genre": "Rock",
-          "plays": 87
+          "plays": 84
         },
         {
           "genre": "City Pop",
-          "plays": 45
+          "plays": 44
         },
         {
           "genre": "mashup",
-          "plays": 42
+          "plays": 40
         },
         {
           "genre": "Future Funk",
@@ -1084,24 +1080,24 @@
           "plays": 33
         },
         {
-          "genre": "Vaporwave",
-          "plays": 30
-        },
-        {
           "genre": "House",
-          "plays": 29
+          "plays": 28
         },
         {
-          "genre": "Disco",
-          "plays": 24
+          "genre": "Vaporwave",
+          "plays": 26
         },
         {
           "genre": "Soul and R&B",
           "plays": 24
         },
         {
+          "genre": "Disco",
+          "plays": 22
+        },
+        {
           "genre": "Oldies",
-          "plays": 23
+          "plays": 21
         },
         {
           "genre": "Soundtrack",
@@ -1117,7 +1113,7 @@
         },
         {
           "genre": "Ambient",
-          "plays": 16
+          "plays": 15
         },
         {
           "genre": "Variété française",
@@ -1142,7 +1138,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 111,
+          "plays": 110,
           "genre": "Variete Francaise"
         },
         {
@@ -1184,7 +1180,7 @@
         {
           "song": "Tell Me Why",
           "artist": "Supermode",
-          "plays": 46,
+          "plays": 44,
           "genre": "Dance"
         },
         {
@@ -1198,12 +1194,6 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 27,
-          "genre": "Vaporwave"
         },
         {
           "song": "Don't call me baby (Mousse T Extended Remix)",
@@ -1282,6 +1272,12 @@
           "artist": "Jean-Luc Lahaye",
           "plays": 24,
           "genre": "French Pop"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 24,
+          "genre": "Dance"
         }
       ]
     },
@@ -6164,6 +6160,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-18",
-  "snapshot_count": 80
+  "latest_snapshot": "2026-07-19",
+  "snapshot_count": 81
 }

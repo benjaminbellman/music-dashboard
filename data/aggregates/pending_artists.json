@@ -1,47 +1,47 @@
 [
   {
     "artist": "ANOTR",
-    "attempts": 19,
+    "attempts": 20,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Carly Rae Jepsen",
-    "attempts": 9,
+    "attempts": 10,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Cyril",
-    "attempts": 9,
+    "attempts": 10,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Fahlberg",
-    "attempts": 21,
+    "attempts": 22,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Jess & Crabbe",
-    "attempts": 19,
+    "attempts": 20,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "KITSCHKRIEG",
-    "attempts": 15,
+    "attempts": 16,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Oliver Tree & Robin Schulz",
-    "attempts": 15,
+    "attempts": 16,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Pépé Bradock",
-    "attempts": 19,
+    "attempts": 20,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Surnevis",
-    "attempts": 9,
+    "attempts": 10,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   }
 ]
