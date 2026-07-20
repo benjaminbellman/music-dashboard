@@ -27,7 +27,7 @@
   {
     "year": 2006,
     "genre": "Alternative",
-    "plays": 71
+    "plays": 72
   },
   {
     "year": 2006,
@@ -42,7 +42,7 @@
   {
     "year": 2007,
     "genre": "Pop",
-    "plays": 60
+    "plays": 61
   },
   {
     "year": 2007,
@@ -57,7 +57,7 @@
   {
     "year": 2008,
     "genre": "Dance",
-    "plays": 321
+    "plays": 322
   },
   {
     "year": 2008,
@@ -137,7 +137,7 @@
   {
     "year": 2010,
     "genre": "Hip Hop/Rap",
-    "plays": 128
+    "plays": 129
   },
   {
     "year": 2010,
@@ -147,7 +147,7 @@
   {
     "year": 2010,
     "genre": "Pop",
-    "plays": 533
+    "plays": 534
   },
   {
     "year": 2010,
@@ -157,7 +157,7 @@
   {
     "year": 2011,
     "genre": "Alternative",
-    "plays": 82
+    "plays": 83
   },
   {
     "year": 2011,
@@ -177,7 +177,7 @@
   {
     "year": 2011,
     "genre": "Other",
-    "plays": 421
+    "plays": 422
   },
   {
     "year": 2011,
@@ -192,7 +192,7 @@
   {
     "year": 2012,
     "genre": "Alternative",
-    "plays": 148
+    "plays": 150
   },
   {
     "year": 2012,
@@ -232,7 +232,7 @@
   {
     "year": 2013,
     "genre": "Dance",
-    "plays": 3080
+    "plays": 3083
   },
   {
     "year": 2013,
@@ -242,22 +242,22 @@
   {
     "year": 2013,
     "genre": "Hip Hop/Rap",
-    "plays": 985
+    "plays": 986
   },
   {
     "year": 2013,
     "genre": "Other",
-    "plays": 6138
+    "plays": 6149
   },
   {
     "year": 2013,
     "genre": "Pop",
-    "plays": 4995
+    "plays": 4997
   },
   {
     "year": 2013,
     "genre": "Rock",
-    "plays": 2492
+    "plays": 2494
   },
   {
     "year": 2013,
@@ -267,7 +267,7 @@
   {
     "year": 2013,
     "genre": "Variete Francaise",
-    "plays": 614
+    "plays": 615
   },
   {
     "year": 2014,
@@ -277,12 +277,12 @@
   {
     "year": 2014,
     "genre": "Dance",
-    "plays": 3080
+    "plays": 3082
   },
   {
     "year": 2014,
     "genre": "Electronic",
-    "plays": 2153
+    "plays": 2154
   },
   {
     "year": 2014,
@@ -317,17 +317,17 @@
   {
     "year": 2015,
     "genre": "Alternative",
-    "plays": 1536
+    "plays": 1537
   },
   {
     "year": 2015,
     "genre": "Dance",
-    "plays": 2038
+    "plays": 2039
   },
   {
     "year": 2015,
     "genre": "Electronic",
-    "plays": 2719
+    "plays": 2722
   },
   {
     "year": 2015,
@@ -337,12 +337,12 @@
   {
     "year": 2015,
     "genre": "Other",
-    "plays": 2838
+    "plays": 2841
   },
   {
     "year": 2015,
     "genre": "Pop",
-    "plays": 1784
+    "plays": 1785
   },
   {
     "year": 2015,
@@ -362,7 +362,7 @@
   {
     "year": 2016,
     "genre": "Alternative",
-    "plays": 886
+    "plays": 901
   },
   {
     "year": 2016,
@@ -372,17 +372,17 @@
   {
     "year": 2016,
     "genre": "Electronic",
-    "plays": 1007
+    "plays": 1008
   },
   {
     "year": 2016,
     "genre": "Hip Hop/Rap",
-    "plays": 1270
+    "plays": 1271
   },
   {
     "year": 2016,
     "genre": "Other",
-    "plays": 3296
+    "plays": 3298
   },
   {
     "year": 2016,
@@ -402,7 +402,7 @@
   {
     "year": 2016,
     "genre": "Variete Francaise",
-    "plays": 3060
+    "plays": 3061
   },
   {
     "year": 2017,
@@ -422,7 +422,7 @@
   {
     "year": 2017,
     "genre": "Hip Hop/Rap",
-    "plays": 2624
+    "plays": 2626
   },
   {
     "year": 2017,
@@ -442,7 +442,7 @@
   {
     "year": 2017,
     "genre": "Soft Rock",
-    "plays": 2825
+    "plays": 2826
   },
   {
     "year": 2017,
@@ -467,12 +467,12 @@
   {
     "year": 2018,
     "genre": "Hip Hop/Rap",
-    "plays": 839
+    "plays": 840
   },
   {
     "year": 2018,
     "genre": "Other",
-    "plays": 4524
+    "plays": 4525
   },
   {
     "year": 2018,
@@ -502,12 +502,12 @@
   {
     "year": 2019,
     "genre": "Dance",
-    "plays": 2712
+    "plays": 2714
   },
   {
     "year": 2019,
     "genre": "Electronic",
-    "plays": 1996
+    "plays": 1998
   },
   {
     "year": 2019,
@@ -517,7 +517,7 @@
   {
     "year": 2019,
     "genre": "Other",
-    "plays": 4257
+    "plays": 4258
   },
   {
     "year": 2019,
@@ -537,7 +537,7 @@
   {
     "year": 2019,
     "genre": "Variete Francaise",
-    "plays": 1406
+    "plays": 1407
   },
   {
     "year": 2020,
@@ -552,7 +552,7 @@
   {
     "year": 2020,
     "genre": "Electronic",
-    "plays": 3042
+    "plays": 3043
   },
   {
     "year": 2020,
@@ -592,17 +592,17 @@
   {
     "year": 2021,
     "genre": "Dance",
-    "plays": 5562
+    "plays": 5565
   },
   {
     "year": 2021,
     "genre": "Electronic",
-    "plays": 1913
+    "plays": 1915
   },
   {
     "year": 2021,
     "genre": "Hip Hop/Rap",
-    "plays": 1490
+    "plays": 1491
   },
   {
     "year": 2021,
@@ -612,7 +612,7 @@
   {
     "year": 2021,
     "genre": "Pop",
-    "plays": 4923
+    "plays": 4935
   },
   {
     "year": 2021,
@@ -632,7 +632,7 @@
   {
     "year": 2022,
     "genre": "Alternative",
-    "plays": 1580
+    "plays": 1583
   },
   {
     "year": 2022,
@@ -647,7 +647,7 @@
   {
     "year": 2022,
     "genre": "Other",
-    "plays": 8288
+    "plays": 8289
   },
   {
     "year": 2022,
@@ -672,7 +672,7 @@
   {
     "year": 2023,
     "genre": "Alternative",
-    "plays": 1112
+    "plays": 1113
   },
   {
     "year": 2023,
@@ -692,12 +692,12 @@
   {
     "year": 2023,
     "genre": "Other",
-    "plays": 4139
+    "plays": 4141
   },
   {
     "year": 2023,
     "genre": "Pop",
-    "plays": 2964
+    "plays": 2965
   },
   {
     "year": 2023,
@@ -722,7 +722,7 @@
   {
     "year": 2024,
     "genre": "Dance",
-    "plays": 2844
+    "plays": 2846
   },
   {
     "year": 2024,
@@ -767,12 +767,12 @@
   {
     "year": 2025,
     "genre": "Dance",
-    "plays": 872
+    "plays": 873
   },
   {
     "year": 2025,
     "genre": "Electronic",
-    "plays": 1123
+    "plays": 1125
   },
   {
     "year": 2025,
@@ -782,7 +782,7 @@
   {
     "year": 2025,
     "genre": "Other",
-    "plays": 1910
+    "plays": 1912
   },
   {
     "year": 2025,
@@ -802,7 +802,7 @@
   {
     "year": 2025,
     "genre": "Variete Francaise",
-    "plays": 1232
+    "plays": 1233
   },
   {
     "year": 2026,
@@ -812,7 +812,7 @@
   {
     "year": 2026,
     "genre": "Dance",
-    "plays": 780
+    "plays": 791
   },
   {
     "year": 2026,

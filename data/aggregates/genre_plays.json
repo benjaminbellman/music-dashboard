@@ -1,47 +1,47 @@
 [
   {
     "genre": "Pop",
-    "plays": 35128,
+    "plays": 35146,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 29646,
+    "plays": 29672,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23207,
+    "plays": 23219,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18107,
+    "plays": 18111,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13944,
+    "plays": 13968,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11603,
+    "plays": 11610,
     "songs": 261
   },
   {
     "genre": "Rock",
-    "plays": 10711,
+    "plays": 10713,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6655,
+    "plays": 6656,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5837,
+    "plays": 5838,
     "songs": 71
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "genre": "Oldies",
-    "plays": 3727,
+    "plays": 3729,
     "songs": 63
   },
   {
@@ -66,17 +66,17 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3263,
+    "plays": 3265,
     "songs": 44
   },
   {
     "genre": "Comedy",
-    "plays": 3206,
+    "plays": 3208,
     "songs": 92
   },
   {
     "genre": "Latin",
-    "plays": 2781,
+    "plays": 2784,
     "songs": 47
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1674,
+    "plays": 1675,
     "songs": 45
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1228,
+    "plays": 1230,
     "songs": 40
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "genre": "Europop",
-    "plays": 733,
+    "plays": 734,
     "songs": 14
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "genre": "R & B",
-    "plays": 323,
+    "plays": 324,
     "songs": 9
   },
   {
@@ -370,14 +370,14 @@
     "songs": 1
   },
   {
+    "genre": "Rap",
+    "plays": 63,
+    "songs": 6
+  },
+  {
     "genre": "General Jazz",
     "plays": 61,
     "songs": 1
-  },
-  {
-    "genre": "Rap",
-    "plays": 61,
-    "songs": 6
   },
   {
     "genre": "Alternative & Punk",
@@ -425,6 +425,11 @@
     "songs": 1
   },
   {
+    "genre": "Club",
+    "plays": 49,
+    "songs": 1
+  },
+  {
     "genre": "Hip-Hop;Rap",
     "plays": 49,
     "songs": 1
@@ -437,11 +442,6 @@
   {
     "genre": "Laser Funk",
     "plays": 43,
-    "songs": 1
-  },
-  {
-    "genre": "Club",
-    "plays": 42,
     "songs": 1
   },
   {

@@ -311,7 +311,7 @@
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3566,
+      "plays": 3567,
       "country": "FR"
     },
     {
@@ -323,7 +323,7 @@
     {
       "rank": 4,
       "artist": "Chicago",
-      "plays": 3154,
+      "plays": 3155,
       "country": "US"
     },
     {
@@ -335,13 +335,13 @@
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2146,
+      "plays": 2148,
       "country": "GB"
     },
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1869,
+      "plays": 1870,
       "country": "FR"
     },
     {
@@ -377,7 +377,7 @@
     {
       "rank": 13,
       "artist": "Charles Aznavour",
-      "plays": 1137,
+      "plays": 1138,
       "country": "FR"
     },
     {
@@ -389,7 +389,7 @@
     {
       "rank": 15,
       "artist": "PNL",
-      "plays": 1086,
+      "plays": 1088,
       "country": "FR"
     },
     {
@@ -401,7 +401,7 @@
     {
       "rank": 17,
       "artist": "The Weeknd",
-      "plays": 1025,
+      "plays": 1026,
       "country": "CA"
     },
     {
@@ -419,7 +419,7 @@
     {
       "rank": 20,
       "artist": "Tatsuro Yamashita",
-      "plays": 983,
+      "plays": 984,
       "country": "JP"
     },
     {
@@ -455,7 +455,7 @@
     {
       "rank": 26,
       "artist": "Calvin Harris",
-      "plays": 845,
+      "plays": 846,
       "country": "GB"
     },
     {
@@ -467,7 +467,7 @@
     {
       "rank": 28,
       "artist": "Synapson",
-      "plays": 805,
+      "plays": 806,
       "country": "FR"
     },
     {
@@ -485,7 +485,7 @@
     {
       "rank": 31,
       "artist": "Purple Disco Machine",
-      "plays": 698,
+      "plays": 709,
       "country": "DE"
     },
     {
@@ -514,21 +514,21 @@
     },
     {
       "rank": 36,
+      "artist": "Kungs",
+      "plays": 633,
+      "country": "FR"
+    },
+    {
+      "rank": 37,
       "artist": "L'Impératrice",
       "plays": 631,
       "country": "FR"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "artist": "The Beatles",
       "plays": 629,
       "country": "GB"
-    },
-    {
-      "rank": 38,
-      "artist": "Kungs",
-      "plays": 622,
-      "country": "FR"
     },
     {
       "rank": 39,
@@ -575,7 +575,7 @@
     {
       "rank": 46,
       "artist": "Avicii",
-      "plays": 541,
+      "plays": 542,
       "country": "SE"
     },
     {
