@@ -924,7 +924,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1281,
+      "total_plays": 1241,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -949,14 +949,6 @@
         {
           "artist": "Stevie Nicks",
           "plays": 37
-        },
-        {
-          "artist": "Milky",
-          "plays": 35
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 35
         },
         {
           "artist": "Drake",
@@ -1025,12 +1017,20 @@
         {
           "artist": "Madison Avenue",
           "plays": 24
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 24
+        },
+        {
+          "artist": "Astro",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 416
+          "plays": 392
         },
         {
           "genre": "Pop",
@@ -1046,7 +1046,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 83
+          "plays": 67
         },
         {
           "genre": "Alternative",
@@ -1147,12 +1147,6 @@
           "artist": "France Football Anthem",
           "plays": 45,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 35,
-          "genre": "Dance"
         },
         {
           "song": "Pays Imaginaire",
@@ -1279,6 +1273,12 @@
           "artist": "Bananarama",
           "plays": 24,
           "genre": "Pop"
+        },
+        {
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
@@ -6901,6 +6901,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-20",
-  "snapshot_count": 82
+  "latest_snapshot": "2026-07-21",
+  "snapshot_count": 83
 }
