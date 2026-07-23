@@ -228,371 +228,38 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 118,
-      "top_artists": [
-        {
-          "artist": "James",
-          "plays": 15
-        },
-        {
-          "artist": "Kungs",
-          "plays": 11
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 11
-        },
-        {
-          "artist": "Daniel Powter",
-          "plays": 8
-        },
-        {
-          "artist": "Mondotek",
-          "plays": 7
-        },
-        {
-          "artist": "Last Dinosaurs",
-          "plays": 3
-        },
-        {
-          "artist": "Regard",
-          "plays": 3
-        },
-        {
-          "artist": "PNL",
-          "plays": 2
-        },
-        {
-          "artist": "Doja Cat",
-          "plays": 2
-        },
-        {
-          "artist": "Starsailor",
-          "plays": 2
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 2
-        },
-        {
-          "artist": "Telephone",
-          "plays": 1
-        },
-        {
-          "artist": "Tatsuro Yamashita",
-          "plays": 1
-        },
-        {
-          "artist": "M.A.G.S",
-          "plays": 1
-        },
-        {
-          "artist": "Gesaffelstein",
-          "plays": 1
-        },
-        {
-          "artist": "Darius",
-          "plays": 1
-        },
-        {
-          "artist": "Animotion",
-          "plays": 1
-        },
-        {
-          "artist": "James Blunt",
-          "plays": 1
-        },
-        {
-          "artist": "Pretty Lights",
-          "plays": 1
-        },
-        {
-          "artist": "Nino Ferrer",
-          "plays": 1
-        },
-        {
-          "artist": "The Pogues",
-          "plays": 1
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 1
-        },
-        {
-          "artist": "Carl Douglas",
-          "plays": 1
-        },
-        {
-          "artist": "Lily Allen",
-          "plays": 1
-        },
-        {
-          "artist": "Omega Tribe",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Dance",
-          "plays": 26
-        },
-        {
-          "genre": "Alternative",
-          "plays": 24
-        },
-        {
-          "genre": "Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Electronic",
-          "plays": 12
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 7
-        },
-        {
-          "genre": "Club",
-          "plays": 7
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 4
-        },
-        {
-          "genre": "Latin",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
-        },
-        {
-          "genre": "Rock",
-          "plays": 2
-        },
-        {
-          "genre": "Comedy",
-          "plays": 2
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 2
-        },
-        {
-          "genre": "Oldies",
-          "plays": 2
-        },
-        {
-          "genre": "Rap",
-          "plays": 2
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 1
-        },
-        {
-          "genre": "French Pop",
-          "plays": 1
-        },
-        {
-          "genre": "R & B",
-          "plays": 1
-        },
-        {
-          "genre": "Europop",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Laid",
-          "artist": "James",
-          "plays": 15,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 11,
-          "genre": "Dance"
-        },
-        {
-          "song": "Bad Day",
-          "artist": "Daniel Powter",
-          "plays": 8,
-          "genre": "Pop"
-        },
-        {
-          "song": "Alive (Radio Edit)",
-          "artist": "Mondotek",
-          "plays": 7,
-          "genre": "Club"
-        },
-        {
-          "song": "You",
-          "artist": "Regard & Troye Sivan & Tate McRae",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Kiss Me More",
-          "artist": "Doja Cat",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Four to the Floor",
-          "artist": "Starsailor",
-          "plays": 2,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Andy",
-          "artist": "Last Dinosaurs",
-          "plays": 2,
-          "genre": "Alternative"
-        },
-        {
-          "song": "New York avec toi",
-          "artist": "Telephone",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "LOVELAND Island",
-          "artist": "Tatsuro Yamashita",
-          "plays": 1,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Smile",
-          "artist": "M.A.G.S",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Destinations",
-          "artist": "Gesaffelstein",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Falling In Love",
-          "artist": "Darius",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Obsession",
-          "artist": "Animotion",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "1973",
-          "artist": "James Blunt",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "More Important Than Michael Jordan",
-          "artist": "Pretty Lights",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "J'suis Pnl",
-          "artist": "PNL",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Mirza (Clip officiel)",
-          "artist": "Nino Ferrer",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Fairytale of New York (feat. Kirsty MacColl)",
-          "artist": "The Pogues",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Save Your Tears",
-          "artist": "The Weeknd",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Kung Fu Fighting",
-          "artist": "Carl Douglas",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "The Fear",
-          "artist": "Lily Allen",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Kimi ha 1000％",
-          "artist": "Omega Tribe",
-          "plays": 1,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Lala Song",
-          "artist": "Bob Sinclar & The Sugar Hill Gang",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Stereo Hearts ft. Adam Levine",
-          "artist": "Gym Class Heroes",
-          "plays": 1,
-          "genre": "Pop"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 376,
+      "total_plays": 277,
       "top_artists": [
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 72
-        },
-        {
-          "artist": "Kungs",
-          "plays": 71
-        },
-        {
-          "artist": "Demon",
-          "plays": 48
-        },
         {
           "artist": "France Football Anthem",
           "plays": 29
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 24
+        },
+        {
+          "artist": "Kungs",
+          "plays": 23
         },
         {
           "artist": "CTID",
           "plays": 16
         },
         {
-          "artist": "Cut Copy",
+          "artist": "James",
           "plays": 15
         },
         {
-          "artist": "James",
-          "plays": 15
+          "artist": "Cut Copy",
+          "plays": 12
         },
         {
           "artist": "Disney",
@@ -665,12 +332,16 @@
         {
           "artist": "Supermode",
           "plays": 2
+        },
+        {
+          "artist": "PNL",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 152
+          "plays": 56
         },
         {
           "genre": "Pop",
@@ -682,7 +353,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 33
+          "plays": 30
         },
         {
           "genre": "Alternative",
@@ -771,22 +442,16 @@
       ],
       "top_tracks": [
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 71,
-          "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 48,
-          "genre": "Dance"
-        },
-        {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
           "plays": 29,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 23,
+          "genre": "Dance"
         },
         {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
@@ -795,16 +460,16 @@
           "genre": "Pop"
         },
         {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
-          "plays": 15,
-          "genre": "Electronic"
-        },
-        {
           "song": "Laid",
           "artist": "James",
           "plays": 15,
           "genre": "Alternative"
+        },
+        {
+          "song": "Saturdays",
+          "artist": "Cut Copy",
+          "plays": 12,
+          "genre": "Electronic"
         },
         {
           "song": "Bad Day",
@@ -919,12 +584,18 @@
           "artist": "Romeo et Juliette",
           "plays": 2,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Four to the Floor",
+          "artist": "Starsailor",
+          "plays": 2,
+          "genre": "Alternative"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1241,
+      "total_plays": 1229,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -947,10 +618,6 @@
           "plays": 43
         },
         {
-          "artist": "Stevie Nicks",
-          "plays": 37
-        },
-        {
           "artist": "Drake",
           "plays": 29
         },
@@ -969,6 +636,10 @@
         {
           "artist": "Creedence Clearwater Revival",
           "plays": 26
+        },
+        {
+          "artist": "Stevie Nicks",
+          "plays": 25
         },
         {
           "artist": "Kajagoogoo",
@@ -1054,7 +725,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 45
+          "plays": 33
         },
         {
           "genre": "City Pop",
@@ -1284,7 +955,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2831,
+      "total_plays": 2768,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1296,11 +967,11 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 110
+          "plays": 109
         },
         {
           "artist": "442oons",
-          "plays": 99
+          "plays": 98
         },
         {
           "artist": "Milky",
@@ -1315,12 +986,8 @@
           "plays": 60
         },
         {
-          "artist": "Luther Vandross",
-          "plays": 54
-        },
-        {
           "artist": "Calvin Harris",
-          "plays": 53
+          "plays": 52
         },
         {
           "artist": "Demon",
@@ -1328,7 +995,11 @@
         },
         {
           "artist": "John Newman",
-          "plays": 49
+          "plays": 48
+        },
+        {
+          "artist": "Luther Vandross",
+          "plays": 48
         },
         {
           "artist": "MotorBass",
@@ -1336,7 +1007,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 46
+          "plays": 45
         },
         {
           "artist": "Supermode",
@@ -1390,23 +1061,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 708
+          "plays": 706
         },
         {
           "genre": "Pop",
-          "plays": 454
+          "plays": 452
         },
         {
           "genre": "Electronic",
-          "plays": 356
+          "plays": 337
         },
         {
           "genre": "Variete Francaise",
-          "plays": 250
+          "plays": 247
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 142
+          "plays": 138
         },
         {
           "genre": "Alternative",
@@ -1414,11 +1085,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 113
+          "plays": 112
         },
         {
           "genre": "Soft Rock",
-          "plays": 101
+          "plays": 95
         },
         {
           "genre": "Rock",
@@ -1426,7 +1097,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 46
+          "plays": 45
         },
         {
           "genre": "mashup",
@@ -1445,24 +1116,16 @@
           "plays": 28
         },
         {
-          "genre": "Vaporwave",
-          "plays": 26
-        },
-        {
           "genre": "Soul and R&B",
           "plays": 24
         },
         {
           "genre": "Oldies",
-          "plays": 23
-        },
-        {
-          "genre": "Disco",
           "plays": 22
         },
         {
-          "genre": "Soundtrack",
-          "plays": 20
+          "genre": "Disco",
+          "plays": 21
         },
         {
           "genre": "Classic Rock",
@@ -1470,6 +1133,10 @@
         },
         {
           "genre": "Folk",
+          "plays": 16
+        },
+        {
+          "genre": "Soundtrack",
           "plays": 16
         },
         {
@@ -1483,6 +1150,10 @@
         {
           "genre": "Variété française",
           "plays": 10
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 9
         },
         {
           "genre": "Jazz",
@@ -1499,14 +1170,8 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 110,
+          "plays": 109,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 54,
-          "genre": "Soft Rock"
         },
         {
           "song": "Blunted People",
@@ -1521,16 +1186,22 @@
           "genre": "Comedy"
         },
         {
-          "song": "Blame",
-          "artist": "Calvin Harris & John Newman",
-          "plays": 49,
-          "genre": "Dance"
-        },
-        {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 49,
           "genre": "Dance"
+        },
+        {
+          "song": "Blame",
+          "artist": "Calvin Harris & John Newman",
+          "plays": 48,
+          "genre": "Dance"
+        },
+        {
+          "song": "Never Too Much",
+          "artist": "Luther Vandross",
+          "plays": 48,
+          "genre": "Soft Rock"
         },
         {
           "song": "Flying Fingers",
@@ -6901,6 +6572,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-21",
-  "snapshot_count": 83
+  "latest_snapshot": "2026-07-23",
+  "snapshot_count": 84
 }
