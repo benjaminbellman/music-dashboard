@@ -235,12 +235,8 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 277,
+      "total_plays": 205,
       "top_artists": [
-        {
-          "artist": "France Football Anthem",
-          "plays": 29
-        },
         {
           "artist": "Purple Disco Machine",
           "plays": 24
@@ -258,23 +254,15 @@
           "plays": 15
         },
         {
-          "artist": "Cut Copy",
-          "plays": 12
-        },
-        {
-          "artist": "Disney",
-          "plays": 10
+          "artist": "France Football Anthem",
+          "plays": 9
         },
         {
           "artist": "Daniel Powter",
           "plays": 8
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 8
-        },
-        {
-          "artist": "442oons",
+          "artist": "Disney",
           "plays": 8
         },
         {
@@ -282,19 +270,15 @@
           "plays": 7
         },
         {
-          "artist": "Jess & Crabbe",
-          "plays": 6
-        },
-        {
           "artist": "Cyril",
           "plays": 6
         },
         {
-          "artist": "Drake",
-          "plays": 5
+          "artist": "442oons",
+          "plays": 6
         },
         {
-          "artist": "Daft Punk",
+          "artist": "Drake",
           "plays": 5
         },
         {
@@ -314,18 +298,6 @@
           "plays": 3
         },
         {
-          "artist": "Cigarettes After Sex",
-          "plays": 2
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 2
-        },
-        {
-          "artist": "Pink Floyd",
-          "plays": 2
-        },
-        {
           "artist": "Carly Rae Jepsen",
           "plays": 2
         },
@@ -336,28 +308,56 @@
         {
           "artist": "PNL",
           "plays": 2
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 2
+        },
+        {
+          "artist": "Jean Jacques Goldman",
+          "plays": 2
+        },
+        {
+          "artist": "Doja Cat",
+          "plays": 2
+        },
+        {
+          "artist": "Starsailor",
+          "plays": 2
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 2
+        },
+        {
+          "artist": "Asaf Avidan",
+          "plays": 1
+        },
+        {
+          "artist": "Telephone",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 56
+          "plays": 50
         },
         {
           "genre": "Pop",
-          "plays": 44
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 36
-        },
-        {
-          "genre": "Electronic",
-          "plays": 30
+          "plays": 38
         },
         {
           "genre": "Alternative",
           "plays": 27
+        },
+        {
+          "genre": "Electronic",
+          "plays": 14
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 14
         },
         {
           "genre": "Hip Hop/Rap",
@@ -365,14 +365,10 @@
         },
         {
           "genre": "Comedy",
-          "plays": 11
+          "plays": 9
         },
         {
           "genre": "Soundtrack",
-          "plays": 10
-        },
-        {
-          "genre": "mashup",
           "plays": 8
         },
         {
@@ -380,23 +376,11 @@
           "plays": 7
         },
         {
-          "genre": "City Pop",
-          "plays": 4
-        },
-        {
           "genre": "Humor",
           "plays": 4
         },
         {
-          "genre": "House",
-          "plays": 3
-        },
-        {
           "genre": "Latin",
-          "plays": 3
-        },
-        {
-          "genre": "Future Funk",
           "plays": 3
         },
         {
@@ -404,7 +388,7 @@
           "plays": 3
         },
         {
-          "genre": "Psychedlic Rock",
+          "genre": "City Pop",
           "plays": 2
         },
         {
@@ -420,11 +404,11 @@
           "plays": 2
         },
         {
-          "genre": "Disco",
-          "plays": 2
+          "genre": "Vaporwave",
+          "plays": 1
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Future Funk",
           "plays": 1
         },
         {
@@ -438,15 +422,21 @@
         {
           "genre": "French Pop",
           "plays": 1
+        },
+        {
+          "genre": "R & B",
+          "plays": 1
+        },
+        {
+          "genre": "House",
+          "plays": 1
+        },
+        {
+          "genre": "Europop",
+          "plays": 1
         }
       ],
       "top_tracks": [
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 29,
-          "genre": "Variete Francaise"
-        },
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
@@ -466,10 +456,10 @@
           "genre": "Alternative"
         },
         {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
-          "plays": 12,
-          "genre": "Electronic"
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 9,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Bad Day",
@@ -484,28 +474,10 @@
           "genre": "Soundtrack"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 8,
-          "genre": "Comedy"
-        },
-        {
           "song": "Alive (Radio Edit)",
           "artist": "Mondotek",
           "plays": 7,
           "genre": "Club"
-        },
-        {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 6,
-          "genre": "mashup"
-        },
-        {
-          "song": "F9 Riot Squad (Original Mix)",
-          "artist": "Jess & Crabbe",
-          "plays": 6,
-          "genre": "Dance"
         },
         {
           "song": "Stumblin' In (Official Music Video)",
@@ -514,16 +486,16 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 6,
+          "genre": "Comedy"
+        },
+        {
           "song": "Madiba Riddim",
           "artist": "Drake",
           "plays": 5,
           "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 5,
-          "genre": "Electronic"
         },
         {
           "song": "Kylian Dictator (English Lyrics)",
@@ -544,24 +516,6 @@
           "genre": "Dance"
         },
         {
-          "song": "K. (Klesh Remix)",
-          "artist": "Cigarettes After Sex & Klesh",
-          "plays": 2,
-          "genre": "House"
-        },
-        {
-          "song": "1992 - 2002 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 2,
-          "genre": "mashup"
-        },
-        {
-          "song": "Set The Controls For The Heart Of The Sun",
-          "artist": "Pink Floyd",
-          "plays": 2,
-          "genre": "Psychedlic Rock"
-        },
-        {
           "song": "Call Me Maybe",
           "artist": "Carly Rae Jepsen",
           "plays": 2,
@@ -580,16 +534,58 @@
           "genre": "Pop"
         },
         {
-          "song": "Les Rois du Monde",
-          "artist": "Romeo et Juliette",
-          "plays": 2,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Four to the Floor",
           "artist": "Starsailor",
           "plays": 2,
           "genre": "Alternative"
+        },
+        {
+          "song": "Andy",
+          "artist": "Last Dinosaurs",
+          "plays": 2,
+          "genre": "Alternative"
+        },
+        {
+          "song": "One day - Reckoning Song (Wankelmut Remix)",
+          "artist": "Asaf Avidan",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "New York avec toi",
+          "artist": "Telephone",
+          "plays": 1,
+          "genre": "Pop"
+        },
+        {
+          "song": "LOVELAND Island",
+          "artist": "Tatsuro Yamashita",
+          "plays": 1,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Smile",
+          "artist": "M.A.G.S",
+          "plays": 1,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Destinations",
+          "artist": "Gesaffelstein",
+          "plays": 1,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Falling In Love",
+          "artist": "Darius",
+          "plays": 1,
+          "genre": "Dance"
+        },
+        {
+          "song": "Africa",
+          "artist": "Toto",
+          "plays": 1,
+          "genre": "Pop"
         }
       ]
     },
@@ -6572,6 +6568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-23",
-  "snapshot_count": 84
+  "latest_snapshot": "2026-07-24",
+  "snapshot_count": 85
 }
