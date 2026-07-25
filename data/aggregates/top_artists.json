@@ -305,13 +305,13 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4600,
+      "plays": 4602,
       "country": "FR"
     },
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3567,
+      "plays": 3571,
       "country": "FR"
     },
     {
@@ -323,7 +323,7 @@
     {
       "rank": 4,
       "artist": "Chicago",
-      "plays": 3155,
+      "plays": 3157,
       "country": "US"
     },
     {
@@ -335,7 +335,7 @@
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2148,
+      "plays": 2150,
       "country": "GB"
     },
     {
@@ -359,7 +359,7 @@
     {
       "rank": 10,
       "artist": "Supertramp",
-      "plays": 1181,
+      "plays": 1189,
       "country": "GB"
     },
     {
@@ -424,14 +424,14 @@
     },
     {
       "rank": 21,
-      "artist": "David Guetta",
-      "plays": 968,
+      "artist": "Serge Gainsbourg",
+      "plays": 970,
       "country": "FR"
     },
     {
       "rank": 22,
-      "artist": "Serge Gainsbourg",
-      "plays": 964,
+      "artist": "David Guetta",
+      "plays": 968,
       "country": "FR"
     },
     {
@@ -485,7 +485,7 @@
     {
       "rank": 31,
       "artist": "Purple Disco Machine",
-      "plays": 709,
+      "plays": 711,
       "country": "DE"
     },
     {
@@ -580,21 +580,21 @@
     },
     {
       "rank": 47,
+      "artist": "Pitbull",
+      "plays": 530,
+      "country": "US"
+    },
+    {
+      "rank": 48,
       "artist": "Bee Gees",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "artist": "Electric Light Orchestra",
       "plays": 528,
       "country": "GB"
-    },
-    {
-      "rank": 49,
-      "artist": "Pitbull",
-      "plays": 528,
-      "country": "US"
     },
     {
       "rank": 50,

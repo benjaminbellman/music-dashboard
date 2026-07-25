@@ -1,42 +1,42 @@
 [
   {
     "genre": "Pop",
-    "plays": 35146,
+    "plays": 35158,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 29672,
+    "plays": 29712,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23219,
+    "plays": 23231,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18111,
+    "plays": 18121,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13968,
+    "plays": 13978,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11610,
+    "plays": 11612,
     "songs": 261
   },
   {
     "genre": "Rock",
-    "plays": 10713,
+    "plays": 10721,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6656,
+    "plays": 6668,
     "songs": 73
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "genre": "Disco",
-    "plays": 3777,
+    "plays": 3779,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3729,
+    "plays": 3731,
     "songs": 63
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "genre": "mashup",
-    "plays": 2735,
+    "plays": 2743,
     "songs": 69
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1230,
+    "plays": 1232,
     "songs": 40
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "genre": "Synthwave",
-    "plays": 293,
+    "plays": 295,
     "songs": 20
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "genre": "R&B",
-    "plays": 241,
+    "plays": 243,
     "songs": 5
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "genre": "Classical",
-    "plays": 220,
+    "plays": 222,
     "songs": 16
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "genre": "Hip-hop/Rap",
-    "plays": 118,
+    "plays": 120,
     "songs": 5
   },
   {
@@ -375,14 +375,14 @@
     "songs": 6
   },
   {
+    "genre": "Alternative & Punk",
+    "plays": 61,
+    "songs": 4
+  },
+  {
     "genre": "General Jazz",
     "plays": 61,
     "songs": 1
-  },
-  {
-    "genre": "Alternative & Punk",
-    "plays": 59,
-    "songs": 4
   },
   {
     "genre": "Latino",
