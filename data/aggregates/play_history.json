@@ -227,12 +227,16 @@
     {
       "date": "2026-07-25",
       "plays": 130
+    },
+    {
+      "date": "2026-07-26",
+      "plays": 1
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 130,
+      "total_plays": 131,
       "top_artists": [
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
@@ -338,7 +342,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 40
+          "plays": 41
         },
         {
           "genre": "Pop",
@@ -560,7 +564,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 313,
+      "total_plays": 314,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -666,7 +670,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 88
+          "plays": 89
         },
         {
           "genre": "Alternative",
@@ -920,7 +924,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1359,
+      "total_plays": 1360,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1026,7 +1030,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 432
+          "plays": 433
         },
         {
           "genre": "Pop",
@@ -1640,7 +1644,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 3003,
+      "total_plays": 3004,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1746,7 +1750,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 758
+          "plays": 759
         },
         {
           "genre": "Pop",
@@ -2000,7 +2004,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 3003,
+      "total_plays": 3004,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2106,7 +2110,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 758
+          "plays": 759
         },
         {
           "genre": "Pop",
@@ -6431,6 +6435,11 @@
       "plays": 1
     },
     {
+      "date": "2026-07-26",
+      "id": "d97a4a886bba83d5",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "da32a13454dc3189",
       "plays": 1
@@ -7142,6 +7151,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-25",
-  "snapshot_count": 86
+  "latest_snapshot": "2026-07-26",
+  "snapshot_count": 87
 }
