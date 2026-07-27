@@ -564,23 +564,23 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 314,
+      "total_plays": 283,
       "top_artists": [
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 26
-        },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 24
         },
         {
-          "artist": "Kungs",
-          "plays": 23
-        },
-        {
           "artist": "James",
           "plays": 15
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 14
+        },
+        {
+          "artist": "Kungs",
+          "plays": 11
         },
         {
           "artist": "France Football Anthem",
@@ -611,23 +611,11 @@
           "plays": 6
         },
         {
-          "artist": "442oons",
-          "plays": 6
-        },
-        {
-          "artist": "Drake",
-          "plays": 5
-        },
-        {
           "artist": "Depeche Mode",
           "plays": 5
         },
         {
           "artist": "Coldplay",
-          "plays": 4
-        },
-        {
-          "artist": "Cyril",
           "plays": 4
         },
         {
@@ -665,12 +653,24 @@
         {
           "artist": "Fatal Bazooka",
           "plays": 2
+        },
+        {
+          "artist": "PNL",
+          "plays": 2
+        },
+        {
+          "artist": "Lana Del Rey",
+          "plays": 2
+        },
+        {
+          "artist": "Jean Jacques Goldman",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 89
+          "plays": 71
         },
         {
           "genre": "Alternative",
@@ -678,7 +678,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 34
+          "plays": 32
         },
         {
           "genre": "Electronic",
@@ -689,10 +689,6 @@
           "plays": 24
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 14
-        },
-        {
           "genre": "Soft Rock",
           "plays": 13
         },
@@ -701,7 +697,7 @@
           "plays": 11
         },
         {
-          "genre": "Comedy",
+          "genre": "Hip Hop/Rap",
           "plays": 9
         },
         {
@@ -726,6 +722,10 @@
         },
         {
           "genre": "Latin",
+          "plays": 3
+        },
+        {
+          "genre": "Comedy",
           "plays": 3
         },
         {
@@ -777,16 +777,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
           "song": "Laid",
           "artist": "James",
           "plays": 15,
           "genre": "Alternative"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 11,
+          "genre": "Dance"
         },
         {
           "song": "Sous les lumières de Paris",
@@ -819,28 +819,10 @@
           "genre": "Club"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 6,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Madiba Riddim",
-          "artist": "Drake",
-          "plays": 5,
-          "genre": "Hip Hop/Rap"
-        },
-        {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
           "plays": 4,
           "genre": "mashup"
-        },
-        {
-          "song": "Stumblin' In (Official Music Video)",
-          "artist": "Cyril",
-          "plays": 4,
-          "genre": "Dance"
         },
         {
           "song": "2002 - 2012 Decade Mix",
@@ -879,18 +861,6 @@
           "genre": "Hip-hop/Rap"
         },
         {
-          "song": "Call Me Maybe",
-          "artist": "Carly Rae Jepsen",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
           "song": "No Bravery",
           "artist": "James Blunt",
           "plays": 2,
@@ -919,12 +889,42 @@
           "artist": "Journey",
           "plays": 2,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Kiss Me More",
+          "artist": "Doja Cat",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
+          "song": "Slow",
+          "artist": "憂鬱",
+          "plays": 2,
+          "genre": "Synthwave"
+        },
+        {
+          "song": "Honeypie",
+          "artist": "Jawny",
+          "plays": 2,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Giorgio by Moroder (Daft Punk cover)",
+          "artist": "Chris Manias & Daft Punk",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Résurrection",
+          "artist": "KDD",
+          "plays": 2,
+          "genre": "Hip-Hop/Rap"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1360,
+      "total_plays": 1178,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -951,27 +951,11 @@
           "plays": 29
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 27
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 26
-        },
-        {
-          "artist": "Vegedream",
-          "plays": 26
-        },
-        {
           "artist": "Michael Bublé",
           "plays": 26
         },
         {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 26
-        },
-        {
-          "artist": "Stevie Nicks",
+          "artist": "Polo & Pan",
           "plays": 25
         },
         {
@@ -1003,6 +987,10 @@
           "plays": 24
         },
         {
+          "artist": "Michael Jackson",
+          "plays": 24
+        },
+        {
           "artist": "Klangkarussell",
           "plays": 24
         },
@@ -1025,40 +1013,52 @@
         {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 24
+        },
+        {
+          "artist": "Astro",
+          "plays": 24
+        },
+        {
+          "artist": "Bananarama",
+          "plays": 24
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 433
+          "plays": 413
         },
         {
           "genre": "Pop",
-          "plays": 280
+          "plays": 177
         },
         {
           "genre": "Electronic",
-          "plays": 125
+          "plays": 117
         },
         {
           "genre": "Variete Francaise",
-          "plays": 95
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 69
+          "plays": 89
         },
         {
           "genre": "Alternative",
-          "plays": 67
+          "plays": 62
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 62
         },
         {
           "genre": "Rock",
-          "plays": 41
+          "plays": 40
         },
         {
           "genre": "Soft Rock",
-          "plays": 41
+          "plays": 39
         },
         {
           "genre": "City Pop",
@@ -1074,27 +1074,19 @@
         },
         {
           "genre": "mashup",
-          "plays": 23
+          "plays": 17
         },
         {
           "genre": "Comedy",
-          "plays": 15
+          "plays": 11
         },
         {
           "genre": "Soundtrack",
-          "plays": 12
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 9
+          "plays": 10
         },
         {
           "genre": "Metal",
           "plays": 8
-        },
-        {
-          "genre": "Disco",
-          "plays": 7
         },
         {
           "genre": "Club",
@@ -1105,12 +1097,8 @@
           "plays": 5
         },
         {
-          "genre": "Classical",
+          "genre": "Disco",
           "plays": 5
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 4
         },
         {
           "genre": "Humor",
@@ -1127,6 +1115,18 @@
         {
           "genre": "Latin",
           "plays": 3
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 3
+        },
+        {
+          "genre": "Classical",
+          "plays": 3
+        },
+        {
+          "genre": "Hip-hop/Rap",
+          "plays": 2
         }
       ],
       "top_tracks": [
@@ -1149,28 +1149,10 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 26,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 26,
-          "genre": "Soft Rock"
-        },
-        {
           "song": "Too Shy",
           "artist": "Kajagoogoo",
           "plays": 24,
           "genre": "Rock"
-        },
-        {
-          "song": "Talk To Me",
-          "artist": "Stevie Nicks",
-          "plays": 24,
-          "genre": "Pop"
         },
         {
           "song": "Voyager",
@@ -1181,6 +1163,12 @@
         {
           "song": "Air France [HD]",
           "artist": "Joris Delacroix",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
           "plays": 24,
           "genre": "Electronic"
         },
@@ -1211,12 +1199,6 @@
         {
           "song": "Me Against the Music (feat. Madonna)",
           "artist": "Britney Spears",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Merci les bleus",
-          "artist": "Vegedream",
           "plays": 24,
           "genre": "Pop"
         },
@@ -1279,6 +1261,24 @@
           "artist": "Bananarama",
           "plays": 24,
           "genre": "Pop"
+        },
+        {
+          "song": "Hotline Bling",
+          "artist": "Drake",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
@@ -7151,6 +7151,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-26",
-  "snapshot_count": 87
+  "latest_snapshot": "2026-07-27",
+  "snapshot_count": 88
 }
