@@ -240,31 +240,31 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 3,
+      "total_plays": 2,
       "top_artists": [
         {
           "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 3
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 3
+          "plays": 2
         }
       ],
       "top_tracks": [
         {
           "song": "Golden Cage (Fred Falke Remix)",
           "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 3,
+          "plays": 2,
           "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 279,
+      "total_plays": 251,
       "top_artists": [
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
@@ -276,15 +276,11 @@
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 14
+          "plays": 13
         },
         {
           "artist": "Kungs",
           "plays": 11
-        },
-        {
-          "artist": "France Football Anthem",
-          "plays": 9
         },
         {
           "artist": "Daniel Powter",
@@ -304,10 +300,6 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 6
-        },
-        {
-          "artist": "Depeche Mode",
           "plays": 5
         },
         {
@@ -315,23 +307,11 @@
           "plays": 4
         },
         {
-          "artist": "Disney",
-          "plays": 4
-        },
-        {
           "artist": "Flight Facilities",
           "plays": 4
         },
         {
-          "artist": "Daft Punk",
-          "plays": 3
-        },
-        {
           "artist": "James Blunt",
-          "plays": 3
-        },
-        {
-          "artist": "The Rolling Stones",
           "plays": 3
         },
         {
@@ -355,6 +335,10 @@
           "plays": 2
         },
         {
+          "artist": "Daft Punk",
+          "plays": 2
+        },
+        {
           "artist": "Fatal Bazooka",
           "plays": 2
         },
@@ -365,28 +349,44 @@
         {
           "artist": "Lana Del Rey",
           "plays": 2
+        },
+        {
+          "artist": "Journey",
+          "plays": 2
+        },
+        {
+          "artist": "Doja Cat",
+          "plays": 2
+        },
+        {
+          "artist": "憂鬱",
+          "plays": 2
+        },
+        {
+          "artist": "Jawny",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 73
+          "plays": 69
         },
         {
           "genre": "Alternative",
-          "plays": 37
+          "plays": 34
         },
         {
           "genre": "Pop",
-          "plays": 32
+          "plays": 30
         },
         {
           "genre": "Electronic",
-          "plays": 25
+          "plays": 24
         },
         {
           "genre": "Variete Francaise",
-          "plays": 23
+          "plays": 14
         },
         {
           "genre": "Soft Rock",
@@ -394,7 +394,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Hip Hop/Rap",
@@ -417,15 +417,7 @@
           "plays": 4
         },
         {
-          "genre": "Soundtrack",
-          "plays": 4
-        },
-        {
           "genre": "Latin",
-          "plays": 3
-        },
-        {
-          "genre": "Comedy",
           "plays": 3
         },
         {
@@ -445,6 +437,10 @@
           "plays": 2
         },
         {
+          "genre": "Comedy",
+          "plays": 2
+        },
+        {
           "genre": "Rap",
           "plays": 2
         },
@@ -461,11 +457,15 @@
           "plays": 2
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Future Funk",
           "plays": 1
         },
         {
-          "genre": "Future Funk",
+          "genre": "French Pop",
+          "plays": 1
+        },
+        {
+          "genre": "R & B",
           "plays": 1
         }
       ],
@@ -487,12 +487,6 @@
           "artist": "Kungs & Purple Disco Machine",
           "plays": 11,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 9,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Bad Day",
@@ -519,22 +513,10 @@
           "genre": "mashup"
         },
         {
-          "song": "Hawaiian Roller Coaster Ride 2025",
-          "artist": "Disney",
-          "plays": 4,
-          "genre": "Soundtrack"
-        },
-        {
           "song": "2002 - 2012 Decade Mix",
           "artist": "Flight Facilities",
           "plays": 4,
           "genre": "mashup"
-        },
-        {
-          "song": "Enjoy the Silence",
-          "artist": "Depeche Mode",
-          "plays": 3,
-          "genre": "Alternative"
         },
         {
           "song": "Golden Cage (Fred Falke Remix)",
@@ -619,12 +601,30 @@
           "artist": "Chris Manias & Daft Punk",
           "plays": 2,
           "genre": "Electronic"
+        },
+        {
+          "song": "Résurrection",
+          "artist": "KDD",
+          "plays": 2,
+          "genre": "Hip-Hop/Rap"
+        },
+        {
+          "song": "Les vitrines",
+          "artist": "Kid Francescoli",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Four to the Floor",
+          "artist": "Starsailor",
+          "plays": 2,
+          "genre": "Alternative"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 819,
+      "total_plays": 782,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -675,16 +675,16 @@
           "plays": 21
         },
         {
-          "artist": "Cut Copy",
-          "plays": 16
-        },
-        {
           "artist": "CTID",
           "plays": 16
         },
         {
           "artist": "Melanie Martinez",
           "plays": 16
+        },
+        {
+          "artist": "Cut Copy",
+          "plays": 15
         },
         {
           "artist": "James",
@@ -699,11 +699,11 @@
           "plays": 10
         },
         {
-          "artist": "Supertramp",
-          "plays": 9
+          "artist": "Daniel Powter",
+          "plays": 8
         },
         {
-          "artist": "Daniel Powter",
+          "artist": "Supertramp",
           "plays": 8
         },
         {
@@ -730,39 +730,39 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 343
+          "plays": 341
         },
         {
           "genre": "Pop",
-          "plays": 105
+          "plays": 96
         },
         {
           "genre": "Electronic",
-          "plays": 93
+          "plays": 83
         },
         {
           "genre": "Variete Francaise",
-          "plays": 65
-        },
-        {
-          "genre": "Alternative",
-          "plays": 38
+          "plays": 62
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 38
         },
         {
+          "genre": "Alternative",
+          "plays": 37
+        },
+        {
           "genre": "mashup",
           "plays": 17
         },
         {
-          "genre": "Rock",
-          "plays": 16
+          "genre": "Soft Rock",
+          "plays": 13
         },
         {
-          "genre": "Soft Rock",
-          "plays": 15
+          "genre": "Rock",
+          "plays": 11
         },
         {
           "genre": "Comedy",
@@ -782,11 +782,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 5
-        },
-        {
-          "genre": "Oldies",
-          "plays": 5
+          "plays": 4
         },
         {
           "genre": "Humor",
@@ -794,6 +790,10 @@
         },
         {
           "genre": "Hip-Hop/Rap",
+          "plays": 4
+        },
+        {
+          "genre": "Oldies",
           "plays": 4
         },
         {
@@ -813,10 +813,6 @@
           "plays": 3
         },
         {
-          "genre": "Classical",
-          "plays": 3
-        },
-        {
           "genre": "Hip-hop/Rap",
           "plays": 2
         },
@@ -826,6 +822,10 @@
         },
         {
           "genre": "Alternative & Punk",
+          "plays": 2
+        },
+        {
+          "genre": "Synthwave",
           "plays": 2
         }
       ],
@@ -897,12 +897,6 @@
           "genre": "Electronic"
         },
         {
-          "song": "Saturdays",
-          "artist": "Cut Copy",
-          "plays": 16,
-          "genre": "Electronic"
-        },
-        {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
           "artist": "CTID",
           "plays": 16,
@@ -913,6 +907,12 @@
           "artist": "Melanie Martinez",
           "plays": 16,
           "genre": "Pop"
+        },
+        {
+          "song": "Saturdays",
+          "artist": "Cut Copy",
+          "plays": 15,
+          "genre": "Electronic"
         },
         {
           "song": "Laid",
@@ -975,16 +975,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 6,
-          "genre": "Electronic"
+          "song": "Madiba Riddim",
+          "artist": "Drake",
+          "plays": 5,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2632,
+      "total_plays": 2601,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1008,7 +1008,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 69
+          "plays": 66
         },
         {
           "artist": "David Guetta",
@@ -1019,16 +1019,16 @@
           "plays": 50
         },
         {
-          "artist": "MotorBass",
-          "plays": 47
-        },
-        {
           "artist": "Bon Entendeur",
           "plays": 39
         },
         {
           "artist": "Stevie Nicks",
           "plays": 37
+        },
+        {
+          "artist": "MotorBass",
+          "plays": 34
         },
         {
           "artist": "Drake",
@@ -1098,11 +1098,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 349
+          "plays": 332
         },
         {
           "genre": "Variete Francaise",
-          "plays": 177
+          "plays": 168
         },
         {
           "genre": "Alternative",
@@ -1181,12 +1181,12 @@
           "plays": 10
         },
         {
-          "genre": "Vaporwave",
+          "genre": "Jazz",
           "plays": 9
         },
         {
-          "genre": "Jazz",
-          "plays": 9
+          "genre": "Musique francophone",
+          "plays": 8
         }
       ],
       "top_tracks": [
@@ -1199,7 +1199,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 69,
+          "plays": 66,
           "genre": "Variete Francaise"
         },
         {
@@ -1223,7 +1223,7 @@
         {
           "song": "Flying Fingers",
           "artist": "MotorBass",
-          "plays": 47,
+          "plays": 34,
           "genre": "Electronic"
         },
         {
@@ -6856,6 +6856,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-28",
-  "snapshot_count": 89
+  "latest_snapshot": "2026-07-30",
+  "snapshot_count": 90
 }
