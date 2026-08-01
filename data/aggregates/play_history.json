@@ -240,27 +240,10 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 2,
-      "top_artists": [
-        {
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 2
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Dance",
-          "plays": 2
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Golden Cage (Fred Falke Remix)",
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 2,
-          "genre": "Dance"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
@@ -624,7 +607,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 782,
+      "total_plays": 781,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -692,7 +675,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 13
+          "plays": 12
         },
         {
           "artist": "Disney",
@@ -754,7 +737,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 17
+          "plays": 16
         },
         {
           "genre": "Soft Rock",
@@ -923,7 +906,7 @@
         {
           "song": "Decade Mixtape 90's",
           "artist": "Bon Entendeur",
-          "plays": 11,
+          "plays": 10,
           "genre": "mashup"
         },
         {
@@ -984,7 +967,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2601,
+      "total_plays": 2568,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -999,12 +982,12 @@
           "plays": 98
         },
         {
-          "artist": "Daft Punk",
+          "artist": "Milky",
           "plays": 75
         },
         {
-          "artist": "Milky",
-          "plays": 75
+          "artist": "Daft Punk",
+          "plays": 73
         },
         {
           "artist": "France Football Anthem",
@@ -1027,15 +1010,15 @@
           "plays": 37
         },
         {
-          "artist": "MotorBass",
-          "plays": 34
-        },
-        {
           "artist": "Drake",
           "plays": 33
         },
         {
           "artist": "Creedence Clearwater Revival",
+          "plays": 33
+        },
+        {
+          "artist": "MotorBass",
           "plays": 33
         },
         {
@@ -1090,23 +1073,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 619
+          "plays": 613
         },
         {
           "genre": "Pop",
-          "plays": 464
+          "plays": 456
         },
         {
           "genre": "Electronic",
-          "plays": 332
+          "plays": 325
         },
         {
           "genre": "Variete Francaise",
-          "plays": 168
+          "plays": 163
         },
         {
           "genre": "Alternative",
-          "plays": 143
+          "plays": 142
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1125,16 +1108,16 @@
           "plays": 58
         },
         {
-          "genre": "mashup",
-          "plays": 48
-        },
-        {
           "genre": "City Pop",
           "plays": 45
         },
         {
+          "genre": "mashup",
+          "plays": 45
+        },
+        {
           "genre": "Future Funk",
-          "plays": 36
+          "plays": 35
         },
         {
           "genre": "French Pop",
@@ -1161,16 +1144,16 @@
           "plays": 18
         },
         {
-          "genre": "Folk",
-          "plays": 16
-        },
-        {
           "genre": "Soundtrack",
           "plays": 16
         },
         {
           "genre": "Ambient",
           "plays": 15
+        },
+        {
+          "genre": "Folk",
+          "plays": 14
         },
         {
           "genre": "Latin",
@@ -1221,16 +1204,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 34,
-          "genre": "Electronic"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 33,
+          "genre": "Electronic"
         },
         {
           "song": "Don't call me baby (Mousse T Extended Remix)",
@@ -6856,6 +6839,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-07-30",
-  "snapshot_count": 90
+  "latest_snapshot": "2026-08-01",
+  "snapshot_count": 91
 }
