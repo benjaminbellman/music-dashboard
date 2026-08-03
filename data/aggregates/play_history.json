@@ -247,35 +247,15 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 251,
+      "total_plays": 133,
       "top_artists": [
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 24
         },
         {
-          "artist": "James",
-          "plays": 15
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 13
-        },
-        {
-          "artist": "Kungs",
-          "plays": 11
-        },
-        {
-          "artist": "Daniel Powter",
-          "plays": 8
-        },
-        {
           "artist": "Supertramp",
           "plays": 8
-        },
-        {
-          "artist": "Mondotek",
-          "plays": 7
         },
         {
           "artist": "Serge Gainsbourg",
@@ -283,10 +263,6 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 5
-        },
-        {
-          "artist": "Coldplay",
           "plays": 4
         },
         {
@@ -294,23 +270,7 @@
           "plays": 4
         },
         {
-          "artist": "James Blunt",
-          "plays": 3
-        },
-        {
-          "artist": "Chicago",
-          "plays": 3
-        },
-        {
-          "artist": "Last Dinosaurs",
-          "plays": 3
-        },
-        {
           "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 3
-        },
-        {
-          "artist": "Regard",
           "plays": 3
         },
         {
@@ -326,7 +286,7 @@
           "plays": 2
         },
         {
-          "artist": "PNL",
+          "artist": "James Blunt",
           "plays": 2
         },
         {
@@ -334,11 +294,11 @@
           "plays": 2
         },
         {
-          "artist": "Journey",
+          "artist": "Coldplay",
           "plays": 2
         },
         {
-          "artist": "Doja Cat",
+          "artist": "Journey",
           "plays": 2
         },
         {
@@ -348,64 +308,80 @@
         {
           "artist": "Jawny",
           "plays": 2
+        },
+        {
+          "artist": "Chris Manias & Daft Punk",
+          "plays": 2
+        },
+        {
+          "artist": "KDD",
+          "plays": 2
+        },
+        {
+          "artist": "Kid Francescoli",
+          "plays": 2
+        },
+        {
+          "artist": "Peggy March",
+          "plays": 2
+        },
+        {
+          "artist": "Duck Sauce",
+          "plays": 2
+        },
+        {
+          "artist": "Horalion",
+          "plays": 2
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 2
+        },
+        {
+          "artist": "Patrick Cowley",
+          "plays": 2
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 2
+        },
+        {
+          "artist": "Rascal Flats",
+          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 69
-        },
-        {
-          "genre": "Alternative",
-          "plays": 34
+          "plays": 43
         },
         {
           "genre": "Pop",
-          "plays": 30
+          "plays": 12
         },
         {
           "genre": "Electronic",
-          "plays": 24
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 14
+          "plays": 12
         },
         {
           "genre": "Soft Rock",
-          "plays": 13
+          "plays": 12
         },
         {
-          "genre": "Rock",
+          "genre": "Variete Francaise",
           "plays": 10
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 9
+          "genre": "Alternative",
+          "plays": 10
         },
         {
           "genre": "mashup",
           "plays": 8
         },
         {
-          "genre": "Club",
-          "plays": 7
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 4
-        },
-        {
-          "genre": "Oldies",
-          "plays": 4
-        },
-        {
-          "genre": "Latin",
-          "plays": 3
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
+          "genre": "Rock",
+          "plays": 8
         },
         {
           "genre": "Hip-hop/Rap",
@@ -420,11 +396,11 @@
           "plays": 2
         },
         {
-          "genre": "Comedy",
+          "genre": "Hip-Hop/Rap",
           "plays": 2
         },
         {
-          "genre": "Rap",
+          "genre": "Oldies",
           "plays": 2
         },
         {
@@ -440,16 +416,8 @@
           "plays": 2
         },
         {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "French Pop",
-          "plays": 1
-        },
-        {
-          "genre": "R & B",
-          "plays": 1
+          "genre": "Hip Hop/Rap",
+          "plays": 2
         }
       ],
       "top_tracks": [
@@ -460,34 +428,10 @@
           "genre": "Dance"
         },
         {
-          "song": "Laid",
-          "artist": "James",
-          "plays": 15,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 11,
-          "genre": "Dance"
-        },
-        {
-          "song": "Bad Day",
-          "artist": "Daniel Powter",
-          "plays": 8,
-          "genre": "Pop"
-        },
-        {
           "song": "It's Raining Again",
           "artist": "Supertramp",
           "plays": 8,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "Alive (Radio Edit)",
-          "artist": "Mondotek",
-          "plays": 7,
-          "genre": "Club"
         },
         {
           "song": "Decade Mixtape 90's",
@@ -504,12 +448,6 @@
         {
           "song": "Golden Cage (Fred Falke Remix)",
           "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "You",
-          "artist": "Regard & Troye Sivan & Tate McRae",
           "plays": 3,
           "genre": "Dance"
         },
@@ -562,12 +500,6 @@
           "genre": "Soft Rock"
         },
         {
-          "song": "Kiss Me More",
-          "artist": "Doja Cat",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
           "song": "Slow",
           "artist": "憂鬱",
           "plays": 2,
@@ -598,28 +530,64 @@
           "genre": "Electronic"
         },
         {
-          "song": "Four to the Floor",
-          "artist": "Starsailor",
+          "song": "I Will Follow Him",
+          "artist": "Peggy March",
           "plays": 2,
-          "genre": "Alternative"
+          "genre": "Oldies"
+        },
+        {
+          "song": "ANYway",
+          "artist": "Duck Sauce",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Autobahn (Horalion Remix)",
+          "artist": "Horalion & Kraftwek",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Hollywood",
+          "artist": "Michael Bublé",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
+          "song": "Menergy (feat. Sylvester)",
+          "artist": "Patrick Cowley & Purple Disco Machine",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Life Is A Highway [WITH LYRICS]",
+          "artist": "Rascal Flats",
+          "plays": 2,
+          "genre": "Rock"
+        },
+        {
+          "song": "Fireball (Audio) ft. John Ryan",
+          "artist": "Pitbull",
+          "plays": 2,
+          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 781,
+      "total_plays": 709,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 140
+          "plays": 106
         },
         {
           "artist": "Kungs",
-          "plays": 137
+          "plays": 103
         },
         {
           "artist": "Demon",
-          "plays": 50
+          "plays": 48
         },
         {
           "artist": "France Football Anthem",
@@ -654,15 +622,7 @@
           "plays": 24
         },
         {
-          "artist": "Daft Punk",
-          "plays": 21
-        },
-        {
           "artist": "CTID",
-          "plays": 16
-        },
-        {
-          "artist": "Melanie Martinez",
           "plays": 16
         },
         {
@@ -698,6 +658,10 @@
           "plays": 8
         },
         {
+          "artist": "Daft Punk",
+          "plays": 7
+        },
+        {
           "artist": "Mondotek",
           "plays": 7
         },
@@ -708,20 +672,24 @@
         {
           "artist": "Serge Gainsbourg",
           "plays": 6
+        },
+        {
+          "artist": "Jess & Crabbe",
+          "plays": 6
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 341
+          "plays": 299
         },
         {
           "genre": "Pop",
-          "plays": 96
+          "plays": 80
         },
         {
           "genre": "Electronic",
-          "plays": 83
+          "plays": 69
         },
         {
           "genre": "Variete Francaise",
@@ -816,13 +784,13 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 137,
+          "plays": 103,
           "genre": "Dance"
         },
         {
           "song": "Blunted People",
           "artist": "Demon",
-          "plays": 50,
+          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -874,20 +842,8 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 19,
-          "genre": "Electronic"
-        },
-        {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
           "artist": "CTID",
-          "plays": 16,
-          "genre": "Pop"
-        },
-        {
-          "song": "Play Date",
-          "artist": "Melanie Martinez",
           "plays": 16,
           "genre": "Pop"
         },
@@ -962,12 +918,24 @@
           "artist": "Drake",
           "plays": 5,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Around the world (Version Longue)",
+          "artist": "Daft Punk",
+          "plays": 5,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Kylian Dictator (English Lyrics)",
+          "artist": "Surnevis",
+          "plays": 4,
+          "genre": "Humor"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2568,
+      "total_plays": 2553,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1077,15 +1045,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 456
+          "plays": 455
         },
         {
           "genre": "Electronic",
-          "plays": 325
+          "plays": 324
         },
         {
           "genre": "Variete Francaise",
-          "plays": 163
+          "plays": 151
         },
         {
           "genre": "Alternative",
@@ -1113,7 +1081,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 45
+          "plays": 44
         },
         {
           "genre": "Future Funk",
@@ -6839,6 +6807,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-01",
-  "snapshot_count": 91
+  "latest_snapshot": "2026-08-03",
+  "snapshot_count": 92
 }
