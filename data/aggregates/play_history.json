@@ -575,15 +575,15 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 709,
+      "total_plays": 605,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 106
+          "plays": 98
         },
         {
           "artist": "Kungs",
-          "plays": 103
+          "plays": 95
         },
         {
           "artist": "Demon",
@@ -591,7 +591,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 45
+          "plays": 29
         },
         {
           "artist": "Polo & Pan",
@@ -602,23 +602,11 @@
           "plays": 24
         },
         {
-          "artist": "French Ball",
-          "plays": 24
-        },
-        {
           "artist": "Britney Spears",
           "plays": 24
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 24
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 24
-        },
-        {
-          "artist": "KITSCHKRIEG",
           "plays": 24
         },
         {
@@ -650,10 +638,6 @@
           "plays": 8
         },
         {
-          "artist": "Iron Maiden",
-          "plays": 8
-        },
-        {
           "artist": "442oons",
           "plays": 8
         },
@@ -676,12 +660,28 @@
         {
           "artist": "Jess & Crabbe",
           "plays": 6
+        },
+        {
+          "artist": "Cyril",
+          "plays": 6
+        },
+        {
+          "artist": "Drake",
+          "plays": 5
+        },
+        {
+          "artist": "Depeche Mode",
+          "plays": 5
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 299
+          "plays": 243
         },
         {
           "genre": "Pop",
@@ -693,11 +693,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 62
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 38
+          "plays": 46
         },
         {
           "genre": "Alternative",
@@ -706,6 +702,10 @@
         {
           "genre": "mashup",
           "plays": 16
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 14
         },
         {
           "genre": "Soft Rock",
@@ -722,10 +722,6 @@
         {
           "genre": "Soundtrack",
           "plays": 10
-        },
-        {
-          "genre": "Metal",
-          "plays": 8
         },
         {
           "genre": "Club",
@@ -778,13 +774,17 @@
         {
           "genre": "Synthwave",
           "plays": 2
+        },
+        {
+          "genre": "Rap",
+          "plays": 2
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 103,
+          "plays": 95,
           "genre": "Dance"
         },
         {
@@ -796,7 +796,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 45,
+          "plays": 29,
           "genre": "Variete Francaise"
         },
         {
@@ -812,12 +812,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Piste 01",
-          "artist": "French Ball",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
           "song": "Me Against the Music (feat. Madonna)",
           "artist": "Britney Spears",
           "plays": 24,
@@ -828,18 +822,6 @@
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 24,
           "genre": "Dance"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Haaland (Ha Ha Ha) [Man City chant  English Version]",
@@ -884,12 +866,6 @@
           "genre": "Soundtrack"
         },
         {
-          "song": "Run to The Hills",
-          "artist": "Iron Maiden",
-          "plays": 8,
-          "genre": "Metal"
-        },
-        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 8,
@@ -930,12 +906,36 @@
           "artist": "Surnevis",
           "plays": 4,
           "genre": "Humor"
+        },
+        {
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 4,
+          "genre": "mashup"
+        },
+        {
+          "song": "Enjoy the Silence",
+          "artist": "Depeche Mode",
+          "plays": 3,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 3,
+          "genre": "Dance"
+        },
+        {
+          "song": "You",
+          "artist": "Regard & Troye Sivan & Tate McRae",
+          "plays": 3,
+          "genre": "Dance"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2553,
+      "total_plays": 2550,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1045,7 +1045,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 455
+          "plays": 454
         },
         {
           "genre": "Electronic",
@@ -1069,7 +1069,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 94
+          "plays": 93
         },
         {
           "genre": "Soft Rock",
@@ -1081,7 +1081,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 44
+          "plays": 43
         },
         {
           "genre": "Future Funk",
@@ -6807,6 +6807,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-03",
-  "snapshot_count": 92
+  "latest_snapshot": "2026-08-04",
+  "snapshot_count": 93
 }
