@@ -575,15 +575,15 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 605,
+      "total_plays": 509,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 98
+          "plays": 74
         },
         {
           "artist": "Kungs",
-          "plays": 95
+          "plays": 71
         },
         {
           "artist": "Demon",
@@ -592,18 +592,6 @@
         {
           "artist": "France Football Anthem",
           "plays": 29
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 25
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 24
-        },
-        {
-          "artist": "Britney Spears",
-          "plays": 24
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
@@ -676,24 +664,36 @@
         {
           "artist": "Coldplay",
           "plays": 4
+        },
+        {
+          "artist": "Surnevis",
+          "plays": 4
+        },
+        {
+          "artist": "James Blunt",
+          "plays": 3
+        },
+        {
+          "artist": "The Rolling Stones",
+          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 243
+          "plays": 195
         },
         {
           "genre": "Pop",
-          "plays": 80
-        },
-        {
-          "genre": "Electronic",
-          "plays": 69
+          "plays": 56
         },
         {
           "genre": "Variete Francaise",
           "plays": 46
+        },
+        {
+          "genre": "Electronic",
+          "plays": 45
         },
         {
           "genre": "Alternative",
@@ -784,7 +784,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 95,
+          "plays": 71,
           "genre": "Dance"
         },
         {
@@ -798,24 +798,6 @@
           "artist": "France Football Anthem",
           "plays": 29,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 24,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Me Against the Music (feat. Madonna)",
-          "artist": "Britney Spears",
-          "plays": 24,
-          "genre": "Pop"
         },
         {
           "song": "Me And My Broken Heart",
@@ -930,12 +912,30 @@
           "artist": "Regard & Troye Sivan & Tate McRae",
           "plays": 3,
           "genre": "Dance"
+        },
+        {
+          "song": "She Bangs (English Version)",
+          "artist": "Ricky Martin",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
+          "song": "WDPK 83.7 FM Extended",
+          "artist": "Daft Punk",
+          "plays": 2,
+          "genre": "Electronic"
+        },
+        {
+          "song": "K. (Klesh Remix)",
+          "artist": "Cigarettes After Sex & Klesh",
+          "plays": 2,
+          "genre": "House"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2550,
+      "total_plays": 2522,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -986,10 +986,6 @@
           "plays": 33
         },
         {
-          "artist": "MotorBass",
-          "plays": 33
-        },
-        {
           "artist": "Polo & Pan",
           "plays": 32
         },
@@ -1036,6 +1032,10 @@
         {
           "artist": "Francoise Hardy",
           "plays": 24
+        },
+        {
+          "artist": "French Ball",
+          "plays": 24
         }
       ],
       "top_genres": [
@@ -1049,7 +1049,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 324
+          "plays": 300
         },
         {
           "genre": "Variete Francaise",
@@ -1108,12 +1108,12 @@
           "plays": 19
         },
         {
-          "genre": "House",
-          "plays": 18
-        },
-        {
           "genre": "Soundtrack",
           "plays": 16
+        },
+        {
+          "genre": "House",
+          "plays": 15
         },
         {
           "genre": "Ambient",
@@ -1176,12 +1176,6 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 33,
-          "genre": "Electronic"
         },
         {
           "song": "Don't call me baby (Mousse T Extended Remix)",
@@ -1290,6 +1284,12 @@
           "artist": "Michael Jackson",
           "plays": 24,
           "genre": "Soul and R&B"
+        },
+        {
+          "song": "Sonnentanz (Original Version)",
+          "artist": "Klangkarussell",
+          "plays": 24,
+          "genre": "Dance"
         }
       ]
     },
@@ -6807,6 +6807,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-04",
-  "snapshot_count": 93
+  "latest_snapshot": "2026-08-05",
+  "snapshot_count": 94
 }
