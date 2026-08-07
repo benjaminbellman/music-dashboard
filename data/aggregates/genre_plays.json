@@ -1,62 +1,62 @@
 [
   {
     "genre": "Pop",
-    "plays": 35158,
+    "plays": 35174,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 29715,
+    "plays": 29735,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23231,
+    "plays": 23243,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18121,
+    "plays": 18131,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13978,
+    "plays": 13986,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11612,
+    "plays": 11616,
     "songs": 261
   },
   {
     "genre": "Rock",
-    "plays": 10721,
+    "plays": 10725,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6668,
+    "plays": 6671,
     "songs": 73
   },
   {
     "genre": "Future Funk",
-    "plays": 5838,
+    "plays": 5840,
     "songs": 71
   },
   {
     "genre": "Lowfi",
-    "plays": 3870,
+    "plays": 3872,
     "songs": 47
   },
   {
     "genre": "Disco",
-    "plays": 3779,
+    "plays": 3780,
     "songs": 61
   },
   {
     "genre": "Oldies",
-    "plays": 3731,
+    "plays": 3732,
     "songs": 63
   },
   {
@@ -66,12 +66,12 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3265,
+    "plays": 3272,
     "songs": 44
   },
   {
     "genre": "Comedy",
-    "plays": 3208,
+    "plays": 3210,
     "songs": 92
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2743,
+    "plays": 2749,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2719,
+    "plays": 2720,
     "songs": 69
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1675,
+    "plays": 1678,
     "songs": 45
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "genre": "Country",
-    "plays": 1077,
+    "plays": 1078,
     "songs": 19
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "genre": "Folk",
-    "plays": 779,
+    "plays": 780,
     "songs": 13
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "genre": "J-Pop",
-    "plays": 436,
+    "plays": 437,
     "songs": 3
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "genre": "Reggae",
-    "plays": 226,
+    "plays": 227,
     "songs": 9
   },
   {
@@ -470,13 +470,13 @@
     "songs": 1
   },
   {
-    "genre": "Alternative Punk",
+    "genre": "AlternRock",
     "plays": 38,
     "songs": 1
   },
   {
-    "genre": "AlternRock",
-    "plays": 37,
+    "genre": "Alternative Punk",
+    "plays": 38,
     "songs": 1
   },
   {

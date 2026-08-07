@@ -311,19 +311,19 @@
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3571,
+      "plays": 3577,
       "country": "FR"
     },
     {
       "rank": 3,
       "artist": "Joe Dassin",
-      "plays": 3239,
+      "plays": 3240,
       "country": "FR"
     },
     {
       "rank": 4,
       "artist": "Chicago",
-      "plays": 3157,
+      "plays": 3158,
       "country": "US"
     },
     {
@@ -335,7 +335,7 @@
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2150,
+      "plays": 2152,
       "country": "GB"
     },
     {
@@ -353,7 +353,7 @@
     {
       "rank": 9,
       "artist": "Lifelike",
-      "plays": 1283,
+      "plays": 1285,
       "country": "FR"
     },
     {
@@ -383,7 +383,7 @@
     {
       "rank": 14,
       "artist": "Renaud",
-      "plays": 1125,
+      "plays": 1128,
       "country": "FR"
     },
     {
@@ -395,7 +395,7 @@
     {
       "rank": 16,
       "artist": "ABBA",
-      "plays": 1045,
+      "plays": 1046,
       "country": "SE"
     },
     {
@@ -407,19 +407,19 @@
     {
       "rank": 18,
       "artist": "Anri",
-      "plays": 1021,
+      "plays": 1022,
       "country": "JP"
     },
     {
       "rank": 19,
       "artist": "442oons",
-      "plays": 997,
+      "plays": 999,
       "country": "GB"
     },
     {
       "rank": 20,
       "artist": "Tatsuro Yamashita",
-      "plays": 984,
+      "plays": 989,
       "country": "JP"
     },
     {
@@ -431,7 +431,7 @@
     {
       "rank": 22,
       "artist": "David Guetta",
-      "plays": 968,
+      "plays": 969,
       "country": "FR"
     },
     {
@@ -467,7 +467,7 @@
     {
       "rank": 28,
       "artist": "Synapson",
-      "plays": 806,
+      "plays": 807,
       "country": "FR"
     },
     {
@@ -485,19 +485,19 @@
     {
       "rank": 31,
       "artist": "Purple Disco Machine",
-      "plays": 711,
+      "plays": 712,
       "country": "DE"
     },
     {
       "rank": 32,
       "artist": "Maroon 5",
-      "plays": 678,
+      "plays": 679,
       "country": "US"
     },
     {
       "rank": 33,
       "artist": "AIR (Band)",
-      "plays": 659,
+      "plays": 660,
       "country": "FR"
     },
     {
@@ -509,7 +509,7 @@
     {
       "rank": 35,
       "artist": "Eric Prydz",
-      "plays": 634,
+      "plays": 635,
       "country": "SE"
     },
     {
@@ -527,7 +527,7 @@
     {
       "rank": 38,
       "artist": "The Beatles",
-      "plays": 629,
+      "plays": 630,
       "country": "GB"
     },
     {
@@ -545,7 +545,7 @@
     {
       "rank": 41,
       "artist": "Tame Impala",
-      "plays": 591,
+      "plays": 592,
       "country": "AU"
     },
     {
