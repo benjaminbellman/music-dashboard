@@ -1,27 +1,27 @@
 [
   {
     "genre": "Pop",
-    "plays": 35174,
+    "plays": 35206,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 29735,
+    "plays": 29747,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23243,
+    "plays": 23255,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18131,
+    "plays": 18143,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13986,
+    "plays": 13990,
     "songs": 291
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "genre": "Rock",
-    "plays": 10725,
+    "plays": 10729,
     "songs": 282
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3272,
+    "plays": 3276,
     "songs": 44
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2749,
+    "plays": 2753,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2720,
+    "plays": 2724,
     "songs": 69
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1678,
+    "plays": 1682,
     "songs": 45
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "genre": "Europop",
-    "plays": 734,
+    "plays": 738,
     "songs": 14
   },
   {
@@ -345,6 +345,11 @@
     "songs": 1
   },
   {
+    "genre": "Musique pour enfants",
+    "plays": 70,
+    "songs": 3
+  },
+  {
     "genre": "Pop Latino",
     "plays": 67,
     "songs": 2
@@ -353,11 +358,6 @@
     "genre": "Dance;Trance;Tech",
     "plays": 66,
     "songs": 1
-  },
-  {
-    "genre": "Musique pour enfants",
-    "plays": 66,
-    "songs": 3
   },
   {
     "genre": "Soul",
