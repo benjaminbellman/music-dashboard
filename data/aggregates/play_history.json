@@ -536,7 +536,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 209,
+      "total_plays": 207,
       "top_artists": [
         {
           "artist": "Stephen Sanchez & Em Beihold",
@@ -646,7 +646,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 34
+          "plays": 32
         },
         {
           "genre": "Electronic",
@@ -7739,6 +7739,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-10",
-  "snapshot_count": 98
+  "latest_snapshot": "2026-08-11",
+  "snapshot_count": 99
 }
