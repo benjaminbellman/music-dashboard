@@ -1,37 +1,37 @@
 [
   {
     "genre": "Pop",
-    "plays": 35206,
+    "plays": 35213,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 29747,
+    "plays": 29756,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23255,
+    "plays": 23258,
     "songs": 389
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18143,
+    "plays": 18144,
     "songs": 282
   },
   {
     "genre": "Alternative",
-    "plays": 13990,
+    "plays": 13994,
     "songs": 291
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11616,
+    "plays": 11617,
     "songs": 261
   },
   {
     "genre": "Rock",
-    "plays": 10729,
+    "plays": 10737,
     "songs": 282
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5840,
+    "plays": 5842,
     "songs": 71
   },
   {
     "genre": "Lowfi",
-    "plays": 3872,
+    "plays": 3873,
     "songs": 47
   },
   {
@@ -66,22 +66,22 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3276,
+    "plays": 3277,
     "songs": 44
   },
   {
     "genre": "Comedy",
-    "plays": 3210,
+    "plays": 3211,
     "songs": 92
   },
   {
     "genre": "Latin",
-    "plays": 2784,
+    "plays": 2785,
     "songs": 47
   },
   {
     "genre": "mashup",
-    "plays": 2753,
+    "plays": 2754,
     "songs": 69
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1232,
+    "plays": 1233,
     "songs": 40
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "genre": "Soul and R&B",
-    "plays": 79,
+    "plays": 80,
     "songs": 2
   },
   {
@@ -420,13 +420,13 @@
     "songs": 2
   },
   {
-    "genre": "Deep House",
+    "genre": "Club",
     "plays": 50,
     "songs": 1
   },
   {
-    "genre": "Club",
-    "plays": 49,
+    "genre": "Deep House",
+    "plays": 50,
     "songs": 1
   },
   {

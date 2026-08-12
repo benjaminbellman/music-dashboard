@@ -311,7 +311,7 @@
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3577,
+      "plays": 3579,
       "country": "FR"
     },
     {
@@ -329,7 +329,7 @@
     {
       "rank": 5,
       "artist": "Dua Lipa",
-      "plays": 2387,
+      "plays": 2388,
       "country": "GB"
     },
     {
@@ -353,7 +353,7 @@
     {
       "rank": 9,
       "artist": "Lifelike",
-      "plays": 1285,
+      "plays": 1286,
       "country": "FR"
     },
     {
@@ -395,7 +395,7 @@
     {
       "rank": 16,
       "artist": "ABBA",
-      "plays": 1046,
+      "plays": 1047,
       "country": "SE"
     },
     {
@@ -424,14 +424,14 @@
     },
     {
       "rank": 21,
-      "artist": "Serge Gainsbourg",
+      "artist": "David Guetta",
       "plays": 970,
       "country": "FR"
     },
     {
       "rank": 22,
-      "artist": "David Guetta",
-      "plays": 969,
+      "artist": "Serge Gainsbourg",
+      "plays": 970,
       "country": "FR"
     },
     {
@@ -455,7 +455,7 @@
     {
       "rank": 26,
       "artist": "Calvin Harris",
-      "plays": 846,
+      "plays": 847,
       "country": "GB"
     },
     {
@@ -533,13 +533,13 @@
     {
       "rank": 39,
       "artist": "Modern Talking",
-      "plays": 615,
+      "plays": 616,
       "country": "DE"
     },
     {
       "rank": 40,
       "artist": "Drake",
-      "plays": 611,
+      "plays": 612,
       "country": "CA"
     },
     {
