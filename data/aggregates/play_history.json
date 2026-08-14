@@ -251,23 +251,27 @@
     {
       "date": "2026-08-13",
       "plays": 86
+    },
+    {
+      "date": "2026-08-14",
+      "plays": 7
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 129,
+      "total_plays": 136,
       "top_artists": [
         {
-          "artist": "ANOTR",
-          "plays": 24
-        },
-        {
           "artist": "Kungs",
-          "plays": 24
+          "plays": 27
         },
         {
           "artist": "Purple Disco Machine",
+          "plays": 27
+        },
+        {
+          "artist": "ANOTR",
           "plays": 24
         },
         {
@@ -277,6 +281,14 @@
         {
           "artist": "KITSCHKRIEG",
           "plays": 13
+        },
+        {
+          "artist": "All Hail the Silence",
+          "plays": 4
+        },
+        {
+          "artist": "Lifelike",
+          "plays": 4
         },
         {
           "artist": "Bon Entendeur",
@@ -349,20 +361,12 @@
         {
           "artist": ".EEhou",
           "plays": 1
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 1
-        },
-        {
-          "artist": "Ariana Grande",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 81
+          "plays": 87
         },
         {
           "genre": "Hip Hop/Rap",
@@ -386,6 +390,10 @@
         },
         {
           "genre": "Future Funk",
+          "plays": 2
+        },
+        {
+          "genre": "City Pop",
           "plays": 2
         },
         {
@@ -419,22 +427,18 @@
         {
           "genre": "Soul and R&B",
           "plays": 1
-        },
-        {
-          "genre": "City Pop",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 24,
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 27,
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
           "plays": 24,
           "genre": "Dance"
         },
@@ -449,6 +453,12 @@
           "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
           "plays": 13,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Stand Together (Lifelike Remix)",
+          "artist": "All Hail the Silence and Lifelike",
+          "plays": 4,
+          "genre": "Dance"
         },
         {
           "song": "L'homme pressé",
@@ -569,29 +579,23 @@
           "artist": "The Blaze",
           "plays": 1,
           "genre": "Electronic"
-        },
-        {
-          "song": "L'amour comme à 16 ans",
-          "artist": "Bon Entendeur & Marie Laforêt",
-          "plays": 1,
-          "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 336,
+      "total_plays": 343,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 25
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 24
+          "plays": 28
         },
         {
           "artist": "Kungs",
+          "plays": 27
+        },
+        {
+          "artist": "ANOTR",
           "plays": 24
         },
         {
@@ -613,6 +617,10 @@
         {
           "artist": "Flight Facilities",
           "plays": 7
+        },
+        {
+          "artist": "Lifelike",
+          "plays": 6
         },
         {
           "artist": "Tatsuro Yamashita",
@@ -677,16 +685,12 @@
         {
           "artist": "Charles Aznavour",
           "plays": 4
-        },
-        {
-          "artist": "John Travolta",
-          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 113
+          "plays": 119
         },
         {
           "genre": "Pop",
@@ -714,7 +718,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 12
+          "plays": 13
         },
         {
           "genre": "mashup",
@@ -787,14 +791,14 @@
       ],
       "top_tracks": [
         {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 24,
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 27,
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
           "plays": 24,
           "genre": "Dance"
         },
@@ -940,15 +944,15 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 615,
+      "total_plays": 594,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 39
+          "plays": 41
         },
         {
           "artist": "Kungs",
-          "plays": 35
+          "plays": 38
         },
         {
           "artist": "ANOTR",
@@ -968,7 +972,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 14
+          "plays": 13
         },
         {
           "artist": "KITSCHKRIEG",
@@ -983,10 +987,6 @@
           "plays": 11
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 9
-        },
-        {
           "artist": "Daniel Powter",
           "plays": 8
         },
@@ -999,12 +999,12 @@
           "plays": 8
         },
         {
-          "artist": "Daft Punk",
+          "artist": "Horalion",
           "plays": 7
         },
         {
-          "artist": "Horalion",
-          "plays": 7
+          "artist": "Daft Punk",
+          "plays": 6
         },
         {
           "artist": "Tatsuro Yamashita",
@@ -1016,6 +1016,10 @@
         },
         {
           "artist": "Coldplay",
+          "plays": 6
+        },
+        {
+          "artist": "Lifelike",
           "plays": 6
         },
         {
@@ -1035,42 +1039,42 @@
           "plays": 5
         },
         {
-          "artist": "Depeche Mode",
+          "artist": "Charles Aznavour",
           "plays": 5
         },
         {
-          "artist": "Charles Aznavour",
-          "plays": 5
+          "artist": "BBC Music",
+          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 186
+          "plays": 188
         },
         {
           "genre": "Pop",
-          "plays": 87
-        },
-        {
-          "genre": "Alternative",
-          "plays": 53
+          "plays": 85
         },
         {
           "genre": "Electronic",
-          "plays": 53
+          "plays": 52
+        },
+        {
+          "genre": "Alternative",
+          "plays": 50
         },
         {
           "genre": "Variete Francaise",
-          "plays": 46
-        },
-        {
-          "genre": "Rock",
-          "plays": 27
+          "plays": 37
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 27
+        },
+        {
+          "genre": "Rock",
+          "plays": 26
         },
         {
           "genre": "mashup",
@@ -1082,11 +1086,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 14
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 9
+          "plays": 15
         },
         {
           "genre": "French Pop",
@@ -1097,10 +1097,6 @@
           "plays": 8
         },
         {
-          "genre": "Comedy",
-          "plays": 6
-        },
-        {
           "genre": "Europop",
           "plays": 5
         },
@@ -1109,11 +1105,19 @@
           "plays": 5
         },
         {
+          "genre": "Comedy",
+          "plays": 5
+        },
+        {
           "genre": "Hip-Hop/Rap",
           "plays": 5
         },
         {
           "genre": "Oldies",
+          "plays": 5
+        },
+        {
+          "genre": "Soundtrack",
           "plays": 5
         },
         {
@@ -1149,7 +1153,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 35,
+          "plays": 38,
           "genre": "Dance"
         },
         {
@@ -1187,12 +1191,6 @@
           "artist": "Stephen Sanchez & Em Beihold",
           "plays": 12,
           "genre": "Pop"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 9,
-          "genre": "Variete Francaise"
         },
         {
           "song": "2002 - 2012 Decade Mix",
@@ -1285,30 +1283,36 @@
           "genre": "Musique pour enfants"
         },
         {
-          "song": "Hawaiian Roller Coaster Ride 2025",
-          "artist": "Disney",
-          "plays": 4,
-          "genre": "Soundtrack"
-        },
-        {
           "song": "On the Floor (feat. Pitbull)",
           "artist": "Jennifer Lopez",
           "plays": 4,
           "genre": "Pop"
+        },
+        {
+          "song": "Thor",
+          "artist": "Gorgon City",
+          "plays": 4,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Need You Tonight",
+          "artist": "INXS",
+          "plays": 4,
+          "genre": "Rock"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2786,
+      "total_plays": 2727,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 166
+          "plays": 169
         },
         {
           "artist": "Kungs",
-          "plays": 162
+          "plays": 165
         },
         {
           "artist": "442oons",
@@ -1320,7 +1324,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 69
+          "plays": 68
         },
         {
           "artist": "France Football Anthem",
@@ -1344,7 +1348,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 47
+          "plays": 45
         },
         {
           "artist": "Stevie Nicks",
@@ -1359,16 +1363,12 @@
           "plays": 34
         },
         {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 33
-        },
-        {
           "artist": "Polo & Pan",
           "plays": 32
         },
         {
           "artist": "Michael Jackson",
-          "plays": 29
+          "plays": 28
         },
         {
           "artist": "Vegedream",
@@ -1380,6 +1380,10 @@
         },
         {
           "artist": "Madison Avenue",
+          "plays": 27
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
           "plays": 27
         },
         {
@@ -1406,27 +1410,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 718
+          "plays": 719
         },
         {
           "genre": "Pop",
-          "plays": 501
+          "plays": 485
         },
         {
           "genre": "Electronic",
-          "plays": 312
+          "plays": 293
         },
         {
           "genre": "Variete Francaise",
-          "plays": 174
+          "plays": 171
         },
         {
           "genre": "Alternative",
-          "plays": 158
+          "plays": 157
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 150
+          "plays": 148
         },
         {
           "genre": "Comedy",
@@ -1434,19 +1438,19 @@
         },
         {
           "genre": "Rock",
-          "plays": 109
+          "plays": 108
         },
         {
           "genre": "Soft Rock",
-          "plays": 61
+          "plays": 55
         },
         {
           "genre": "mashup",
-          "plays": 54
+          "plays": 53
         },
         {
           "genre": "City Pop",
-          "plays": 49
+          "plays": 50
         },
         {
           "genre": "French Pop",
@@ -1454,7 +1458,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 39
+          "plays": 38
         },
         {
           "genre": "Soul and R&B",
@@ -1473,15 +1477,11 @@
           "plays": 17
         },
         {
-          "genre": "Disco",
-          "plays": 16
-        },
-        {
           "genre": "House",
           "plays": 15
         },
         {
-          "genre": "Folk",
+          "genre": "Disco",
           "plays": 15
         },
         {
@@ -1497,6 +1497,10 @@
           "plays": 10
         },
         {
+          "genre": "Folk",
+          "plays": 9
+        },
+        {
           "genre": "Musique francophone",
           "plays": 8
         },
@@ -1509,7 +1513,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 161,
+          "plays": 164,
           "genre": "Dance"
         },
         {
@@ -1555,16 +1559,16 @@
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 33,
-          "genre": "Soft Rock"
-        },
-        {
           "song": "Don't call me baby (Mousse T Extended Remix)",
           "artist": "Madison Avenue",
           "plays": 27,
           "genre": "Dance"
+        },
+        {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 27,
+          "genre": "Soft Rock"
         },
         {
           "song": "Just The Way You Are",
@@ -1660,15 +1664,15 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 3342,
+      "total_plays": 3349,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 166
+          "plays": 169
         },
         {
           "artist": "Kungs",
-          "plays": 162
+          "plays": 165
         },
         {
           "artist": "France Football Anthem",
@@ -1766,7 +1770,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 874
+          "plays": 880
         },
         {
           "genre": "Pop",
@@ -1806,7 +1810,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 59
+          "plays": 60
         },
         {
           "genre": "French Pop",
@@ -1869,7 +1873,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 161,
+          "plays": 164,
           "genre": "Dance"
         },
         {
@@ -2020,15 +2024,15 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 3342,
+      "total_plays": 3349,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 166
+          "plays": 169
         },
         {
           "artist": "Kungs",
-          "plays": 162
+          "plays": 165
         },
         {
           "artist": "France Football Anthem",
@@ -2126,7 +2130,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 874
+          "plays": 880
         },
         {
           "genre": "Pop",
@@ -2166,7 +2170,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 59
+          "plays": 60
         },
         {
           "genre": "French Pop",
@@ -2229,7 +2233,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 161,
+          "plays": 164,
           "genre": "Dance"
         },
         {
@@ -3994,6 +3998,11 @@
       "date": "2026-08-13",
       "id": "49a8e200a97614c3",
       "plays": 24
+    },
+    {
+      "date": "2026-08-14",
+      "id": "49a8e200a97614c3",
+      "plays": 3
     },
     {
       "date": "2026-06-15",
@@ -7211,6 +7220,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-14",
+      "id": "dc6db5cff2d41b34",
+      "plays": 3
+    },
+    {
       "date": "2026-06-11",
       "id": "dc957d78a29450f0",
       "plays": 1
@@ -7449,6 +7463,11 @@
       "date": "2026-07-10",
       "id": "e7d05da66170da98",
       "plays": 2
+    },
+    {
+      "date": "2026-08-14",
+      "id": "e7d05da66170da98",
+      "plays": 1
     },
     {
       "date": "2026-05-22",
@@ -8022,6 +8041,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-13",
-  "snapshot_count": 101
+  "latest_snapshot": "2026-08-14",
+  "snapshot_count": 102
 }

@@ -1,13 +1,13 @@
 [
   {
     "country": "FR",
-    "plays": 64149,
+    "plays": 64152,
     "artists": 434,
     "songs": 1059
   },
   {
     "country": "US",
-    "plays": 62114,
+    "plays": 62117,
     "artists": 752,
     "songs": 1338
   },
@@ -25,7 +25,7 @@
   },
   {
     "country": "JP",
-    "plays": 6231,
+    "plays": 6232,
     "artists": 46,
     "songs": 80
   },
