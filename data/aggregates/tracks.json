@@ -31497,6 +31497,21 @@
     "country": "US"
   },
   {
+    "id": "e7d05da66170da98",
+    "song": "Fantasy",
+    "artist": "Meiko Nakahara",
+    "credits": [
+      "Meiko Nakahara"
+    ],
+    "album": "",
+    "plays": 33,
+    "duration_sec": 263,
+    "date_added": "2025-06-28T08:58:38",
+    "last_played": "2026-08-14T12:01:04",
+    "genre": "City Pop",
+    "country": "JP"
+  },
+  {
     "id": "ea4596a3a3372a82",
     "song": "Chillin",
     "artist": "Modjo",
@@ -33177,21 +33192,6 @@
     "last_played": "2026-06-10T10:34:44",
     "genre": "Latin",
     "country": "VE"
-  },
-  {
-    "id": "e7d05da66170da98",
-    "song": "Fantasy",
-    "artist": "Meiko Nakahara",
-    "credits": [
-      "Meiko Nakahara"
-    ],
-    "album": "",
-    "plays": 31,
-    "duration_sec": 263,
-    "date_added": "2025-06-28T08:58:38",
-    "last_played": "2026-08-13T16:01:42",
-    "genre": "City Pop",
-    "country": "JP"
   },
   {
     "id": "9b58baa302e34b83",
@@ -54623,6 +54623,21 @@
     "country": "US"
   },
   {
+    "id": "162e1839baf6ebb0",
+    "song": "Lalalove You",
+    "artist": "BB Brunes",
+    "credits": [
+      "BB Brunes"
+    ],
+    "album": "",
+    "plays": 9,
+    "duration_sec": 173,
+    "date_added": "2026-06-19T10:10:47",
+    "last_played": "2026-08-14T11:29:03",
+    "genre": "Variete Francaise",
+    "country": "FR"
+  },
+  {
     "id": "5d4ec6071f5cf447",
     "song": "Bass Head",
     "artist": "Bassnectar",
@@ -56890,21 +56905,6 @@
     "last_played": "2023-03-13T06:28:52",
     "genre": "Rock",
     "country": "GB"
-  },
-  {
-    "id": "162e1839baf6ebb0",
-    "song": "Lalalove You",
-    "artist": "BB Brunes",
-    "credits": [
-      "BB Brunes"
-    ],
-    "album": "",
-    "plays": 5,
-    "duration_sec": 173,
-    "date_added": "2026-06-19T10:10:47",
-    "last_played": "2026-06-29T19:43:15",
-    "genre": "Variete Francaise",
-    "country": "FR"
   },
   {
     "id": "6ec828de65bc9f1d",

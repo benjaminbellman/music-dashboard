@@ -255,12 +255,16 @@
     {
       "date": "2026-08-14",
       "plays": 7
+    },
+    {
+      "date": "2026-08-15",
+      "plays": 6
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 136,
+      "total_plays": 99,
       "top_artists": [
         {
           "artist": "Kungs",
@@ -283,149 +287,45 @@
           "plays": 13
         },
         {
-          "artist": "All Hail the Silence",
+          "artist": "BB Brunes",
           "plays": 4
+        },
+        {
+          "artist": "All Hail the Silence",
+          "plays": 3
         },
         {
           "artist": "Lifelike",
-          "plays": 4
+          "plays": 3
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 2
-        },
-        {
-          "artist": "Noir Désir",
-          "plays": 2
+          "artist": "Meiko Nakahara",
+          "plays": 3
         },
         {
           "artist": "Cour De Recré",
-          "plays": 1
-        },
-        {
-          "artist": "Isley Brothers",
-          "plays": 1
-        },
-        {
-          "artist": "Gorillaz",
-          "plays": 1
-        },
-        {
-          "artist": "Green Day",
-          "plays": 1
-        },
-        {
-          "artist": "Glass Animals",
-          "plays": 1
-        },
-        {
-          "artist": "Buggles",
-          "plays": 1
-        },
-        {
-          "artist": "Kate Bush",
-          "plays": 1
-        },
-        {
-          "artist": "Ourvais",
-          "plays": 1
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 1
-        },
-        {
-          "artist": "Les Rita Mitsouko",
-          "plays": 1
-        },
-        {
-          "artist": "Alfie Templeman",
-          "plays": 1
-        },
-        {
-          "artist": "U2",
-          "plays": 1
-        },
-        {
-          "artist": "Bobby Bloom",
-          "plays": 1
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 1
-        },
-        {
-          "artist": "Desired",
-          "plays": 1
-        },
-        {
-          "artist": ".EEhou",
           "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 87
+          "plays": 78
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 14
-        },
-        {
-          "genre": "Rock",
-          "plays": 8
-        },
-        {
-          "genre": "Pop",
-          "plays": 7
-        },
-        {
-          "genre": "Electronic",
-          "plays": 4
-        },
-        {
-          "genre": "Alternative",
-          "plays": 4
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 2
-        },
-        {
-          "genre": "City Pop",
-          "plays": 2
+          "plays": 13
         },
         {
           "genre": "Variete Francaise",
-          "plays": 1
+          "plays": 4
         },
         {
-          "genre": "Lowfi",
-          "plays": 1
+          "genre": "City Pop",
+          "plays": 3
         },
         {
-          "genre": "mashup",
-          "plays": 1
-        },
-        {
-          "genre": "Comedy",
-          "plays": 1
-        },
-        {
-          "genre": "Club",
-          "plays": 1
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 1
-        },
-        {
-          "genre": "Latin",
-          "plays": 1
-        },
-        {
-          "genre": "Soul and R&B",
+          "genre": "Electronic",
           "plays": 1
         }
       ],
@@ -455,128 +355,26 @@
           "genre": "Hip Hop/Rap"
         },
         {
+          "song": "Lalalove You",
+          "artist": "BB Brunes",
+          "plays": 4,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "Stand Together (Lifelike Remix)",
           "artist": "All Hail the Silence and Lifelike",
-          "plays": 4,
+          "plays": 3,
           "genre": "Dance"
         },
         {
-          "song": "L'homme pressé",
-          "artist": "Noir Désir",
-          "plays": 2,
-          "genre": "Rock"
+          "song": "Fantasy",
+          "artist": "Meiko Nakahara",
+          "plays": 3,
+          "genre": "City Pop"
         },
         {
           "song": "GiscardPunk",
           "artist": "Cour De Recré",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Twist and Shout",
-          "artist": "Isley Brothers",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "On Melancholy Hill",
-          "artist": "Gorillaz",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Holiday (Faded Ending)",
-          "artist": "Green Day",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Heat Waves",
-          "artist": "Glass Animals",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Video Killed the Radio Star",
-          "artist": "Buggles",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Running up that Hill",
-          "artist": "Kate Bush",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Some Funk",
-          "artist": "Ourvais",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Titanium",
-          "artist": "David Guetta",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "C'est Comme Ça",
-          "artist": "Les Rita Mitsouko",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Hello Lonely (Official Video)",
-          "artist": "Alfie Templeman",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Still Haven't Found What I'm Looking For",
-          "artist": "U2",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Montego Bay",
-          "artist": "Bobby Bloom",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "Let's Go (feat Ne-Yo)",
-          "artist": "Calvin Harris",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "I'm so Alone",
-          "artist": "Desired",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Fantasy",
-          "artist": ".EEhou",
-          "plays": 1,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "Levitating (Remix)",
-          "artist": "Dua Lipa & Ariana Grande & Nicki Minaj",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "To Be Real",
-          "artist": "Austin Millz",
-          "plays": 1,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "TERRITORY",
-          "artist": "The Blaze",
           "plays": 1,
           "genre": "Electronic"
         }
@@ -584,7 +382,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 343,
+      "total_plays": 349,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -639,6 +437,10 @@
           "plays": 5
         },
         {
+          "artist": "BB Brunes",
+          "plays": 4
+        },
+        {
           "artist": "BBC Music",
           "plays": 4
         },
@@ -681,10 +483,6 @@
         {
           "artist": "Mika",
           "plays": 4
-        },
-        {
-          "artist": "Charles Aznavour",
-          "plays": 4
         }
       ],
       "top_genres": [
@@ -702,7 +500,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 23
+          "plays": 27
         },
         {
           "genre": "Hip Hop/Rap",
@@ -718,7 +516,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 13
+          "plays": 15
         },
         {
           "genre": "mashup",
@@ -833,6 +631,12 @@
           "genre": "mashup"
         },
         {
+          "song": "Lalalove You",
+          "artist": "BB Brunes",
+          "plays": 4,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "God Only Knows ( BBC)",
           "artist": "BBC Music",
           "plays": 4,
@@ -933,18 +737,12 @@
           "artist": "Pakito",
           "plays": 4,
           "genre": "Dance"
-        },
-        {
-          "song": "Delta",
-          "artist": "C2C",
-          "plays": 4,
-          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 594,
+      "total_plays": 600,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1043,7 +841,7 @@
           "plays": 5
         },
         {
-          "artist": "BBC Music",
+          "artist": "BB Brunes",
           "plays": 4
         }
       ],
@@ -1066,7 +864,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 37
+          "plays": 41
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1081,12 +879,12 @@
           "plays": 19
         },
         {
-          "genre": "Soft Rock",
-          "plays": 16
+          "genre": "City Pop",
+          "plays": 17
         },
         {
-          "genre": "City Pop",
-          "plays": 15
+          "genre": "Soft Rock",
+          "plays": 16
         },
         {
           "genre": "French Pop",
@@ -1241,6 +1039,12 @@
           "genre": "City Pop"
         },
         {
+          "song": "Lalalove You",
+          "artist": "BB Brunes",
+          "plays": 4,
+          "genre": "Variete Francaise"
+        },
+        {
           "song": "God Only Knows ( BBC)",
           "artist": "BBC Music",
           "plays": 4,
@@ -1293,18 +1097,12 @@
           "artist": "Gorgon City",
           "plays": 4,
           "genre": "Electronic"
-        },
-        {
-          "song": "Need You Tonight",
-          "artist": "INXS",
-          "plays": 4,
-          "genre": "Rock"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2727,
+      "total_plays": 2731,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1418,11 +1216,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 293
+          "plays": 291
         },
         {
           "genre": "Variete Francaise",
-          "plays": 171
+          "plays": 175
         },
         {
           "genre": "Alternative",
@@ -1450,7 +1248,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 50
+          "plays": 52
         },
         {
           "genre": "French Pop",
@@ -1664,7 +1462,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 3349,
+      "total_plays": 3355,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1782,7 +1580,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 287
+          "plays": 291
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1805,12 +1603,12 @@
           "plays": 113
         },
         {
-          "genre": "mashup",
-          "plays": 61
+          "genre": "City Pop",
+          "plays": 62
         },
         {
-          "genre": "City Pop",
-          "plays": 60
+          "genre": "mashup",
+          "plays": 61
         },
         {
           "genre": "French Pop",
@@ -2024,7 +1822,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 3349,
+      "total_plays": 3355,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2142,7 +1940,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 287
+          "plays": 291
         },
         {
           "genre": "Hip Hop/Rap",
@@ -2165,12 +1963,12 @@
           "plays": 113
         },
         {
-          "genre": "mashup",
-          "plays": 61
+          "genre": "City Pop",
+          "plays": 62
         },
         {
-          "genre": "City Pop",
-          "plays": 60
+          "genre": "mashup",
+          "plays": 61
         },
         {
           "genre": "French Pop",
@@ -3008,6 +2806,11 @@
       "date": "2026-06-30",
       "id": "162e1839baf6ebb0",
       "plays": 1
+    },
+    {
+      "date": "2026-08-15",
+      "id": "162e1839baf6ebb0",
+      "plays": 4
     },
     {
       "date": "2026-06-08",
@@ -7470,6 +7273,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-15",
+      "id": "e7d05da66170da98",
+      "plays": 2
+    },
+    {
       "date": "2026-05-22",
       "id": "e96046bde4dc449a",
       "plays": 5
@@ -8041,6 +7849,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-14",
-  "snapshot_count": 102
+  "latest_snapshot": "2026-08-15",
+  "snapshot_count": 103
 }
