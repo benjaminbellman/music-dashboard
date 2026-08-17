@@ -263,23 +263,35 @@
     {
       "date": "2026-08-16",
       "plays": 34
+    },
+    {
+      "date": "2026-08-17",
+      "plays": 34
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 47,
+      "total_plays": 74,
       "top_artists": [
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 27
+        },
+        {
+          "artist": "Kungs",
+          "plays": 26
+        },
         {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 7
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 6
+          "artist": "Dua Lipa",
+          "plays": 5
         },
         {
-          "artist": "Kungs",
+          "artist": "Lighthouse Family",
           "plays": 5
         },
         {
@@ -289,18 +301,6 @@
         {
           "artist": "BB Brunes",
           "plays": 4
-        },
-        {
-          "artist": "All Hail the Silence",
-          "plays": 3
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 3
-        },
-        {
-          "artist": "Meiko Nakahara",
-          "plays": 3
         },
         {
           "artist": "Michael Gray",
@@ -343,6 +343,10 @@
           "plays": 2
         },
         {
+          "artist": "Meiko Nakahara",
+          "plays": 2
+        },
+        {
           "artist": "Patrick Cowley",
           "plays": 1
         }
@@ -350,11 +354,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 24
+          "plays": 47
         },
         {
           "genre": "Variete Francaise",
           "plays": 8
+        },
+        {
+          "genre": "House",
+          "plays": 5
         },
         {
           "genre": "Future Funk",
@@ -365,19 +373,25 @@
           "plays": 4
         },
         {
-          "genre": "City Pop",
-          "plays": 3
-        },
-        {
           "genre": "Rock",
           "plays": 2
         },
         {
           "genre": "Electronic",
           "plays": 2
+        },
+        {
+          "genre": "City Pop",
+          "plays": 2
         }
       ],
       "top_tracks": [
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 26,
+          "genre": "Dance"
+        },
         {
           "song": "Miss You",
           "artist": "Oliver Tree & Robin Schulz",
@@ -385,10 +399,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
+          "song": "Electricity  ft. Diplo, Mark Ronson",
+          "artist": "Dua Lipa & Silk City",
           "plays": 5,
           "genre": "Dance"
+        },
+        {
+          "song": "Question Of Faith (Idjut Boys Remix)",
+          "artist": "Lighthouse Family",
+          "plays": 5,
+          "genre": "House"
         },
         {
           "song": "PARIS",
@@ -401,18 +421,6 @@
           "artist": "BB Brunes",
           "plays": 4,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Stand Together (Lifelike Remix)",
-          "artist": "All Hail the Silence and Lifelike",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Fantasy",
-          "artist": "Meiko Nakahara",
-          "plays": 3,
-          "genre": "City Pop"
         },
         {
           "song": "The Weekend",
@@ -475,6 +483,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Fantasy",
+          "artist": "Meiko Nakahara",
+          "plays": 2,
+          "genre": "City Pop"
+        },
+        {
           "song": "Menergy (feat. Sylvester)",
           "artist": "Patrick Cowley & Purple Disco Machine",
           "plays": 1,
@@ -484,19 +498,19 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 383,
+      "total_plays": 417,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 31
+          "plays": 55
+        },
+        {
+          "artist": "Kungs",
+          "plays": 53
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 31
-        },
-        {
-          "artist": "Kungs",
-          "plays": 29
         },
         {
           "artist": "ANOTR",
@@ -517,6 +531,10 @@
         {
           "artist": "Flight Facilities",
           "plays": 7
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 6
         },
         {
           "artist": "Daft Punk",
@@ -544,6 +562,10 @@
         },
         {
           "artist": "Horalion",
+          "plays": 5
+        },
+        {
+          "artist": "Lighthouse Family",
           "plays": 5
         },
         {
@@ -577,20 +599,12 @@
         {
           "artist": "Jennifer Lopez",
           "plays": 4
-        },
-        {
-          "artist": "Gorgon City",
-          "plays": 4
-        },
-        {
-          "artist": "INXS",
-          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 137
+          "plays": 166
         },
         {
           "genre": "Pop",
@@ -634,6 +648,10 @@
         },
         {
           "genre": "Soundtrack",
+          "plays": 5
+        },
+        {
+          "genre": "House",
           "plays": 5
         },
         {
@@ -683,23 +701,19 @@
         {
           "genre": "Hip-Hop/Rap",
           "plays": 1
-        },
-        {
-          "genre": "J-Pop",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 53,
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 29,
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
           "genre": "Dance"
         },
         {
@@ -727,10 +741,22 @@
           "genre": "Electronic"
         },
         {
+          "song": "Electricity  ft. Diplo, Mark Ronson",
+          "artist": "Dua Lipa & Silk City",
+          "plays": 5,
+          "genre": "Dance"
+        },
+        {
           "song": "2002 - 2012 Decade Mix",
           "artist": "Flight Facilities",
           "plays": 5,
           "genre": "mashup"
+        },
+        {
+          "song": "Question Of Faith (Idjut Boys Remix)",
+          "artist": "Lighthouse Family",
+          "plays": 5,
+          "genre": "House"
         },
         {
           "song": "PARIS",
@@ -827,32 +853,20 @@
           "artist": "Charles Aznavour",
           "plays": 4,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Tell me more",
-          "artist": "John Travolta",
-          "plays": 4,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Cry (Just A Little)",
-          "artist": "Bingo Players",
-          "plays": 4,
-          "genre": "Dance"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 634,
+      "total_plays": 668,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 44
+          "plays": 68
         },
         {
           "artist": "Kungs",
-          "plays": 40
+          "plays": 64
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -919,6 +933,10 @@
           "plays": 6
         },
         {
+          "artist": "Dua Lipa",
+          "plays": 6
+        },
+        {
           "artist": "Lifelike",
           "plays": 6
         },
@@ -941,16 +959,12 @@
         {
           "artist": "Avicii",
           "plays": 5
-        },
-        {
-          "artist": "Charles Aznavour",
-          "plays": 5
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 206
+          "plays": 235
         },
         {
           "genre": "Pop",
@@ -1021,6 +1035,10 @@
           "plays": 5
         },
         {
+          "genre": "House",
+          "plays": 5
+        },
+        {
           "genre": "Latin",
           "plays": 4
         },
@@ -1043,17 +1061,13 @@
         {
           "genre": "Alternative & Punk",
           "plays": 2
-        },
-        {
-          "genre": "Synthwave",
-          "plays": 2
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 40,
+          "plays": 64,
           "genre": "Dance"
         },
         {
@@ -1135,6 +1149,18 @@
           "genre": "Electronic"
         },
         {
+          "song": "Electricity  ft. Diplo, Mark Ronson",
+          "artist": "Dua Lipa & Silk City",
+          "plays": 5,
+          "genre": "Dance"
+        },
+        {
+          "song": "Question Of Faith (Idjut Boys Remix)",
+          "artist": "Lighthouse Family",
+          "plays": 5,
+          "genre": "House"
+        },
+        {
           "song": "LOVELAND Island",
           "artist": "Tatsuro Yamashita",
           "plays": 4,
@@ -1187,32 +1213,20 @@
           "artist": "Feist",
           "plays": 4,
           "genre": "Alternative"
-        },
-        {
-          "song": "Viens dans ma maison",
-          "artist": "Henri Dès",
-          "plays": 4,
-          "genre": "Musique pour enfants"
-        },
-        {
-          "song": "On the Floor (feat. Pitbull)",
-          "artist": "Jennifer Lopez",
-          "plays": 4,
-          "genre": "Pop"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2748,
+      "total_plays": 2782,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 172
+          "plays": 196
         },
         {
           "artist": "Kungs",
-          "plays": 167
+          "plays": 191
         },
         {
           "artist": "442oons",
@@ -1310,7 +1324,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 735
+          "plays": 764
         },
         {
           "genre": "Pop",
@@ -1369,16 +1383,16 @@
           "plays": 21
         },
         {
+          "genre": "House",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
           "genre": "Oldies",
           "plays": 17
-        },
-        {
-          "genre": "House",
-          "plays": 15
         },
         {
           "genre": "Disco",
@@ -1413,7 +1427,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 166,
+          "plays": 190,
           "genre": "Dance"
         },
         {
@@ -1564,15 +1578,15 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 3389,
+      "total_plays": 3423,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 172
+          "plays": 196
         },
         {
           "artist": "Kungs",
-          "plays": 167
+          "plays": 191
         },
         {
           "artist": "France Football Anthem",
@@ -1670,7 +1684,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 898
+          "plays": 927
         },
         {
           "genre": "Pop",
@@ -1721,12 +1735,12 @@
           "plays": 41
         },
         {
-          "genre": "Vaporwave",
-          "plays": 30
+          "genre": "House",
+          "plays": 34
         },
         {
-          "genre": "House",
-          "plays": 29
+          "genre": "Vaporwave",
+          "plays": 30
         },
         {
           "genre": "Oldies",
@@ -1773,7 +1787,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 166,
+          "plays": 190,
           "genre": "Dance"
         },
         {
@@ -1924,15 +1938,15 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 3389,
+      "total_plays": 3423,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 172
+          "plays": 196
         },
         {
           "artist": "Kungs",
-          "plays": 167
+          "plays": 191
         },
         {
           "artist": "France Football Anthem",
@@ -2030,7 +2044,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 898
+          "plays": 927
         },
         {
           "genre": "Pop",
@@ -2081,12 +2095,12 @@
           "plays": 41
         },
         {
-          "genre": "Vaporwave",
-          "plays": 30
+          "genre": "House",
+          "plays": 34
         },
         {
-          "genre": "House",
-          "plays": 29
+          "genre": "Vaporwave",
+          "plays": 30
         },
         {
           "genre": "Oldies",
@@ -2133,7 +2147,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 166,
+          "plays": 190,
           "genre": "Dance"
         },
         {
@@ -3928,6 +3942,11 @@
       "date": "2026-08-16",
       "id": "49a8e200a97614c3",
       "plays": 2
+    },
+    {
+      "date": "2026-08-17",
+      "id": "49a8e200a97614c3",
+      "plays": 24
     },
     {
       "date": "2026-06-15",
@@ -5865,6 +5884,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-17",
+      "id": "9e19ca7d049b651f",
+      "plays": 5
+    },
+    {
       "date": "2026-05-21",
       "id": "9eec13b6e2f9955a",
       "plays": 1
@@ -7095,6 +7119,11 @@
       "plays": 4
     },
     {
+      "date": "2026-08-17",
+      "id": "d8c34b4cb695df21",
+      "plays": 5
+    },
+    {
       "date": "2026-05-02",
       "id": "d92ab89ce89ea97f",
       "plays": 1
@@ -8021,6 +8050,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-16",
-  "snapshot_count": 104
+  "latest_snapshot": "2026-08-17",
+  "snapshot_count": 105
 }
