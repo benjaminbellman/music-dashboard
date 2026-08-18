@@ -272,7 +272,7 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 74,
+      "total_plays": 68,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -296,10 +296,6 @@
         },
         {
           "artist": "RITCHRD",
-          "plays": 4
-        },
-        {
-          "artist": "BB Brunes",
           "plays": 4
         },
         {
@@ -343,10 +339,6 @@
           "plays": 2
         },
         {
-          "artist": "Meiko Nakahara",
-          "plays": 2
-        },
-        {
           "artist": "Patrick Cowley",
           "plays": 1
         }
@@ -355,10 +347,6 @@
         {
           "genre": "Dance",
           "plays": 47
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 8
         },
         {
           "genre": "House",
@@ -373,15 +361,15 @@
           "plays": 4
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 4
+        },
+        {
           "genre": "Rock",
           "plays": 2
         },
         {
           "genre": "Electronic",
-          "plays": 2
-        },
-        {
-          "genre": "City Pop",
           "plays": 2
         }
       ],
@@ -415,12 +403,6 @@
           "artist": "RITCHRD",
           "plays": 4,
           "genre": "Future Funk"
-        },
-        {
-          "song": "Lalalove You",
-          "artist": "BB Brunes",
-          "plays": 4,
-          "genre": "Variete Francaise"
         },
         {
           "song": "The Weekend",
@@ -481,12 +463,6 @@
           "artist": "Stromae",
           "plays": 2,
           "genre": "Variete Francaise"
-        },
-        {
-          "song": "Fantasy",
-          "artist": "Meiko Nakahara",
-          "plays": 2,
-          "genre": "City Pop"
         },
         {
           "song": "Menergy (feat. Sylvester)",
@@ -8050,6 +8026,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-17",
-  "snapshot_count": 105
+  "latest_snapshot": "2026-08-18",
+  "snapshot_count": 106
 }
