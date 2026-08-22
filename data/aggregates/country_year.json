@@ -2,7 +2,7 @@
   "2026": [
     {
       "country": "FR",
-      "plays": 995
+      "plays": 997
     },
     {
       "country": "US",
@@ -10,7 +10,7 @@
     },
     {
       "country": "GB",
-      "plays": 476
+      "plays": 481
     },
     {
       "country": "SE",
@@ -52,7 +52,7 @@
     },
     {
       "country": "US",
-      "plays": 2133
+      "plays": 2134
     },
     {
       "country": "GB",
@@ -108,7 +108,7 @@
     },
     {
       "country": "BE",
-      "plays": 43
+      "plays": 45
     },
     {
       "country": "IT",
@@ -130,7 +130,7 @@
   "2024": [
     {
       "country": "FR",
-      "plays": 4492
+      "plays": 4500
     },
     {
       "country": "US",
@@ -162,11 +162,11 @@
     },
     {
       "country": "SE",
-      "plays": 242
+      "plays": 243
     },
     {
       "country": "KR",
-      "plays": 202
+      "plays": 205
     },
     {
       "country": "BE",
@@ -228,7 +228,7 @@
   "2023": [
     {
       "country": "FR",
-      "plays": 3524
+      "plays": 3525
     },
     {
       "country": "US",
@@ -248,7 +248,7 @@
     },
     {
       "country": "CA",
-      "plays": 471
+      "plays": 474
     },
     {
       "country": "KR",
@@ -287,11 +287,11 @@
       "plays": 77
     },
     {
-      "country": "BR",
-      "plays": 68
+      "country": "UA",
+      "plays": 69
     },
     {
-      "country": "UA",
+      "country": "BR",
       "plays": 68
     },
     {
@@ -746,11 +746,11 @@
   "2016": [
     {
       "country": "FR",
-      "plays": 5365
+      "plays": 5366
     },
     {
       "country": "US",
-      "plays": 4378
+      "plays": 4380
     },
     {
       "country": "GB",
@@ -820,7 +820,7 @@
   "2015": [
     {
       "country": "US",
-      "plays": 4994
+      "plays": 4995
     },
     {
       "country": "FR",
@@ -887,12 +887,12 @@
       "plays": 39
     },
     {
-      "country": "BR",
-      "plays": 30
+      "country": "ZA",
+      "plays": 31
     },
     {
-      "country": "ZA",
-      "plays": 29
+      "country": "BR",
+      "plays": 30
     },
     {
       "country": "DK",
@@ -910,11 +910,11 @@
   "2014": [
     {
       "country": "FR",
-      "plays": 3767
+      "plays": 3768
     },
     {
       "country": "US",
-      "plays": 2421
+      "plays": 2422
     },
     {
       "country": "GB",
@@ -930,7 +930,7 @@
     },
     {
       "country": "SE",
-      "plays": 417
+      "plays": 418
     },
     {
       "country": "AU",
@@ -996,7 +996,7 @@
   "2013": [
     {
       "country": "US",
-      "plays": 7979
+      "plays": 7980
     },
     {
       "country": "FR",
@@ -1094,7 +1094,7 @@
   "2012": [
     {
       "country": "US",
-      "plays": 739
+      "plays": 744
     },
     {
       "country": "FR",
@@ -1186,7 +1186,7 @@
     },
     {
       "country": "FR",
-      "plays": 238
+      "plays": 240
     },
     {
       "country": "CA",

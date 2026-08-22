@@ -271,12 +271,16 @@
     {
       "date": "2026-08-21",
       "plays": 50
+    },
+    {
+      "date": "2026-08-22",
+      "plays": 45
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 50,
+      "total_plays": 95,
       "top_artists": [
         {
           "artist": "Naturi Naughton",
@@ -284,18 +288,54 @@
         },
         {
           "artist": "Kungs",
-          "plays": 4
+          "plays": 6
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 4
+          "plays": 6
+        },
+        {
+          "artist": "4 Non Blondes",
+          "plays": 5
+        },
+        {
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 5
+        },
+        {
+          "artist": "442oons",
+          "plays": 5
+        },
+        {
+          "artist": "ROSÉ & Bruno Mars",
+          "plays": 3
+        },
+        {
+          "artist": "Simple Plan",
+          "plays": 3
+        },
+        {
+          "artist": "Hits Variété Pop",
+          "plays": 2
+        },
+        {
+          "artist": "Kate Ryan",
+          "plays": 2
         },
         {
           "artist": "Scatman John",
           "plays": 2
         },
         {
+          "artist": "KONGOS",
+          "plays": 2
+        },
+        {
           "artist": "Patrick Cowley",
+          "plays": 2
+        },
+        {
+          "artist": "Harry Nillson",
           "plays": 2
         },
         {
@@ -319,6 +359,10 @@
           "plays": 1
         },
         {
+          "artist": "Ace of Base",
+          "plays": 1
+        },
+        {
           "artist": "Milky",
           "plays": 1
         },
@@ -337,63 +381,43 @@
         {
           "artist": "Galantis",
           "plays": 1
-        },
-        {
-          "artist": "Etienne de Crecy",
-          "plays": 1
-        },
-        {
-          "artist": "Real California Milk",
-          "plays": 1
-        },
-        {
-          "artist": "Weezer",
-          "plays": 1
-        },
-        {
-          "artist": "Dominic Pierce",
-          "plays": 1
-        },
-        {
-          "artist": "Fantompower",
-          "plays": 1
-        },
-        {
-          "artist": "2 Chainz",
-          "plays": 1
-        },
-        {
-          "artist": "Johnny Cash",
-          "plays": 1
-        },
-        {
-          "artist": "Ghostbusters",
-          "plays": 1
-        },
-        {
-          "artist": "Nickelback",
-          "plays": 1
-        },
-        {
-          "artist": "Keen V",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 19
+          "plays": 31
         },
         {
           "genre": "Pop",
-          "plays": 7
+          "plays": 17
+        },
+        {
+          "genre": "Rock",
+          "plays": 9
         },
         {
           "genre": "Electronic",
-          "plays": 4
+          "plays": 5
+        },
+        {
+          "genre": "Comedy",
+          "plays": 5
         },
         {
           "genre": "Europop",
+          "plays": 4
+        },
+        {
+          "genre": "Alternative",
+          "plays": 4
+        },
+        {
+          "genre": "mashup",
+          "plays": 3
+        },
+        {
+          "genre": "Hip-Hop/Rap",
           "plays": 3
         },
         {
@@ -401,11 +425,7 @@
           "plays": 2
         },
         {
-          "genre": "Alternative",
-          "plays": 2
-        },
-        {
-          "genre": "Hip-Hop/Rap",
+          "genre": "Soundtrack",
           "plays": 2
         },
         {
@@ -429,11 +449,7 @@
           "plays": 1
         },
         {
-          "genre": "Soundtrack",
-          "plays": 1
-        },
-        {
-          "genre": "Rock",
+          "genre": "Arabic",
           "plays": 1
         },
         {
@@ -459,8 +475,50 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 4,
+          "plays": 6,
           "genre": "Dance"
+        },
+        {
+          "song": "What's Up?",
+          "artist": "4 Non Blondes",
+          "plays": 5,
+          "genre": "Rock"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 5,
+          "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 5,
+          "genre": "Comedy"
+        },
+        {
+          "song": "APT",
+          "artist": "ROSÉ & Bruno Mars",
+          "plays": 3,
+          "genre": "Pop"
+        },
+        {
+          "song": "What's New Scooby Doo",
+          "artist": "Simple Plan",
+          "plays": 3,
+          "genre": "Rock"
+        },
+        {
+          "song": "Même Pas Fatigué",
+          "artist": "Hits Variété Pop",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
+          "song": "Désenchantée",
+          "artist": "Kate Ryan",
+          "plays": 2,
+          "genre": "Pop"
         },
         {
           "song": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
@@ -469,10 +527,22 @@
           "genre": "Europop"
         },
         {
+          "song": "Come With Me Now",
+          "artist": "KONGOS",
+          "plays": 2,
+          "genre": "Alternative"
+        },
+        {
           "song": "Menergy",
           "artist": "Patrick Cowley",
           "plays": 2,
           "genre": "Dance"
+        },
+        {
+          "song": "Everybody's Talkin'",
+          "artist": "Harry Nillson",
+          "plays": 2,
+          "genre": "Pop"
         },
         {
           "song": "With Love",
@@ -505,6 +575,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Happy Nation",
+          "artist": "Ace of Base",
+          "plays": 1,
+          "genre": "Europop"
+        },
+        {
           "song": "Just The Way You Are",
           "artist": "Milky",
           "plays": 1,
@@ -535,84 +611,24 @@
           "genre": "Dance"
         },
         {
-          "song": "Am I Wrong",
-          "artist": "Etienne de Crecy",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Goodness is Real",
-          "artist": "Real California Milk",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Island In the Sun",
-          "artist": "Weezer",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Good Friends",
-          "artist": "Dominic Pierce",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Blankets",
-          "artist": "Fantompower",
-          "plays": 1,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "Birthday Song (feat. Kanye West)",
-          "artist": "2 Chainz",
-          "plays": 1,
-          "genre": "Hip-Hop/Rap"
-        },
-        {
-          "song": "Man in black",
-          "artist": "Johnny Cash",
-          "plays": 1,
-          "genre": "Country"
-        },
-        {
-          "song": "GhostBusters Theme Song",
-          "artist": "Ghostbusters",
+          "song": "I Wanna Be Like You",
+          "artist": "Disney",
           "plays": 1,
           "genre": "Soundtrack"
-        },
-        {
-          "song": "How you remind me",
-          "artist": "Nickelback",
-          "plays": 1,
-          "genre": "Rock"
-        },
-        {
-          "song": "J'aimerais Trop  (feat. SAP)",
-          "artist": "Keen V",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Coup De Boule",
-          "artist": "La Plage",
-          "plays": 1,
-          "genre": "Pop"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 360,
+      "total_plays": 405,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 58
+          "plays": 60
         },
         {
           "artist": "Kungs",
-          "plays": 57
+          "plays": 59
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -620,7 +636,7 @@
         },
         {
           "artist": "ANOTR",
-          "plays": 24
+          "plays": 25
         },
         {
           "artist": "KITSCHKRIEG",
@@ -631,15 +647,15 @@
           "plays": 12
         },
         {
+          "artist": "Daft Punk",
+          "plays": 7
+        },
+        {
           "artist": "Naturi Naughton",
           "plays": 7
         },
         {
           "artist": "Dua Lipa",
-          "plays": 6
-        },
-        {
-          "artist": "Daft Punk",
           "plays": 6
         },
         {
@@ -651,7 +667,19 @@
           "plays": 5
         },
         {
+          "artist": "4 Non Blondes",
+          "plays": 5
+        },
+        {
           "artist": "Lighthouse Family",
+          "plays": 5
+        },
+        {
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 5
+        },
+        {
+          "artist": "442oons",
           "plays": 5
         },
         {
@@ -693,40 +721,28 @@
         {
           "artist": "INXS",
           "plays": 4
-        },
-        {
-          "artist": "Avicii",
-          "plays": 4
-        },
-        {
-          "artist": "Renan Luce",
-          "plays": 4
-        },
-        {
-          "artist": "Mika",
-          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 165
+          "plays": 177
         },
         {
           "genre": "Pop",
-          "plays": 50
+          "plays": 60
+        },
+        {
+          "genre": "Electronic",
+          "plays": 23
+        },
+        {
+          "genre": "Rock",
+          "plays": 23
         },
         {
           "genre": "Variete Francaise",
           "plays": 23
-        },
-        {
-          "genre": "Electronic",
-          "plays": 22
-        },
-        {
-          "genre": "Rock",
-          "plays": 15
         },
         {
           "genre": "Hip Hop/Rap",
@@ -734,10 +750,18 @@
         },
         {
           "genre": "Alternative",
-          "plays": 10
+          "plays": 12
         },
         {
           "genre": "Future Funk",
+          "plays": 8
+        },
+        {
+          "genre": "Europop",
+          "plays": 8
+        },
+        {
+          "genre": "mashup",
           "plays": 8
         },
         {
@@ -745,20 +769,20 @@
           "plays": 8
         },
         {
-          "genre": "Europop",
-          "plays": 7
-        },
-        {
-          "genre": "mashup",
-          "plays": 5
-        },
-        {
           "genre": "Soundtrack",
-          "plays": 5
+          "plays": 6
+        },
+        {
+          "genre": "Comedy",
+          "plays": 6
         },
         {
           "genre": "House",
           "plays": 5
+        },
+        {
+          "genre": "Hip-Hop/Rap",
+          "plays": 4
         },
         {
           "genre": "Musique pour enfants",
@@ -767,10 +791,6 @@
         {
           "genre": "French Pop",
           "plays": 4
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 3
         },
         {
           "genre": "Latin",
@@ -789,11 +809,11 @@
           "plays": 1
         },
         {
-          "genre": "Funk",
+          "genre": "Arabic",
           "plays": 1
         },
         {
-          "genre": "Comedy",
+          "genre": "Funk",
           "plays": 1
         },
         {
@@ -803,17 +823,13 @@
         {
           "genre": "Soul and R&B",
           "plays": 1
-        },
-        {
-          "genre": "Synthwave",
-          "plays": 1
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 57,
+          "plays": 59,
           "genre": "Dance"
         },
         {
@@ -825,7 +841,7 @@
         {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
-          "plays": 24,
+          "plays": 25,
           "genre": "Dance"
         },
         {
@@ -859,10 +875,28 @@
           "genre": "Dance"
         },
         {
+          "song": "What's Up?",
+          "artist": "4 Non Blondes",
+          "plays": 5,
+          "genre": "Rock"
+        },
+        {
           "song": "Question Of Faith (Idjut Boys Remix)",
           "artist": "Lighthouse Family",
           "plays": 5,
           "genre": "House"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 5,
+          "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 5,
+          "genre": "Comedy"
         },
         {
           "song": "PARIS",
@@ -941,38 +975,20 @@
           "artist": "Renan Luce",
           "plays": 4,
           "genre": "French Pop"
-        },
-        {
-          "song": "Rain",
-          "artist": "Mika",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "2002 - 2012 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 4,
-          "genre": "mashup"
-        },
-        {
-          "song": "Hier encore",
-          "artist": "Charles Aznavour",
-          "plays": 4,
-          "genre": "Variete Francaise"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 600,
+      "total_plays": 645,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 61
+          "plays": 63
         },
         {
           "artist": "Kungs",
-          "plays": 57
+          "plays": 59
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -980,19 +996,19 @@
         },
         {
           "artist": "ANOTR",
-          "plays": 24
+          "plays": 25
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 24
         },
         {
-          "artist": "KITSCHKRIEG",
+          "artist": "Bon Entendeur",
           "plays": 13
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 12
+          "artist": "KITSCHKRIEG",
+          "plays": 13
         },
         {
           "artist": "Stephen Sanchez & Em Beihold",
@@ -1004,10 +1020,14 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 8
+          "plays": 9
         },
         {
           "artist": "Supertramp",
+          "plays": 8
+        },
+        {
+          "artist": "The Whitest Boy Alive & Fred Falke",
           "plays": 8
         },
         {
@@ -1016,6 +1036,10 @@
         },
         {
           "artist": "Naturi Naughton",
+          "plays": 7
+        },
+        {
+          "artist": "442oons",
           "plays": 7
         },
         {
@@ -1055,50 +1079,42 @@
           "plays": 5
         },
         {
-          "artist": "Lighthouse Family",
+          "artist": "4 Non Blondes",
           "plays": 5
-        },
-        {
-          "artist": "RITCHRD",
-          "plays": 4
-        },
-        {
-          "artist": "BB Brunes",
-          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 228
+          "plays": 240
         },
         {
           "genre": "Pop",
-          "plays": 78
+          "plays": 88
         },
         {
           "genre": "Electronic",
-          "plays": 46
+          "plays": 47
         },
         {
           "genre": "Variete Francaise",
           "plays": 43
         },
         {
-          "genre": "Alternative",
-          "plays": 28
+          "genre": "Rock",
+          "plays": 35
         },
         {
-          "genre": "Rock",
-          "plays": 27
+          "genre": "Alternative",
+          "plays": 30
+        },
+        {
+          "genre": "mashup",
+          "plays": 22
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 21
-        },
-        {
-          "genre": "mashup",
-          "plays": 19
         },
         {
           "genre": "City Pop",
@@ -1114,6 +1130,14 @@
         },
         {
           "genre": "Europop",
+          "plays": 8
+        },
+        {
+          "genre": "Comedy",
+          "plays": 8
+        },
+        {
+          "genre": "Soundtrack",
           "plays": 7
         },
         {
@@ -1121,12 +1145,8 @@
           "plays": 7
         },
         {
-          "genre": "Soundtrack",
-          "plays": 6
-        },
-        {
           "genre": "Hip-Hop/Rap",
-          "plays": 5
+          "plays": 6
         },
         {
           "genre": "House",
@@ -1153,10 +1173,6 @@
           "plays": 3
         },
         {
-          "genre": "Comedy",
-          "plays": 3
-        },
-        {
           "genre": "Hip-hop/Rap",
           "plays": 2
         },
@@ -1173,7 +1189,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 57,
+          "plays": 59,
           "genre": "Dance"
         },
         {
@@ -1185,7 +1201,7 @@
         {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
-          "plays": 24,
+          "plays": 25,
           "genre": "Dance"
         },
         {
@@ -1219,6 +1235,12 @@
           "genre": "Soft Rock"
         },
         {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 8,
+          "genre": "Dance"
+        },
+        {
           "song": "Fame 09 (Bimbo Jones Club Mix)",
           "artist": "Naturi Naughton",
           "plays": 7,
@@ -1243,16 +1265,34 @@
           "genre": "Electronic"
         },
         {
+          "song": "Decade Mixtape 90's",
+          "artist": "Bon Entendeur",
+          "plays": 5,
+          "genre": "mashup"
+        },
+        {
           "song": "Electricity  ft. Diplo, Mark Ronson",
           "artist": "Dua Lipa & Silk City",
           "plays": 5,
           "genre": "Dance"
         },
         {
+          "song": "What's Up?",
+          "artist": "4 Non Blondes",
+          "plays": 5,
+          "genre": "Rock"
+        },
+        {
           "song": "Question Of Faith (Idjut Boys Remix)",
           "artist": "Lighthouse Family",
           "plays": 5,
           "genre": "House"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 5,
+          "genre": "Comedy"
         },
         {
           "song": "PARIS",
@@ -1291,56 +1331,32 @@
           "genre": "Europop"
         },
         {
-          "song": "Decade Mixtape 90's",
-          "artist": "Bon Entendeur",
-          "plays": 4,
-          "genre": "mashup"
-        },
-        {
           "song": "My Moon My Man",
           "artist": "Feist",
           "plays": 4,
           "genre": "Alternative"
-        },
-        {
-          "song": "Viens dans ma maison",
-          "artist": "Henri Dès",
-          "plays": 4,
-          "genre": "Musique pour enfants"
-        },
-        {
-          "song": "On the Floor (feat. Pitbull)",
-          "artist": "Jennifer Lopez",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "Menergy (feat. Sylvester)",
-          "artist": "Patrick Cowley & Purple Disco Machine",
-          "plays": 4,
-          "genre": "Dance"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2721,
+      "total_plays": 2766,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 200
+          "plays": 202
         },
         {
           "artist": "Kungs",
-          "plays": 195
+          "plays": 197
         },
         {
           "artist": "442oons",
-          "plays": 81
+          "plays": 86
         },
         {
           "artist": "Daft Punk",
-          "plays": 68
+          "plays": 69
         },
         {
           "artist": "France Football Anthem",
@@ -1364,11 +1380,11 @@
         },
         {
           "artist": "ANOTR",
-          "plays": 48
+          "plays": 49
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 44
+          "plays": 45
         },
         {
           "artist": "Stevie Nicks",
@@ -1430,15 +1446,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 768
+          "plays": 780
         },
         {
           "genre": "Pop",
-          "plays": 455
+          "plays": 465
         },
         {
           "genre": "Electronic",
-          "plays": 282
+          "plays": 283
         },
         {
           "genre": "Variete Francaise",
@@ -1446,7 +1462,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 152
+          "plays": 154
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1454,19 +1470,19 @@
         },
         {
           "genre": "Rock",
-          "plays": 108
+          "plays": 116
         },
         {
           "genre": "Comedy",
-          "plays": 95
+          "plays": 100
+        },
+        {
+          "genre": "mashup",
+          "plays": 56
         },
         {
           "genre": "Soft Rock",
           "plays": 55
-        },
-        {
-          "genre": "mashup",
-          "plays": 53
         },
         {
           "genre": "City Pop",
@@ -1486,7 +1502,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 21
+          "plays": 22
         },
         {
           "genre": "Classic Rock",
@@ -1514,11 +1530,11 @@
         },
         {
           "genre": "Hip-Hop/Rap",
-          "plays": 10
+          "plays": 11
         },
         {
           "genre": "Europop",
-          "plays": 10
+          "plays": 11
         },
         {
           "genre": "Variété française",
@@ -1533,7 +1549,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 194,
+          "plays": 196,
           "genre": "Dance"
         },
         {
@@ -1555,21 +1571,21 @@
           "genre": "Dance"
         },
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 49,
+          "genre": "Dance"
+        },
+        {
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 49,
           "genre": "Dance"
         },
         {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 48,
-          "genre": "Dance"
-        },
-        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
-          "plays": 38,
+          "plays": 43,
           "genre": "Comedy"
         },
         {
@@ -1684,15 +1700,15 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 3473,
+      "total_plays": 3518,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 200
+          "plays": 202
         },
         {
           "artist": "Kungs",
-          "plays": 195
+          "plays": 197
         },
         {
           "artist": "France Football Anthem",
@@ -1700,11 +1716,11 @@
         },
         {
           "artist": "442oons",
-          "plays": 101
+          "plays": 106
         },
         {
           "artist": "Daft Punk",
-          "plays": 85
+          "plays": 86
         },
         {
           "artist": "Milky",
@@ -1716,7 +1732,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 58
+          "plays": 59
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1740,7 +1756,7 @@
         },
         {
           "artist": "ANOTR",
-          "plays": 48
+          "plays": 49
         },
         {
           "artist": "MotorBass",
@@ -1790,15 +1806,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 946
+          "plays": 958
         },
         {
           "genre": "Pop",
-          "plays": 535
+          "plays": 545
         },
         {
           "genre": "Electronic",
-          "plays": 403
+          "plays": 404
         },
         {
           "genre": "Variete Francaise",
@@ -1810,27 +1826,27 @@
         },
         {
           "genre": "Alternative",
-          "plays": 161
-        },
-        {
-          "genre": "Comedy",
-          "plays": 116
+          "plays": 163
         },
         {
           "genre": "Rock",
-          "plays": 116
+          "plays": 124
+        },
+        {
+          "genre": "Comedy",
+          "plays": 121
         },
         {
           "genre": "Soft Rock",
           "plays": 116
         },
         {
-          "genre": "City Pop",
-          "plays": 62
+          "genre": "mashup",
+          "plays": 64
         },
         {
-          "genre": "mashup",
-          "plays": 61
+          "genre": "City Pop",
+          "plays": 62
         },
         {
           "genre": "Future Funk",
@@ -1858,7 +1874,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 26
+          "plays": 27
         },
         {
           "genre": "Soul and R&B",
@@ -1881,19 +1897,19 @@
           "plays": 14
         },
         {
-          "genre": "Variété française",
-          "plays": 10
+          "genre": "Hip-Hop/Rap",
+          "plays": 11
         },
         {
-          "genre": "Hip-Hop/Rap",
-          "plays": 10
+          "genre": "Europop",
+          "plays": 11
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 194,
+          "plays": 196,
           "genre": "Dance"
         },
         {
@@ -1909,6 +1925,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 55,
+          "genre": "Comedy"
+        },
+        {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
           "plays": 54,
@@ -1921,14 +1943,14 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 50,
-          "genre": "Comedy"
-        },
-        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
+          "plays": 49,
+          "genre": "Dance"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
           "plays": 49,
           "genre": "Dance"
         },
@@ -1936,12 +1958,6 @@
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 49,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -2044,15 +2060,15 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 3473,
+      "total_plays": 3518,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 200
+          "plays": 202
         },
         {
           "artist": "Kungs",
-          "plays": 195
+          "plays": 197
         },
         {
           "artist": "France Football Anthem",
@@ -2060,11 +2076,11 @@
         },
         {
           "artist": "442oons",
-          "plays": 101
+          "plays": 106
         },
         {
           "artist": "Daft Punk",
-          "plays": 85
+          "plays": 86
         },
         {
           "artist": "Milky",
@@ -2076,7 +2092,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 58
+          "plays": 59
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -2100,7 +2116,7 @@
         },
         {
           "artist": "ANOTR",
-          "plays": 48
+          "plays": 49
         },
         {
           "artist": "MotorBass",
@@ -2150,15 +2166,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 946
+          "plays": 958
         },
         {
           "genre": "Pop",
-          "plays": 535
+          "plays": 545
         },
         {
           "genre": "Electronic",
-          "plays": 403
+          "plays": 404
         },
         {
           "genre": "Variete Francaise",
@@ -2170,27 +2186,27 @@
         },
         {
           "genre": "Alternative",
-          "plays": 161
-        },
-        {
-          "genre": "Comedy",
-          "plays": 116
+          "plays": 163
         },
         {
           "genre": "Rock",
-          "plays": 116
+          "plays": 124
+        },
+        {
+          "genre": "Comedy",
+          "plays": 121
         },
         {
           "genre": "Soft Rock",
           "plays": 116
         },
         {
-          "genre": "City Pop",
-          "plays": 62
+          "genre": "mashup",
+          "plays": 64
         },
         {
-          "genre": "mashup",
-          "plays": 61
+          "genre": "City Pop",
+          "plays": 62
         },
         {
           "genre": "Future Funk",
@@ -2218,7 +2234,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 26
+          "plays": 27
         },
         {
           "genre": "Soul and R&B",
@@ -2241,19 +2257,19 @@
           "plays": 14
         },
         {
-          "genre": "Variété française",
-          "plays": 10
+          "genre": "Hip-Hop/Rap",
+          "plays": 11
         },
         {
-          "genre": "Hip-Hop/Rap",
-          "plays": 10
+          "genre": "Europop",
+          "plays": 11
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 194,
+          "plays": 196,
           "genre": "Dance"
         },
         {
@@ -2269,6 +2285,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 55,
+          "genre": "Comedy"
+        },
+        {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
           "plays": 54,
@@ -2281,14 +2303,14 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 50,
-          "genre": "Comedy"
-        },
-        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
+          "plays": 49,
+          "genre": "Dance"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
           "plays": 49,
           "genre": "Dance"
         },
@@ -2296,12 +2318,6 @@
           "song": "Just The Way You Are",
           "artist": "Milky & David Guetta",
           "plays": 49,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -3175,6 +3191,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "1be357c034291151",
+      "plays": 1
+    },
+    {
       "date": "2026-06-02",
       "id": "1c525f0d7d22baf4",
       "plays": 1
@@ -3238,6 +3259,11 @@
       "date": "2026-06-11",
       "id": "1ee95b67e9bedf45",
       "plays": 1
+    },
+    {
+      "date": "2026-08-22",
+      "id": "1f0946cb85edd515",
+      "plays": 2
     },
     {
       "date": "2026-05-22",
@@ -3710,6 +3736,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "383fa8c2733b0b33",
+      "plays": 1
+    },
+    {
       "date": "2026-07-20",
       "id": "38edaeaf076abd17",
       "plays": 1
@@ -4035,6 +4066,11 @@
       "plays": 24
     },
     {
+      "date": "2026-08-22",
+      "id": "498f01ecedba3059",
+      "plays": 1
+    },
+    {
       "date": "2026-05-21",
       "id": "4990a189b5363454",
       "plays": 1
@@ -4110,6 +4146,11 @@
       "plays": 4
     },
     {
+      "date": "2026-08-22",
+      "id": "49a8e200a97614c3",
+      "plays": 2
+    },
+    {
       "date": "2026-06-15",
       "id": "49e6651d7e88edd5",
       "plays": 1
@@ -4138,6 +4179,11 @@
       "date": "2026-07-25",
       "id": "49e6651d7e88edd5",
       "plays": 4
+    },
+    {
+      "date": "2026-08-22",
+      "id": "49e6651d7e88edd5",
+      "plays": 1
     },
     {
       "date": "2026-06-29",
@@ -4343,6 +4389,11 @@
       "date": "2026-06-27",
       "id": "5130005cb8985edd",
       "plays": 16
+    },
+    {
+      "date": "2026-08-22",
+      "id": "5130005cb8985edd",
+      "plays": 2
     },
     {
       "date": "2026-06-04",
@@ -4692,6 +4743,11 @@
     {
       "date": "2026-05-29",
       "id": "62b841e9193d9d8e",
+      "plays": 1
+    },
+    {
+      "date": "2026-08-22",
+      "id": "62e4d8f2ab59dc7c",
       "plays": 1
     },
     {
@@ -5115,6 +5171,11 @@
       "plays": 2
     },
     {
+      "date": "2026-08-22",
+      "id": "74108297f0e7cfb6",
+      "plays": 2
+    },
+    {
       "date": "2026-05-18",
       "id": "74961c5d8eae598f",
       "plays": 1
@@ -5450,6 +5511,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "82ea3c765f74d73b",
+      "plays": 1
+    },
+    {
       "date": "2026-05-21",
       "id": "8301a88791006c39",
       "plays": 1
@@ -5528,6 +5594,11 @@
       "date": "2026-06-02",
       "id": "851a8da11ed179a0",
       "plays": 1
+    },
+    {
+      "date": "2026-08-22",
+      "id": "852b4f0b48f3cde0",
+      "plays": 3
     },
     {
       "date": "2026-05-25",
@@ -5635,12 +5706,22 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "87a7673bd9b31484",
+      "plays": 1
+    },
+    {
       "date": "2026-05-29",
       "id": "87c43a17fd307028",
       "plays": 1
     },
     {
       "date": "2026-06-10",
+      "id": "87dcbe30136d7b27",
+      "plays": 1
+    },
+    {
+      "date": "2026-08-22",
       "id": "87dcbe30136d7b27",
       "plays": 1
     },
@@ -5777,6 +5858,11 @@
     {
       "date": "2026-05-29",
       "id": "8e675fb1a203e9e9",
+      "plays": 1
+    },
+    {
+      "date": "2026-08-22",
+      "id": "8e89434a2b209909",
       "plays": 1
     },
     {
@@ -6340,6 +6426,11 @@
       "plays": 8
     },
     {
+      "date": "2026-08-22",
+      "id": "a6e02528ddac21e1",
+      "plays": 5
+    },
+    {
       "date": "2026-08-12",
       "id": "a703f2393391ac85",
       "plays": 1
@@ -6640,6 +6731,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "b46e8e64510bdcf5",
+      "plays": 3
+    },
+    {
       "date": "2026-06-04",
       "id": "b47330689882ee7d",
       "plays": 2
@@ -6651,6 +6747,11 @@
     },
     {
       "date": "2026-06-16",
+      "id": "b56388e5683a50cf",
+      "plays": 1
+    },
+    {
+      "date": "2026-08-22",
       "id": "b56388e5683a50cf",
       "plays": 1
     },
@@ -7190,6 +7291,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "d231e1c86dafe1c1",
+      "plays": 1
+    },
+    {
       "date": "2026-07-20",
       "id": "d2365638a2e276a0",
       "plays": 1
@@ -7287,6 +7393,11 @@
     {
       "date": "2026-08-07",
       "id": "d5cf285751e79f4e",
+      "plays": 1
+    },
+    {
+      "date": "2026-08-22",
+      "id": "d5f48fc1c8916dcb",
       "plays": 1
     },
     {
@@ -7403,6 +7514,11 @@
       "date": "2026-07-28",
       "id": "d97a4a886bba83d5",
       "plays": 2
+    },
+    {
+      "date": "2026-08-22",
+      "id": "d97a4a886bba83d5",
+      "plays": 5
     },
     {
       "date": "2026-08-21",
@@ -7655,6 +7771,11 @@
       "plays": 2
     },
     {
+      "date": "2026-08-22",
+      "id": "e23562191ecb4647",
+      "plays": 1
+    },
+    {
       "date": "2026-06-16",
       "id": "e25bb99f456b291c",
       "plays": 1
@@ -7663,6 +7784,11 @@
       "date": "2026-05-16",
       "id": "e28d6a456463a5b9",
       "plays": 1
+    },
+    {
+      "date": "2026-08-22",
+      "id": "e2b1a3cfb23200e5",
+      "plays": 2
     },
     {
       "date": "2026-08-07",
@@ -7808,6 +7934,11 @@
       "date": "2026-07-13",
       "id": "e96046bde4dc449a",
       "plays": 6
+    },
+    {
+      "date": "2026-08-22",
+      "id": "e96046bde4dc449a",
+      "plays": 5
     },
     {
       "date": "2026-05-26",
@@ -8270,6 +8401,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-22",
+      "id": "faeff5140a8c1aa1",
+      "plays": 1
+    },
+    {
       "date": "2026-05-28",
       "id": "fbb4bed767ac6a4b",
       "plays": 1
@@ -8351,6 +8487,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-21",
-  "snapshot_count": 107
+  "latest_snapshot": "2026-08-22",
+  "snapshot_count": 108
 }

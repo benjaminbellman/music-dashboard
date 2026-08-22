@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 35224,
+    "plays": 35234,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 30010,
+    "plays": 30022,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23265,
+    "plays": 23266,
     "songs": 389
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "genre": "Alternative",
-    "plays": 13996,
+    "plays": 13998,
     "songs": 291
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "genre": "Rock",
-    "plays": 10740,
+    "plays": 10748,
     "songs": 282
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3211,
+    "plays": 3216,
     "songs": 92
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "genre": "mashup",
-    "plays": 2754,
+    "plays": 2757,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2725,
+    "plays": 2726,
     "songs": 69
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1235,
+    "plays": 1236,
     "songs": 40
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "genre": "Europop",
-    "plays": 741,
+    "plays": 742,
     "songs": 14
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "genre": "Arabic",
-    "plays": 194,
+    "plays": 195,
     "songs": 1
   },
   {
