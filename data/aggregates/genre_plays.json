@@ -1,17 +1,17 @@
 [
   {
     "genre": "Pop",
-    "plays": 35234,
+    "plays": 35246,
     "songs": 711
   },
   {
     "genre": "Dance",
-    "plays": 30022,
+    "plays": 30044,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23266,
+    "plays": 23272,
     "songs": 389
   },
   {
@@ -76,12 +76,12 @@
   },
   {
     "genre": "Latin",
-    "plays": 2786,
+    "plays": 2792,
     "songs": 47
   },
   {
     "genre": "mashup",
-    "plays": 2757,
+    "plays": 2760,
     "songs": 69
   },
   {

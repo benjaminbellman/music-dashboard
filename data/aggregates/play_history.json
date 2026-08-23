@@ -275,16 +275,28 @@
     {
       "date": "2026-08-22",
       "plays": 45
+    },
+    {
+      "date": "2026-08-23",
+      "plays": 45
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 95,
+      "total_plays": 140,
       "top_artists": [
+        {
+          "artist": "Bon Entendeur",
+          "plays": 7
+        },
         {
           "artist": "Naturi Naughton",
           "plays": 7
+        },
+        {
+          "artist": "Daddy Yankee",
+          "plays": 6
         },
         {
           "artist": "Kungs",
@@ -292,6 +304,34 @@
         },
         {
           "artist": "Purple Disco Machine",
+          "plays": 6
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 6
+        },
+        {
+          "artist": "BTS",
+          "plays": 6
+        },
+        {
+          "artist": "Amerie",
+          "plays": 6
+        },
+        {
+          "artist": "Chromeo",
+          "plays": 6
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 6
+        },
+        {
+          "artist": "Junkie XL",
+          "plays": 6
+        },
+        {
+          "artist": "Armand Van Helden",
           "plays": 6
         },
         {
@@ -312,6 +352,10 @@
         },
         {
           "artist": "Simple Plan",
+          "plays": 3
+        },
+        {
+          "artist": "Flight Facilities",
           "plays": 3
         },
         {
@@ -341,64 +385,32 @@
         {
           "artist": "Hilary Duff",
           "plays": 1
-        },
-        {
-          "artist": "Le Maitre",
-          "plays": 1
-        },
-        {
-          "artist": "Mitiko & Bon Entendeur",
-          "plays": 1
-        },
-        {
-          "artist": "NFC & Bon Entendeur",
-          "plays": 1
-        },
-        {
-          "artist": "The Kaleidoscopes & The Nightswimmers",
-          "plays": 1
-        },
-        {
-          "artist": "Ace of Base",
-          "plays": 1
-        },
-        {
-          "artist": "Milky",
-          "plays": 1
-        },
-        {
-          "artist": "Vantage",
-          "plays": 1
-        },
-        {
-          "artist": "Nelly Furtado",
-          "plays": 1
-        },
-        {
-          "artist": "Sophie Ellis Bextor",
-          "plays": 1
-        },
-        {
-          "artist": "Galantis",
-          "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 31
+          "plays": 49
         },
         {
           "genre": "Pop",
-          "plays": 17
+          "plays": 29
+        },
+        {
+          "genre": "Electronic",
+          "plays": 11
         },
         {
           "genre": "Rock",
           "plays": 9
         },
         {
-          "genre": "Electronic",
-          "plays": 5
+          "genre": "Latin",
+          "plays": 7
+        },
+        {
+          "genre": "mashup",
+          "plays": 6
         },
         {
           "genre": "Comedy",
@@ -411,10 +423,6 @@
         {
           "genre": "Alternative",
           "plays": 4
-        },
-        {
-          "genre": "mashup",
-          "plays": 3
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -431,10 +439,6 @@
         {
           "genre": "Variete Francaise",
           "plays": 2
-        },
-        {
-          "genre": "Latin",
-          "plays": 1
         },
         {
           "genre": "Nu Disco / Funk",
@@ -473,8 +477,50 @@
           "genre": "Dance"
         },
         {
+          "song": "Dura",
+          "artist": "Daddy Yankee",
+          "plays": 6,
+          "genre": "Latin"
+        },
+        {
+          "song": "Ex-fan des sixties",
+          "artist": "Bon Entendeur & Jane Birkin",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "My Universe",
+          "artist": "Coldplay & BTS",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "1 Thing (Cherokee Remix)",
+          "artist": "Amerie",
+          "plays": 6,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Over Your Shoulder [Official Audio]",
+          "artist": "Chromeo",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "And Then We Kiss (Junkie XL Remix)",
+          "artist": "Britney Spears & Junkie XL",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "I Want Your Soul",
+          "artist": "Armand Van Helden",
           "plays": 6,
           "genre": "Dance"
         },
@@ -507,6 +553,12 @@
           "artist": "Simple Plan",
           "plays": 3,
           "genre": "Rock"
+        },
+        {
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 3,
+          "genre": "mashup"
         },
         {
           "song": "Même Pas Fatigué",
@@ -567,60 +619,12 @@
           "artist": "NFC & Bon Entendeur",
           "plays": 1,
           "genre": "Dance"
-        },
-        {
-          "song": "Never Let You Know",
-          "artist": "The Kaleidoscopes & The Nightswimmers",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Happy Nation",
-          "artist": "Ace of Base",
-          "plays": 1,
-          "genre": "Europop"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ｎｕｍｂｅｒ　Ｏｎe",
-          "artist": "Vantage",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Manos al Aire",
-          "artist": "Nelly Furtado",
-          "plays": 1,
-          "genre": "Latin"
-        },
-        {
-          "song": "Murder On the Dance Floor",
-          "artist": "Sophie Ellis Bextor",
-          "plays": 1,
-          "genre": "Nu Disco / Funk"
-        },
-        {
-          "song": "Peanut Butter Jelly",
-          "artist": "Galantis",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "I Wanna Be Like You",
-          "artist": "Disney",
-          "plays": 1,
-          "genre": "Soundtrack"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 405,
+      "total_plays": 450,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -647,7 +651,15 @@
           "plays": 12
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 9
+        },
+        {
           "artist": "Daft Punk",
+          "plays": 7
+        },
+        {
+          "artist": "Flight Facilities",
           "plays": 7
         },
         {
@@ -655,7 +667,39 @@
           "plays": 7
         },
         {
+          "artist": "Daddy Yankee",
+          "plays": 6
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 6
+        },
+        {
+          "artist": "BTS",
+          "plays": 6
+        },
+        {
           "artist": "Dua Lipa",
+          "plays": 6
+        },
+        {
+          "artist": "Amerie",
+          "plays": 6
+        },
+        {
+          "artist": "Chromeo",
+          "plays": 6
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 6
+        },
+        {
+          "artist": "Junkie XL",
+          "plays": 6
+        },
+        {
+          "artist": "Armand Van Helden",
           "plays": 6
         },
         {
@@ -681,60 +725,20 @@
         {
           "artist": "442oons",
           "plays": 5
-        },
-        {
-          "artist": "RITCHRD",
-          "plays": 4
-        },
-        {
-          "artist": "BB Brunes",
-          "plays": 4
-        },
-        {
-          "artist": "BBC Music",
-          "plays": 4
-        },
-        {
-          "artist": "Mickey 3D",
-          "plays": 4
-        },
-        {
-          "artist": "Beyonce",
-          "plays": 4
-        },
-        {
-          "artist": "Feist",
-          "plays": 4
-        },
-        {
-          "artist": "Henri Dès",
-          "plays": 4
-        },
-        {
-          "artist": "Jennifer Lopez",
-          "plays": 4
-        },
-        {
-          "artist": "Gorgon City",
-          "plays": 4
-        },
-        {
-          "artist": "INXS",
-          "plays": 4
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 177
+          "plays": 195
         },
         {
           "genre": "Pop",
-          "plays": 60
+          "plays": 72
         },
         {
           "genre": "Electronic",
-          "plays": 23
+          "plays": 29
         },
         {
           "genre": "Rock",
@@ -753,6 +757,10 @@
           "plays": 12
         },
         {
+          "genre": "mashup",
+          "plays": 11
+        },
+        {
           "genre": "Future Funk",
           "plays": 8
         },
@@ -761,7 +769,7 @@
           "plays": 8
         },
         {
-          "genre": "mashup",
+          "genre": "Latin",
           "plays": 8
         },
         {
@@ -791,10 +799,6 @@
         {
           "genre": "French Pop",
           "plays": 4
-        },
-        {
-          "genre": "Latin",
-          "plays": 2
         },
         {
           "genre": "Lowfi",
@@ -857,9 +861,57 @@
           "genre": "Pop"
         },
         {
+          "song": "2002 - 2012 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 7,
+          "genre": "mashup"
+        },
+        {
           "song": "Fame 09 (Bimbo Jones Club Mix)",
           "artist": "Naturi Naughton",
           "plays": 7,
+          "genre": "Dance"
+        },
+        {
+          "song": "Dura",
+          "artist": "Daddy Yankee",
+          "plays": 6,
+          "genre": "Latin"
+        },
+        {
+          "song": "Ex-fan des sixties",
+          "artist": "Bon Entendeur & Jane Birkin",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "My Universe",
+          "artist": "Coldplay & BTS",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "1 Thing (Cherokee Remix)",
+          "artist": "Amerie",
+          "plays": 6,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Over Your Shoulder [Official Audio]",
+          "artist": "Chromeo",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "And Then We Kiss (Junkie XL Remix)",
+          "artist": "Britney Spears & Junkie XL",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "I Want Your Soul",
+          "artist": "Armand Van Helden",
+          "plays": 6,
           "genre": "Dance"
         },
         {
@@ -927,60 +979,12 @@
           "artist": "Beyonce",
           "plays": 4,
           "genre": "Pop"
-        },
-        {
-          "song": "Move Your Feet (Official music video, HD)",
-          "artist": "Junior Senior",
-          "plays": 4,
-          "genre": "Europop"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 4,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Viens dans ma maison",
-          "artist": "Henri Dès",
-          "plays": 4,
-          "genre": "Musique pour enfants"
-        },
-        {
-          "song": "On the Floor (feat. Pitbull)",
-          "artist": "Jennifer Lopez",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "Thor",
-          "artist": "Gorgon City",
-          "plays": 4,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Need You Tonight",
-          "artist": "INXS",
-          "plays": 4,
-          "genre": "Rock"
-        },
-        {
-          "song": "Waiting for Love",
-          "artist": "Avicii",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "La lettre",
-          "artist": "Renan Luce",
-          "plays": 4,
-          "genre": "French Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 645,
+      "total_plays": 690,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1004,7 +1008,11 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 13
+          "plays": 19
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 14
         },
         {
           "artist": "KITSCHKRIEG",
@@ -1015,8 +1023,8 @@
           "plays": 12
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 11
+          "artist": "Coldplay",
+          "plays": 10
         },
         {
           "artist": "Daft Punk",
@@ -1031,7 +1039,15 @@
           "plays": 8
         },
         {
+          "artist": "Britney Spears",
+          "plays": 7
+        },
+        {
           "artist": "Horalion",
+          "plays": 7
+        },
+        {
+          "artist": "Junkie XL",
           "plays": 7
         },
         {
@@ -1047,54 +1063,42 @@
           "plays": 6
         },
         {
+          "artist": "Daddy Yankee",
+          "plays": 6
+        },
+        {
+          "artist": "BTS",
+          "plays": 6
+        },
+        {
           "artist": "Dua Lipa",
+          "plays": 6
+        },
+        {
+          "artist": "Amerie",
+          "plays": 6
+        },
+        {
+          "artist": "Chromeo",
           "plays": 6
         },
         {
           "artist": "Patrick Cowley",
           "plays": 6
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 6
-        },
-        {
-          "artist": "Pakito",
-          "plays": 6
-        },
-        {
-          "artist": "Tatsuro Yamashita",
-          "plays": 5
-        },
-        {
-          "artist": "Renaud",
-          "plays": 5
-        },
-        {
-          "artist": "Ourvais",
-          "plays": 5
-        },
-        {
-          "artist": "Junior Senior",
-          "plays": 5
-        },
-        {
-          "artist": "4 Non Blondes",
-          "plays": 5
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 240
+          "plays": 258
         },
         {
           "genre": "Pop",
-          "plays": 88
+          "plays": 100
         },
         {
           "genre": "Electronic",
-          "plays": 47
+          "plays": 53
         },
         {
           "genre": "Variete Francaise",
@@ -1110,7 +1114,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 22
+          "plays": 25
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1130,6 +1134,10 @@
         },
         {
           "genre": "Europop",
+          "plays": 8
+        },
+        {
+          "genre": "Latin",
           "plays": 8
         },
         {
@@ -1179,10 +1187,6 @@
         {
           "genre": "Alternative & Punk",
           "plays": 2
-        },
-        {
-          "genre": "Latin",
-          "plays": 2
         }
       ],
       "top_tracks": [
@@ -1225,7 +1229,7 @@
         {
           "song": "2002 - 2012 Decade Mix",
           "artist": "Flight Facilities",
-          "plays": 9,
+          "plays": 12,
           "genre": "mashup"
         },
         {
@@ -1247,10 +1251,52 @@
           "genre": "Dance"
         },
         {
+          "song": "Dura",
+          "artist": "Daddy Yankee",
+          "plays": 6,
+          "genre": "Latin"
+        },
+        {
+          "song": "Ex-fan des sixties",
+          "artist": "Bon Entendeur & Jane Birkin",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "My Universe",
+          "artist": "Coldplay & BTS",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "1 Thing (Cherokee Remix)",
+          "artist": "Amerie",
+          "plays": 6,
+          "genre": "Electronic"
+        },
+        {
           "song": "Autobahn (Horalion Remix)",
           "artist": "Horalion & Kraftwek",
           "plays": 6,
           "genre": "Electronic"
+        },
+        {
+          "song": "Over Your Shoulder [Official Audio]",
+          "artist": "Chromeo",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "And Then We Kiss (Junkie XL Remix)",
+          "artist": "Britney Spears & Junkie XL",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "I Want Your Soul",
+          "artist": "Armand Van Helden",
+          "plays": 6,
+          "genre": "Dance"
         },
         {
           "song": "Living On Video",
@@ -1293,54 +1339,12 @@
           "artist": "442oons",
           "plays": 5,
           "genre": "Comedy"
-        },
-        {
-          "song": "PARIS",
-          "artist": "RITCHRD",
-          "plays": 4,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Lalalove You",
-          "artist": "BB Brunes",
-          "plays": 4,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "God Only Knows ( BBC)",
-          "artist": "BBC Music",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "Matador",
-          "artist": "Mickey 3D",
-          "plays": 4,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Single Ladies (Put A Ring On It)",
-          "artist": "Beyonce",
-          "plays": 4,
-          "genre": "Pop"
-        },
-        {
-          "song": "Move Your Feet (Official music video, HD)",
-          "artist": "Junior Senior",
-          "plays": 4,
-          "genre": "Europop"
-        },
-        {
-          "song": "My Moon My Man",
-          "artist": "Feist",
-          "plays": 4,
-          "genre": "Alternative"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2766,
+      "total_plays": 2726,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1352,7 +1356,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 86
+          "plays": 75
         },
         {
           "artist": "Daft Punk",
@@ -1364,7 +1368,7 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 62
+          "plays": 58
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1384,7 +1388,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 45
+          "plays": 48
         },
         {
           "artist": "Stevie Nicks",
@@ -1403,11 +1407,11 @@
           "plays": 34
         },
         {
-          "artist": "Michael Jackson",
-          "plays": 28
+          "artist": "Britney Spears",
+          "plays": 31
         },
         {
-          "artist": "Madison Avenue",
+          "artist": "Michael Jackson",
           "plays": 28
         },
         {
@@ -1423,8 +1427,8 @@
           "plays": 27
         },
         {
-          "artist": "Britney Spears",
-          "plays": 25
+          "artist": "Madison Avenue",
+          "plays": 26
         },
         {
           "artist": "Kajagoogoo",
@@ -1446,23 +1450,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 780
+          "plays": 787
         },
         {
           "genre": "Pop",
-          "plays": 465
+          "plays": 464
         },
         {
           "genre": "Electronic",
-          "plays": 283
+          "plays": 273
         },
         {
           "genre": "Variete Francaise",
-          "plays": 179
+          "plays": 172
         },
         {
           "genre": "Alternative",
-          "plays": 154
+          "plays": 149
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1470,19 +1474,19 @@
         },
         {
           "genre": "Rock",
-          "plays": 116
+          "plays": 114
         },
         {
           "genre": "Comedy",
-          "plays": 100
+          "plays": 86
         },
         {
           "genre": "mashup",
-          "plays": 56
+          "plays": 59
         },
         {
           "genre": "Soft Rock",
-          "plays": 55
+          "plays": 53
         },
         {
           "genre": "City Pop",
@@ -1505,19 +1509,15 @@
           "plays": 22
         },
         {
+          "genre": "Latin",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
         {
-          "genre": "Oldies",
-          "plays": 17
-        },
-        {
           "genre": "House",
-          "plays": 16
-        },
-        {
-          "genre": "Latin",
           "plays": 14
         },
         {
@@ -1527,6 +1527,10 @@
         {
           "genre": "Disco",
           "plays": 13
+        },
+        {
+          "genre": "Oldies",
+          "plays": 12
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -1541,7 +1545,7 @@
           "plays": 9
         },
         {
-          "genre": "Funk",
+          "genre": "Musique francophone",
           "plays": 8
         }
       ],
@@ -1583,22 +1587,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 43,
-          "genre": "Comedy"
-        },
-        {
           "song": "GUT GENUG",
           "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
           "plays": 37,
           "genre": "Hip Hop/Rap"
         },
         {
-          "song": "Don't call me baby (Mousse T Extended Remix)",
-          "artist": "Madison Avenue",
-          "plays": 28,
-          "genre": "Dance"
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 32,
+          "genre": "Comedy"
         },
         {
           "song": "Down On The Corner",
@@ -1611,6 +1609,12 @@
           "artist": "Polo & Pan",
           "plays": 26,
           "genre": "Electronic"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 26,
+          "genre": "Dance"
         },
         {
           "song": "Premier League Song",
@@ -1700,7 +1704,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 3518,
+      "total_plays": 3563,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1727,12 +1731,12 @@
           "plays": 76
         },
         {
-          "artist": "David Guetta",
-          "plays": 62
+          "artist": "Bon Entendeur",
+          "plays": 65
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 59
+          "artist": "David Guetta",
+          "plays": 62
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1791,30 +1795,30 @@
           "plays": 33
         },
         {
+          "artist": "Britney Spears",
+          "plays": 32
+        },
+        {
           "artist": "Michael Jackson",
           "plays": 29
         },
         {
           "artist": "Madison Avenue",
           "plays": 28
-        },
-        {
-          "artist": "Vegedream",
-          "plays": 27
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 958
+          "plays": 976
         },
         {
           "genre": "Pop",
-          "plays": 545
+          "plays": 557
         },
         {
           "genre": "Electronic",
-          "plays": 404
+          "plays": 410
         },
         {
           "genre": "Variete Francaise",
@@ -1842,7 +1846,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 64
+          "plays": 67
         },
         {
           "genre": "City Pop",
@@ -1881,6 +1885,10 @@
           "plays": 25
         },
         {
+          "genre": "Latin",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
@@ -1891,10 +1899,6 @@
         {
           "genre": "Ambient",
           "plays": 16
-        },
-        {
-          "genre": "Latin",
-          "plays": 14
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -2060,7 +2064,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 3518,
+      "total_plays": 3563,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2087,12 +2091,12 @@
           "plays": 76
         },
         {
-          "artist": "David Guetta",
-          "plays": 62
+          "artist": "Bon Entendeur",
+          "plays": 65
         },
         {
-          "artist": "Bon Entendeur",
-          "plays": 59
+          "artist": "David Guetta",
+          "plays": 62
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -2151,30 +2155,30 @@
           "plays": 33
         },
         {
+          "artist": "Britney Spears",
+          "plays": 32
+        },
+        {
           "artist": "Michael Jackson",
           "plays": 29
         },
         {
           "artist": "Madison Avenue",
           "plays": 28
-        },
-        {
-          "artist": "Vegedream",
-          "plays": 27
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 958
+          "plays": 976
         },
         {
           "genre": "Pop",
-          "plays": 545
+          "plays": 557
         },
         {
           "genre": "Electronic",
-          "plays": 404
+          "plays": 410
         },
         {
           "genre": "Variete Francaise",
@@ -2202,7 +2206,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 64
+          "plays": 67
         },
         {
           "genre": "City Pop",
@@ -2241,6 +2245,10 @@
           "plays": 25
         },
         {
+          "genre": "Latin",
+          "plays": 20
+        },
+        {
           "genre": "Classic Rock",
           "plays": 19
         },
@@ -2251,10 +2259,6 @@
         {
           "genre": "Ambient",
           "plays": 16
-        },
-        {
-          "genre": "Latin",
-          "plays": 14
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -3546,6 +3550,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-23",
+      "id": "2e1325286a677738",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "2e2f153f69296fca",
       "plays": 1
@@ -3569,6 +3578,11 @@
       "date": "2026-07-15",
       "id": "2f5fb4a9da75afd1",
       "plays": 1
+    },
+    {
+      "date": "2026-08-23",
+      "id": "2f5fb4a9da75afd1",
+      "plays": 6
     },
     {
       "date": "2026-06-02",
@@ -4236,6 +4250,11 @@
       "plays": 2
     },
     {
+      "date": "2026-08-23",
+      "id": "4c5a86321932abfb",
+      "plays": 6
+    },
+    {
       "date": "2026-06-28",
       "id": "4cee1b290254744e",
       "plays": 24
@@ -4886,6 +4905,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-23",
+      "id": "69cf95216351214a",
+      "plays": 6
+    },
+    {
       "date": "2026-05-25",
       "id": "69e8ec6686122e69",
       "plays": 2
@@ -5486,6 +5510,11 @@
       "plays": 2
     },
     {
+      "date": "2026-08-23",
+      "id": "8170d8010d3734d3",
+      "plays": 6
+    },
+    {
       "date": "2026-05-25",
       "id": "81bc46f72dcf8282",
       "plays": 2
@@ -5584,6 +5613,11 @@
       "date": "2026-05-21",
       "id": "84f4680652b45c20",
       "plays": 1
+    },
+    {
+      "date": "2026-08-23",
+      "id": "84f4680652b45c20",
+      "plays": 6
     },
     {
       "date": "2026-06-15",
@@ -6466,6 +6500,11 @@
       "plays": 1
     },
     {
+      "date": "2026-08-23",
+      "id": "a8d3d55418b1a0ae",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "a9c56844859c1fab",
       "plays": 1
@@ -6864,6 +6903,11 @@
       "date": "2026-08-10",
       "id": "ba6e11f9199824e4",
       "plays": 4
+    },
+    {
+      "date": "2026-08-23",
+      "id": "ba6e11f9199824e4",
+      "plays": 3
     },
     {
       "date": "2026-06-11",
@@ -8487,6 +8531,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-22",
-  "snapshot_count": 108
+  "latest_snapshot": "2026-08-23",
+  "snapshot_count": 109
 }
