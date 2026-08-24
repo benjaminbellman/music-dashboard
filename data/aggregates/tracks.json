@@ -5048,6 +5048,21 @@
     "country": "GB"
   },
   {
+    "id": "f022bcc40a9d08b0",
+    "song": "The Ballet Girl",
+    "artist": "Aden Foyer",
+    "credits": [
+      "Aden Foyer"
+    ],
+    "album": "",
+    "plays": 126,
+    "duration_sec": 203,
+    "date_added": "2023-12-27T00:58:54",
+    "last_played": "2026-08-24T10:16:59",
+    "genre": "Pop",
+    "country": "NO"
+  },
+  {
     "id": "5972daa98f41d1fe",
     "song": "Existence",
     "artist": "Cold(Artist)",
@@ -5436,21 +5451,6 @@
     "last_played": "2026-03-08T14:07:45",
     "genre": "Pop",
     "country": "NL"
-  },
-  {
-    "id": "f022bcc40a9d08b0",
-    "song": "The Ballet Girl",
-    "artist": "Aden Foyer",
-    "credits": [
-      "Aden Foyer"
-    ],
-    "album": "",
-    "plays": 121,
-    "duration_sec": 203,
-    "date_added": "2023-12-27T00:58:54",
-    "last_played": "2026-06-24T13:23:01",
-    "genre": "Pop",
-    "country": "NO"
   },
   {
     "id": "0eef263439c2c42c",
@@ -19461,7 +19461,7 @@
     "date_added": "2026-07-03T19:33:55",
     "last_played": "2026-08-16T10:54:26",
     "genre": "Dance",
-    "country": null
+    "country": "US"
   },
   {
     "id": "22633e3c8bc36a3d",
@@ -31059,7 +31059,7 @@
     "date_added": "2026-07-01T07:46:14",
     "last_played": "2026-08-20T14:41:14",
     "genre": "Dance",
-    "country": null
+    "country": "NL"
   },
   {
     "id": "728c220d77bc86f3",
@@ -51062,7 +51062,7 @@
     "date_added": "2026-07-03T19:32:19",
     "last_played": "2026-08-12T09:13:02",
     "genre": "Hip Hop/Rap",
-    "country": null
+    "country": "DE"
   },
   {
     "id": "b7f9ab96aaba2d65",
@@ -54353,6 +54353,21 @@
     "country": "US"
   },
   {
+    "id": "5bb972f7d39ec1ef",
+    "song": "Where is my husband?",
+    "artist": "Raye",
+    "credits": [
+      "Raye"
+    ],
+    "album": "",
+    "plays": 10,
+    "duration_sec": 198,
+    "date_added": "2026-08-23T19:32:52",
+    "last_played": "2026-08-24T07:06:06",
+    "genre": "Pop",
+    "country": null
+  },
+  {
     "id": "ed23baa03610c082",
     "song": "Dani California",
     "artist": "Red Hot Chili Peppers",
@@ -55433,7 +55448,7 @@
     "date_added": "2026-07-10T08:29:22",
     "last_played": "2026-08-11T13:41:49",
     "genre": "Dance",
-    "country": null
+    "country": "AU"
   },
   {
     "id": "7321e964c2a68c10",
@@ -57583,6 +57598,21 @@
     "country": "US"
   },
   {
+    "id": "40b0d2c8c6f24246",
+    "song": "Man I Need",
+    "artist": "Olivia Dean",
+    "credits": [
+      "Olivia Dean"
+    ],
+    "album": "",
+    "plays": 3,
+    "duration_sec": 184,
+    "date_added": "2026-08-23T19:30:33",
+    "last_played": "2026-08-24T07:16:56",
+    "genre": "R & B",
+    "country": null
+  },
+  {
     "id": "12d1ea69107d2d80",
     "song": "Someday",
     "artist": "Rob Thomas",
@@ -57779,49 +57809,64 @@
     "country": "IL"
   },
   {
-    "id": "313c3676cc46cc46",
+    "id": "337bc9464ee40bca",
     "song": "DRIVING MY LOVE",
     "artist": "Anri",
     "credits": [
       "Anri"
     ],
-    "album": "",
+    "album": "Timely!",
     "plays": 0,
     "duration_sec": 292,
     "date_added": "2026-08-23T19:37:51",
     "last_played": null,
-    "genre": "",
+    "genre": "City Pop",
     "country": "JP"
   },
   {
-    "id": "8b5232f2cfe9f775",
+    "id": "48915ee0a4eda798",
     "song": "Good-Night for You",
     "artist": "Anri",
     "credits": [
       "Anri"
     ],
-    "album": "",
+    "album": "Timely!",
     "plays": 0,
     "duration_sec": 320,
     "date_added": "2026-08-23T19:39:50",
     "last_played": null,
-    "genre": "",
+    "genre": "City Pop",
     "country": "JP"
   },
   {
-    "id": "3700350dc5b0bab3",
+    "id": "1281eeafe7636320",
     "song": "STAY BY ME",
     "artist": "Anri",
     "credits": [
       "Anri"
     ],
-    "album": "",
+    "album": "Timely!",
     "plays": 0,
     "duration_sec": 217,
     "date_added": "2026-08-23T19:35:29",
     "last_played": null,
-    "genre": "",
+    "genre": "City Pop",
     "country": "JP"
+  },
+  {
+    "id": "00b2593ce4bdfa21",
+    "song": "Crucified",
+    "artist": "Army of Lovers",
+    "credits": [
+      "Army of Lovers"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 214,
+    "date_added": "2026-08-24T09:35:14",
+    "last_played": null,
+    "genre": "Pop",
+    "country": null
   },
   {
     "id": "4700a1254f334856",
@@ -57837,6 +57882,36 @@
     "last_played": null,
     "genre": "Soundtrack",
     "country": "US"
+  },
+  {
+    "id": "47efb64f089a2152",
+    "song": "Shooting Stars (Shazam Dub) [2012]",
+    "artist": "Bag Raiders",
+    "credits": [
+      "Bag Raiders"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 234,
+    "date_added": "2026-08-24T09:31:18",
+    "last_played": null,
+    "genre": "Electronic",
+    "country": "AU"
+  },
+  {
+    "id": "755b1006d93825e1",
+    "song": "Elevator",
+    "artist": "Beachcrimes & Tia Tia",
+    "credits": [
+      "Beachcrimes & Tia Tia"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 229,
+    "date_added": "2026-08-24T09:15:45",
+    "last_played": null,
+    "genre": "Electronic",
+    "country": null
   },
   {
     "id": "e6fe5ad253775af4",
@@ -57865,7 +57940,7 @@
     "duration_sec": 207,
     "date_added": "2026-08-23T20:08:24",
     "last_played": null,
-    "genre": "",
+    "genre": "Alternative",
     "country": null
   },
   {
@@ -57884,6 +57959,36 @@
     "country": "FR"
   },
   {
+    "id": "e5e679e7e7da94ad",
+    "song": "Truth Bites Harder",
+    "artist": "Dog vs. The World",
+    "credits": [
+      "Dog"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 82,
+    "date_added": "2026-08-24T09:29:39",
+    "last_played": null,
+    "genre": "Electronic",
+    "country": null
+  },
+  {
+    "id": "e8fd82f52f918806",
+    "song": "Love To Love You Baby",
+    "artist": "Donna Summer",
+    "credits": [
+      "Donna Summer"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 205,
+    "date_added": "2026-08-24T09:19:55",
+    "last_played": null,
+    "genre": "Disco",
+    "country": "US"
+  },
+  {
     "id": "302346b7269517c6",
     "song": "Who's That Girl",
     "artist": "Eve",
@@ -57895,7 +58000,7 @@
     "duration_sec": 450,
     "date_added": "2026-08-23T20:03:54",
     "last_played": null,
-    "genre": "",
+    "genre": "Hip Hop/Rap",
     "country": null
   },
   {
@@ -57914,63 +58019,108 @@
     "country": "US"
   },
   {
-    "id": "40b0d2c8c6f24246",
-    "song": "Man I Need",
-    "artist": "Olivia Dean",
+    "id": "428a58d506c42f9b",
+    "song": "NOT CUTE ANYMORE",
+    "artist": "Illit",
     "credits": [
-      "Olivia Dean"
+      "Illit"
     ],
     "album": "",
     "plays": 0,
-    "duration_sec": 184,
-    "date_added": "2026-08-23T19:30:33",
+    "duration_sec": 102,
+    "date_added": "2026-08-24T14:50:34",
     "last_played": null,
-    "genre": "",
+    "genre": "K-Pop",
     "country": null
   },
   {
-    "id": "5bb972f7d39ec1ef",
-    "song": "Where is my husband?",
-    "artist": "Raye",
+    "id": "2c3a4e2f20fbe382",
+    "song": "One Step At A Time",
+    "artist": "Jordin Sparks",
     "credits": [
-      "Raye"
+      "Jordin Sparks"
     ],
     "album": "",
     "plays": 0,
-    "duration_sec": 198,
-    "date_added": "2026-08-23T19:32:52",
+    "duration_sec": 205,
+    "date_added": "2026-08-24T09:22:45",
     "last_played": null,
-    "genre": "",
+    "genre": "Pop",
     "country": null
   },
   {
-    "id": "0c8f785ab3e9c795",
+    "id": "930237f96d004282",
+    "song": "Oh la la amour",
+    "artist": "Julio Iglesias",
+    "credits": [
+      "Julio Iglesias"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 225,
+    "date_added": "2026-08-24T14:52:46",
+    "last_played": null,
+    "genre": "Variete Francaise",
+    "country": "ES"
+  },
+  {
+    "id": "1e39167cb9f5b5a0",
+    "song": "Song for Denise",
+    "artist": "Piano Fantasia",
+    "credits": [
+      "Piano Fantasia"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 193,
+    "date_added": "2026-08-24T09:27:45",
+    "last_played": null,
+    "genre": "Oldies",
+    "country": null
+  },
+  {
+    "id": "1b3a370429705da8",
     "song": "ONLY WITH YOU",
     "artist": "Tatsuro Yamashita",
     "credits": [
       "Tatsuro Yamashita"
     ],
-    "album": "",
+    "album": "Big Wave",
     "plays": 0,
     "duration_sec": 232,
     "date_added": "2026-08-23T19:41:54",
     "last_played": null,
-    "genre": "",
+    "genre": "City Pop",
     "country": "JP"
   },
   {
-    "id": "19fe03eff9469b7f",
+    "id": "cc76cab708fd3dac",
     "song": "YOUR EYES",
     "artist": "Tatsuro Yamashita",
     "credits": [
       "Tatsuro Yamashita"
     ],
-    "album": "",
+    "album": "Big Wave",
     "plays": 0,
     "duration_sec": 203,
     "date_added": "2026-08-23T19:43:31",
     "last_played": null,
-    "genre": "",
+    "genre": "City Pop",
     "country": "JP"
+  },
+  {
+    "id": "8a2347a25496e350",
+    "song": "Don't Do Me Like That",
+    "artist": "Tom Petty & the Heartbreakers",
+    "credits": [
+      "Tom Petty & the Heartbreakers"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 163,
+    "date_added": "2026-08-24T09:23:41",
+    "last_played": null,
+    "genre": "Soft Rock",
+    "country": null
   }
 ]

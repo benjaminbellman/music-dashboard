@@ -1,8 +1,8 @@
 [
   {
     "genre": "Pop",
-    "plays": 35253,
-    "songs": 711
+    "plays": 35268,
+    "songs": 714
   },
   {
     "genre": "Dance",
@@ -12,22 +12,22 @@
   {
     "genre": "Electronic",
     "plays": 23275,
-    "songs": 389
+    "songs": 392
   },
   {
     "genre": "Variete Francaise",
     "plays": 18155,
-    "songs": 282
+    "songs": 283
   },
   {
     "genre": "Alternative",
     "plays": 13999,
-    "songs": 291
+    "songs": 292
   },
   {
     "genre": "Hip Hop/Rap",
     "plays": 11631,
-    "songs": 261
+    "songs": 262
   },
   {
     "genre": "Rock",
@@ -37,7 +37,7 @@
   {
     "genre": "Soft Rock",
     "plays": 6672,
-    "songs": 73
+    "songs": 74
   },
   {
     "genre": "Future Funk",
@@ -52,12 +52,12 @@
   {
     "genre": "Disco",
     "plays": 3780,
-    "songs": 61
+    "songs": 62
   },
   {
     "genre": "Oldies",
     "plays": 3733,
-    "songs": 63
+    "songs": 64
   },
   {
     "genre": "Variété française",
@@ -67,7 +67,7 @@
   {
     "genre": "City Pop",
     "plays": 3280,
-    "songs": 44
+    "songs": 49
   },
   {
     "genre": "Comedy",
@@ -172,12 +172,12 @@
   {
     "genre": "K-Pop",
     "plays": 329,
-    "songs": 6
+    "songs": 7
   },
   {
     "genre": "R & B",
-    "plays": 324,
-    "songs": 9
+    "plays": 327,
+    "songs": 10
   },
   {
     "genre": "World",
@@ -618,10 +618,5 @@
     "genre": "Electronica/Dance",
     "plays": 5,
     "songs": 1
-  },
-  {
-    "genre": "Unspecified",
-    "plays": 0,
-    "songs": 9
   }
 ]
