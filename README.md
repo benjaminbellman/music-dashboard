@@ -52,15 +52,18 @@ com.benjamin.musicdashboardsync.plist   # copy to ~/Library/LaunchAgents/
 
 ## One-time setup
 
+Requires macOS (the extractor drives Music.app via AppleScript) and Python 3.9+.
+
 ```sh
-cd "/Users/benjaminbellman/Music Dashboard"
+git clone https://github.com/benjaminbellman/music-dashboard.git
+cd music-dashboard
 
 # Python venv
 python3 -m venv .venv
 .venv/bin/pip install musicbrainzngs openpyxl
 
-# Bootstrap country ledger from the legacy xlsm
-.venv/bin/python bootstrap/seed_country_ledger.py
+# Seed the artist → country ledger. data/artist_country_seed.csv is already
+# committed (~2,170 artists), so this is just an import — no extra files needed.
 .venv/bin/python pipeline/enrich.py --import-csv data/artist_country_seed.csv
 
 # First sync (macOS may prompt for Automation permission to control Music)
@@ -71,6 +74,23 @@ python3 -m venv .venv
 # Preview the dashboard locally
 cd docs && python3 -m http.server 8788          # open http://localhost:8788
 ```
+
+Any artist in your library that isn't in the seed CSV is looked up against
+MusicBrainz during `enrich.py`. Whatever it can't resolve shows up on the
+**Pending** tab; assign those by hand with
+`.venv/bin/python pipeline/enrich.py --interactive`.
+
+### `bootstrap/` — historical, not part of setup
+
+`bootstrap/seed_country_ledger.py` reads `Itunes_Dashboard_26.xlsm`, the
+personal Excel workbook this project replaced, and emits
+`data/artist_country_seed.csv`. It was run once, by me, to migrate my own
+hand-curated country data — the workbook is my personal library file and
+isn't in this repo.
+
+**You don't need it.** Its output is already committed, so the
+`--import-csv` line above is all that's required. The script is kept only
+to document where the seed data came from.
 
 ## Day-to-day
 
