@@ -1,82 +1,37 @@
 [
   {
     "artist": "Army of Lovers",
-    "attempts": 2,
+    "attempts": 3,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Beachcrimes & Tia Tia",
-    "attempts": 2,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Boys Like Girls",
     "attempts": 3,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Carly Rae Jepsen",
-    "attempts": 41,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Dog",
-    "attempts": 2,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Eve",
     "attempts": 3,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
-    "artist": "Fahlberg",
-    "attempts": 53,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
     "artist": "Illit",
-    "attempts": 2,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Jess & Crabbe",
-    "attempts": 51,
+    "attempts": 3,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Jordin Sparks",
-    "attempts": 2,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Olivia Dean",
     "attempts": 3,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "Piano Fantasia",
-    "attempts": 2,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Pépé Bradock",
-    "attempts": 51,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
-    "artist": "Raye",
     "attempts": 3,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
-    "artist": "Surnevis",
-    "attempts": 41,
-    "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
-  },
-  {
     "artist": "Tom Petty & the Heartbreakers",
-    "attempts": 2,
+    "attempts": 3,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   }
 ]
