@@ -182,117 +182,117 @@
     },
     {
       "rank": 31,
+      "artist": "Anri",
+      "count": 11,
+      "country": "JP"
+    },
+    {
+      "rank": 32,
       "artist": "Calvin Harris",
       "count": 11,
       "country": "GB"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "artist": "Charles Aznavour",
       "count": 11,
       "country": "FR"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "artist": "Epic Rap Battles of History",
       "count": 11,
       "country": "US"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "artist": "Jacques Brel",
       "count": 11,
       "country": "FR"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "artist": "Linkin Park",
       "count": 11,
       "country": "US"
     },
     {
-      "rank": 36,
+      "rank": 37,
+      "artist": "Tatsuro Yamashita",
+      "count": 11,
+      "country": "JP"
+    },
+    {
+      "rank": 38,
       "artist": "Avicii",
       "count": 10,
       "country": "SE"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "artist": "Benny Benassi",
       "count": 10,
       "country": "IT"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "artist": "Beach Boys",
       "count": 9,
       "country": "US"
     },
     {
-      "rank": 39,
+      "rank": 41,
       "artist": "Breaking Benjamin",
       "count": 9,
       "country": "GB"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "artist": "Disney",
       "count": 9,
       "country": "US"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "artist": "Eminem",
       "count": 9,
       "country": "US"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "artist": "Gesaffelstein",
       "count": 9,
       "country": "FR"
     },
     {
-      "rank": 43,
+      "rank": 45,
       "artist": "Kanye West",
       "count": 9,
       "country": "US"
     },
     {
-      "rank": 44,
+      "rank": 46,
       "artist": "Lifelike",
       "count": 9,
       "country": "FR"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "artist": "Pitbull",
       "count": 9,
       "country": "US"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "artist": "Shakira",
       "count": 9,
       "country": "CO"
     },
     {
-      "rank": 47,
-      "artist": "Tatsuro Yamashita",
-      "count": 9,
-      "country": "JP"
-    },
-    {
-      "rank": 48,
+      "rank": 49,
       "artist": "The Lonely Island",
       "count": 9,
       "country": "US"
-    },
-    {
-      "rank": 49,
-      "artist": "Anri",
-      "count": 8,
-      "country": "JP"
     },
     {
       "rank": 50,
@@ -353,13 +353,13 @@
     {
       "rank": 9,
       "artist": "Lifelike",
-      "plays": 1289,
+      "plays": 1290,
       "country": "FR"
     },
     {
       "rank": 10,
       "artist": "Supertramp",
-      "plays": 1189,
+      "plays": 1190,
       "country": "GB"
     },
     {
@@ -401,7 +401,7 @@
     {
       "rank": 17,
       "artist": "The Weeknd",
-      "plays": 1026,
+      "plays": 1027,
       "country": "CA"
     },
     {
@@ -425,7 +425,7 @@
     {
       "rank": 21,
       "artist": "David Guetta",
-      "plays": 970,
+      "plays": 973,
       "country": "FR"
     },
     {
@@ -533,7 +533,7 @@
     {
       "rank": 39,
       "artist": "Modern Talking",
-      "plays": 616,
+      "plays": 617,
       "country": "DE"
     },
     {
@@ -599,7 +599,7 @@
     {
       "rank": 50,
       "artist": "Michael Jackson",
-      "plays": 520,
+      "plays": 522,
       "country": "US"
     }
   ]
