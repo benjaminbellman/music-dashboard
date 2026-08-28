@@ -288,343 +288,22 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 36,
-      "top_artists": [
-        {
-          "artist": "Aden Foyer",
-          "plays": 5
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 3
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 2
-        },
-        {
-          "artist": "OneRepublic",
-          "plays": 2
-        },
-        {
-          "artist": "M.A.G.S",
-          "plays": 1
-        },
-        {
-          "artist": "NFC & Bon Entendeur",
-          "plays": 1
-        },
-        {
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 1
-        },
-        {
-          "artist": "Pierre Henry",
-          "plays": 1
-        },
-        {
-          "artist": "Iden Kai",
-          "plays": 1
-        },
-        {
-          "artist": "U2",
-          "plays": 1
-        },
-        {
-          "artist": "Pakito",
-          "plays": 1
-        },
-        {
-          "artist": "Neil Diamond",
-          "plays": 1
-        },
-        {
-          "artist": "Supertramp",
-          "plays": 1
-        },
-        {
-          "artist": "Kanye West",
-          "plays": 1
-        },
-        {
-          "artist": "Gilbert Bécaud",
-          "plays": 1
-        },
-        {
-          "artist": "Tom Lehrer",
-          "plays": 1
-        },
-        {
-          "artist": "Almost Monday",
-          "plays": 1
-        },
-        {
-          "artist": "Rudolph",
-          "plays": 1
-        },
-        {
-          "artist": "Milky",
-          "plays": 1
-        },
-        {
-          "artist": "Modern Talking",
-          "plays": 1
-        },
-        {
-          "artist": "Dj Antoine & The Beat Shakers",
-          "plays": 1
-        },
-        {
-          "artist": "Armin van Buuren",
-          "plays": 1
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 1
-        },
-        {
-          "artist": "Lifelike",
-          "plays": 1
-        },
-        {
-          "artist": "Marc Lavoine",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Pop",
-          "plays": 12
-        },
-        {
-          "genre": "Dance",
-          "plays": 10
-        },
-        {
-          "genre": "Electronic",
-          "plays": 3
-        },
-        {
-          "genre": "Alternative",
-          "plays": 1
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 1
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 1
-        },
-        {
-          "genre": "Hip-Hop",
-          "plays": 1
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 1
-        },
-        {
-          "genre": "Comedy",
-          "plays": 1
-        },
-        {
-          "genre": "Oldies",
-          "plays": 1
-        },
-        {
-          "genre": "mashup",
-          "plays": 1
-        },
-        {
-          "genre": "French Pop",
-          "plays": 1
-        },
-        {
-          "genre": "Trance",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 5,
-          "genre": "Pop"
-        },
-        {
-          "song": "Smile",
-          "artist": "M.A.G.S",
-          "plays": 1,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Wanna Be Startin' Somethin' (Louis La Roche Remix)",
-          "artist": "Michael Jackson",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Rico Coco (Bon Entendeur)",
-          "artist": "NFC & Bon Entendeur",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Disco Nap(feat. METRONOMY)",
-          "artist": "Polo & Pan et Metronomy",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Psyche Rock (Fatboy Slim Malpaso Mix)",
-          "artist": "Pierre Henry",
-          "plays": 1,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Summer Cruise",
-          "artist": "Iden Kai",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Where The Streets Have No Name",
-          "artist": "U2",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Are U Ready?",
-          "artist": "Pakito",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "Sweet Caroline",
-          "artist": "Neil Diamond",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Don't Wanna Wait",
-          "artist": "David Guetta & OneRepublic",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "The Logical Song",
-          "artist": "Supertramp",
-          "plays": 1,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Stronger",
-          "artist": "Kanye West",
-          "plays": 1,
-          "genre": "Hip-Hop"
-        },
-        {
-          "song": "Nathalie",
-          "artist": "Gilbert Bécaud",
-          "plays": 1,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Pollution",
-          "artist": "Tom Lehrer",
-          "plays": 1,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Can't slow down (official video)",
-          "artist": "Almost Monday",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "We're A Couple Of Misfits - Rudolph The Red-Nosed Reindeer (Original Soundtrack)",
-          "artist": "Rudolph",
-          "plays": 1,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky & David Guetta",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "You're My Heart, You're My Soul",
-          "artist": "Modern Talking",
-          "plays": 1,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ma Chérie",
-          "artist": "Dj Antoine & The Beat Shakers",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "This Is What It Feels Like",
-          "artist": "Armin van Buuren",
-          "plays": 1,
-          "genre": "Dance"
-        },
-        {
-          "song": "2002 - 2012 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 1,
-          "genre": "mashup"
-        },
-        {
-          "song": "Nightwalk",
-          "artist": "Lifelike",
-          "plays": 1,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Un ami",
-          "artist": "Marc Lavoine & Florent Pagny",
-          "plays": 1,
-          "genre": "French Pop"
-        },
-        {
-          "song": "Trinity  (Full Version)",
-          "artist": "Sound System",
-          "plays": 1,
-          "genre": "Trance"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 343,
+      "total_plays": 250,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 60
+          "plays": 33
         },
         {
           "artist": "Kungs",
-          "plays": 59
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 25
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 13
+          "plays": 32
         },
         {
           "artist": "Bon Entendeur",
@@ -632,6 +311,10 @@
         },
         {
           "artist": "Naturi Naughton",
+          "plays": 7
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
           "plays": 7
         },
         {
@@ -703,14 +386,22 @@
           "plays": 4
         },
         {
-          "artist": "Lifelike",
-          "plays": 4
+          "artist": "David Guetta",
+          "plays": 3
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 3
+        },
+        {
+          "artist": "ROSÉ & Bruno Mars",
+          "plays": 3
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 184
+          "plays": 106
         },
         {
           "genre": "Pop",
@@ -718,11 +409,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 17
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 14
+          "plays": 16
         },
         {
           "genre": "Rock",
@@ -770,7 +457,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 3
+          "plays": 2
         },
         {
           "genre": "Nu Disco / Funk",
@@ -801,6 +488,10 @@
           "plays": 1
         },
         {
+          "genre": "Hip Hop/Rap",
+          "plays": 1
+        },
+        {
           "genre": "Oldies",
           "plays": 1
         },
@@ -813,30 +504,18 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 59,
+          "plays": 32,
+          "genre": "Dance"
+        },
+        {
+          "song": "Fame 09 (Bimbo Jones Club Mix)",
+          "artist": "Naturi Naughton",
+          "plays": 7,
           "genre": "Dance"
         },
         {
           "song": "Miss You",
           "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 25,
-          "genre": "Dance"
-        },
-        {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 13,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Fame 09 (Bimbo Jones Club Mix)",
-          "artist": "Naturi Naughton",
           "plays": 7,
           "genre": "Dance"
         },
@@ -949,22 +628,34 @@
           "genre": "Rock"
         },
         {
-          "song": "Stand Together (Lifelike Remix)",
-          "artist": "All Hail the Silence and Lifelike",
-          "plays": 3,
+          "song": "The Weekend",
+          "artist": "Michael Gray",
+          "plays": 2,
           "genre": "Dance"
         },
         {
-          "song": "Fantasy",
-          "artist": "Meiko Nakahara",
-          "plays": 3,
-          "genre": "City Pop"
+          "song": "Rico Coco (Bon Entendeur)",
+          "artist": "NFC & Bon Entendeur",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Burnin' For You",
+          "artist": "Blue Oyster Cult",
+          "plays": 2,
+          "genre": "Rock"
+        },
+        {
+          "song": "Même Pas Fatigué",
+          "artist": "Hits Variété Pop",
+          "plays": 2,
+          "genre": "Pop"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 595,
+      "total_plays": 593,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1023,10 +714,6 @@
           "plays": 7
         },
         {
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 7
-        },
-        {
           "artist": "442oons",
           "plays": 7
         },
@@ -1065,12 +752,16 @@
         {
           "artist": "Ourvais",
           "plays": 5
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 5
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 227
+          "plays": 225
         },
         {
           "genre": "Pop",
@@ -1213,12 +904,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Golden Cage (Fred Falke Remix)",
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 7,
-          "genre": "Dance"
-        },
-        {
           "song": "Dura",
           "artist": "Daddy Yankee",
           "plays": 6,
@@ -1285,6 +970,12 @@
           "genre": "House"
         },
         {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 5,
+          "genre": "Dance"
+        },
+        {
           "song": "Who won the Premier League ?  Arsenal!",
           "artist": "442oons",
           "plays": 5,
@@ -1324,7 +1015,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2666,
+      "total_plays": 2586,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1339,16 +1030,16 @@
           "plays": 69
         },
         {
-          "artist": "Daft Punk",
-          "plays": 67
-        },
-        {
           "artist": "France Football Anthem",
           "plays": 66
         },
         {
+          "artist": "Daft Punk",
+          "plays": 62
+        },
+        {
           "artist": "David Guetta",
-          "plays": 59
+          "plays": 58
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1392,7 +1083,7 @@
         },
         {
           "artist": "Michael Jackson",
-          "plays": 30
+          "plays": 29
         },
         {
           "artist": "Aden Foyer",
@@ -1430,47 +1121,47 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 790
+          "plays": 780
         },
         {
           "genre": "Pop",
-          "plays": 465
+          "plays": 453
         },
         {
           "genre": "Electronic",
-          "plays": 266
+          "plays": 260
         },
         {
           "genre": "Variete Francaise",
-          "plays": 170
+          "plays": 165
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 146
+          "plays": 143
         },
         {
           "genre": "Alternative",
-          "plays": 135
+          "plays": 127
         },
         {
           "genre": "Rock",
-          "plays": 113
+          "plays": 110
         },
         {
           "genre": "Comedy",
-          "plays": 81
+          "plays": 79
         },
         {
           "genre": "mashup",
-          "plays": 56
+          "plays": 54
         },
         {
           "genre": "Soft Rock",
-          "plays": 53
+          "plays": 52
         },
         {
           "genre": "City Pop",
-          "plays": 49
+          "plays": 48
         },
         {
           "genre": "French Pop",
@@ -1478,7 +1169,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 36
+          "plays": 35
         },
         {
           "genre": "Soul and R&B",
@@ -1490,15 +1181,7 @@
         },
         {
           "genre": "Latin",
-          "plays": 20
-        },
-        {
-          "genre": "Classic Rock",
-          "plays": 19
-        },
-        {
-          "genre": "Disco",
-          "plays": 12
+          "plays": 18
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -1511,6 +1194,10 @@
         {
           "genre": "Oldies",
           "plays": 11
+        },
+        {
+          "genre": "Disco",
+          "plays": 10
         },
         {
           "genre": "House",
@@ -1526,6 +1213,10 @@
         },
         {
           "genre": "Lowfi",
+          "plays": 8
+        },
+        {
+          "genre": "Indie",
           "plays": 8
         }
       ],
@@ -8671,6 +8362,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-26",
-  "snapshot_count": 111
+  "latest_snapshot": "2026-08-28",
+  "snapshot_count": 112
 }
