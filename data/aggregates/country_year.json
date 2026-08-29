@@ -2,23 +2,23 @@
   "2026": [
     {
       "country": "FR",
-      "plays": 1013
+      "plays": 1030
     },
     {
       "country": "US",
-      "plays": 604
+      "plays": 667
     },
     {
       "country": "GB",
-      "plays": 494
+      "plays": 496
     },
     {
       "country": "SE",
-      "plays": 367
+      "plays": 373
     },
     {
       "country": "JP",
-      "plays": 221
+      "plays": 229
     },
     {
       "country": "IT",
@@ -38,11 +38,15 @@
     },
     {
       "country": "AU",
-      "plays": 21
+      "plays": 25
     },
     {
       "country": "IS",
       "plays": 17
+    },
+    {
+      "country": "KR",
+      "plays": 16
     },
     {
       "country": "BR",
@@ -51,20 +55,16 @@
     {
       "country": "ES",
       "plays": 0
-    },
-    {
-      "country": "KR",
-      "plays": 0
     }
   ],
   "2025": [
     {
       "country": "FR",
-      "plays": 2543
+      "plays": 2549
     },
     {
       "country": "US",
-      "plays": 2134
+      "plays": 2135
     },
     {
       "country": "GB",
@@ -88,7 +88,7 @@
     },
     {
       "country": "KR",
-      "plays": 155
+      "plays": 156
     },
     {
       "country": "CA",
@@ -142,7 +142,7 @@
   "2024": [
     {
       "country": "FR",
-      "plays": 4507
+      "plays": 4508
     },
     {
       "country": "US",
@@ -150,11 +150,11 @@
     },
     {
       "country": "AU",
-      "plays": 1617
+      "plays": 1620
     },
     {
       "country": "GB",
-      "plays": 1592
+      "plays": 1593
     },
     {
       "country": "DE",
@@ -226,7 +226,7 @@
     },
     {
       "country": "CH",
-      "plays": 13
+      "plays": 14
     },
     {
       "country": "LT",
@@ -244,7 +244,7 @@
     },
     {
       "country": "US",
-      "plays": 2785
+      "plays": 2788
     },
     {
       "country": "JP",
@@ -252,7 +252,7 @@
     },
     {
       "country": "GB",
-      "plays": 1091
+      "plays": 1092
     },
     {
       "country": "AU",
@@ -346,11 +346,11 @@
   "2022": [
     {
       "country": "US",
-      "plays": 3585
+      "plays": 3587
     },
     {
       "country": "JP",
-      "plays": 3317
+      "plays": 3318
     },
     {
       "country": "GB",
@@ -550,7 +550,7 @@
   "2020": [
     {
       "country": "FR",
-      "plays": 7292
+      "plays": 7293
     },
     {
       "country": "US",
@@ -558,7 +558,7 @@
     },
     {
       "country": "GB",
-      "plays": 2325
+      "plays": 2327
     },
     {
       "country": "DE",
@@ -566,7 +566,7 @@
     },
     {
       "country": "SE",
-      "plays": 291
+      "plays": 292
     },
     {
       "country": "NL",
@@ -604,15 +604,15 @@
   "2019": [
     {
       "country": "FR",
-      "plays": 7149
+      "plays": 7152
     },
     {
       "country": "US",
-      "plays": 3179
+      "plays": 3180
     },
     {
       "country": "GB",
-      "plays": 2292
+      "plays": 2293
     },
     {
       "country": "CA",
@@ -654,7 +654,7 @@
     },
     {
       "country": "FR",
-      "plays": 3479
+      "plays": 3480
     },
     {
       "country": "US",
@@ -704,15 +704,15 @@
   "2017": [
     {
       "country": "US",
-      "plays": 8473
+      "plays": 8474
     },
     {
       "country": "FR",
-      "plays": 2320
+      "plays": 2322
     },
     {
       "country": "GB",
-      "plays": 2166
+      "plays": 2167
     },
     {
       "country": "CA",
@@ -724,7 +724,7 @@
     },
     {
       "country": "CO",
-      "plays": 332
+      "plays": 333
     },
     {
       "country": "DE",
@@ -758,11 +758,11 @@
   "2016": [
     {
       "country": "FR",
-      "plays": 5367
+      "plays": 5368
     },
     {
       "country": "US",
-      "plays": 4380
+      "plays": 4381
     },
     {
       "country": "GB",
@@ -778,7 +778,7 @@
     },
     {
       "country": "CA",
-      "plays": 532
+      "plays": 533
     },
     {
       "country": "IT",
@@ -832,15 +832,15 @@
   "2015": [
     {
       "country": "US",
-      "plays": 4995
+      "plays": 4999
     },
     {
       "country": "FR",
-      "plays": 4929
+      "plays": 4930
     },
     {
       "country": "GB",
-      "plays": 3276
+      "plays": 3277
     },
     {
       "country": "CA",
@@ -864,7 +864,7 @@
     },
     {
       "country": "AU",
-      "plays": 244
+      "plays": 245
     },
     {
       "country": "AT",
@@ -922,11 +922,11 @@
   "2014": [
     {
       "country": "FR",
-      "plays": 3774
+      "plays": 3776
     },
     {
       "country": "US",
-      "plays": 2424
+      "plays": 2425
     },
     {
       "country": "GB",
@@ -934,11 +934,11 @@
     },
     {
       "country": "CA",
-      "plays": 487
+      "plays": 488
     },
     {
       "country": "NL",
-      "plays": 433
+      "plays": 434
     },
     {
       "country": "SE",
@@ -1008,15 +1008,15 @@
   "2013": [
     {
       "country": "US",
-      "plays": 7983
+      "plays": 7991
     },
     {
       "country": "FR",
-      "plays": 6898
+      "plays": 6902
     },
     {
       "country": "GB",
-      "plays": 3305
+      "plays": 3308
     },
     {
       "country": "SE",
@@ -1024,11 +1024,11 @@
     },
     {
       "country": "CA",
-      "plays": 623
+      "plays": 625
     },
     {
       "country": "DE",
-      "plays": 534
+      "plays": 535
     },
     {
       "country": "AT",
@@ -1076,7 +1076,7 @@
     },
     {
       "country": "CO",
-      "plays": 71
+      "plays": 72
     },
     {
       "country": "JM",
@@ -1164,7 +1164,7 @@
     },
     {
       "country": "FR",
-      "plays": 148
+      "plays": 149
     },
     {
       "country": "CA",
@@ -1190,7 +1190,7 @@
   "2010": [
     {
       "country": "GB",
-      "plays": 551
+      "plays": 552
     },
     {
       "country": "US",
@@ -1266,7 +1266,7 @@
   "2008": [
     {
       "country": "US",
-      "plays": 1119
+      "plays": 1120
     },
     {
       "country": "FR",
@@ -1338,7 +1338,7 @@
     },
     {
       "country": "IE",
-      "plays": 72
+      "plays": 73
     }
   ],
   "2005": [
@@ -1348,7 +1348,7 @@
     },
     {
       "country": "SE",
-      "plays": 137
+      "plays": 138
     },
     {
       "country": "GB",

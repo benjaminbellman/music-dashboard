@@ -305,7 +305,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4609,
+      "plays": 4610,
       "country": "FR"
     },
     {
@@ -329,7 +329,7 @@
     {
       "rank": 5,
       "artist": "Dua Lipa",
-      "plays": 2393,
+      "plays": 2394,
       "country": "GB"
     },
     {
@@ -365,7 +365,7 @@
     {
       "rank": 11,
       "artist": "Jacques Brel",
-      "plays": 1149,
+      "plays": 1150,
       "country": "FR"
     },
     {
@@ -377,7 +377,7 @@
     {
       "rank": 13,
       "artist": "Charles Aznavour",
-      "plays": 1142,
+      "plays": 1143,
       "country": "FR"
     },
     {
@@ -389,19 +389,19 @@
     {
       "rank": 15,
       "artist": "PNL",
-      "plays": 1088,
+      "plays": 1089,
       "country": "FR"
     },
     {
       "rank": 16,
       "artist": "ABBA",
-      "plays": 1047,
+      "plays": 1048,
       "country": "SE"
     },
     {
       "rank": 17,
       "artist": "The Weeknd",
-      "plays": 1027,
+      "plays": 1028,
       "country": "CA"
     },
     {
@@ -419,7 +419,7 @@
     {
       "rank": 20,
       "artist": "Tatsuro Yamashita",
-      "plays": 989,
+      "plays": 998,
       "country": "JP"
     },
     {
@@ -461,7 +461,7 @@
     {
       "rank": 27,
       "artist": "Calvin Harris",
-      "plays": 847,
+      "plays": 849,
       "country": "GB"
     },
     {
@@ -503,7 +503,7 @@
     {
       "rank": 34,
       "artist": "AIR (Band)",
-      "plays": 661,
+      "plays": 662,
       "country": "FR"
     },
     {
@@ -527,7 +527,7 @@
     {
       "rank": 38,
       "artist": "The Beatles",
-      "plays": 630,
+      "plays": 631,
       "country": "GB"
     },
     {
@@ -563,7 +563,7 @@
     {
       "rank": 44,
       "artist": "Madonna",
-      "plays": 556,
+      "plays": 557,
       "country": "US"
     },
     {
@@ -599,7 +599,7 @@
     {
       "rank": 50,
       "artist": "Michael Jackson",
-      "plays": 522,
+      "plays": 523,
       "country": "US"
     }
   ]

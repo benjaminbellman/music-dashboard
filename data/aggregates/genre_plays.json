@@ -1,47 +1,47 @@
 [
   {
     "genre": "Pop",
-    "plays": 35268,
+    "plays": 35295,
     "songs": 714
   },
   {
     "genre": "Dance",
-    "plays": 30054,
+    "plays": 30063,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23275,
+    "plays": 23303,
     "songs": 392
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18155,
+    "plays": 18168,
     "songs": 283
   },
   {
     "genre": "Alternative",
-    "plays": 13999,
+    "plays": 14014,
     "songs": 292
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11631,
+    "plays": 11644,
     "songs": 262
   },
   {
     "genre": "Rock",
-    "plays": 10748,
+    "plays": 10754,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6672,
+    "plays": 6693,
     "songs": 74
   },
   {
     "genre": "Future Funk",
-    "plays": 5849,
+    "plays": 5851,
     "songs": 71
   },
   {
@@ -51,22 +51,22 @@
   },
   {
     "genre": "Disco",
-    "plays": 3780,
+    "plays": 3781,
     "songs": 62
   },
   {
     "genre": "Oldies",
-    "plays": 3733,
+    "plays": 3747,
     "songs": 64
   },
   {
     "genre": "Variété française",
-    "plays": 3423,
+    "plays": 3424,
     "songs": 24
   },
   {
     "genre": "City Pop",
-    "plays": 3280,
+    "plays": 3289,
     "songs": 49
   },
   {
@@ -76,17 +76,17 @@
   },
   {
     "genre": "Latin",
-    "plays": 2792,
+    "plays": 2793,
     "songs": 47
   },
   {
     "genre": "mashup",
-    "plays": 2761,
+    "plays": 2767,
     "songs": 69
   },
   {
     "genre": "Soundtrack",
-    "plays": 2727,
+    "plays": 2728,
     "songs": 69
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "genre": "French Pop",
-    "plays": 1683,
+    "plays": 1684,
     "songs": 45
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1236,
+    "plays": 1237,
     "songs": 40
   },
   {
@@ -166,17 +166,17 @@
   },
   {
     "genre": "Jazz",
-    "plays": 353,
+    "plays": 354,
     "songs": 10
   },
   {
     "genre": "K-Pop",
-    "plays": 329,
+    "plays": 346,
     "songs": 7
   },
   {
     "genre": "R & B",
-    "plays": 327,
+    "plays": 328,
     "songs": 10
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "genre": "Holiday",
-    "plays": 254,
+    "plays": 255,
     "songs": 3
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "genre": "Trance",
-    "plays": 79,
+    "plays": 80,
     "songs": 3
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "genre": "Punk Rock",
-    "plays": 11,
+    "plays": 12,
     "songs": 1
   },
   {
