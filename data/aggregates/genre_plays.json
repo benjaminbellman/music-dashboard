@@ -1,22 +1,22 @@
 [
   {
     "genre": "Pop",
-    "plays": 35295,
+    "plays": 35380,
     "songs": 714
   },
   {
     "genre": "Dance",
-    "plays": 30063,
+    "plays": 30165,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23303,
+    "plays": 23405,
     "songs": 392
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18168,
+    "plays": 18253,
     "songs": 283
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11644,
+    "plays": 11746,
     "songs": 262
   },
   {
     "genre": "Rock",
-    "plays": 10754,
+    "plays": 10805,
     "songs": 282
   },
   {
@@ -51,38 +51,38 @@
   },
   {
     "genre": "Disco",
-    "plays": 3781,
+    "plays": 3798,
     "songs": 62
   },
   {
     "genre": "Oldies",
-    "plays": 3747,
+    "plays": 3764,
     "songs": 64
   },
   {
     "genre": "Variété française",
-    "plays": 3424,
+    "plays": 3441,
     "songs": 24
   },
   {
     "genre": "City Pop",
-    "plays": 3289,
+    "plays": 3313,
     "songs": 49
   },
   {
     "genre": "Comedy",
-    "plays": 3217,
+    "plays": 3268,
     "songs": 92
+  },
+  {
+    "genre": "mashup",
+    "plays": 2818,
+    "songs": 69
   },
   {
     "genre": "Latin",
     "plays": 2793,
     "songs": 47
-  },
-  {
-    "genre": "mashup",
-    "plays": 2767,
-    "songs": 69
   },
   {
     "genre": "Soundtrack",
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1237,
+    "plays": 1254,
     "songs": 40
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "genre": "Funk",
-    "plays": 919,
+    "plays": 936,
     "songs": 12
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "genre": "R & B",
-    "plays": 328,
+    "plays": 345,
     "songs": 10
   },
   {
@@ -195,14 +195,14 @@
     "songs": 2
   },
   {
+    "genre": "Other",
+    "plays": 262,
+    "songs": 11
+  },
+  {
     "genre": "Holiday",
     "plays": 255,
     "songs": 3
-  },
-  {
-    "genre": "Other",
-    "plays": 245,
-    "songs": 11
   },
   {
     "genre": "R&B",
@@ -235,6 +235,11 @@
     "songs": 4
   },
   {
+    "genre": "Vocal",
+    "plays": 203,
+    "songs": 10
+  },
+  {
     "genre": "Metal",
     "plays": 200,
     "songs": 6
@@ -250,18 +255,13 @@
     "songs": 1
   },
   {
-    "genre": "Vocal",
-    "plays": 186,
-    "songs": 10
-  },
-  {
     "genre": "Musique francophone",
-    "plays": 140,
+    "plays": 157,
     "songs": 4
   },
   {
     "genre": "Hip-hop/Rap",
-    "plays": 120,
+    "plays": 137,
     "songs": 5
   },
   {
@@ -390,6 +390,11 @@
     "songs": 1
   },
   {
+    "genre": "Nu-Metal",
+    "plays": 59,
+    "songs": 1
+  },
+  {
     "genre": "Summertime All The Time",
     "plays": 58,
     "songs": 1
@@ -446,11 +451,6 @@
   },
   {
     "genre": "Kpop",
-    "plays": 42,
-    "songs": 1
-  },
-  {
-    "genre": "Nu-Metal",
     "plays": 42,
     "songs": 1
   },
@@ -517,6 +517,11 @@
   {
     "genre": "#dance",
     "plays": 25,
+    "songs": 1
+  },
+  {
+    "genre": "Alternative Rap",
+    "plays": 23,
     "songs": 1
   },
   {
@@ -602,11 +607,6 @@
   {
     "genre": "Fitness & Workout",
     "plays": 7,
-    "songs": 1
-  },
-  {
-    "genre": "Alternative Rap",
-    "plays": 6,
     "songs": 1
   },
   {

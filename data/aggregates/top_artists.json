@@ -305,7 +305,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4610,
+      "plays": 4695,
       "country": "FR"
     },
     {
@@ -317,7 +317,7 @@
     {
       "rank": 3,
       "artist": "Joe Dassin",
-      "plays": 3240,
+      "plays": 3257,
       "country": "FR"
     },
     {
@@ -329,7 +329,7 @@
     {
       "rank": 5,
       "artist": "Dua Lipa",
-      "plays": 2394,
+      "plays": 2411,
       "country": "GB"
     },
     {
@@ -365,7 +365,7 @@
     {
       "rank": 11,
       "artist": "Jacques Brel",
-      "plays": 1150,
+      "plays": 1184,
       "country": "FR"
     },
     {
@@ -389,7 +389,7 @@
     {
       "rank": 15,
       "artist": "PNL",
-      "plays": 1089,
+      "plays": 1106,
       "country": "FR"
     },
     {
@@ -400,15 +400,15 @@
     },
     {
       "rank": 17,
-      "artist": "The Weeknd",
-      "plays": 1028,
-      "country": "CA"
+      "artist": "Anri",
+      "plays": 1046,
+      "country": "JP"
     },
     {
       "rank": 18,
-      "artist": "Anri",
-      "plays": 1022,
-      "country": "JP"
+      "artist": "The Weeknd",
+      "plays": 1028,
+      "country": "CA"
     },
     {
       "rank": 19,
@@ -437,7 +437,7 @@
     {
       "rank": 23,
       "artist": "Beach Boys",
-      "plays": 906,
+      "plays": 923,
       "country": "US"
     },
     {
@@ -556,21 +556,21 @@
     },
     {
       "rank": 43,
+      "artist": "MACROSS 82-99",
+      "plays": 574,
+      "country": "MX"
+    },
+    {
+      "rank": 44,
       "artist": "Visitor",
       "plays": 571,
       "country": "AU"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "artist": "Madonna",
       "plays": 557,
       "country": "US"
-    },
-    {
-      "rank": 45,
-      "artist": "MACROSS 82-99",
-      "plays": 550,
-      "country": "MX"
     },
     {
       "rank": 46,
@@ -580,27 +580,27 @@
     },
     {
       "rank": 47,
+      "artist": "Benjamin Bellman",
+      "plays": 543,
+      "country": "FR"
+    },
+    {
+      "rank": 48,
       "artist": "Pitbull",
       "plays": 531,
       "country": "US"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "artist": "Bee Gees",
       "plays": 528,
       "country": "GB"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "artist": "Electric Light Orchestra",
       "plays": 528,
       "country": "GB"
-    },
-    {
-      "rank": 50,
-      "artist": "Michael Jackson",
-      "plays": 523,
-      "country": "US"
     }
   ]
 }
