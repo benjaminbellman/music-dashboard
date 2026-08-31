@@ -1,52 +1,52 @@
 [
   {
     "genre": "Pop",
-    "plays": 35380,
+    "plays": 35395,
     "songs": 714
   },
   {
     "genre": "Dance",
-    "plays": 30165,
+    "plays": 30189,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23405,
+    "plays": 23414,
     "songs": 392
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18253,
+    "plays": 18268,
     "songs": 283
   },
   {
     "genre": "Alternative",
-    "plays": 14014,
+    "plays": 14023,
     "songs": 292
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11746,
+    "plays": 11752,
     "songs": 262
   },
   {
     "genre": "Rock",
-    "plays": 10805,
+    "plays": 10814,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6693,
+    "plays": 6702,
     "songs": 74
   },
   {
     "genre": "Future Funk",
-    "plays": 5851,
+    "plays": 5854,
     "songs": 71
   },
   {
     "genre": "Lowfi",
-    "plays": 3874,
+    "plays": 3883,
     "songs": 47
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3268,
+    "plays": 3280,
     "songs": 92
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "genre": "Hip-Hop/Rap",
-    "plays": 1254,
+    "plays": 1257,
     "songs": 40
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "genre": "Psychedlic Rock",
-    "plays": 466,
+    "plays": 469,
     "songs": 10
   },
   {
@@ -210,14 +210,14 @@
     "songs": 5
   },
   {
+    "genre": "Reggae",
+    "plays": 230,
+    "songs": 9
+  },
+  {
     "genre": "Pop Rock",
     "plays": 229,
     "songs": 1
-  },
-  {
-    "genre": "Reggae",
-    "plays": 227,
-    "songs": 9
   },
   {
     "genre": "Classical",
@@ -291,7 +291,7 @@
   },
   {
     "genre": "Electronica",
-    "plays": 92,
+    "plays": 95,
     "songs": 2
   },
   {

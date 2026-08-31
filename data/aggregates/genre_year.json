@@ -77,7 +77,7 @@
   {
     "year": 2008,
     "genre": "Pop",
-    "plays": 649
+    "plays": 652
   },
   {
     "year": 2008,
@@ -127,7 +127,7 @@
   {
     "year": 2010,
     "genre": "Dance",
-    "plays": 151
+    "plays": 154
   },
   {
     "year": 2010,
@@ -212,7 +212,7 @@
   {
     "year": 2012,
     "genre": "Other",
-    "plays": 196
+    "plays": 199
   },
   {
     "year": 2012,
@@ -227,12 +227,12 @@
   {
     "year": 2013,
     "genre": "Alternative",
-    "plays": 1213
+    "plays": 1216
   },
   {
     "year": 2013,
     "genre": "Dance",
-    "plays": 3134
+    "plays": 3137
   },
   {
     "year": 2013,
@@ -247,27 +247,27 @@
   {
     "year": 2013,
     "genre": "Other",
-    "plays": 6269
+    "plays": 6275
   },
   {
     "year": 2013,
     "genre": "Pop",
-    "plays": 5058
+    "plays": 5061
   },
   {
     "year": 2013,
     "genre": "Rock",
-    "plays": 2546
+    "plays": 2552
   },
   {
     "year": 2013,
     "genre": "Soft Rock",
-    "plays": 59
+    "plays": 62
   },
   {
     "year": 2013,
     "genre": "Variete Francaise",
-    "plays": 639
+    "plays": 645
   },
   {
     "year": 2014,
@@ -277,12 +277,12 @@
   {
     "year": 2014,
     "genre": "Dance",
-    "plays": 3176
+    "plays": 3179
   },
   {
     "year": 2014,
     "genre": "Electronic",
-    "plays": 2187
+    "plays": 2193
   },
   {
     "year": 2014,
@@ -292,7 +292,7 @@
   {
     "year": 2014,
     "genre": "Other",
-    "plays": 2218
+    "plays": 2224
   },
   {
     "year": 2014,
@@ -322,7 +322,7 @@
   {
     "year": 2015,
     "genre": "Dance",
-    "plays": 2042
+    "plays": 2048
   },
   {
     "year": 2015,
@@ -332,12 +332,12 @@
   {
     "year": 2015,
     "genre": "Hip Hop/Rap",
-    "plays": 1180
+    "plays": 1183
   },
   {
     "year": 2015,
     "genre": "Other",
-    "plays": 2864
+    "plays": 2870
   },
   {
     "year": 2015,
@@ -347,17 +347,17 @@
   {
     "year": 2015,
     "genre": "Rock",
-    "plays": 880
+    "plays": 883
   },
   {
     "year": 2015,
     "genre": "Soft Rock",
-    "plays": 436
+    "plays": 439
   },
   {
     "year": 2015,
     "genre": "Variete Francaise",
-    "plays": 2668
+    "plays": 2671
   },
   {
     "year": 2016,
@@ -382,7 +382,7 @@
   {
     "year": 2016,
     "genre": "Other",
-    "plays": 3321
+    "plays": 3324
   },
   {
     "year": 2016,
@@ -397,7 +397,7 @@
   {
     "year": 2016,
     "genre": "Soft Rock",
-    "plays": 781
+    "plays": 784
   },
   {
     "year": 2016,
@@ -422,7 +422,7 @@
   {
     "year": 2017,
     "genre": "Hip Hop/Rap",
-    "plays": 2663
+    "plays": 2666
   },
   {
     "year": 2017,
@@ -462,7 +462,7 @@
   {
     "year": 2018,
     "genre": "Electronic",
-    "plays": 2636
+    "plays": 2639
   },
   {
     "year": 2018,
@@ -477,7 +477,7 @@
   {
     "year": 2018,
     "genre": "Pop",
-    "plays": 2850
+    "plays": 2853
   },
   {
     "year": 2018,
@@ -502,7 +502,7 @@
   {
     "year": 2019,
     "genre": "Dance",
-    "plays": 2719
+    "plays": 2725
   },
   {
     "year": 2019,
@@ -537,7 +537,7 @@
   {
     "year": 2019,
     "genre": "Variete Francaise",
-    "plays": 1425
+    "plays": 1428
   },
   {
     "year": 2020,
@@ -547,7 +547,7 @@
   {
     "year": 2020,
     "genre": "Dance",
-    "plays": 1681
+    "plays": 1684
   },
   {
     "year": 2020,
@@ -587,7 +587,7 @@
   {
     "year": 2021,
     "genre": "Alternative",
-    "plays": 3262
+    "plays": 3265
   },
   {
     "year": 2021,
@@ -607,12 +607,12 @@
   {
     "year": 2021,
     "genre": "Other",
-    "plays": 7247
+    "plays": 7250
   },
   {
     "year": 2021,
     "genre": "Pop",
-    "plays": 4946
+    "plays": 4949
   },
   {
     "year": 2021,
@@ -632,7 +632,7 @@
   {
     "year": 2022,
     "genre": "Alternative",
-    "plays": 1587
+    "plays": 1590
   },
   {
     "year": 2022,
@@ -647,12 +647,12 @@
   {
     "year": 2022,
     "genre": "Other",
-    "plays": 8354
+    "plays": 8363
   },
   {
     "year": 2022,
     "genre": "Pop",
-    "plays": 607
+    "plays": 610
   },
   {
     "year": 2022,
@@ -667,7 +667,7 @@
   {
     "year": 2022,
     "genre": "Variete Francaise",
-    "plays": 273
+    "plays": 276
   },
   {
     "year": 2023,
