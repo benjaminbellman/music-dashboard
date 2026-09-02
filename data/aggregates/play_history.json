@@ -295,24 +295,28 @@
     {
       "date": "2026-08-31",
       "plays": 132
+    },
+    {
+      "date": "2026-09-01",
+      "plays": 2
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 1180,
+      "total_plays": 991,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 92
+          "plays": 91
         },
         {
           "artist": "Jacques Brel",
-          "plays": 35
+          "plays": 34
         },
         {
           "artist": "Benjamin Bellman",
-          "plays": 35
+          "plays": 34
         },
         {
           "artist": "Anri",
@@ -324,14 +328,10 @@
         },
         {
           "artist": "Dua Lipa",
-          "plays": 21
-        },
-        {
-          "artist": "Chromeo",
           "plays": 20
         },
         {
-          "artist": "Tom Petty & the Heartbreakers",
+          "artist": "Chromeo",
           "plays": 20
         },
         {
@@ -341,14 +341,6 @@
         {
           "artist": "Indochine",
           "plays": 20
-        },
-        {
-          "artist": "Placebo",
-          "plays": 18
-        },
-        {
-          "artist": "PNL",
-          "plays": 18
         },
         {
           "artist": "Chuck Berry",
@@ -364,6 +356,10 @@
         },
         {
           "artist": "Richy Sheehy",
+          "plays": 17
+        },
+        {
+          "artist": "Placebo",
           "plays": 17
         },
         {
@@ -401,79 +397,67 @@
         {
           "artist": "Hardwell",
           "plays": 17
+        },
+        {
+          "artist": "W&W",
+          "plays": 17
+        },
+        {
+          "artist": "The Notorious B.I.G.",
+          "plays": 17
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 139
-        },
-        {
           "genre": "Dance",
-          "plays": 135
+          "plays": 126
         },
         {
-          "genre": "Pop",
-          "plays": 127
+          "genre": "Electronic",
+          "plays": 111
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 121
+          "plays": 108
+        },
+        {
+          "genre": "Pop",
+          "plays": 100
         },
         {
           "genre": "Variete Francaise",
-          "plays": 113
-        },
-        {
-          "genre": "Rock",
-          "plays": 66
+          "plays": 100
         },
         {
           "genre": "Comedy",
           "plays": 63
         },
         {
+          "genre": "Rock",
+          "plays": 60
+        },
+        {
           "genre": "mashup",
-          "plays": 57
+          "plays": 51
         },
         {
           "genre": "City Pop",
-          "plays": 33
-        },
-        {
-          "genre": "Oldies",
-          "plays": 31
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 30
-        },
-        {
-          "genre": "Alternative",
           "plays": 24
         },
         {
           "genre": "Hip-Hop/Rap",
-          "plays": 21
+          "plays": 20
         },
         {
-          "genre": "R & B",
-          "plays": 18
-        },
-        {
-          "genre": "Disco",
-          "plays": 18
-        },
-        {
-          "genre": "Variété française",
-          "plays": 18
+          "genre": "Oldies",
+          "plays": 17
         },
         {
           "genre": "Funk",
           "plays": 17
         },
         {
-          "genre": "K-Pop",
+          "genre": "R & B",
           "plays": 17
         },
         {
@@ -501,8 +485,28 @@
           "plays": 17
         },
         {
+          "genre": "Disco",
+          "plays": 17
+        },
+        {
+          "genre": "Variété française",
+          "plays": 17
+        },
+        {
+          "genre": "Alternative",
+          "plays": 10
+        },
+        {
           "genre": "Lowfi",
           "plays": 9
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 9
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 4
         }
       ],
       "top_tracks": [
@@ -511,24 +515,6 @@
           "artist": "Anri & MACROSS 82-99",
           "plays": 24,
           "genre": "City Pop"
-        },
-        {
-          "song": "Don't Do Me Like That",
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 20,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Protect Me From What I Want",
-          "artist": "Placebo",
-          "plays": 18,
-          "genre": "Rock"
-        },
-        {
-          "song": "Les flamandes",
-          "artist": "Jacques Brel",
-          "plays": 18,
-          "genre": "Variété française"
         },
         {
           "song": "Johnny B. Goode",
@@ -571,6 +557,12 @@
           "artist": "Jacques Brel",
           "plays": 17,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Protect Me From What I Want",
+          "artist": "Placebo",
+          "plays": 17,
+          "genre": "Rock"
         },
         {
           "song": "Out to Catch",
@@ -655,12 +647,24 @@
           "artist": "Daft Punk",
           "plays": 17,
           "genre": "Electronic"
+        },
+        {
+          "song": "September Music mashup",
+          "artist": "Various Artists",
+          "plays": 17,
+          "genre": "mashup"
+        },
+        {
+          "song": "Think Twice (Original)",
+          "artist": "The Detroit Experiment",
+          "plays": 17,
+          "genre": "Electronic"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 1356,
+      "total_plays": 1358,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -810,7 +814,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 29
+          "plays": 30
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -1020,7 +1024,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1773,
+      "total_plays": 1775,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1162,7 +1166,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 45
+          "plays": 46
         },
         {
           "genre": "Soft Rock",
@@ -1193,6 +1197,10 @@
           "plays": 18
         },
         {
+          "genre": "Future Funk",
+          "plays": 17
+        },
+        {
           "genre": "K-Pop",
           "plays": 17
         },
@@ -1219,10 +1227,6 @@
         {
           "genre": "Nu-Metal",
           "plays": 17
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 16
         }
       ],
       "top_tracks": [
@@ -1380,7 +1384,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3616,
+      "total_plays": 3583,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1396,7 +1400,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 66
+          "plays": 65
         },
         {
           "artist": "France Football Anthem",
@@ -1412,7 +1416,7 @@
         },
         {
           "artist": "Milky",
-          "plays": 52
+          "plays": 51
         },
         {
           "artist": "Demon",
@@ -1448,7 +1452,7 @@
         },
         {
           "artist": "Drake",
-          "plays": 33
+          "plays": 32
         },
         {
           "artist": "Britney Spears",
@@ -1490,11 +1494,11 @@
         },
         {
           "genre": "Pop",
-          "plays": 557
+          "plays": 554
         },
         {
           "genre": "Electronic",
-          "plays": 376
+          "plays": 369
         },
         {
           "genre": "Variete Francaise",
@@ -1502,19 +1506,19 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 248
+          "plays": 243
         },
         {
           "genre": "Rock",
-          "plays": 169
+          "plays": 165
         },
         {
           "genre": "Alternative",
-          "plays": 138
+          "plays": 139
         },
         {
           "genre": "Comedy",
-          "plays": 137
+          "plays": 135
         },
         {
           "genre": "mashup",
@@ -1526,15 +1530,15 @@
         },
         {
           "genre": "City Pop",
-          "plays": 78
-        },
-        {
-          "genre": "French Pop",
-          "plays": 41
+          "plays": 77
         },
         {
           "genre": "Oldies",
-          "plays": 40
+          "plays": 39
+        },
+        {
+          "genre": "French Pop",
+          "plays": 38
         },
         {
           "genre": "Future Funk",
@@ -1570,18 +1574,18 @@
         },
         {
           "genre": "R & B",
-          "plays": 21
+          "plays": 20
         },
         {
           "genre": "Hip-hop/Rap",
           "plays": 19
         },
         {
-          "genre": "Latin",
-          "plays": 19
+          "genre": "K-Pop",
+          "plays": 17
         },
         {
-          "genre": "K-Pop",
+          "genre": "Other",
           "plays": 17
         }
       ],
@@ -1659,18 +1663,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 25,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Hotline Bling",
-          "artist": "Drake",
-          "plays": 25,
-          "genre": "Hip Hop/Rap"
-        },
-        {
           "song": "Too Shy",
           "artist": "Kajagoogoo",
           "plays": 24,
@@ -1735,12 +1727,24 @@
           "artist": "Michael Jackson",
           "plays": 24,
           "genre": "Soul and R&B"
+        },
+        {
+          "song": "Sonnentanz (Original Version)",
+          "artist": "Klangkarussell",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "Stay With Me",
+          "artist": "Miki Matsubara",
+          "plays": 24,
+          "genre": "City Pop"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 4779,
+      "total_plays": 4781,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1870,7 +1874,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 188
+          "plays": 189
         },
         {
           "genre": "Comedy",
@@ -1894,7 +1898,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 52
+          "plays": 53
         },
         {
           "genre": "Disco",
@@ -2100,7 +2104,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 4779,
+      "total_plays": 4781,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2230,7 +2234,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 188
+          "plays": 189
         },
         {
           "genre": "Comedy",
@@ -2254,7 +2258,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 52
+          "plays": 53
         },
         {
           "genre": "Disco",
@@ -5159,6 +5163,11 @@
       "date": "2026-08-31",
       "id": "5def791cd52ec2bd",
       "plays": 3
+    },
+    {
+      "date": "2026-09-01",
+      "id": "5def791cd52ec2bd",
+      "plays": 1
     },
     {
       "date": "2026-08-29",
@@ -9356,6 +9365,11 @@
       "plays": 4
     },
     {
+      "date": "2026-09-01",
+      "id": "f4d47d8027c6ed28",
+      "plays": 1
+    },
+    {
       "date": "2026-08-30",
       "id": "f5413771c777d44a",
       "plays": 17
@@ -9632,6 +9646,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-08-31",
-  "snapshot_count": 115
+  "latest_snapshot": "2026-09-01",
+  "snapshot_count": 116
 }
