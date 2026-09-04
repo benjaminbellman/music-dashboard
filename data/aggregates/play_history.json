@@ -304,45 +304,14 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 2,
-      "top_artists": [
-        {
-          "artist": "Skibblez & My NamE",
-          "plays": 1
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Future Funk",
-          "plays": 1
-        },
-        {
-          "genre": "Alternative",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Sun in California",
-          "artist": "Skibblez & My NamE",
-          "plays": 1,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Viva la Vida",
-          "artist": "Coldplay",
-          "plays": 1,
-          "genre": "Alternative"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
-      "total_plays": 1358,
+      "total_plays": 1308,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -448,27 +417,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 194
+          "plays": 175
         },
         {
           "genre": "Pop",
-          "plays": 168
+          "plays": 161
         },
         {
           "genre": "Electronic",
-          "plays": 153
+          "plays": 149
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 122
+          "plays": 121
         },
         {
           "genre": "Variete Francaise",
-          "plays": 116
+          "plays": 114
         },
         {
           "genre": "Rock",
-          "plays": 75
+          "plays": 74
         },
         {
           "genre": "Comedy",
@@ -492,15 +461,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 30
+          "plays": 28
         },
         {
           "genre": "Hip-Hop/Rap",
-          "plays": 24
-        },
-        {
-          "genre": "Funk",
-          "plays": 18
+          "plays": 22
         },
         {
           "genre": "R & B",
@@ -513,6 +478,10 @@
         {
           "genre": "Variété française",
           "plays": 18
+        },
+        {
+          "genre": "Funk",
+          "plays": 17
         },
         {
           "genre": "K-Pop",
@@ -544,7 +513,7 @@
         },
         {
           "genre": "Lowfi",
-          "plays": 10
+          "plays": 9
         }
       ],
       "top_tracks": [
@@ -1062,7 +1031,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3561,
+      "total_plays": 3463,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1168,7 +1137,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 893
+          "plays": 871
         },
         {
           "genre": "Pop",
@@ -1176,7 +1145,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 368
+          "plays": 332
         },
         {
           "genre": "Variete Francaise",
@@ -1184,19 +1153,19 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 240
+          "plays": 232
         },
         {
           "genre": "Rock",
-          "plays": 165
-        },
-        {
-          "genre": "Alternative",
-          "plays": 137
+          "plays": 157
         },
         {
           "genre": "Comedy",
           "plays": 135
+        },
+        {
+          "genre": "Alternative",
+          "plays": 121
         },
         {
           "genre": "mashup",
@@ -1219,12 +1188,12 @@
           "plays": 38
         },
         {
-          "genre": "Future Funk",
-          "plays": 36
-        },
-        {
           "genre": "Hip-Hop/Rap",
           "plays": 29
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 28
         },
         {
           "genre": "Disco",
@@ -9324,6 +9293,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-03",
-  "snapshot_count": 117
+  "latest_snapshot": "2026-09-04",
+  "snapshot_count": 118
 }
