@@ -304,361 +304,39 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 991,
+      "total_plays": 2,
       "top_artists": [
         {
-          "artist": "Daft Punk",
-          "plays": 91
+          "artist": "Skibblez & My NamE",
+          "plays": 1
         },
         {
-          "artist": "Jacques Brel",
-          "plays": 34
-        },
-        {
-          "artist": "Benjamin Bellman",
-          "plays": 34
-        },
-        {
-          "artist": "Anri",
-          "plays": 24
-        },
-        {
-          "artist": "MACROSS 82-99",
-          "plays": 24
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 20
-        },
-        {
-          "artist": "Chromeo",
-          "plays": 20
-        },
-        {
-          "artist": "Axwell",
-          "plays": 20
-        },
-        {
-          "artist": "Indochine",
-          "plays": 20
-        },
-        {
-          "artist": "Chuck Berry",
-          "plays": 17
-        },
-        {
-          "artist": "Static",
-          "plays": 17
-        },
-        {
-          "artist": "Beach Boys",
-          "plays": 17
-        },
-        {
-          "artist": "Richy Sheehy",
-          "plays": 17
-        },
-        {
-          "artist": "Placebo",
-          "plays": 17
-        },
-        {
-          "artist": "Leon Haywood & Bon Entendeur",
-          "plays": 17
-        },
-        {
-          "artist": "Collegehumor",
-          "plays": 17
-        },
-        {
-          "artist": "Venetian Princess",
-          "plays": 17
-        },
-        {
-          "artist": "Sza",
-          "plays": 17
-        },
-        {
-          "artist": "Kavinsky",
-          "plays": 17
-        },
-        {
-          "artist": "The Grouch",
-          "plays": 17
-        },
-        {
-          "artist": "Cherokee",
-          "plays": 17
-        },
-        {
-          "artist": "Dropkick Murphys",
-          "plays": 17
-        },
-        {
-          "artist": "Hardwell",
-          "plays": 17
-        },
-        {
-          "artist": "W&W",
-          "plays": 17
-        },
-        {
-          "artist": "The Notorious B.I.G.",
-          "plays": 17
+          "artist": "Coldplay",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 126
-        },
-        {
-          "genre": "Electronic",
-          "plays": 111
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 108
-        },
-        {
-          "genre": "Pop",
-          "plays": 100
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 100
-        },
-        {
-          "genre": "Comedy",
-          "plays": 63
-        },
-        {
-          "genre": "Rock",
-          "plays": 60
-        },
-        {
-          "genre": "mashup",
-          "plays": 51
-        },
-        {
-          "genre": "City Pop",
-          "plays": 24
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 20
-        },
-        {
-          "genre": "Oldies",
-          "plays": 17
-        },
-        {
-          "genre": "Funk",
-          "plays": 17
-        },
-        {
-          "genre": "R & B",
-          "plays": 17
-        },
-        {
-          "genre": "Other",
-          "plays": 17
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 17
-        },
-        {
-          "genre": "Alternative Rap",
-          "plays": 17
-        },
-        {
-          "genre": "Hip-hop/Rap",
-          "plays": 17
-        },
-        {
-          "genre": "Vocal",
-          "plays": 17
-        },
-        {
-          "genre": "Nu-Metal",
-          "plays": 17
-        },
-        {
-          "genre": "Disco",
-          "plays": 17
-        },
-        {
-          "genre": "Variété française",
-          "plays": 17
+          "genre": "Future Funk",
+          "plays": 1
         },
         {
           "genre": "Alternative",
-          "plays": 10
-        },
-        {
-          "genre": "Lowfi",
-          "plays": 9
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 9
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 4
+          "plays": 1
         }
       ],
       "top_tracks": [
         {
-          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
-          "artist": "Anri & MACROSS 82-99",
-          "plays": 24,
-          "genre": "City Pop"
+          "song": "Sun in California",
+          "artist": "Skibblez & My NamE",
+          "plays": 1,
+          "genre": "Future Funk"
         },
         {
-          "song": "Johnny B. Goode",
-          "artist": "Chuck Berry",
-          "plays": 17,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Tudo Bom  סטטיק ובן אל תבורי - טודו בום",
-          "artist": "Static and Ben El",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "Kokomo",
-          "artist": "Beach Boys",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "We've got Salah",
-          "artist": "Richy Sheehy feat. Marc Kenny",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
-          "song": "New Rules",
-          "artist": "Dua Lipa",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "Something About Us",
-          "artist": "Daft Punk",
-          "plays": 17,
-          "genre": "Dance"
-        },
-        {
-          "song": "Les moutons",
-          "artist": "Jacques Brel",
-          "plays": 17,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Protect Me From What I Want",
-          "artist": "Placebo",
-          "plays": 17,
-          "genre": "Rock"
-        },
-        {
-          "song": "Out to Catch",
-          "artist": "Leon Haywood & Bon Entendeur",
-          "plays": 17,
-          "genre": "Funk"
-        },
-        {
-          "song": "Awkward Rap",
-          "artist": "Collegehumor",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
-          "song": "The Snooki Song (Parody of “Tik Tok” By Ke$ha)",
-          "artist": "Venetian Princess",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Good Days",
-          "artist": "Sza",
-          "plays": 17,
-          "genre": "R & B"
-        },
-        {
-          "song": "Pacific Coast Highway",
-          "artist": "Kavinsky",
-          "plays": 17,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Bay to L.A. (feat. Murs)",
-          "artist": "The Grouch",
-          "plays": 17,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Sable Doux",
-          "artist": "Cherokee",
-          "plays": 17,
-          "genre": "Electronic"
-        },
-        {
-          "song": "I'm Shipping Up To Boston",
-          "artist": "Dropkick Murphys",
-          "plays": 17,
-          "genre": "Rock"
-        },
-        {
-          "song": "Jumper",
-          "artist": "Hardwell & W&W",
-          "plays": 17,
-          "genre": "Dance"
-        },
-        {
-          "song": "Going Back to Cali",
-          "artist": "The Notorious B.I.G.",
-          "plays": 17,
-          "genre": "Hip-Hop/Rap"
-        },
-        {
-          "song": "Still D.R.E",
-          "artist": "Dr. Dre",
-          "plays": 17,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Jealous (I Ain't With It) [Official Video]",
-          "artist": "Chromeo",
-          "plays": 17,
-          "genre": "Dance"
-        },
-        {
-          "song": "Rasputin",
-          "artist": "Boney M.",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "Harder, Better, Faster, Stronger",
-          "artist": "Daft Punk",
-          "plays": 17,
-          "genre": "Electronic"
-        },
-        {
-          "song": "September Music mashup",
-          "artist": "Various Artists",
-          "plays": 17,
-          "genre": "mashup"
-        },
-        {
-          "song": "Think Twice (Original)",
-          "artist": "The Detroit Experiment",
-          "plays": 17,
-          "genre": "Electronic"
+          "song": "Viva la Vida",
+          "artist": "Coldplay",
+          "plays": 1,
+          "genre": "Alternative"
         }
       ]
     },
@@ -1384,7 +1062,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3583,
+      "total_plays": 3561,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1451,12 +1129,12 @@
           "plays": 34
         },
         {
-          "artist": "Drake",
-          "plays": 32
-        },
-        {
           "artist": "Britney Spears",
           "plays": 31
+        },
+        {
+          "artist": "Drake",
+          "plays": 30
         },
         {
           "artist": "Michael Jackson",
@@ -1465,10 +1143,6 @@
         {
           "artist": "Aden Foyer",
           "plays": 29
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 27
         },
         {
           "artist": "Dua Lipa",
@@ -1485,20 +1159,24 @@
         {
           "artist": "Vegedream",
           "plays": 26
+        },
+        {
+          "artist": "Michael Bublé",
+          "plays": 26
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 898
+          "plays": 893
         },
         {
           "genre": "Pop",
-          "plays": 554
+          "plays": 548
         },
         {
           "genre": "Electronic",
-          "plays": 369
+          "plays": 368
         },
         {
           "genre": "Variete Francaise",
@@ -1506,7 +1184,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 243
+          "plays": 240
         },
         {
           "genre": "Rock",
@@ -1514,7 +1192,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 139
+          "plays": 137
         },
         {
           "genre": "Comedy",
@@ -1522,7 +1200,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 108
+          "plays": 106
         },
         {
           "genre": "Soft Rock",
@@ -9646,6 +9324,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-01",
-  "snapshot_count": 116
+  "latest_snapshot": "2026-09-03",
+  "snapshot_count": 117
 }
