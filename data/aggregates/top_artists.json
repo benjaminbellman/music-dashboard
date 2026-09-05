@@ -335,7 +335,7 @@
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2159,
+      "plays": 2161,
       "country": "GB"
     },
     {
@@ -359,7 +359,7 @@
     {
       "rank": 10,
       "artist": "Supertramp",
-      "plays": 1190,
+      "plays": 1192,
       "country": "GB"
     },
     {
@@ -371,13 +371,13 @@
     {
       "rank": 12,
       "artist": "Justice",
-      "plays": 1144,
+      "plays": 1146,
       "country": "FR"
     },
     {
       "rank": 13,
       "artist": "Charles Aznavour",
-      "plays": 1143,
+      "plays": 1145,
       "country": "FR"
     },
     {
@@ -389,20 +389,20 @@
     {
       "rank": 15,
       "artist": "PNL",
-      "plays": 1106,
+      "plays": 1108,
       "country": "FR"
     },
     {
       "rank": 16,
-      "artist": "ABBA",
-      "plays": 1048,
-      "country": "SE"
+      "artist": "Anri",
+      "plays": 1088,
+      "country": "JP"
     },
     {
       "rank": 17,
-      "artist": "Anri",
-      "plays": 1046,
-      "country": "JP"
+      "artist": "ABBA",
+      "plays": 1048,
+      "country": "SE"
     },
     {
       "rank": 18,
@@ -412,26 +412,26 @@
     },
     {
       "rank": 19,
+      "artist": "Tatsuro Yamashita",
+      "plays": 1006,
+      "country": "JP"
+    },
+    {
+      "rank": 20,
       "artist": "442oons",
       "plays": 1004,
       "country": "GB"
     },
     {
-      "rank": 20,
-      "artist": "Tatsuro Yamashita",
-      "plays": 998,
-      "country": "JP"
-    },
-    {
       "rank": 21,
       "artist": "David Guetta",
-      "plays": 973,
+      "plays": 975,
       "country": "FR"
     },
     {
       "rank": 22,
       "artist": "Serge Gainsbourg",
-      "plays": 970,
+      "plays": 972,
       "country": "FR"
     },
     {
@@ -454,15 +454,15 @@
     },
     {
       "rank": 26,
-      "artist": "Purple Disco Machine",
+      "artist": "Calvin Harris",
       "plays": 854,
-      "country": "DE"
+      "country": "GB"
     },
     {
       "rank": 27,
-      "artist": "Calvin Harris",
-      "plays": 852,
-      "country": "GB"
+      "artist": "Purple Disco Machine",
+      "plays": 854,
+      "country": "DE"
     },
     {
       "rank": 28,
@@ -473,7 +473,7 @@
     {
       "rank": 29,
       "artist": "Synapson",
-      "plays": 810,
+      "plays": 812,
       "country": "FR"
     },
     {
@@ -545,20 +545,20 @@
     {
       "rank": 41,
       "artist": "Tame Impala",
-      "plays": 592,
+      "plays": 594,
       "country": "AU"
     },
     {
       "rank": 42,
-      "artist": "Johnny Cash",
-      "plays": 574,
-      "country": "US"
+      "artist": "MACROSS 82-99",
+      "plays": 576,
+      "country": "MX"
     },
     {
       "rank": 43,
-      "artist": "MACROSS 82-99",
+      "artist": "Johnny Cash",
       "plays": 574,
-      "country": "MX"
+      "country": "US"
     },
     {
       "rank": 44,

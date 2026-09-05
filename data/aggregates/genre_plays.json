@@ -1,47 +1,47 @@
 [
   {
     "genre": "Pop",
-    "plays": 35395,
+    "plays": 35415,
     "songs": 714
   },
   {
     "genre": "Dance",
-    "plays": 30189,
+    "plays": 30217,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23414,
+    "plays": 23420,
     "songs": 392
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18268,
+    "plays": 18276,
     "songs": 283
   },
   {
     "genre": "Alternative",
-    "plays": 14024,
+    "plays": 14036,
     "songs": 292
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11752,
+    "plays": 11756,
     "songs": 262
   },
   {
     "genre": "Rock",
-    "plays": 10814,
+    "plays": 10822,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6702,
+    "plays": 6706,
     "songs": 74
   },
   {
     "genre": "Future Funk",
-    "plays": 5855,
+    "plays": 5865,
     "songs": 71
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "genre": "Disco",
-    "plays": 3798,
+    "plays": 3800,
     "songs": 62
   },
   {
     "genre": "Oldies",
-    "plays": 3764,
+    "plays": 3766,
     "songs": 64
   },
   {
@@ -66,27 +66,27 @@
   },
   {
     "genre": "City Pop",
-    "plays": 3313,
+    "plays": 3363,
     "songs": 49
   },
   {
     "genre": "Comedy",
-    "plays": 3280,
+    "plays": 3282,
     "songs": 92
   },
   {
     "genre": "mashup",
-    "plays": 2818,
+    "plays": 2820,
     "songs": 69
   },
   {
     "genre": "Latin",
-    "plays": 2793,
+    "plays": 2797,
     "songs": 47
   },
   {
     "genre": "Soundtrack",
-    "plays": 2728,
+    "plays": 2732,
     "songs": 69
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "genre": "Classic Rock",
-    "plays": 588,
+    "plays": 590,
     "songs": 5
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "genre": "World",
-    "plays": 322,
+    "plays": 324,
     "songs": 4
   },
   {
@@ -405,6 +405,11 @@
     "songs": 1
   },
   {
+    "genre": "Alternativo & Rock Latino",
+    "plays": 56,
+    "songs": 2
+  },
+  {
     "genre": "Bandes originales",
     "plays": 56,
     "songs": 3
@@ -417,11 +422,6 @@
   {
     "genre": "Singer/Songwriter",
     "plays": 56,
-    "songs": 2
-  },
-  {
-    "genre": "Alternativo & Rock Latino",
-    "plays": 54,
     "songs": 2
   },
   {
