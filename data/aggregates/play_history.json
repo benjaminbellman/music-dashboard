@@ -303,16 +303,24 @@
     {
       "date": "2026-09-05",
       "plays": 172
+    },
+    {
+      "date": "2026-09-06",
+      "plays": 24
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 172,
+      "total_plays": 196,
       "top_artists": [
         {
           "artist": "Anri",
           "plays": 42
+        },
+        {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 24
         },
         {
           "artist": "Tatsuro Yamashita",
@@ -405,16 +413,16 @@
         {
           "artist": "BeatFreakz",
           "plays": 2
-        },
-        {
-          "artist": "Monamie",
-          "plays": 2
         }
       ],
       "top_genres": [
         {
           "genre": "City Pop",
           "plays": 50
+        },
+        {
+          "genre": "Electronic",
+          "plays": 30
         },
         {
           "genre": "Dance",
@@ -439,10 +447,6 @@
         {
           "genre": "Variete Francaise",
           "plays": 8
-        },
-        {
-          "genre": "Electronic",
-          "plays": 6
         },
         {
           "genre": "Soundtrack",
@@ -490,6 +494,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 24,
+          "genre": "Electronic"
+        },
         {
           "song": "STAY BY ME",
           "artist": "Anri",
@@ -633,18 +643,12 @@
           "artist": "David Guetta & OneRepublic",
           "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Am I the Same Girl",
-          "artist": "Swing Out Sister",
-          "plays": 2,
-          "genre": "Rock"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 1435,
+      "total_plays": 1414,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -655,16 +659,16 @@
           "plays": 66
         },
         {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
+        },
+        {
           "artist": "Jacques Brel",
           "plays": 35
         },
         {
           "artist": "Benjamin Bellman",
           "plays": 35
-        },
-        {
-          "artist": "Chromeo",
-          "plays": 26
         },
         {
           "artist": "MACROSS 82-99",
@@ -676,6 +680,10 @@
         },
         {
           "artist": "PNL",
+          "plays": 20
+        },
+        {
+          "artist": "Chromeo",
           "plays": 20
         },
         {
@@ -741,24 +749,20 @@
         {
           "artist": "Cherokee",
           "plays": 17
-        },
-        {
-          "artist": "Dropkick Murphys",
-          "plays": 17
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 191
-        },
-        {
-          "genre": "Pop",
-          "plays": 171
+          "plays": 173
         },
         {
           "genre": "Electronic",
-          "plays": 154
+          "plays": 172
+        },
+        {
+          "genre": "Pop",
+          "plays": 159
         },
         {
           "genre": "Hip Hop/Rap",
@@ -782,7 +786,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 63
+          "plays": 60
         },
         {
           "genre": "Alternative",
@@ -850,6 +854,12 @@
         }
       ],
       "top_tracks": [
+        {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40,
+          "genre": "Electronic"
+        },
         {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
           "artist": "Anri & MACROSS 82-99",
@@ -993,18 +1003,12 @@
           "artist": "Boney M.",
           "plays": 17,
           "genre": "Pop"
-        },
-        {
-          "song": "Harder, Better, Faster, Stronger",
-          "artist": "Daft Punk",
-          "plays": 17,
-          "genre": "Electronic"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1947,
+      "total_plays": 1864,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1012,15 +1016,19 @@
         },
         {
           "artist": "Anri",
-          "plays": 67
+          "plays": 66
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 61
+          "plays": 60
         },
         {
           "artist": "Kungs",
           "plays": 59
+        },
+        {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
         },
         {
           "artist": "Benjamin Bellman",
@@ -1051,10 +1059,6 @@
           "plays": 25
         },
         {
-          "artist": "Tatsuro Yamashita",
-          "plays": 22
-        },
-        {
           "artist": "Axwell",
           "plays": 21
         },
@@ -1075,11 +1079,11 @@
           "plays": 18
         },
         {
-          "artist": "Joe Dassin",
-          "plays": 18
+          "artist": "Chuck Berry",
+          "plays": 17
         },
         {
-          "artist": "Chuck Berry",
+          "artist": "Tatsuro Yamashita",
           "plays": 17
         },
         {
@@ -1110,55 +1114,55 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 388
+          "plays": 368
         },
         {
           "genre": "Pop",
-          "plays": 247
+          "plays": 231
         },
         {
           "genre": "Electronic",
-          "plays": 189
+          "plays": 201
         },
         {
           "genre": "Variete Francaise",
-          "plays": 155
+          "plays": 145
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 144
+          "plays": 140
         },
         {
           "genre": "Rock",
-          "plays": 101
+          "plays": 97
         },
         {
           "genre": "City Pop",
-          "plays": 98
-        },
-        {
-          "genre": "mashup",
-          "plays": 77
+          "plays": 91
         },
         {
           "genre": "Comedy",
-          "plays": 74
+          "plays": 72
+        },
+        {
+          "genre": "mashup",
+          "plays": 71
         },
         {
           "genre": "Alternative",
-          "plays": 58
+          "plays": 50
         },
         {
           "genre": "Soft Rock",
-          "plays": 38
-        },
-        {
-          "genre": "Oldies",
           "plays": 35
         },
         {
+          "genre": "Oldies",
+          "plays": 34
+        },
+        {
           "genre": "Future Funk",
-          "plays": 27
+          "plays": 25
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -1166,7 +1170,7 @@
         },
         {
           "genre": "Disco",
-          "plays": 21
+          "plays": 20
         },
         {
           "genre": "Funk",
@@ -1215,6 +1219,12 @@
           "artist": "Kungs & Purple Disco Machine",
           "plays": 59,
           "genre": "Dance"
+        },
+        {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40,
+          "genre": "Electronic"
         },
         {
           "song": "Miss You",
@@ -1353,18 +1363,12 @@
           "artist": "Hardwell & W&W",
           "plays": 17,
           "genre": "Dance"
-        },
-        {
-          "song": "Going Back to Cali",
-          "artist": "The Notorious B.I.G.",
-          "plays": 17,
-          "genre": "Hip-Hop/Rap"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 3572,
+      "total_plays": 3533,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1383,15 +1387,11 @@
           "plays": 67
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 65
-        },
-        {
           "artist": "David Guetta",
           "plays": 59
         },
         {
-          "artist": "442oons",
+          "artist": "France Football Anthem",
           "plays": 56
         },
         {
@@ -1409,6 +1409,10 @@
         {
           "artist": "ANOTR",
           "plays": 49
+        },
+        {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
         },
         {
           "artist": "Bon Entendeur",
@@ -1474,15 +1478,15 @@
         },
         {
           "genre": "Pop",
-          "plays": 566
+          "plays": 546
         },
         {
           "genre": "Electronic",
-          "plays": 332
+          "plays": 356
         },
         {
           "genre": "Variete Francaise",
-          "plays": 274
+          "plays": 265
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1497,16 +1501,16 @@
           "plays": 131
         },
         {
-          "genre": "Comedy",
-          "plays": 128
-        },
-        {
           "genre": "City Pop",
           "plays": 127
         },
         {
           "genre": "mashup",
           "plays": 108
+        },
+        {
+          "genre": "Comedy",
+          "plays": 97
         },
         {
           "genre": "Soft Rock",
@@ -1579,7 +1583,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 65,
+          "plays": 56,
           "genre": "Variete Francaise"
         },
         {
@@ -1605,6 +1609,12 @@
           "artist": "ANOTR ft. 54 Ultra",
           "plays": 49,
           "genre": "Dance"
+        },
+        {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40,
+          "genre": "Electronic"
         },
         {
           "song": "GUT GENUG",
@@ -1713,18 +1723,12 @@
           "artist": "Klangkarussell",
           "plays": 24,
           "genre": "Dance"
-        },
-        {
-          "song": "Stay With Me",
-          "artist": "Miki Matsubara",
-          "plays": 24,
-          "genre": "City Pop"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 4953,
+      "total_plays": 4977,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1799,6 +1803,10 @@
           "plays": 40
         },
         {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
+        },
+        {
           "artist": "Maya",
           "plays": 40
         },
@@ -1821,10 +1829,6 @@
         {
           "artist": "Drake",
           "plays": 34
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 33
         }
       ],
       "top_genres": [
@@ -1838,7 +1842,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 558
+          "plays": 582
         },
         {
           "genre": "Variete Francaise",
@@ -1997,6 +2001,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40,
+          "genre": "Electronic"
+        },
+        {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
           "artist": "Maya",
           "plays": 40,
@@ -2071,12 +2081,6 @@
         {
           "song": "Merci les bleus",
           "artist": "Vegedream",
-          "plays": 25,
-          "genre": "Pop"
-        },
-        {
-          "song": "Haven't Met You Yet",
-          "artist": "Michael Bublé",
           "plays": 25,
           "genre": "Pop"
         }
@@ -2084,7 +2088,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 4953,
+      "total_plays": 4977,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2159,6 +2163,10 @@
           "plays": 40
         },
         {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
+        },
+        {
           "artist": "Maya",
           "plays": 40
         },
@@ -2181,10 +2189,6 @@
         {
           "artist": "Drake",
           "plays": 34
-        },
-        {
-          "artist": "Creedence Clearwater Revival",
-          "plays": 33
         }
       ],
       "top_genres": [
@@ -2198,7 +2202,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 558
+          "plays": 582
         },
         {
           "genre": "Variete Francaise",
@@ -2357,6 +2361,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40,
+          "genre": "Electronic"
+        },
+        {
           "song": "Lait De Coco ( Les Yeux Orange Edit)",
           "artist": "Maya",
           "plays": 40,
@@ -2431,12 +2441,6 @@
         {
           "song": "Merci les bleus",
           "artist": "Vegedream",
-          "plays": 25,
-          "genre": "Pop"
-        },
-        {
-          "song": "Haven't Met You Yet",
-          "artist": "Michael Bublé",
           "plays": 25,
           "genre": "Pop"
         }
@@ -5883,6 +5887,11 @@
       "date": "2026-08-29",
       "id": "755b1006d93825e1",
       "plays": 16
+    },
+    {
+      "date": "2026-09-06",
+      "id": "755b1006d93825e1",
+      "plays": 24
     },
     {
       "date": "2026-06-07",
@@ -9961,6 +9970,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-05",
-  "snapshot_count": 119
+  "latest_snapshot": "2026-09-06",
+  "snapshot_count": 120
 }
