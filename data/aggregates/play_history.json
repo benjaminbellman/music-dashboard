@@ -648,7 +648,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1414,
+      "total_plays": 1378,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -753,16 +753,16 @@
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 173
+          "genre": "Electronic",
+          "plays": 169
         },
         {
-          "genre": "Electronic",
-          "plays": 172
+          "genre": "Dance",
+          "plays": 163
         },
         {
           "genre": "Pop",
-          "plays": 159
+          "plays": 147
         },
         {
           "genre": "Hip Hop/Rap",
@@ -770,7 +770,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 122
+          "plays": 121
         },
         {
           "genre": "City Pop",
@@ -782,23 +782,23 @@
         },
         {
           "genre": "Comedy",
-          "plays": 66
+          "plays": 65
         },
         {
           "genre": "mashup",
-          "plays": 60
+          "plays": 59
         },
         {
           "genre": "Alternative",
-          "plays": 38
+          "plays": 37
         },
         {
           "genre": "Soft Rock",
-          "plays": 35
+          "plays": 34
         },
         {
           "genre": "Oldies",
-          "plays": 34
+          "plays": 33
         },
         {
           "genre": "Hip-Hop/Rap",
@@ -815,10 +815,6 @@
         {
           "genre": "Variété française",
           "plays": 18
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 17
         },
         {
           "genre": "Funk",
@@ -851,6 +847,10 @@
         {
           "genre": "Nu-Metal",
           "plays": 17
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 16
         }
       ],
       "top_tracks": [
@@ -9970,6 +9970,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-06",
-  "snapshot_count": 120
+  "latest_snapshot": "2026-09-07",
+  "snapshot_count": 121
 }
