@@ -307,190 +307,30 @@
     {
       "date": "2026-09-06",
       "plays": 24
+    },
+    {
+      "date": "2026-09-08",
+      "plays": 1
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 196,
+      "total_plays": 25,
       "top_artists": [
-        {
-          "artist": "Anri",
-          "plays": 42
-        },
         {
           "artist": "Beachcrimes & Tia Tia",
           "plays": 24
         },
         {
-          "artist": "Tatsuro Yamashita",
-          "plays": 8
-        },
-        {
-          "artist": "Yung Bae",
-          "plays": 6
-        },
-        {
-          "artist": "Billie Eilish",
-          "plays": 2
-        },
-        {
-          "artist": "Seelenluft",
-          "plays": 2
-        },
-        {
-          "artist": "DJ Antoine",
-          "plays": 2
-        },
-        {
-          "artist": "Skibblez & DeeJMD",
-          "plays": 2
-        },
-        {
-          "artist": "Ming Tea",
-          "plays": 2
-        },
-        {
-          "artist": "Dimitri from Paris",
-          "plays": 2
-        },
-        {
-          "artist": "Justice",
-          "plays": 2
-        },
-        {
-          "artist": "Tame Impala",
-          "plays": 2
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 2
-        },
-        {
-          "artist": "John Newman",
-          "plays": 2
-        },
-        {
-          "artist": "Dayglow",
-          "plays": 2
-        },
-        {
-          "artist": "Manu Chao",
-          "plays": 2
-        },
-        {
-          "artist": "Nytron & Sugar Hill",
-          "plays": 2
-        },
-        {
-          "artist": "Josh tobin",
-          "plays": 2
-        },
-        {
-          "artist": "Frankie Valli & The Four Seasons",
-          "plays": 2
-        },
-        {
-          "artist": "Image (Band)",
-          "plays": 2
-        },
-        {
-          "artist": "Grover Washington Jr",
-          "plays": 2
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 2
-        },
-        {
-          "artist": "OneRepublic",
-          "plays": 2
-        },
-        {
-          "artist": "Swing Out Sister",
-          "plays": 2
-        },
-        {
-          "artist": "BeatFreakz",
-          "plays": 2
+          "artist": "Dog",
+          "plays": 1
         }
       ],
       "top_genres": [
         {
-          "genre": "City Pop",
-          "plays": 50
-        },
-        {
           "genre": "Electronic",
-          "plays": 30
-        },
-        {
-          "genre": "Dance",
-          "plays": 28
-        },
-        {
-          "genre": "Pop",
-          "plays": 20
-        },
-        {
-          "genre": "Alternative",
-          "plays": 12
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 10
-        },
-        {
-          "genre": "Rock",
-          "plays": 8
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 8
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 4
-        },
-        {
-          "genre": "Latin",
-          "plays": 4
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 4
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 4
-        },
-        {
-          "genre": "Alternativo & Rock Latino",
-          "plays": 2
-        },
-        {
-          "genre": "Comedy",
-          "plays": 2
-        },
-        {
-          "genre": "Oldies",
-          "plays": 2
-        },
-        {
-          "genre": "World",
-          "plays": 2
-        },
-        {
-          "genre": "Classic Rock",
-          "plays": 2
-        },
-        {
-          "genre": "mashup",
-          "plays": 2
-        },
-        {
-          "genre": "Disco",
-          "plays": 2
+          "plays": 25
         }
       ],
       "top_tracks": [
@@ -501,154 +341,16 @@
           "genre": "Electronic"
         },
         {
-          "song": "STAY BY ME",
-          "artist": "Anri",
-          "plays": 10,
-          "genre": "City Pop"
-        },
-        {
-          "song": "DRIVING MY LOVE",
-          "artist": "Anri",
-          "plays": 10,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Good-Night for You",
-          "artist": "Anri",
-          "plays": 10,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Remember Summer Days",
-          "artist": "Anri",
-          "plays": 10,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Yebisu",
-          "artist": "Yung Bae",
-          "plays": 6,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "ONLY WITH YOU",
-          "artist": "Tatsuro Yamashita",
-          "plays": 4,
-          "genre": "City Pop"
-        },
-        {
-          "song": "LOVELAND Island",
-          "artist": "Tatsuro Yamashita",
-          "plays": 2,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Therefore I Am",
-          "artist": "Billie Eilish",
-          "plays": 2,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Manila",
-          "artist": "Seelenluft",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "London",
-          "artist": "DJ Antoine & Timati",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Summer Girls",
-          "artist": "Skibblez & DeeJMD",
-          "plays": 2,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Daddy Wasn't There (feat. Austin Powers)",
-          "artist": "Ming Tea",
-          "plays": 2,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Jody",
-          "artist": "Tatsuro Yamashita",
-          "plays": 2,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Sacré Français!",
-          "artist": "Dimitri from Paris",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "One Night/All Night",
-          "artist": "Justice & Tame Impala",
-          "plays": 2,
+          "song": "Truth Bites Harder",
+          "artist": "Dog vs. The World",
+          "plays": 1,
           "genre": "Electronic"
-        },
-        {
-          "song": "Blame",
-          "artist": "Calvin Harris & John Newman",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 2,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Clandestino (Live)",
-          "artist": "Manu Chao",
-          "plays": 2,
-          "genre": "Alternativo & Rock Latino"
-        },
-        {
-          "song": "Saturday Night",
-          "artist": "Nytron & Sugar Hill",
-          "plays": 2,
-          "genre": "Dance"
-        },
-        {
-          "song": "Im A Gangster",
-          "artist": "Josh tobin",
-          "plays": 2,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Can't Take My Eyes off You",
-          "artist": "Frankie Valli & The Four Seasons",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "Red Rubber Ball V2",
-          "artist": "Image (Band)",
-          "plays": 2,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Just the two of us",
-          "artist": "Grover Washington Jr",
-          "plays": 2,
-          "genre": "Pop"
-        },
-        {
-          "song": "I Don't Wanna Wait",
-          "artist": "David Guetta & OneRepublic",
-          "plays": 2,
-          "genre": "Dance"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 1378,
+      "total_plays": 1379,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -754,7 +456,7 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 169
+          "plays": 170
         },
         {
           "genre": "Dance",
@@ -1008,7 +710,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1864,
+      "total_plays": 1865,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1122,7 +824,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 201
+          "plays": 202
         },
         {
           "genre": "Variete Francaise",
@@ -1368,7 +1070,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3533,
+      "total_plays": 3527,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1376,7 +1078,7 @@
         },
         {
           "artist": "Kungs",
-          "plays": 197
+          "plays": 196
         },
         {
           "artist": "Daft Punk",
@@ -1474,7 +1176,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 883
+          "plays": 881
         },
         {
           "genre": "Pop",
@@ -1482,11 +1184,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 356
+          "plays": 357
         },
         {
           "genre": "Variete Francaise",
-          "plays": 265
+          "plays": 264
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1498,7 +1200,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 131
+          "plays": 130
         },
         {
           "genre": "City Pop",
@@ -1522,7 +1224,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 38
+          "plays": 37
         },
         {
           "genre": "French Pop",
@@ -1728,7 +1430,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 4977,
+      "total_plays": 4978,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1842,7 +1544,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 582
+          "plays": 583
         },
         {
           "genre": "Variete Francaise",
@@ -2088,7 +1790,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 4977,
+      "total_plays": 4978,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2202,7 +1904,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 582
+          "plays": 583
         },
         {
           "genre": "Variete Francaise",
@@ -9154,6 +8856,11 @@
       "plays": 4
     },
     {
+      "date": "2026-09-08",
+      "id": "e5e679e7e7da94ad",
+      "plays": 1
+    },
+    {
       "date": "2026-08-07",
       "id": "e5e7ac2be1ab51ae",
       "plays": 1
@@ -9970,6 +9677,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-07",
-  "snapshot_count": 121
+  "latest_snapshot": "2026-09-08",
+  "snapshot_count": 122
 }

@@ -57254,6 +57254,21 @@
     "country": "US"
   },
   {
+    "id": "e5e679e7e7da94ad",
+    "song": "Truth Bites Harder",
+    "artist": "Dog vs. The World",
+    "credits": [
+      "Dog"
+    ],
+    "album": "",
+    "plays": 5,
+    "duration_sec": 82,
+    "date_added": "2026-08-24T09:29:39",
+    "last_played": "2026-09-07T14:31:21",
+    "genre": "Electronic",
+    "country": "US"
+  },
+  {
     "id": "bed62b45c5e0e1df",
     "song": "Barack Obama vs Mitt Romney",
     "artist": "Epic Rap Battles of History",
@@ -57582,21 +57597,6 @@
     "last_played": "2025-05-22T13:19:05",
     "genre": "Pop",
     "country": "FR"
-  },
-  {
-    "id": "e5e679e7e7da94ad",
-    "song": "Truth Bites Harder",
-    "artist": "Dog vs. The World",
-    "credits": [
-      "Dog"
-    ],
-    "album": "",
-    "plays": 4,
-    "duration_sec": 82,
-    "date_added": "2026-08-24T09:29:39",
-    "last_played": "2026-08-25T17:41:06",
-    "genre": "Electronic",
-    "country": "US"
   },
   {
     "id": "a9c6f1a58be08a07",
