@@ -316,12 +316,8 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 25,
+      "total_plays": 1,
       "top_artists": [
-        {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 24
-        },
         {
           "artist": "Dog",
           "plays": 1
@@ -330,16 +326,10 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 25
+          "plays": 1
         }
       ],
       "top_tracks": [
-        {
-          "song": "Elevator",
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 24,
-          "genre": "Electronic"
-        },
         {
           "song": "Truth Bites Harder",
           "artist": "Dog vs. The World",
@@ -710,11 +700,11 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1865,
+      "total_plays": 1765,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 99
+          "plays": 95
         },
         {
           "artist": "Anri",
@@ -816,31 +806,31 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 368
+          "plays": 356
         },
         {
           "genre": "Pop",
-          "plays": 231
+          "plays": 199
         },
         {
           "genre": "Electronic",
-          "plays": 202
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 145
+          "plays": 190
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 140
         },
         {
+          "genre": "Variete Francaise",
+          "plays": 133
+        },
+        {
           "genre": "Rock",
-          "plays": 97
+          "plays": 93
         },
         {
           "genre": "City Pop",
-          "plays": 91
+          "plays": 87
         },
         {
           "genre": "Comedy",
@@ -848,11 +838,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 71
+          "plays": 67
         },
         {
           "genre": "Alternative",
-          "plays": 50
+          "plays": 46
         },
         {
           "genre": "Soft Rock",
@@ -1070,7 +1060,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3527,
+      "total_plays": 3473,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1082,7 +1072,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 151
+          "plays": 148
         },
         {
           "artist": "Anri",
@@ -1090,7 +1080,7 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 59
+          "plays": 58
         },
         {
           "artist": "France Football Anthem",
@@ -1157,10 +1147,6 @@
           "plays": 29
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 27
-        },
-        {
           "artist": "Dua Lipa",
           "plays": 27
         },
@@ -1171,24 +1157,28 @@
         {
           "artist": "Joe Dassin",
           "plays": 26
+        },
+        {
+          "artist": "Vegedream",
+          "plays": 26
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 881
+          "plays": 871
         },
         {
           "genre": "Pop",
-          "plays": 546
+          "plays": 532
         },
         {
           "genre": "Electronic",
-          "plays": 357
+          "plays": 348
         },
         {
           "genre": "Variete Francaise",
-          "plays": 264
+          "plays": 262
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1196,11 +1186,11 @@
         },
         {
           "genre": "Rock",
-          "plays": 159
+          "plays": 155
         },
         {
           "genre": "Alternative",
-          "plays": 130
+          "plays": 127
         },
         {
           "genre": "City Pop",
@@ -1208,7 +1198,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 108
+          "plays": 106
         },
         {
           "genre": "Comedy",
@@ -1216,11 +1206,11 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 81
+          "plays": 80
         },
         {
           "genre": "Oldies",
-          "plays": 41
+          "plays": 40
         },
         {
           "genre": "Future Funk",
@@ -1240,7 +1230,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 27
+          "plays": 26
         },
         {
           "genre": "Variété française",
@@ -1255,10 +1245,6 @@
           "plays": 21
         },
         {
-          "genre": "R & B",
-          "plays": 20
-        },
-        {
           "genre": "Hip-hop/Rap",
           "plays": 19
         },
@@ -1267,11 +1253,15 @@
           "plays": 19
         },
         {
-          "genre": "Latin",
-          "plays": 18
+          "genre": "R & B",
+          "plays": 19
         },
         {
           "genre": "K-Pop",
+          "plays": 17
+        },
+        {
+          "genre": "Other",
           "plays": 17
         }
       ],
@@ -9677,6 +9667,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-08",
-  "snapshot_count": 122
+  "latest_snapshot": "2026-09-09",
+  "snapshot_count": 123
 }
