@@ -1060,7 +1060,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3473,
+      "total_plays": 3461,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1072,7 +1072,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 148
+          "plays": 145
         },
         {
           "artist": "Anri",
@@ -1080,7 +1080,7 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 58
+          "plays": 57
         },
         {
           "artist": "France Football Anthem",
@@ -1166,7 +1166,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 871
+          "plays": 868
         },
         {
           "genre": "Pop",
@@ -1198,11 +1198,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 106
+          "plays": 105
         },
         {
           "genre": "Comedy",
-          "plays": 97
+          "plays": 90
         },
         {
           "genre": "Soft Rock",
@@ -9667,6 +9667,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-09",
-  "snapshot_count": 123
+  "latest_snapshot": "2026-09-10",
+  "snapshot_count": 124
 }
