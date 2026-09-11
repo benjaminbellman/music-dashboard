@@ -316,27 +316,10 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 1,
-      "top_artists": [
-        {
-          "artist": "Dog",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Electronic",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Truth Bites Harder",
-          "artist": "Dog vs. The World",
-          "plays": 1,
-          "genre": "Electronic"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
@@ -700,7 +683,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 1765,
+      "total_plays": 1722,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -736,7 +719,7 @@
         },
         {
           "artist": "Dua Lipa",
-          "plays": 27
+          "plays": 26
         },
         {
           "artist": "Chromeo",
@@ -806,43 +789,43 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 356
+          "plays": 347
         },
         {
           "genre": "Pop",
-          "plays": 199
+          "plays": 192
         },
         {
           "genre": "Electronic",
-          "plays": 190
+          "plays": 187
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 140
+          "plays": 139
         },
         {
           "genre": "Variete Francaise",
-          "plays": 133
-        },
-        {
-          "genre": "Rock",
-          "plays": 93
+          "plays": 132
         },
         {
           "genre": "City Pop",
-          "plays": 87
+          "plays": 86
+        },
+        {
+          "genre": "Rock",
+          "plays": 85
         },
         {
           "genre": "Comedy",
-          "plays": 72
+          "plays": 71
         },
         {
           "genre": "mashup",
-          "plays": 67
+          "plays": 66
         },
         {
           "genre": "Alternative",
-          "plays": 46
+          "plays": 42
         },
         {
           "genre": "Soft Rock",
@@ -853,12 +836,12 @@
           "plays": 34
         },
         {
-          "genre": "Future Funk",
-          "plays": 25
+          "genre": "Hip-Hop/Rap",
+          "plays": 24
         },
         {
-          "genre": "Hip-Hop/Rap",
-          "plays": 25
+          "genre": "Future Funk",
+          "plays": 23
         },
         {
           "genre": "Disco",
@@ -1060,7 +1043,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3461,
+      "total_plays": 3457,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1131,15 +1114,15 @@
           "plays": 31
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 30
-        },
-        {
           "artist": "Drake",
           "plays": 30
         },
         {
           "artist": "Michael Jackson",
+          "plays": 29
+        },
+        {
+          "artist": "Polo & Pan",
           "plays": 29
         },
         {
@@ -1166,7 +1149,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 868
+          "plays": 867
         },
         {
           "genre": "Pop",
@@ -1174,7 +1157,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 348
+          "plays": 346
         },
         {
           "genre": "Variete Francaise",
@@ -1189,12 +1172,12 @@
           "plays": 155
         },
         {
-          "genre": "Alternative",
+          "genre": "City Pop",
           "plays": 127
         },
         {
-          "genre": "City Pop",
-          "plays": 127
+          "genre": "Alternative",
+          "plays": 126
         },
         {
           "genre": "mashup",
@@ -9667,6 +9650,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-10",
-  "snapshot_count": 124
+  "latest_snapshot": "2026-09-11",
+  "snapshot_count": 125
 }
