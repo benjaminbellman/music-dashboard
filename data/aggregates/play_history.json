@@ -323,46 +323,38 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1379,
+      "total_plays": 1188,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 92
+          "plays": 91
         },
         {
           "artist": "Anri",
           "plays": 66
         },
         {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40
-        },
-        {
           "artist": "Jacques Brel",
-          "plays": 35
+          "plays": 34
         },
         {
           "artist": "Benjamin Bellman",
-          "plays": 35
+          "plays": 34
         },
         {
           "artist": "MACROSS 82-99",
           "plays": 26
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 21
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 24
         },
         {
-          "artist": "PNL",
+          "artist": "Dua Lipa",
           "plays": 20
         },
         {
           "artist": "Chromeo",
-          "plays": 20
-        },
-        {
-          "artist": "Tom Petty & the Heartbreakers",
           "plays": 20
         },
         {
@@ -374,15 +366,11 @@
           "plays": 20
         },
         {
-          "artist": "Placebo",
-          "plays": 18
+          "artist": "PNL",
+          "plays": 19
         },
         {
           "artist": "Chuck Berry",
-          "plays": 17
-        },
-        {
-          "artist": "Tatsuro Yamashita",
           "plays": 17
         },
         {
@@ -395,6 +383,10 @@
         },
         {
           "artist": "Richy Sheehy",
+          "plays": 17
+        },
+        {
+          "artist": "Placebo",
           "plays": 17
         },
         {
@@ -424,36 +416,44 @@
         {
           "artist": "Cherokee",
           "plays": 17
+        },
+        {
+          "artist": "Dropkick Murphys",
+          "plays": 17
+        },
+        {
+          "artist": "Hardwell",
+          "plays": 17
         }
       ],
       "top_genres": [
         {
-          "genre": "Electronic",
-          "plays": 170
+          "genre": "Dance",
+          "plays": 154
         },
         {
-          "genre": "Dance",
-          "plays": 163
+          "genre": "Electronic",
+          "plays": 142
         },
         {
           "genre": "Pop",
-          "plays": 147
+          "plays": 120
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 125
+          "plays": 112
         },
         {
           "genre": "Variete Francaise",
-          "plays": 121
+          "plays": 108
         },
         {
           "genre": "City Pop",
-          "plays": 83
+          "plays": 74
         },
         {
           "genre": "Rock",
-          "plays": 74
+          "plays": 68
         },
         {
           "genre": "Comedy",
@@ -461,42 +461,30 @@
         },
         {
           "genre": "mashup",
-          "plays": 59
+          "plays": 53
         },
         {
           "genre": "Alternative",
-          "plays": 37
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 34
-        },
-        {
-          "genre": "Oldies",
-          "plays": 33
+          "plays": 22
         },
         {
           "genre": "Hip-Hop/Rap",
-          "plays": 21
-        },
-        {
-          "genre": "Disco",
           "plays": 20
         },
         {
-          "genre": "R & B",
-          "plays": 18
+          "genre": "Oldies",
+          "plays": 19
         },
         {
-          "genre": "Variété française",
-          "plays": 18
+          "genre": "Disco",
+          "plays": 19
         },
         {
           "genre": "Funk",
           "plays": 17
         },
         {
-          "genre": "K-Pop",
+          "genre": "R & B",
           "plays": 17
         },
         {
@@ -524,17 +512,23 @@
           "plays": 17
         },
         {
+          "genre": "Variété française",
+          "plays": 17
+        },
+        {
           "genre": "Future Funk",
-          "plays": 16
+          "plays": 14
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 13
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 9
         }
       ],
       "top_tracks": [
-        {
-          "song": "Elevator",
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40,
-          "genre": "Electronic"
-        },
         {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
           "artist": "Anri & MACROSS 82-99",
@@ -542,22 +536,10 @@
           "genre": "City Pop"
         },
         {
-          "song": "Don't Do Me Like That",
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 20,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Protect Me From What I Want",
-          "artist": "Placebo",
-          "plays": 18,
-          "genre": "Rock"
-        },
-        {
-          "song": "Les flamandes",
-          "artist": "Jacques Brel",
-          "plays": 18,
-          "genre": "Variété française"
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 24,
+          "genre": "Electronic"
         },
         {
           "song": "Johnny B. Goode",
@@ -600,6 +582,12 @@
           "artist": "Jacques Brel",
           "plays": 17,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Protect Me From What I Want",
+          "artist": "Placebo",
+          "plays": 17,
+          "genre": "Rock"
         },
         {
           "song": "Out to Catch",
@@ -678,12 +666,24 @@
           "artist": "Boney M.",
           "plays": 17,
           "genre": "Pop"
+        },
+        {
+          "song": "Harder, Better, Faster, Stronger",
+          "artist": "Daft Punk",
+          "plays": 17,
+          "genre": "Electronic"
+        },
+        {
+          "song": "September Music mashup",
+          "artist": "Various Artists",
+          "plays": 17,
+          "genre": "mashup"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1722,
+      "total_plays": 1636,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -694,14 +694,6 @@
           "plays": 66
         },
         {
-          "artist": "Purple Disco Machine",
-          "plays": 60
-        },
-        {
-          "artist": "Kungs",
-          "plays": 59
-        },
-        {
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40
         },
@@ -710,12 +702,16 @@
           "plays": 36
         },
         {
+          "artist": "Purple Disco Machine",
+          "plays": 36
+        },
+        {
           "artist": "Jacques Brel",
           "plays": 35
         },
         {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
+          "artist": "Kungs",
+          "plays": 35
         },
         {
           "artist": "Dua Lipa",
@@ -728,10 +724,6 @@
         {
           "artist": "MACROSS 82-99",
           "plays": 26
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 25
         },
         {
           "artist": "Axwell",
@@ -784,12 +776,20 @@
         {
           "artist": "Venetian Princess",
           "plays": 17
+        },
+        {
+          "artist": "Sza",
+          "plays": 17
+        },
+        {
+          "artist": "Kavinsky",
+          "plays": 17
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 347
+          "plays": 275
         },
         {
           "genre": "Pop",
@@ -797,15 +797,15 @@
         },
         {
           "genre": "Electronic",
-          "plays": 187
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 139
+          "plays": 186
         },
         {
           "genre": "Variete Francaise",
           "plays": 132
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 126
         },
         {
           "genre": "City Pop",
@@ -890,21 +890,15 @@
       ],
       "top_tracks": [
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 59,
-          "genre": "Dance"
-        },
-        {
           "song": "Elevator",
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40,
           "genre": "Electronic"
         },
         {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 35,
           "genre": "Dance"
         },
         {
@@ -912,12 +906,6 @@
           "artist": "Anri & MACROSS 82-99",
           "plays": 26,
           "genre": "City Pop"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 25,
-          "genre": "Dance"
         },
         {
           "song": "Don't Do Me Like That",
@@ -1038,12 +1026,24 @@
           "artist": "Hardwell & W&W",
           "plays": 17,
           "genre": "Dance"
+        },
+        {
+          "song": "Going Back to Cali",
+          "artist": "The Notorious B.I.G.",
+          "plays": 17,
+          "genre": "Hip-Hop/Rap"
+        },
+        {
+          "song": "Still D.R.E",
+          "artist": "Dr. Dre",
+          "plays": 17,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 3457,
+      "total_plays": 3450,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1138,11 +1138,11 @@
           "plays": 26
         },
         {
-          "artist": "Joe Dassin",
+          "artist": "Vegedream",
           "plays": 26
         },
         {
-          "artist": "Vegedream",
+          "artist": "Michael Bublé",
           "plays": 26
         }
       ],
@@ -1216,10 +1216,6 @@
           "plays": 26
         },
         {
-          "genre": "Variété française",
-          "plays": 25
-        },
-        {
           "genre": "Soul and R&B",
           "plays": 25
         },
@@ -1238,6 +1234,10 @@
         {
           "genre": "R & B",
           "plays": 19
+        },
+        {
+          "genre": "Variété française",
+          "plays": 18
         },
         {
           "genre": "K-Pop",
@@ -9650,6 +9650,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-11",
-  "snapshot_count": 125
+  "latest_snapshot": "2026-09-12",
+  "snapshot_count": 126
 }
