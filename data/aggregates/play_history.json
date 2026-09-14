@@ -323,7 +323,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 331,
+      "total_plays": 199,
       "top_artists": [
         {
           "artist": "Anri",
@@ -338,142 +338,126 @@
           "plays": 8
         },
         {
-          "artist": "Daft Punk",
-          "plays": 6
-        },
-        {
-          "artist": "Epic Rap Battles of History",
-          "plays": 6
-        },
-        {
           "artist": "Yung Bae",
           "plays": 6
         },
         {
+          "artist": "Coldplay",
+          "plays": 3
+        },
+        {
+          "artist": "Billie Eilish",
+          "plays": 2
+        },
+        {
+          "artist": "Seelenluft",
+          "plays": 2
+        },
+        {
+          "artist": "DJ Antoine",
+          "plays": 2
+        },
+        {
+          "artist": "Skibblez & DeeJMD",
+          "plays": 2
+        },
+        {
+          "artist": "Ming Tea",
+          "plays": 2
+        },
+        {
+          "artist": "Dimitri from Paris",
+          "plays": 2
+        },
+        {
+          "artist": "Justice",
+          "plays": 2
+        },
+        {
+          "artist": "Tame Impala",
+          "plays": 2
+        },
+        {
           "artist": "Calvin Harris",
-          "plays": 5
+          "plays": 2
         },
         {
-          "artist": "Synapson",
-          "plays": 5
+          "artist": "John Newman",
+          "plays": 2
         },
         {
-          "artist": "Therapie Taxi",
-          "plays": 5
+          "artist": "Dayglow",
+          "plays": 2
         },
         {
-          "artist": "Skibblez & My NamE",
-          "plays": 4
+          "artist": "Manu Chao",
+          "plays": 2
         },
         {
-          "artist": "Fatboy Slim",
-          "plays": 3
+          "artist": "Nytron & Sugar Hill",
+          "plays": 2
         },
         {
-          "artist": "Bob Marley",
-          "plays": 3
+          "artist": "Josh tobin",
+          "plays": 2
         },
         {
-          "artist": "Jordy Chandra",
-          "plays": 3
+          "artist": "Frankie Valli & The Four Seasons",
+          "plays": 2
         },
         {
-          "artist": "Renaud",
-          "plays": 3
+          "artist": "Image (Band)",
+          "plays": 2
         },
         {
-          "artist": "Kansas",
-          "plays": 3
+          "artist": "Grover Washington Jr",
+          "plays": 2
         },
         {
-          "artist": "Lukrembo",
-          "plays": 3
+          "artist": "David Guetta",
+          "plays": 2
         },
         {
-          "artist": "Journey",
-          "plays": 3
+          "artist": "OneRepublic",
+          "plays": 2
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 3
-        },
-        {
-          "artist": "Gaullin",
-          "plays": 3
-        },
-        {
-          "artist": "Noir Desir",
-          "plays": 3
-        },
-        {
-          "artist": "Francis Cabrel",
-          "plays": 3
-        },
-        {
-          "artist": "The Lonely Island",
-          "plays": 3
-        },
-        {
-          "artist": "Breaking Benjamin",
-          "plays": 3
-        },
-        {
-          "artist": "Helmut Fritz",
-          "plays": 3
-        },
-        {
-          "artist": "Haddaway",
-          "plays": 3
+          "artist": "Swing Out Sister",
+          "plays": 2
         }
       ],
       "top_genres": [
-        {
-          "genre": "Dance",
-          "plays": 52
-        },
         {
           "genre": "City Pop",
           "plays": 50
         },
         {
           "genre": "Electronic",
-          "plays": 40
+          "plays": 31
+        },
+        {
+          "genre": "Dance",
+          "plays": 28
         },
         {
           "genre": "Pop",
-          "plays": 35
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 23
+          "plays": 20
         },
         {
           "genre": "Alternative",
-          "plays": 22
-        },
-        {
-          "genre": "Rock",
-          "plays": 17
-        },
-        {
-          "genre": "Comedy",
-          "plays": 14
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 14
-        },
-        {
-          "genre": "Soft Rock",
           "plays": 13
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 10
+          "genre": "Future Funk",
+          "plays": 11
         },
         {
-          "genre": "Lowfi",
-          "plays": 9
+          "genre": "Rock",
+          "plays": 8
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 8
         },
         {
           "genre": "Soundtrack",
@@ -484,23 +468,19 @@
           "plays": 4
         },
         {
-          "genre": "Reggae",
-          "plays": 3
+          "genre": "Soft Rock",
+          "plays": 4
         },
         {
-          "genre": "Psychedlic Rock",
-          "plays": 3
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 3
-        },
-        {
-          "genre": "Electronica",
-          "plays": 3
+          "genre": "Hip Hop/Rap",
+          "plays": 4
         },
         {
           "genre": "Alternativo & Rock Latino",
+          "plays": 2
+        },
+        {
+          "genre": "Comedy",
           "plays": 2
         },
         {
@@ -562,124 +542,124 @@
           "genre": "Future Funk"
         },
         {
-          "song": "Naïve",
-          "artist": "Therapie Taxi",
-          "plays": 5,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "ONLY WITH YOU",
           "artist": "Tatsuro Yamashita",
           "plays": 4,
           "genre": "City Pop"
         },
         {
-          "song": "Sun in California",
-          "artist": "Skibblez & My NamE",
-          "plays": 4,
+          "song": "LOVELAND Island",
+          "artist": "Tatsuro Yamashita",
+          "plays": 2,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Therefore I Am",
+          "artist": "Billie Eilish",
+          "plays": 2,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Manila",
+          "artist": "Seelenluft",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "London",
+          "artist": "DJ Antoine & Timati",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Summer Girls",
+          "artist": "Skibblez & DeeJMD",
+          "plays": 2,
           "genre": "Future Funk"
         },
         {
-          "song": "WDPK 83.7 FM Extended",
-          "artist": "Daft Punk",
-          "plays": 3,
+          "song": "Daddy Wasn't There (feat. Austin Powers)",
+          "artist": "Ming Tea",
+          "plays": 2,
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Jody",
+          "artist": "Tatsuro Yamashita",
+          "plays": 2,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Sacré Français!",
+          "artist": "Dimitri from Paris",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "One Night/All Night",
+          "artist": "Justice & Tame Impala",
+          "plays": 2,
           "genre": "Electronic"
         },
         {
-          "song": "Right Here Right Now",
-          "artist": "Fatboy Slim",
-          "plays": 3,
-          "genre": "Electronic"
+          "song": "Blame",
+          "artist": "Calvin Harris & John Newman",
+          "plays": 2,
+          "genre": "Dance"
         },
         {
-          "song": "Jamming",
-          "artist": "Bob Marley",
-          "plays": 3,
-          "genre": "Reggae"
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 2,
+          "genre": "Alternative"
         },
         {
-          "song": "Michael Jackson vs Elvis Presley",
-          "artist": "Epic Rap Battles of History",
-          "plays": 3,
+          "song": "Clandestino (Live)",
+          "artist": "Manu Chao",
+          "plays": 2,
+          "genre": "Alternativo & Rock Latino"
+        },
+        {
+          "song": "Saturday Night",
+          "artist": "Nytron & Sugar Hill",
+          "plays": 2,
+          "genre": "Dance"
+        },
+        {
+          "song": "Im A Gangster",
+          "artist": "Josh tobin",
+          "plays": 2,
           "genre": "Comedy"
         },
         {
-          "song": "Waiting For Your Call",
-          "artist": "Jordy Chandra",
-          "plays": 3,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "J'ai la vie qui m'pique les yeux",
-          "artist": "Renaud",
-          "plays": 3,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Carry On Wayward Son",
-          "artist": "Kansas",
-          "plays": 3,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Bread Royalty",
-          "artist": "Lukrembo",
-          "plays": 3,
-          "genre": "Lowfi"
-        },
-        {
-          "song": "Moonlight (feat. Charles Harvey)",
-          "artist": "Synapson",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "My Way",
-          "artist": "Calvin Harris",
-          "plays": 3,
-          "genre": "Dance"
-        },
-        {
-          "song": "Faithfully",
-          "artist": "Journey",
-          "plays": 3,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "We're Good",
-          "artist": "Dua Lipa",
-          "plays": 3,
+          "song": "Can't Take My Eyes off You",
+          "artist": "Frankie Valli & The Four Seasons",
+          "plays": 2,
           "genre": "Pop"
         },
         {
-          "song": "Moonlight",
-          "artist": "Gaullin",
-          "plays": 3,
+          "song": "Red Rubber Ball V2",
+          "artist": "Image (Band)",
+          "plays": 2,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Just the two of us",
+          "artist": "Grover Washington Jr",
+          "plays": 2,
+          "genre": "Pop"
+        },
+        {
+          "song": "I Don't Wanna Wait",
+          "artist": "David Guetta & OneRepublic",
+          "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Bruce Lee vs Clint Eastwood",
-          "artist": "Epic Rap Battles of History",
-          "plays": 3,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Un jour en france",
-          "artist": "Noir Desir",
-          "plays": 3,
-          "genre": "Rock"
-        },
-        {
-          "song": "La Corrida",
-          "artist": "Francis Cabrel",
-          "plays": 3,
-          "genre": "Variete Francaise"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1629,
+      "total_plays": 1623,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -797,19 +777,19 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 132
+          "plays": 128
         },
         {
           "genre": "Hip Hop/Rap",
           "plays": 126
         },
         {
-          "genre": "City Pop",
+          "genre": "Rock",
           "plays": 85
         },
         {
-          "genre": "Rock",
-          "plays": 85
+          "genre": "City Pop",
+          "plays": 83
         },
         {
           "genre": "Comedy",
@@ -1039,7 +1019,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 3442,
+      "total_plays": 3417,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1059,10 +1039,6 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 57
-        },
-        {
-          "artist": "France Football Anthem",
           "plays": 56
         },
         {
@@ -1080,6 +1056,10 @@
         {
           "artist": "ANOTR",
           "plays": 49
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 47
         },
         {
           "artist": "Beachcrimes & Tia Tia",
@@ -1145,27 +1125,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 866
+          "plays": 863
         },
         {
           "genre": "Pop",
-          "plays": 530
+          "plays": 528
         },
         {
           "genre": "Electronic",
-          "plays": 345
+          "plays": 343
         },
         {
           "genre": "Variete Francaise",
-          "plays": 262
+          "plays": 253
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 233
+          "plays": 231
         },
         {
           "genre": "Rock",
-          "plays": 155
+          "plays": 154
         },
         {
           "genre": "City Pop",
@@ -1181,11 +1161,11 @@
         },
         {
           "genre": "Comedy",
-          "plays": 90
+          "plays": 89
         },
         {
           "genre": "Soft Rock",
-          "plays": 80
+          "plays": 79
         },
         {
           "genre": "Oldies",
@@ -1200,16 +1180,16 @@
           "plays": 34
         },
         {
-          "genre": "Disco",
-          "plays": 29
-        },
-        {
           "genre": "Hip-Hop/Rap",
           "plays": 29
         },
         {
+          "genre": "Disco",
+          "plays": 28
+        },
+        {
           "genre": "Soundtrack",
-          "plays": 26
+          "plays": 25
         },
         {
           "genre": "Soul and R&B",
@@ -1252,12 +1232,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 56,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Miss You",
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 55,
@@ -1280,6 +1254,12 @@
           "artist": "ANOTR ft. 54 Ultra",
           "plays": 49,
           "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 47,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Elevator",
@@ -9646,6 +9626,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-13",
-  "snapshot_count": 127
+  "latest_snapshot": "2026-09-14",
+  "snapshot_count": 128
 }
