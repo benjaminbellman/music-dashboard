@@ -351,7 +351,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 200,
+      "total_plays": 198,
       "top_artists": [
         {
           "artist": "Anri",
@@ -368,10 +368,6 @@
         {
           "artist": "Yung Bae",
           "plays": 6
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 3
         },
         {
           "artist": "Billie Eilish",
@@ -452,6 +448,10 @@
         {
           "artist": "Swing Out Sister",
           "plays": 2
+        },
+        {
+          "artist": "BeatFreakz",
+          "plays": 2
         }
       ],
       "top_genres": [
@@ -473,11 +473,11 @@
         },
         {
           "genre": "Alternative",
-          "plays": 13
+          "plays": 12
         },
         {
           "genre": "Future Funk",
-          "plays": 11
+          "plays": 10
         },
         {
           "genre": "Rock",
@@ -687,15 +687,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2754,
+      "total_plays": 2742,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 201
+          "plays": 191
         },
         {
           "artist": "Kungs",
-          "plays": 196
+          "plays": 186
         },
         {
           "artist": "Daft Punk",
@@ -710,11 +710,11 @@
           "plays": 55
         },
         {
-          "artist": "Demon",
-          "plays": 51
+          "artist": "ANOTR",
+          "plays": 49
         },
         {
-          "artist": "ANOTR",
+          "artist": "Demon",
           "plays": 49
         },
         {
@@ -793,7 +793,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 729
+          "plays": 717
         },
         {
           "genre": "Pop",
@@ -896,7 +896,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 196,
+          "plays": 186,
           "genre": "Dance"
         },
         {
@@ -906,15 +906,15 @@
           "genre": "Dance"
         },
         {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 50,
-          "genre": "Dance"
-        },
-        {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
           "plays": 49,
+          "genre": "Dance"
+        },
+        {
+          "song": "Blunted People",
+          "artist": "Demon",
+          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -9299,6 +9299,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-09-30",
-  "snapshot_count": 142
+  "latest_snapshot": "2026-10-01",
+  "snapshot_count": 143
 }
