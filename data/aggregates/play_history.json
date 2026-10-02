@@ -687,19 +687,19 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2742,
+      "total_plays": 2682,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 191
+          "plays": 167
         },
         {
           "artist": "Kungs",
-          "plays": 186
+          "plays": 162
         },
         {
           "artist": "Daft Punk",
-          "plays": 120
+          "plays": 106
         },
         {
           "artist": "Anri",
@@ -793,15 +793,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 717
+          "plays": 687
         },
         {
           "genre": "Pop",
-          "plays": 343
+          "plays": 327
         },
         {
           "genre": "Electronic",
-          "plays": 298
+          "plays": 284
         },
         {
           "genre": "Variete Francaise",
@@ -896,7 +896,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 186,
+          "plays": 162,
           "genre": "Dance"
         },
         {
@@ -978,12 +978,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Around the world (Version Longue)",
-          "artist": "Daft Punk",
-          "plays": 19,
-          "genre": "Electronic"
-        },
-        {
           "song": "Protect Me From What I Want",
           "artist": "Placebo",
           "plays": 18,
@@ -994,12 +988,6 @@
           "artist": "Axwell",
           "plays": 18,
           "genre": "Dance"
-        },
-        {
-          "song": "Play Date",
-          "artist": "Melanie Martinez",
-          "plays": 18,
-          "genre": "Pop"
         },
         {
           "song": "Les flamandes",
@@ -1042,6 +1030,18 @@
           "artist": "Daft Punk",
           "plays": 17,
           "genre": "Dance"
+        },
+        {
+          "song": "Les moutons",
+          "artist": "Jacques Brel",
+          "plays": 17,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Out to Catch",
+          "artist": "Leon Haywood & Bon Entendeur",
+          "plays": 17,
+          "genre": "Funk"
         }
       ]
     },
@@ -9299,6 +9299,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-01",
-  "snapshot_count": 143
+  "latest_snapshot": "2026-10-02",
+  "snapshot_count": 144
 }
