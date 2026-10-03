@@ -687,15 +687,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2682,
+      "total_plays": 2578,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 167
+          "plays": 159
         },
         {
           "artist": "Kungs",
-          "plays": 162
+          "plays": 154
         },
         {
           "artist": "Daft Punk",
@@ -706,10 +706,6 @@
           "plays": 67
         },
         {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 55
-        },
-        {
           "artist": "ANOTR",
           "plays": 49
         },
@@ -718,16 +714,8 @@
           "plays": 49
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 45
-        },
-        {
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 37
         },
         {
           "artist": "Benjamin Bellman",
@@ -740,6 +728,14 @@
         {
           "artist": "Britney Spears",
           "plays": 31
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 29
         },
         {
           "artist": "Dua Lipa",
@@ -760,10 +756,6 @@
         {
           "artist": "MACROSS 82-99",
           "plays": 26
-        },
-        {
-          "artist": "French Ball",
-          "plays": 24
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
@@ -788,12 +780,20 @@
         {
           "artist": "Tom Petty & the Heartbreakers",
           "plays": 20
+        },
+        {
+          "artist": "Indochine",
+          "plays": 20
+        },
+        {
+          "artist": "Le Nonsense",
+          "plays": 19
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 687
+          "plays": 631
         },
         {
           "genre": "Pop",
@@ -805,11 +805,11 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 217
+          "plays": 201
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 182
+          "plays": 158
         },
         {
           "genre": "Rock",
@@ -896,13 +896,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 162,
-          "genre": "Dance"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 55,
+          "plays": 154,
           "genre": "Dance"
         },
         {
@@ -918,22 +912,22 @@
           "genre": "Dance"
         },
         {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 45,
-          "genre": "Variete Francaise"
-        },
-        {
           "song": "Elevator",
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40,
           "genre": "Electronic"
         },
         {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 37,
-          "genre": "Hip Hop/Rap"
+          "song": "Miss You",
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31,
+          "genre": "Dance"
+        },
+        {
+          "song": "Sous les lumières de Paris",
+          "artist": "France Football Anthem",
+          "plays": 29,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
@@ -946,12 +940,6 @@
           "artist": "Polo & Pan",
           "plays": 24,
           "genre": "Electronic"
-        },
-        {
-          "song": "Piste 01",
-          "artist": "French Ball",
-          "plays": 24,
-          "genre": "Dance"
         },
         {
           "song": "Me Against the Music (feat. Madonna)",
@@ -1042,6 +1030,18 @@
           "artist": "Leon Haywood & Bon Entendeur",
           "plays": 17,
           "genre": "Funk"
+        },
+        {
+          "song": "Awkward Rap",
+          "artist": "Collegehumor",
+          "plays": 17,
+          "genre": "Comedy"
+        },
+        {
+          "song": "The Snooki Song (Parody of “Tik Tok” By Ke$ha)",
+          "artist": "Venetian Princess",
+          "plays": 17,
+          "genre": "Comedy"
         }
       ]
     },
@@ -9299,6 +9299,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-02",
-  "snapshot_count": 144
+  "latest_snapshot": "2026-10-03",
+  "snapshot_count": 145
 }
