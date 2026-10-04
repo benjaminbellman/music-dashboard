@@ -687,15 +687,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2578,
+      "total_plays": 2482,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 159
+          "plays": 135
         },
         {
           "artist": "Kungs",
-          "plays": 154
+          "plays": 130
         },
         {
           "artist": "Daft Punk",
@@ -704,10 +704,6 @@
         {
           "artist": "Anri",
           "plays": 67
-        },
-        {
-          "artist": "ANOTR",
-          "plays": 49
         },
         {
           "artist": "Demon",
@@ -726,10 +722,6 @@
           "plays": 35
         },
         {
-          "artist": "Britney Spears",
-          "plays": 31
-        },
-        {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 31
         },
@@ -746,16 +738,16 @@
           "plays": 27
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 27
-        },
-        {
           "artist": "Chromeo",
           "plays": 26
         },
         {
           "artist": "MACROSS 82-99",
           "plays": 26
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 25
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
@@ -788,20 +780,28 @@
         {
           "artist": "Le Nonsense",
           "plays": 19
+        },
+        {
+          "artist": "Placebo",
+          "plays": 18
+        },
+        {
+          "artist": "Collegehumor",
+          "plays": 18
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 631
+          "plays": 583
         },
         {
           "genre": "Pop",
-          "plays": 327
+          "plays": 303
         },
         {
           "genre": "Electronic",
-          "plays": 284
+          "plays": 260
         },
         {
           "genre": "Variete Francaise",
@@ -896,13 +896,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 154,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 49,
+          "plays": 130,
           "genre": "Dance"
         },
         {
@@ -936,16 +930,10 @@
           "genre": "City Pop"
         },
         {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 24,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Me Against the Music (feat. Madonna)",
-          "artist": "Britney Spears",
-          "plays": 24,
-          "genre": "Pop"
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 25,
+          "genre": "Dance"
         },
         {
           "song": "Me And My Broken Heart",
@@ -1042,6 +1030,18 @@
           "artist": "Venetian Princess",
           "plays": 17,
           "genre": "Comedy"
+        },
+        {
+          "song": "Good Days",
+          "artist": "Sza",
+          "plays": 17,
+          "genre": "R & B"
+        },
+        {
+          "song": "Pacific Coast Highway",
+          "artist": "Kavinsky",
+          "plays": 17,
+          "genre": "Electronic"
         }
       ]
     },
@@ -9299,6 +9299,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-03",
-  "snapshot_count": 145
+  "latest_snapshot": "2026-10-04",
+  "snapshot_count": 146
 }
