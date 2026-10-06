@@ -351,12 +351,8 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 26,
+      "total_plays": 2,
       "top_artists": [
-        {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 24
-        },
         {
           "artist": "Dua Lipa",
           "plays": 1
@@ -369,16 +365,10 @@
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 26
+          "plays": 2
         }
       ],
       "top_tracks": [
-        {
-          "song": "Elevator",
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 24,
-          "genre": "Electronic"
-        },
         {
           "song": "Hallucinate (Tensnake Remix)",
           "artist": "Dua Lipa",
@@ -395,27 +385,23 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2482,
+      "total_plays": 2383,
       "top_artists": [
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 135
-        },
-        {
-          "artist": "Kungs",
-          "plays": 130
-        },
         {
           "artist": "Daft Punk",
           "plays": 106
         },
         {
-          "artist": "Anri",
-          "plays": 67
+          "artist": "Purple Disco Machine",
+          "plays": 87
         },
         {
-          "artist": "Demon",
-          "plays": 49
+          "artist": "Kungs",
+          "plays": 82
+        },
+        {
+          "artist": "Anri",
+          "plays": 67
         },
         {
           "artist": "Beachcrimes & Tia Tia",
@@ -496,12 +482,16 @@
         {
           "artist": "Collegehumor",
           "plays": 18
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 18
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 583
+          "plays": 487
         },
         {
           "genre": "Pop",
@@ -509,7 +499,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 260
+          "plays": 257
         },
         {
           "genre": "Variete Francaise",
@@ -604,13 +594,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 130,
-          "genre": "Dance"
-        },
-        {
-          "song": "Blunted People",
-          "artist": "Demon",
-          "plays": 48,
+          "plays": 82,
           "genre": "Dance"
         },
         {
@@ -750,6 +734,12 @@
           "artist": "Kavinsky",
           "plays": 17,
           "genre": "Electronic"
+        },
+        {
+          "song": "The Bay to L.A. (feat. Murs)",
+          "artist": "The Grouch",
+          "plays": 17,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
@@ -9007,6 +8997,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-05",
-  "snapshot_count": 147
+  "latest_snapshot": "2026-10-06",
+  "snapshot_count": 148
 }
