@@ -375,7 +375,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2311,
+      "total_plays": 2289,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -481,11 +481,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 481
+          "plays": 479
         },
         {
           "genre": "Pop",
-          "plays": 297
+          "plays": 281
         },
         {
           "genre": "Electronic",
@@ -8987,6 +8987,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-08",
-  "snapshot_count": 150
+  "latest_snapshot": "2026-10-09",
+  "snapshot_count": 151
 }
