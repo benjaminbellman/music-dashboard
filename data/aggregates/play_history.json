@@ -351,21 +351,17 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 2,
+      "total_plays": 1,
       "top_artists": [
         {
           "artist": "Dua Lipa",
-          "plays": 1
-        },
-        {
-          "artist": "Dog",
           "plays": 1
         }
       ],
       "top_genres": [
         {
           "genre": "Electronic",
-          "plays": 2
+          "plays": 1
         }
       ],
       "top_tracks": [
@@ -374,22 +370,16 @@
           "artist": "Dua Lipa",
           "plays": 1,
           "genre": "Electronic"
-        },
-        {
-          "song": "Truth Bites Harder",
-          "artist": "Dog vs. The World",
-          "plays": 1,
-          "genre": "Electronic"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 2383,
+      "total_plays": 2311,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 106
+          "plays": 102
         },
         {
           "artist": "Purple Disco Machine",
@@ -420,16 +410,8 @@
           "plays": 31
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 29
-        },
-        {
           "artist": "Dua Lipa",
           "plays": 28
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 27
         },
         {
           "artist": "Chromeo",
@@ -452,16 +434,20 @@
           "plays": 23
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 22
-        },
-        {
           "artist": "PNL",
           "plays": 22
         },
         {
+          "artist": "Bon Entendeur",
+          "plays": 21
+        },
+        {
           "artist": "Axwell",
           "plays": 21
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 20
         },
         {
           "artist": "Tom Petty & the Heartbreakers",
@@ -486,24 +472,28 @@
         {
           "artist": "Joe Dassin",
           "plays": 18
+        },
+        {
+          "artist": "Chuck Berry",
+          "plays": 17
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 487
+          "plays": 481
         },
         {
           "genre": "Pop",
-          "plays": 303
+          "plays": 297
         },
         {
           "genre": "Electronic",
-          "plays": 257
+          "plays": 241
         },
         {
           "genre": "Variete Francaise",
-          "plays": 201
+          "plays": 179
         },
         {
           "genre": "Hip Hop/Rap",
@@ -515,7 +505,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 102
+          "plays": 100
         },
         {
           "genre": "Alternative",
@@ -523,11 +513,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 93
+          "plays": 85
         },
         {
           "genre": "Comedy",
-          "plays": 85
+          "plays": 83
         },
         {
           "genre": "Soft Rock",
@@ -538,20 +528,20 @@
           "plays": 39
         },
         {
-          "genre": "Future Funk",
-          "plays": 30
-        },
-        {
           "genre": "Hip-Hop/Rap",
           "plays": 29
         },
         {
+          "genre": "Future Funk",
+          "plays": 28
+        },
+        {
           "genre": "Disco",
-          "plays": 25
+          "plays": 23
         },
         {
           "genre": "Soundtrack",
-          "plays": 23
+          "plays": 21
         },
         {
           "genre": "Hip-hop/Rap",
@@ -608,12 +598,6 @@
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 31,
           "genre": "Dance"
-        },
-        {
-          "song": "Sous les lumières de Paris",
-          "artist": "France Football Anthem",
-          "plays": 29,
-          "genre": "Variete Francaise"
         },
         {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
@@ -740,6 +724,12 @@
           "artist": "The Grouch",
           "plays": 17,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Sable Doux",
+          "artist": "Cherokee",
+          "plays": 17,
+          "genre": "Electronic"
         }
       ]
     },
@@ -8997,6 +8987,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-07",
-  "snapshot_count": 149
+  "latest_snapshot": "2026-10-08",
+  "snapshot_count": 150
 }
