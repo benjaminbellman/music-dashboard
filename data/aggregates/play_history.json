@@ -327,27 +327,10 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1,
-      "top_artists": [
-        {
-          "artist": "Dua Lipa",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Electronic",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Hallucinate (Tensnake Remix)",
-          "artist": "Dua Lipa",
-          "plays": 1,
-          "genre": "Electronic"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "30d": {
       "days": 30,
@@ -375,7 +358,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2289,
+      "total_plays": 2258,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -383,11 +366,11 @@
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 87
+          "plays": 75
         },
         {
           "artist": "Kungs",
-          "plays": 82
+          "plays": 70
         },
         {
           "artist": "Anri",
@@ -481,11 +464,11 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 479
+          "plays": 461
         },
         {
           "genre": "Pop",
-          "plays": 281
+          "plays": 279
         },
         {
           "genre": "Electronic",
@@ -497,7 +480,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 158
+          "plays": 153
         },
         {
           "genre": "Rock",
@@ -517,7 +500,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 83
+          "plays": 77
         },
         {
           "genre": "Soft Rock",
@@ -584,7 +567,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 82,
+          "plays": 70,
           "genre": "Dance"
         },
         {
@@ -8987,6 +8970,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-10",
-  "snapshot_count": 152
+  "latest_snapshot": "2026-10-11",
+  "snapshot_count": 153
 }
