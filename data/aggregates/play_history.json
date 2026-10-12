@@ -358,7 +358,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2258,
+      "total_plays": 2252,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -472,11 +472,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 241
+          "plays": 240
         },
         {
           "genre": "Variete Francaise",
-          "plays": 179
+          "plays": 178
         },
         {
           "genre": "Hip Hop/Rap",
@@ -523,10 +523,6 @@
           "plays": 23
         },
         {
-          "genre": "Soundtrack",
-          "plays": 21
-        },
-        {
           "genre": "Hip-hop/Rap",
           "plays": 19
         },
@@ -541,6 +537,10 @@
         {
           "genre": "Variété française",
           "plays": 18
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 17
         },
         {
           "genre": "K-Pop",
@@ -8970,6 +8970,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-11",
-  "snapshot_count": 153
+  "latest_snapshot": "2026-10-12",
+  "snapshot_count": 154
 }
