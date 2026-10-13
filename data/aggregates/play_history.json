@@ -358,15 +358,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 2252,
+      "total_plays": 2224,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 102
+          "plays": 101
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 75
+          "plays": 74
         },
         {
           "artist": "Kungs",
@@ -421,12 +421,12 @@
           "plays": 22
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "Axwell",
           "plays": 21
         },
         {
-          "artist": "Axwell",
-          "plays": 21
+          "artist": "Bon Entendeur",
+          "plays": 20
         },
         {
           "artist": "Flight Facilities",
@@ -464,19 +464,19 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 461
+          "plays": 457
         },
         {
           "genre": "Pop",
-          "plays": 279
+          "plays": 277
         },
         {
           "genre": "Electronic",
-          "plays": 240
+          "plays": 239
         },
         {
           "genre": "Variete Francaise",
-          "plays": 178
+          "plays": 169
         },
         {
           "genre": "Hip Hop/Rap",
@@ -484,7 +484,7 @@
         },
         {
           "genre": "Rock",
-          "plays": 112
+          "plays": 111
         },
         {
           "genre": "City Pop",
@@ -492,7 +492,7 @@
         },
         {
           "genre": "Alternative",
-          "plays": 95
+          "plays": 92
         },
         {
           "genre": "mashup",
@@ -500,7 +500,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 77
+          "plays": 76
         },
         {
           "genre": "Soft Rock",
@@ -539,10 +539,6 @@
           "plays": 18
         },
         {
-          "genre": "Soundtrack",
-          "plays": 17
-        },
-        {
           "genre": "K-Pop",
           "plays": 17
         },
@@ -560,6 +556,10 @@
         },
         {
           "genre": "Vocal",
+          "plays": 17
+        },
+        {
+          "genre": "Nu-Metal",
           "plays": 17
         }
       ],
@@ -8970,6 +8970,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-12",
-  "snapshot_count": 154
+  "latest_snapshot": "2026-10-13",
+  "snapshot_count": 155
 }
