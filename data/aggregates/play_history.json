@@ -718,7 +718,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 4979,
+      "total_plays": 4977,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -828,7 +828,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 716
+          "plays": 715
         },
         {
           "genre": "Electronic",
@@ -836,7 +836,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 419
+          "plays": 418
         },
         {
           "genre": "Hip Hop/Rap",
@@ -8970,6 +8970,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-14",
-  "snapshot_count": 156
+  "latest_snapshot": "2026-10-16",
+  "snapshot_count": 157
 }
