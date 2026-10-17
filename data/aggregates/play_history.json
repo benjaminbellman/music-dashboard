@@ -315,117 +315,91 @@
     {
       "date": "2026-09-27",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "plays": 2302
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 0,
-      "top_artists": [],
-      "top_genres": [],
-      "top_tracks": []
-    },
-    "14d": {
-      "days": 14,
-      "total_plays": 0,
-      "top_artists": [],
-      "top_genres": [],
-      "top_tracks": []
-    },
-    "30d": {
-      "days": 30,
-      "total_plays": 1,
+      "total_plays": 2302,
       "top_artists": [
         {
-          "artist": "Dua Lipa",
-          "plays": 1
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Electronic",
-          "plays": 1
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Hallucinate (Tensnake Remix)",
-          "artist": "Dua Lipa",
-          "plays": 1,
-          "genre": "Electronic"
-        }
-      ]
-    },
-    "90d": {
-      "days": 90,
-      "total_plays": 2224,
-      "top_artists": [
+          "artist": "Bon Entendeur",
+          "plays": 68
+        },
         {
           "artist": "Daft Punk",
-          "plays": 101
+          "plays": 60
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 74
-        },
-        {
-          "artist": "Kungs",
-          "plays": 70
-        },
-        {
-          "artist": "Anri",
-          "plays": 67
-        },
-        {
-          "artist": "Beachcrimes & Tia Tia",
           "plays": 40
         },
         {
-          "artist": "Benjamin Bellman",
-          "plays": 36
+          "artist": "Coldplay",
+          "plays": 32
         },
         {
-          "artist": "Jacques Brel",
-          "plays": 35
-        },
-        {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
-        },
-        {
-          "artist": "Dua Lipa",
+          "artist": "Michael Jackson",
           "plays": 28
         },
         {
-          "artist": "Chromeo",
-          "plays": 26
+          "artist": "Anri",
+          "plays": 28
         },
         {
-          "artist": "MACROSS 82-99",
-          "plays": 26
+          "artist": "Kungs",
+          "plays": 28
         },
         {
-          "artist": "ANOTR",
-          "plays": 25
-        },
-        {
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "artist": "ABBA",
           "plays": 24
         },
         {
-          "artist": "Tatsuro Yamashita",
-          "plays": 23
+          "artist": "Dua Lipa",
+          "plays": 24
         },
         {
-          "artist": "PNL",
-          "plays": 22
+          "artist": "French 79",
+          "plays": 24
         },
         {
-          "artist": "Axwell",
-          "plays": 21
+          "artist": "Armin van Buuren",
+          "plays": 24
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "Global Communication",
+          "plays": 24
+        },
+        {
+          "artist": "Rema, Selena Gomez",
+          "plays": 24
+        },
+        {
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24
+        },
+        {
+          "artist": "Boys Like Girls",
+          "plays": 24
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 20
+        },
+        {
+          "artist": "Avicii",
+          "plays": 20
+        },
+        {
+          "artist": "Justice",
+          "plays": 20
+        },
+        {
+          "artist": "Vantage",
           "plays": 20
         },
         {
@@ -433,142 +407,1220 @@
           "plays": 20
         },
         {
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 20
-        },
-        {
-          "artist": "Indochine",
-          "plays": 20
-        },
-        {
-          "artist": "Le Nonsense",
-          "plays": 19
-        },
-        {
-          "artist": "Placebo",
+          "artist": "Illit",
           "plays": 18
         },
         {
-          "artist": "Collegehumor",
-          "plays": 18
+          "artist": "Taylor Swift",
+          "plays": 16
         },
         {
-          "artist": "Joe Dassin",
-          "plays": 18
+          "artist": "Your Favorite Martian",
+          "plays": 16
         },
         {
-          "artist": "Chuck Berry",
-          "plays": 17
+          "artist": "Calvin Harris",
+          "plays": 16
+        },
+        {
+          "artist": "Robbie Williams",
+          "plays": 16
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 457
+          "plays": 432
         },
         {
           "genre": "Pop",
-          "plays": 277
+          "plays": 428
         },
         {
           "genre": "Electronic",
-          "plays": 239
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 169
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 153
-        },
-        {
-          "genre": "Rock",
-          "plays": 111
-        },
-        {
-          "genre": "City Pop",
-          "plays": 100
+          "plays": 228
         },
         {
           "genre": "Alternative",
-          "plays": 92
+          "plays": 180
         },
         {
-          "genre": "mashup",
-          "plays": 85
+          "genre": "Rock",
+          "plays": 156
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 120
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 64
         },
         {
           "genre": "Comedy",
-          "plays": 76
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 51
-        },
-        {
-          "genre": "Oldies",
-          "plays": 39
-        },
-        {
-          "genre": "Hip-Hop/Rap",
-          "plays": 29
+          "plays": 60
         },
         {
           "genre": "Future Funk",
-          "plays": 28
+          "plays": 52
+        },
+        {
+          "genre": "City Pop",
+          "plays": 48
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 48
+        },
+        {
+          "genre": "mashup",
+          "plays": 44
+        },
+        {
+          "genre": "House",
+          "plays": 44
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 44
         },
         {
           "genre": "Disco",
-          "plays": 23
+          "plays": 40
         },
         {
-          "genre": "Hip-hop/Rap",
-          "plays": 19
+          "genre": "Country",
+          "plays": 28
         },
         {
-          "genre": "R & B",
-          "plays": 19
-        },
-        {
-          "genre": "Funk",
-          "plays": 18
-        },
-        {
-          "genre": "Variété française",
-          "plays": 18
+          "genre": "Oldies",
+          "plays": 24
         },
         {
           "genre": "K-Pop",
-          "plays": 17
+          "plays": 22
         },
         {
-          "genre": "Other",
-          "plays": 17
+          "genre": "Variété française",
+          "plays": 20
         },
         {
-          "genre": "Musique francophone",
-          "plays": 17
+          "genre": "Lowfi",
+          "plays": 20
         },
         {
-          "genre": "Alternative Rap",
-          "plays": 17
+          "genre": "Britpop",
+          "plays": 16
         },
         {
-          "genre": "Vocal",
-          "plays": 17
+          "genre": "Funk",
+          "plays": 12
         },
         {
-          "genre": "Nu-Metal",
-          "plays": 17
+          "genre": "French Pop",
+          "plays": 12
+        },
+        {
+          "genre": "World",
+          "plays": 12
+        },
+        {
+          "genre": "J-Pop",
+          "plays": 12
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "DRIVING MY LOVE",
+          "artist": "Anri",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 24,
+          "genre": "House"
+        },
+        {
+          "song": "Calm Down",
+          "artist": "Rema, Selena Gomez",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "This Is What It Feels Like",
+          "artist": "Armin van Buuren",
+          "plays": 20,
+          "genre": "Dance"
+        },
+        {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 18,
+          "genre": "K-Pop"
+        },
+        {
+          "song": "Jurassic Park",
+          "artist": "Weird Al Yankovich",
+          "plays": 16,
+          "genre": "Comedy"
+        },
+        {
+          "song": "2012 - 2022 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 16,
+          "genre": "mashup"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 16,
+          "genre": "Dance"
+        },
+        {
+          "song": "Rain Song",
+          "artist": "Disney",
+          "plays": 16,
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Praise you",
+          "artist": "Fatboy Slim",
+          "plays": 12,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Feel",
+          "artist": "Robbie Williams",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Menergy (feat. Sylvester)",
+          "artist": "Patrick Cowley & Purple Disco Machine",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Paprika Opening Full",
+          "artist": "Satoshi Kon",
+          "plays": 12,
+          "genre": "J-Pop"
+        },
+        {
+          "song": "Truth Bites Harder",
+          "artist": "Dog vs. The World",
+          "plays": 12,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Count What You Have Now",
+          "artist": "Vantage",
+          "plays": 12,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Brazil",
+          "artist": "Declan McKenna",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Ce matin va être une pure soirée (feat. Big Ali, PZK, Dogg Soso & Chris Prolls)",
+          "artist": "Fatal Bazooka",
+          "plays": 8,
+          "genre": "Hip-hop/Rap"
+        },
+        {
+          "song": "Rockabye ft. Sean Paul & Anne-Marie",
+          "artist": "Clean Bandit",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Cruel Summer",
+          "artist": "Taylor Swift",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Lalalove You",
+          "artist": "BB Brunes",
+          "plays": 8,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "I'm Over Dreaming Over You",
+          "artist": "Kylie Minogue",
+          "plays": 8,
+          "genre": "Pop"
+        }
+      ]
+    },
+    "14d": {
+      "days": 14,
+      "total_plays": 2302,
+      "top_artists": [
+        {
+          "artist": "Bon Entendeur",
+          "plays": 68
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 60
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 40
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 32
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 28
+        },
+        {
+          "artist": "Anri",
+          "plays": 28
+        },
+        {
+          "artist": "Kungs",
+          "plays": 28
+        },
+        {
+          "artist": "ABBA",
+          "plays": 24
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 24
+        },
+        {
+          "artist": "French 79",
+          "plays": 24
+        },
+        {
+          "artist": "Armin van Buuren",
+          "plays": 24
+        },
+        {
+          "artist": "Global Communication",
+          "plays": 24
+        },
+        {
+          "artist": "Rema, Selena Gomez",
+          "plays": 24
+        },
+        {
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24
+        },
+        {
+          "artist": "Boys Like Girls",
+          "plays": 24
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 20
+        },
+        {
+          "artist": "Avicii",
+          "plays": 20
+        },
+        {
+          "artist": "Justice",
+          "plays": 20
+        },
+        {
+          "artist": "Vantage",
+          "plays": 20
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 20
+        },
+        {
+          "artist": "Illit",
+          "plays": 18
+        },
+        {
+          "artist": "Taylor Swift",
+          "plays": 16
+        },
+        {
+          "artist": "Your Favorite Martian",
+          "plays": 16
+        },
+        {
+          "artist": "Calvin Harris",
+          "plays": 16
+        },
+        {
+          "artist": "Robbie Williams",
+          "plays": 16
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Dance",
+          "plays": 432
+        },
+        {
+          "genre": "Pop",
+          "plays": 428
+        },
+        {
+          "genre": "Electronic",
+          "plays": 228
+        },
+        {
+          "genre": "Alternative",
+          "plays": 180
+        },
+        {
+          "genre": "Rock",
+          "plays": 156
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 120
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 64
+        },
+        {
+          "genre": "Comedy",
+          "plays": 60
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 52
+        },
+        {
+          "genre": "City Pop",
+          "plays": 48
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 48
+        },
+        {
+          "genre": "mashup",
+          "plays": 44
+        },
+        {
+          "genre": "House",
+          "plays": 44
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 44
+        },
+        {
+          "genre": "Disco",
+          "plays": 40
+        },
+        {
+          "genre": "Country",
+          "plays": 28
+        },
+        {
+          "genre": "Oldies",
+          "plays": 24
+        },
+        {
+          "genre": "K-Pop",
+          "plays": 22
+        },
+        {
+          "genre": "Variété française",
+          "plays": 20
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 20
+        },
+        {
+          "genre": "Britpop",
+          "plays": 16
+        },
+        {
+          "genre": "Funk",
+          "plays": 12
+        },
+        {
+          "genre": "French Pop",
+          "plays": 12
+        },
+        {
+          "genre": "World",
+          "plays": 12
+        },
+        {
+          "genre": "J-Pop",
+          "plays": 12
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "DRIVING MY LOVE",
+          "artist": "Anri",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 24,
+          "genre": "House"
+        },
+        {
+          "song": "Calm Down",
+          "artist": "Rema, Selena Gomez",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "This Is What It Feels Like",
+          "artist": "Armin van Buuren",
+          "plays": 20,
+          "genre": "Dance"
+        },
+        {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 18,
+          "genre": "K-Pop"
+        },
+        {
+          "song": "Jurassic Park",
+          "artist": "Weird Al Yankovich",
+          "plays": 16,
+          "genre": "Comedy"
+        },
+        {
+          "song": "2012 - 2022 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 16,
+          "genre": "mashup"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 16,
+          "genre": "Dance"
+        },
+        {
+          "song": "Rain Song",
+          "artist": "Disney",
+          "plays": 16,
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Praise you",
+          "artist": "Fatboy Slim",
+          "plays": 12,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Feel",
+          "artist": "Robbie Williams",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Menergy (feat. Sylvester)",
+          "artist": "Patrick Cowley & Purple Disco Machine",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Paprika Opening Full",
+          "artist": "Satoshi Kon",
+          "plays": 12,
+          "genre": "J-Pop"
+        },
+        {
+          "song": "Truth Bites Harder",
+          "artist": "Dog vs. The World",
+          "plays": 12,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Count What You Have Now",
+          "artist": "Vantage",
+          "plays": 12,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Brazil",
+          "artist": "Declan McKenna",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Ce matin va être une pure soirée (feat. Big Ali, PZK, Dogg Soso & Chris Prolls)",
+          "artist": "Fatal Bazooka",
+          "plays": 8,
+          "genre": "Hip-hop/Rap"
+        },
+        {
+          "song": "Rockabye ft. Sean Paul & Anne-Marie",
+          "artist": "Clean Bandit",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Cruel Summer",
+          "artist": "Taylor Swift",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Lalalove You",
+          "artist": "BB Brunes",
+          "plays": 8,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "I'm Over Dreaming Over You",
+          "artist": "Kylie Minogue",
+          "plays": 8,
+          "genre": "Pop"
+        }
+      ]
+    },
+    "30d": {
+      "days": 30,
+      "total_plays": 2303,
+      "top_artists": [
+        {
+          "artist": "Bon Entendeur",
+          "plays": 68
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 60
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 40
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 32
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 28
+        },
+        {
+          "artist": "Anri",
+          "plays": 28
+        },
+        {
+          "artist": "Kungs",
+          "plays": 28
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 25
+        },
+        {
+          "artist": "ABBA",
+          "plays": 24
+        },
+        {
+          "artist": "French 79",
+          "plays": 24
+        },
+        {
+          "artist": "Armin van Buuren",
+          "plays": 24
+        },
+        {
+          "artist": "Global Communication",
+          "plays": 24
+        },
+        {
+          "artist": "Rema, Selena Gomez",
+          "plays": 24
+        },
+        {
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24
+        },
+        {
+          "artist": "Boys Like Girls",
+          "plays": 24
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 20
+        },
+        {
+          "artist": "Avicii",
+          "plays": 20
+        },
+        {
+          "artist": "Justice",
+          "plays": 20
+        },
+        {
+          "artist": "Vantage",
+          "plays": 20
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 20
+        },
+        {
+          "artist": "Illit",
+          "plays": 18
+        },
+        {
+          "artist": "Taylor Swift",
+          "plays": 16
+        },
+        {
+          "artist": "Your Favorite Martian",
+          "plays": 16
+        },
+        {
+          "artist": "Calvin Harris",
+          "plays": 16
+        },
+        {
+          "artist": "Robbie Williams",
+          "plays": 16
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Dance",
+          "plays": 432
+        },
+        {
+          "genre": "Pop",
+          "plays": 428
+        },
+        {
+          "genre": "Electronic",
+          "plays": 229
+        },
+        {
+          "genre": "Alternative",
+          "plays": 180
+        },
+        {
+          "genre": "Rock",
+          "plays": 156
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 120
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 64
+        },
+        {
+          "genre": "Comedy",
+          "plays": 60
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 52
+        },
+        {
+          "genre": "City Pop",
+          "plays": 48
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 48
+        },
+        {
+          "genre": "mashup",
+          "plays": 44
+        },
+        {
+          "genre": "House",
+          "plays": 44
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 44
+        },
+        {
+          "genre": "Disco",
+          "plays": 40
+        },
+        {
+          "genre": "Country",
+          "plays": 28
+        },
+        {
+          "genre": "Oldies",
+          "plays": 24
+        },
+        {
+          "genre": "K-Pop",
+          "plays": 22
+        },
+        {
+          "genre": "Variété française",
+          "plays": 20
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 20
+        },
+        {
+          "genre": "Britpop",
+          "plays": 16
+        },
+        {
+          "genre": "Funk",
+          "plays": 12
+        },
+        {
+          "genre": "French Pop",
+          "plays": 12
+        },
+        {
+          "genre": "World",
+          "plays": 12
+        },
+        {
+          "genre": "J-Pop",
+          "plays": 12
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
+          "song": "DRIVING MY LOVE",
+          "artist": "Anri",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 24,
+          "genre": "House"
+        },
+        {
+          "song": "Calm Down",
+          "artist": "Rema, Selena Gomez",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 24,
+          "genre": "Alternative"
+        },
+        {
+          "song": "This Is What It Feels Like",
+          "artist": "Armin van Buuren",
+          "plays": 20,
+          "genre": "Dance"
+        },
+        {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 18,
+          "genre": "K-Pop"
+        },
+        {
+          "song": "Jurassic Park",
+          "artist": "Weird Al Yankovich",
+          "plays": 16,
+          "genre": "Comedy"
+        },
+        {
+          "song": "2012 - 2022 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 16,
+          "genre": "mashup"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 16,
+          "genre": "Dance"
+        },
+        {
+          "song": "Rain Song",
+          "artist": "Disney",
+          "plays": 16,
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Praise you",
+          "artist": "Fatboy Slim",
+          "plays": 12,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Feel",
+          "artist": "Robbie Williams",
+          "plays": 12,
+          "genre": "Rock"
+        },
+        {
+          "song": "Menergy (feat. Sylvester)",
+          "artist": "Patrick Cowley & Purple Disco Machine",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Paprika Opening Full",
+          "artist": "Satoshi Kon",
+          "plays": 12,
+          "genre": "J-Pop"
+        },
+        {
+          "song": "Truth Bites Harder",
+          "artist": "Dog vs. The World",
+          "plays": 12,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Count What You Have Now",
+          "artist": "Vantage",
+          "plays": 12,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "Brazil",
+          "artist": "Declan McKenna",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Ce matin va être une pure soirée (feat. Big Ali, PZK, Dogg Soso & Chris Prolls)",
+          "artist": "Fatal Bazooka",
+          "plays": 8,
+          "genre": "Hip-hop/Rap"
+        },
+        {
+          "song": "Rockabye ft. Sean Paul & Anne-Marie",
+          "artist": "Clean Bandit",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Cruel Summer",
+          "artist": "Taylor Swift",
+          "plays": 8,
+          "genre": "Pop"
+        },
+        {
+          "song": "Lalalove You",
+          "artist": "BB Brunes",
+          "plays": 8,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "I'm Over Dreaming Over You",
+          "artist": "Kylie Minogue",
+          "plays": 8,
+          "genre": "Pop"
+        }
+      ]
+    },
+    "90d": {
+      "days": 90,
+      "total_plays": 4526,
+      "top_artists": [
+        {
+          "artist": "Daft Punk",
+          "plays": 161
+        },
+        {
+          "artist": "Purple Disco Machine",
+          "plays": 114
+        },
+        {
+          "artist": "Kungs",
+          "plays": 98
+        },
+        {
+          "artist": "Anri",
+          "plays": 95
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 88
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 52
+        },
+        {
+          "artist": "Benjamin Bellman",
+          "plays": 48
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 47
+        },
+        {
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 44
+        },
+        {
+          "artist": "Jacques Brel",
+          "plays": 43
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 40
+        },
+        {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
+        },
+        {
+          "artist": "Tatsuro Yamashita",
+          "plays": 35
+        },
+        {
+          "artist": "Illit",
+          "plays": 34
+        },
+        {
+          "artist": "Boys Like Girls",
+          "plays": 34
+        },
+        {
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "plays": 32
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 31
+        },
+        {
+          "artist": "Oliver Tree & Robin Schulz",
+          "plays": 31
+        },
+        {
+          "artist": "PNL",
+          "plays": 30
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 29
+        },
+        {
+          "artist": "ABBA",
+          "plays": 27
+        },
+        {
+          "artist": "Armin van Buuren",
+          "plays": 26
+        },
+        {
+          "artist": "Chromeo",
+          "plays": 26
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 26
+        },
+        {
+          "artist": "MACROSS 82-99",
+          "plays": 26
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Dance",
+          "plays": 889
+        },
+        {
+          "genre": "Pop",
+          "plays": 705
+        },
+        {
+          "genre": "Electronic",
+          "plays": 467
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 289
+        },
+        {
+          "genre": "Alternative",
+          "plays": 272
+        },
+        {
+          "genre": "Rock",
+          "plays": 267
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 217
+        },
+        {
+          "genre": "City Pop",
+          "plays": 148
+        },
+        {
+          "genre": "Comedy",
+          "plays": 136
+        },
+        {
+          "genre": "mashup",
+          "plays": 129
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 99
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 80
+        },
+        {
+          "genre": "Oldies",
+          "plays": 63
+        },
+        {
+          "genre": "Disco",
+          "plays": 63
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 57
+        },
+        {
+          "genre": "House",
+          "plays": 49
+        },
+        {
+          "genre": "K-Pop",
+          "plays": 39
+        },
+        {
+          "genre": "Variété française",
+          "plays": 38
+        },
+        {
+          "genre": "Hip-Hop/Rap",
+          "plays": 33
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 33
+        },
+        {
+          "genre": "Funk",
+          "plays": 30
+        },
+        {
+          "genre": "Country",
+          "plays": 30
+        },
+        {
+          "genre": "Hip-hop/Rap",
+          "plays": 27
+        },
+        {
+          "genre": "R & B",
+          "plays": 27
+        },
+        {
+          "genre": "Latin",
+          "plays": 24
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 70,
+          "plays": 94,
           "genre": "Dance"
+        },
+        {
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 44,
+          "genre": "Soft Rock"
         },
         {
           "song": "Elevator",
@@ -577,9 +1629,39 @@
           "genre": "Electronic"
         },
         {
+          "song": "DRIVING MY LOVE",
+          "artist": "Anri",
+          "plays": 34,
+          "genre": "City Pop"
+        },
+        {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 34,
+          "genre": "K-Pop"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 34,
+          "genre": "Alternative"
+        },
+        {
+          "song": "Me And My Broken Heart",
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "plays": 32,
+          "genre": "Dance"
+        },
+        {
           "song": "Miss You",
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 31,
+          "genre": "Dance"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 29,
           "genre": "Dance"
         },
         {
@@ -589,22 +1671,76 @@
           "genre": "City Pop"
         },
         {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 25,
-          "genre": "Dance"
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 24,
+          "genre": "Electronic"
         },
         {
-          "song": "Me And My Broken Heart",
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 24,
+          "genre": "House"
+        },
+        {
+          "song": "Calm Down",
+          "artist": "Rema, Selena Gomez",
+          "plays": 24,
+          "genre": "Pop"
+        },
+        {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
           "plays": 24,
           "genre": "Dance"
         },
         {
-          "song": "Don't Do Me Like That",
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 20,
-          "genre": "Soft Rock"
+          "song": "This Is What It Feels Like",
+          "artist": "Armin van Buuren",
+          "plays": 22,
+          "genre": "Dance"
+        },
+        {
+          "song": "Les flamandes",
+          "artist": "Jacques Brel",
+          "plays": 22,
+          "genre": "Variété française"
+        },
+        {
+          "song": "New Rules",
+          "artist": "Dua Lipa",
+          "plays": 21,
+          "genre": "Pop"
+        },
+        {
+          "song": "Les moutons",
+          "artist": "Jacques Brel",
+          "plays": 21,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Awkward Rap",
+          "artist": "Collegehumor",
+          "plays": 21,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Save Dat Money (Feat. Fetty Wap and Rich Homie Quan)",
+          "artist": "Lil Dicky",
+          "plays": 21,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "down the gust of wind",
+          "artist": "Benjamin Bellman",
+          "plays": 21,
+          "genre": "mashup"
+        },
+        {
+          "song": "Evolution",
+          "artist": "Korn",
+          "plays": 21,
+          "genre": "Nu-Metal"
         },
         {
           "song": "Soulreply (Le Nonsense Remix)",
@@ -623,142 +1759,60 @@
           "artist": "Axwell",
           "plays": 18,
           "genre": "Dance"
-        },
-        {
-          "song": "Les flamandes",
-          "artist": "Jacques Brel",
-          "plays": 18,
-          "genre": "Variété française"
-        },
-        {
-          "song": "Johnny B. Goode",
-          "artist": "Chuck Berry",
-          "plays": 17,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Tudo Bom  סטטיק ובן אל תבורי - טודו בום",
-          "artist": "Static and Ben El",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "Kokomo",
-          "artist": "Beach Boys",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "We've got Salah",
-          "artist": "Richy Sheehy feat. Marc Kenny",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
-          "song": "New Rules",
-          "artist": "Dua Lipa",
-          "plays": 17,
-          "genre": "Pop"
-        },
-        {
-          "song": "Something About Us",
-          "artist": "Daft Punk",
-          "plays": 17,
-          "genre": "Dance"
-        },
-        {
-          "song": "Les moutons",
-          "artist": "Jacques Brel",
-          "plays": 17,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Out to Catch",
-          "artist": "Leon Haywood & Bon Entendeur",
-          "plays": 17,
-          "genre": "Funk"
-        },
-        {
-          "song": "Awkward Rap",
-          "artist": "Collegehumor",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
-          "song": "The Snooki Song (Parody of “Tik Tok” By Ke$ha)",
-          "artist": "Venetian Princess",
-          "plays": 17,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Good Days",
-          "artist": "Sza",
-          "plays": 17,
-          "genre": "R & B"
-        },
-        {
-          "song": "Pacific Coast Highway",
-          "artist": "Kavinsky",
-          "plays": 17,
-          "genre": "Electronic"
-        },
-        {
-          "song": "The Bay to L.A. (feat. Murs)",
-          "artist": "The Grouch",
-          "plays": 17,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "Sable Doux",
-          "artist": "Cherokee",
-          "plays": 17,
-          "genre": "Electronic"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 4977,
+      "total_plays": 7239,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 202
-        },
-        {
-          "artist": "Kungs",
-          "plays": 197
+          "plays": 242
         },
         {
           "artist": "Daft Punk",
-          "plays": 178
+          "plays": 234
         },
         {
-          "artist": "France Football Anthem",
-          "plays": 111
+          "artist": "Kungs",
+          "plays": 225
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 133
         },
         {
           "artist": "442oons",
-          "plays": 106
+          "plays": 110
+        },
+        {
+          "artist": "France Football Anthem",
+          "plays": 110
         },
         {
           "artist": "Anri",
-          "plays": 77
+          "plays": 105
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 79
         },
         {
           "artist": "Milky",
           "plays": 77
         },
         {
-          "artist": "David Guetta",
-          "plays": 67
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 65
-        },
-        {
           "artist": "Calvin Harris",
-          "plays": 61
+          "plays": 77
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 60
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 56
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -769,6 +1823,22 @@
           "plays": 54
         },
         {
+          "artist": "Coldplay",
+          "plays": 53
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 53
+        },
+        {
+          "artist": "Benjamin Bellman",
+          "plays": 52
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 51
+        },
+        {
           "artist": "John Newman",
           "plays": 51
         },
@@ -777,164 +1847,146 @@
           "plays": 51
         },
         {
-          "artist": "ANOTR",
-          "plays": 49
+          "artist": "Supermode",
+          "plays": 48
         },
         {
           "artist": "MotorBass",
           "plays": 47
         },
         {
-          "artist": "Supermode",
-          "plays": 46
-        },
-        {
-          "artist": "Benjamin Bellman",
-          "plays": 40
-        },
-        {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40
-        },
-        {
-          "artist": "Maya",
-          "plays": 40
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 37
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 37
-        },
-        {
           "artist": "Jacques Brel",
-          "plays": 36
+          "plays": 44
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 36
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 44
         },
         {
-          "artist": "Drake",
-          "plays": 34
+          "artist": "Avicii",
+          "plays": 41
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1149
+          "plays": 1571
         },
         {
           "genre": "Pop",
-          "plays": 715
+          "plays": 1141
         },
         {
           "genre": "Electronic",
-          "plays": 584
+          "plays": 811
         },
         {
           "genre": "Variete Francaise",
-          "plays": 418
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 292
+          "plays": 535
         },
         {
           "genre": "Alternative",
-          "plays": 201
+          "plays": 381
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 352
         },
         {
           "genre": "Rock",
-          "plays": 198
+          "plays": 351
         },
         {
           "genre": "Comedy",
-          "plays": 187
+          "plays": 247
         },
         {
           "genre": "Soft Rock",
-          "plays": 151
+          "plays": 199
         },
         {
           "genre": "City Pop",
-          "plays": 145
+          "plays": 192
         },
         {
           "genre": "mashup",
-          "plays": 127
+          "plays": 169
         },
         {
           "genre": "Future Funk",
-          "plays": 63
-        },
-        {
-          "genre": "Oldies",
-          "plays": 62
+          "plays": 115
         },
         {
           "genre": "Disco",
-          "plays": 47
+          "plays": 85
         },
         {
-          "genre": "French Pop",
-          "plays": 43
+          "genre": "Oldies",
+          "plays": 84
         },
         {
           "genre": "House",
-          "plays": 34
+          "plays": 77
         },
         {
           "genre": "Soundtrack",
-          "plays": 33
+          "plays": 77
         },
         {
-          "genre": "Hip-Hop/Rap",
-          "plays": 32
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 30
+          "genre": "French Pop",
+          "plays": 55
         },
         {
           "genre": "Variété française",
-          "plays": 28
+          "plays": 48
+        },
+        {
+          "genre": "K-Pop",
+          "plays": 42
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 38
         },
         {
           "genre": "Funk",
-          "plays": 25
+          "plays": 37
         },
         {
-          "genre": "Musique francophone",
-          "plays": 25
-        },
-        {
-          "genre": "R & B",
-          "plays": 25
+          "genre": "Hip-Hop/Rap",
+          "plays": 36
         },
         {
           "genre": "Latin",
-          "plays": 25
+          "plays": 33
         },
         {
-          "genre": "Soul and R&B",
-          "plays": 25
+          "genre": "Country",
+          "plays": 33
+        },
+        {
+          "genre": "R & B",
+          "plays": 33
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 196,
+          "plays": 220,
           "genre": "Dance"
         },
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 111,
+          "plays": 110,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 59,
+          "genre": "Comedy"
         },
         {
           "song": "Miss You",
@@ -943,16 +1995,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 55,
-          "genre": "Comedy"
-        },
-        {
           "song": "Never Too Much",
           "artist": "Luther Vandross",
           "plays": 54,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 53,
+          "genre": "Dance"
         },
         {
           "song": "Blame",
@@ -973,9 +2025,9 @@
           "genre": "Dance"
         },
         {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 49,
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 48,
           "genre": "Dance"
         },
         {
@@ -985,10 +2037,16 @@
           "genre": "Electronic"
         },
         {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 46,
-          "genre": "Dance"
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 44,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 41,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Elevator",
@@ -1003,16 +2061,46 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 37,
-          "genre": "Hip Hop/Rap"
+          "song": "DRIVING MY LOVE",
+          "artist": "Anri",
+          "plays": 34,
+          "genre": "City Pop"
+        },
+        {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 34,
+          "genre": "K-Pop"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 34,
+          "genre": "Alternative"
         },
         {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 32,
+          "genre": "Soul and R&B"
+        },
+        {
+          "song": "Me And My Broken Heart",
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "plays": 32,
+          "genre": "Dance"
+        },
+        {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 29,
+          "genre": "Alternative"
         },
         {
           "song": "The Ballet Girl",
@@ -1027,70 +2115,32 @@
           "genre": "Dance"
         },
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
+          "song": "Memories",
+          "artist": "French 79",
           "plays": 27,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 27,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
-          "artist": "Anri & MACROSS 82-99",
-          "plays": 27,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 26,
           "genre": "Electronic"
-        },
-        {
-          "song": "Me And My Broken Heart",
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 26,
-          "genre": "Dance"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 25,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 25,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Merci les bleus",
-          "artist": "Vegedream",
-          "plays": 25,
-          "genre": "Pop"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 4979,
+      "total_plays": 7281,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
-          "plays": 202
-        },
-        {
-          "artist": "Kungs",
-          "plays": 197
+          "plays": 242
         },
         {
           "artist": "Daft Punk",
-          "plays": 178
+          "plays": 238
+        },
+        {
+          "artist": "Kungs",
+          "plays": 225
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 133
         },
         {
           "artist": "France Football Anthem",
@@ -1098,27 +2148,31 @@
         },
         {
           "artist": "442oons",
-          "plays": 106
+          "plays": 110
         },
         {
           "artist": "Anri",
-          "plays": 77
+          "plays": 105
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 79
         },
         {
           "artist": "Milky",
           "plays": 77
         },
         {
-          "artist": "David Guetta",
-          "plays": 67
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 65
-        },
-        {
           "artist": "Calvin Harris",
-          "plays": 61
+          "plays": 77
+        },
+        {
+          "artist": "Michael Jackson",
+          "plays": 60
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 56
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1129,6 +2183,22 @@
           "plays": 54
         },
         {
+          "artist": "Coldplay",
+          "plays": 53
+        },
+        {
+          "artist": "ANOTR",
+          "plays": 53
+        },
+        {
+          "artist": "Benjamin Bellman",
+          "plays": 52
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 51
+        },
+        {
           "artist": "John Newman",
           "plays": 51
         },
@@ -1137,157 +2207,133 @@
           "plays": 51
         },
         {
-          "artist": "ANOTR",
-          "plays": 49
+          "artist": "Supermode",
+          "plays": 50
         },
         {
           "artist": "MotorBass",
           "plays": 47
         },
         {
-          "artist": "Supermode",
-          "plays": 46
-        },
-        {
-          "artist": "Benjamin Bellman",
-          "plays": 40
-        },
-        {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40
-        },
-        {
-          "artist": "Maya",
-          "plays": 40
-        },
-        {
-          "artist": "Stevie Nicks",
-          "plays": 37
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 37
-        },
-        {
           "artist": "Jacques Brel",
-          "plays": 36
+          "plays": 44
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 36
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 44
         },
         {
-          "artist": "Drake",
-          "plays": 34
+          "artist": "Avicii",
+          "plays": 41
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1149
+          "plays": 1581
         },
         {
           "genre": "Pop",
-          "plays": 716
+          "plays": 1144
         },
         {
           "genre": "Electronic",
-          "plays": 584
+          "plays": 812
         },
         {
           "genre": "Variete Francaise",
-          "plays": 419
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 292
+          "plays": 539
         },
         {
           "genre": "Alternative",
-          "plays": 201
+          "plays": 381
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 356
         },
         {
           "genre": "Rock",
-          "plays": 198
+          "plays": 354
         },
         {
           "genre": "Comedy",
-          "plays": 187
+          "plays": 247
         },
         {
           "genre": "Soft Rock",
-          "plays": 151
+          "plays": 199
         },
         {
           "genre": "City Pop",
-          "plays": 145
+          "plays": 193
         },
         {
           "genre": "mashup",
-          "plays": 127
+          "plays": 171
         },
         {
           "genre": "Future Funk",
-          "plays": 63
-        },
-        {
-          "genre": "Oldies",
-          "plays": 62
+          "plays": 115
         },
         {
           "genre": "Disco",
-          "plays": 47
+          "plays": 87
         },
         {
-          "genre": "French Pop",
-          "plays": 43
+          "genre": "Oldies",
+          "plays": 86
         },
         {
           "genre": "House",
-          "plays": 34
+          "plays": 78
         },
         {
           "genre": "Soundtrack",
-          "plays": 33
+          "plays": 77
         },
         {
-          "genre": "Hip-Hop/Rap",
-          "plays": 32
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 30
+          "genre": "French Pop",
+          "plays": 55
         },
         {
           "genre": "Variété française",
-          "plays": 28
+          "plays": 48
+        },
+        {
+          "genre": "K-Pop",
+          "plays": 42
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 38
         },
         {
           "genre": "Funk",
-          "plays": 25
+          "plays": 37
         },
         {
-          "genre": "Musique francophone",
-          "plays": 25
+          "genre": "Hip-Hop/Rap",
+          "plays": 36
         },
         {
-          "genre": "R & B",
-          "plays": 25
+          "genre": "Country",
+          "plays": 35
         },
         {
           "genre": "Latin",
-          "plays": 25
+          "plays": 33
         },
         {
-          "genre": "Soul and R&B",
-          "plays": 25
+          "genre": "R & B",
+          "plays": 33
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 196,
+          "plays": 220,
           "genre": "Dance"
         },
         {
@@ -1297,16 +2343,16 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 59,
+          "genre": "Comedy"
+        },
+        {
           "song": "Miss You",
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 55,
           "genre": "Dance"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 55,
-          "genre": "Comedy"
         },
         {
           "song": "Never Too Much",
@@ -1315,9 +2361,21 @@
           "genre": "Soft Rock"
         },
         {
+          "song": "Talk To You [No Art]",
+          "artist": "ANOTR ft. 54 Ultra",
+          "plays": 53,
+          "genre": "Dance"
+        },
+        {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
           "plays": 51,
+          "genre": "Dance"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 50,
           "genre": "Dance"
         },
         {
@@ -1333,22 +2391,22 @@
           "genre": "Dance"
         },
         {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 49,
-          "genre": "Dance"
-        },
-        {
           "song": "Flying Fingers",
           "artist": "MotorBass",
           "plays": 47,
           "genre": "Electronic"
         },
         {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 46,
-          "genre": "Dance"
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 44,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "GUT GENUG",
+          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+          "plays": 41,
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Elevator",
@@ -1363,16 +2421,46 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "GUT GENUG",
-          "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
-          "plays": 37,
-          "genre": "Hip Hop/Rap"
+          "song": "DRIVING MY LOVE",
+          "artist": "Anri",
+          "plays": 34,
+          "genre": "City Pop"
+        },
+        {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 34,
+          "genre": "K-Pop"
+        },
+        {
+          "song": "Me And My Broken Heart",
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "plays": 34,
+          "genre": "Dance"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 34,
+          "genre": "Alternative"
         },
         {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Billy Jean",
+          "artist": "Michael Jackson",
+          "plays": 32,
+          "genre": "Soul and R&B"
+        },
+        {
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 29,
+          "genre": "Alternative"
         },
         {
           "song": "The Ballet Girl",
@@ -1387,52 +2475,10 @@
           "genre": "Dance"
         },
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
+          "song": "Memories",
+          "artist": "French 79",
           "plays": 27,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ｔｈｅ Ｇｒａｎｄ Ｍａｃ -  ED.",
-          "artist": "Nihonzera",
-          "plays": 27,
-          "genre": "Vaporwave"
-        },
-        {
-          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
-          "artist": "Anri & MACROSS 82-99",
-          "plays": 27,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 26,
           "genre": "Electronic"
-        },
-        {
-          "song": "Me And My Broken Heart",
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 26,
-          "genre": "Dance"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 25,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 25,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Merci les bleus",
-          "artist": "Vegedream",
-          "plays": 25,
-          "genre": "Pop"
         }
       ]
     }
@@ -1447,6 +2493,11 @@
       "date": "2026-07-25",
       "id": "0021aef29419d095",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0021aef29419d095",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -1479,6 +2530,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "019b7a6123cca838",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "01ab4d99b07872b8",
       "plays": 1
@@ -1502,6 +2558,11 @@
       "date": "2026-08-07",
       "id": "023d9dae996b6f13",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "024ef50b4c50e33a",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -1539,6 +2600,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "04292f72f8504a74",
+      "plays": 4
+    },
+    {
       "date": "2026-07-20",
       "id": "0447eb8f2bcef605",
       "plays": 1
@@ -1554,6 +2620,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "04c112453dfe668f",
+      "plays": 4
+    },
+    {
       "date": "2026-04-23",
       "id": "04cab1736714dbd5",
       "plays": 1
@@ -1562,6 +2633,11 @@
       "date": "2026-05-26",
       "id": "051832c074412650",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "052c4d224df306b1",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -1589,6 +2665,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "059894de66c892ae",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "05a5b416c33ef0f1",
+      "plays": 4
+    },
+    {
       "date": "2026-07-10",
       "id": "05e97f4bd527d2db",
       "plays": 2
@@ -1604,6 +2690,11 @@
       "plays": 4
     },
     {
+      "date": "2026-10-17",
+      "id": "05fa32759f8dccf8",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "06048179b9d5ea26",
       "plays": 1
@@ -1612,6 +2703,11 @@
       "date": "2026-06-07",
       "id": "06048179b9d5ea26",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0614680da47b5ef3",
+      "plays": 8
     },
     {
       "date": "2026-08-16",
@@ -1632,6 +2728,11 @@
       "date": "2026-07-25",
       "id": "073ac87f051e0d02",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "073ac87f051e0d02",
+      "plays": 8
     },
     {
       "date": "2026-06-11",
@@ -1677,6 +2778,11 @@
       "date": "2026-08-29",
       "id": "07ec7cc8ba78d3f7",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "07ec7cc8ba78d3f7",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -1734,6 +2840,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "086b162288f3e812",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "087dbc24343da9b8",
       "plays": 1
@@ -1769,6 +2880,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "09df19913bc3f1d3",
+      "plays": 4
+    },
+    {
       "date": "2026-05-25",
       "id": "09e739a638d014e5",
       "plays": 1
@@ -1777,6 +2893,11 @@
       "date": "2026-07-10",
       "id": "09e739a638d014e5",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0a3abe198be4a34a",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -1799,14 +2920,34 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0b2a7cfd4d9d311a",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0b362c421fa8fae9",
+      "plays": 4
+    },
+    {
       "date": "2026-06-28",
       "id": "0b4a20a647ee73a1",
       "plays": 24
     },
     {
+      "date": "2026-10-17",
+      "id": "0b906eebced7c0ac",
+      "plays": 4
+    },
+    {
       "date": "2026-06-03",
       "id": "0b984333d8164252",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0ba7a087cca70565",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -1824,6 +2965,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0c158eccef8c9843",
+      "plays": 4
+    },
+    {
       "date": "2026-08-31",
       "id": "0c1e4ff7509255ab",
       "plays": 3
@@ -1832,6 +2978,11 @@
       "date": "2026-08-21",
       "id": "0c73156b166fafe1",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0c73156b166fafe1",
+      "plays": 4
     },
     {
       "date": "2026-06-27",
@@ -1849,9 +3000,24 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0c9ff38fd2d582d9",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0ca71aaeb4d5be32",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "0d136f172542fc08",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0d316e20734e28b3",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -1869,6 +3035,16 @@
       "plays": 24
     },
     {
+      "date": "2026-10-17",
+      "id": "0e043feddf7b19d7",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0e0d7670641e6a61",
+      "plays": 8
+    },
+    {
       "date": "2026-05-16",
       "id": "0e3f3649e5de80c6",
       "plays": 1
@@ -1884,9 +3060,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0e641ac78a0c807c",
+      "plays": 4
+    },
+    {
       "date": "2026-08-30",
       "id": "0ee90d2ddda127c0",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0eef263439c2c42c",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -1914,6 +3100,21 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0f324ce606045635",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0f32af444663d6c1",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0f46bea1bc8d9cfb",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "0f5280b25cc04616",
       "plays": 1
@@ -1929,6 +3130,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0f7178ead7d42650",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "0f7a76b8319bc4ed",
       "plays": 1
@@ -1939,6 +3145,21 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "0f7b4fdb92e4e9ba",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0faddaf2d9b14e34",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "0fae6e9b0b874dca",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "0fbd0fb74bd76746",
       "plays": 1
@@ -1947,6 +3168,11 @@
       "date": "2026-06-02",
       "id": "10001cfd03c8c368",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "10513dfcc63a5df8",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -1994,6 +3220,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "11f5419c4cc76e0c",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "11fc04c6b1026a5c",
+      "plays": 4
+    },
+    {
       "date": "2026-04-23",
       "id": "1207831cfe82cd92",
       "plays": 1
@@ -2034,6 +3270,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "125fd55b49f40a54",
+      "plays": 4
+    },
+    {
       "date": "2026-08-21",
       "id": "1266f506fe9195a9",
       "plays": 1
@@ -2064,9 +3305,19 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "128ce09da0c2930e",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "12a24f07699bf8da",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "12a24f07699bf8da",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -2079,6 +3330,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "130e167e04c0a7f3",
+      "plays": 8
+    },
+    {
       "date": "2026-06-02",
       "id": "1316bb8c7ff8edae",
       "plays": 1
@@ -2087,6 +3343,11 @@
       "date": "2026-06-29",
       "id": "1328a6dcf554aec8",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1328a6dcf554aec8",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -2124,9 +3385,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "13e8cf251a8c4ad2",
+      "plays": 24
+    },
+    {
       "date": "2026-06-11",
       "id": "141f44487ac7ef07",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "142c4d23d9a7d6c8",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -2179,6 +3450,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "1509fbc1b371e9bd",
+      "plays": 4
+    },
+    {
       "date": "2026-04-20",
       "id": "1567fd672a4e0d1e",
       "plays": 2
@@ -2189,9 +3465,24 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "1567fd672a4e0d1e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "158dba7a6b0e0b9d",
+      "plays": 4
+    },
+    {
       "date": "2026-07-20",
       "id": "1598aeade9c7473c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "15a7f3cd70196974",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -2202,6 +3493,11 @@
       "date": "2026-09-05",
       "id": "15dc343ffdd18200",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "15dc343ffdd18200",
+      "plays": 4
     },
     {
       "date": "2026-08-12",
@@ -2234,6 +3530,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "162e1839baf6ebb0",
+      "plays": 8
+    },
+    {
       "date": "2026-06-08",
       "id": "163c3197ab2cab7e",
       "plays": 20
@@ -2259,6 +3560,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "171b4961f76285f0",
+      "plays": 8
+    },
+    {
       "date": "2026-07-20",
       "id": "177cbe4332d7766f",
       "plays": 8
@@ -2267,6 +3573,11 @@
       "date": "2026-07-20",
       "id": "17872499a2243f57",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "18b7dec39b41eae9",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -2299,9 +3610,19 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "19625dabf80b3938",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "1a0da6aa03c373ab",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1a0da6aa03c373ab",
+      "plays": 4
     },
     {
       "date": "2026-05-25",
@@ -2319,6 +3640,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "1a22342ffd24cf8d",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "1a4f1fb58d95aee7",
       "plays": 1
@@ -2329,9 +3655,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "1a610915291126bd",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "1ab9d8050191a326",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1ac7e4991c34df15",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -2374,9 +3710,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "1baedb9f99ba692f",
+      "plays": 4
+    },
+    {
       "date": "2026-08-22",
       "id": "1be357c034291151",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1bee019ef5e80896",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -2387,6 +3733,11 @@
       "date": "2026-09-05",
       "id": "1c525f0d7d22baf4",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1cbaaead6c86d415",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -2429,6 +3780,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "1e18ab1a07bfab3f",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "1e39167cb9f5b5a0",
       "plays": 13
@@ -2447,6 +3803,11 @@
       "date": "2026-06-27",
       "id": "1e4a4a17b6130f0a",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1e6b532700b18f8d",
+      "plays": 4
     },
     {
       "date": "2026-04-23",
@@ -2499,6 +3860,26 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "1f41e648bbe4a2f2",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1f4c23d46ff53da4",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1f529859434f7766",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "1f8d5af386754bf7",
+      "plays": 4
+    },
+    {
       "date": "2026-06-16",
       "id": "1fe00a419773d760",
       "plays": 1
@@ -2529,9 +3910,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "20ea58c23fdcd7f1",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "20ff8db508423cf0",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "214adc7ec6a84436",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -2599,6 +3990,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "2476adafbe2a2ebe",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "2491584b6d55fbb8",
       "plays": 1
@@ -2609,6 +4005,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "24caa94fcd9bfe76",
+      "plays": 4
+    },
+    {
       "date": "2026-08-31",
       "id": "24d4eba899326c9e",
       "plays": 3
@@ -2617,6 +4018,11 @@
       "date": "2026-07-20",
       "id": "25175f45b2f7177c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "25175f45b2f7177c",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -2644,6 +4050,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "2593cf86ae53b025",
+      "plays": 4
+    },
+    {
       "date": "2026-07-20",
       "id": "25d756e537e81e55",
       "plays": 1
@@ -2659,9 +4070,24 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "26133d0de4057421",
+      "plays": 4
+    },
+    {
       "date": "2026-05-26",
       "id": "26bb54469fe091a6",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "276a7b5a2691834e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "278f2c398fa4e85a",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -2689,13 +4115,38 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "288bba76f0d840af",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "28a342bcacb5d0a0",
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "28a342bcacb5d0a0",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "290940730fa310e9",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "290a2667a764e4e6",
+      "plays": 4
+    },
+    {
       "date": "2026-08-10",
       "id": "29245881c587b031",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2951744cc3fb82af",
       "plays": 4
     },
     {
@@ -2754,14 +4205,39 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "2b4e9eb13a6c6844",
+      "plays": 4
+    },
+    {
       "date": "2026-08-21",
       "id": "2b52887463e47f25",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "2b7fefa22267a161",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2ba8cd8876c1d862",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2bc9d9fb13c8a6c2",
+      "plays": 4
+    },
+    {
       "date": "2026-08-30",
       "id": "2bca4fedbe44b2b9",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2bca4fedbe44b2b9",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -2794,6 +4270,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "2ce20d75d07911f8",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "2d2047c29074a015",
       "plays": 2
@@ -2804,14 +4285,34 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "2d2047c29074a015",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2d23583035c13431",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "2d7f4033df893f91",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "2dab8f5ef1a67af3",
+      "plays": 4
+    },
+    {
       "date": "2026-09-05",
       "id": "2dd8a7115962a88f",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2dff60c174e2481f",
+      "plays": 4
     },
     {
       "date": "2026-06-04",
@@ -2844,6 +4345,16 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "2e641841c3cde5b8",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2e90f7c218fa199b",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "2ee3f9d38e275edd",
       "plays": 1
@@ -2869,6 +4380,16 @@
       "plays": 6
     },
     {
+      "date": "2026-10-17",
+      "id": "2f5fb4a9da75afd1",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2f7c5dafe81e3358",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "2f873ba4ddd362dc",
       "plays": 1
@@ -2884,9 +4405,29 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "2f8d11640714567a",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2f8e2900792d5897",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2f9fd0432ab33325",
+      "plays": 4
+    },
+    {
       "date": "2026-04-29",
       "id": "2fab9b6c663cf6e7",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "2fab9b6c663cf6e7",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -2904,6 +4445,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "3078b471e332595d",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "309b672879b8ff42",
       "plays": 1
@@ -2917,6 +4463,11 @@
       "date": "2026-06-27",
       "id": "31329742ccd6c138",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3143e94dbf1a266a",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -2949,6 +4500,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "32ded68d7980bd64",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "3345f7236315cc30",
       "plays": 1
@@ -2964,6 +4520,11 @@
       "plays": 10
     },
     {
+      "date": "2026-10-17",
+      "id": "337bc9464ee40bca",
+      "plays": 24
+    },
+    {
       "date": "2026-04-20",
       "id": "337e9b4ff1341177",
       "plays": 1
@@ -2972,6 +4533,11 @@
       "date": "2026-05-07",
       "id": "337e9b4ff1341177",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "337e9b4ff1341177",
+      "plays": 8
     },
     {
       "date": "2026-08-24",
@@ -3024,6 +4590,21 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "34fde67a64dee262",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3523c3328e83d0c7",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "352b095cd70b3a47",
+      "plays": 4
+    },
+    {
       "date": "2026-04-23",
       "id": "353d2ad59aab52fb",
       "plays": 4
@@ -3074,6 +4655,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "3756b8dd1bfe05ac",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "379f66b850967a5f",
       "plays": 1
@@ -3087,6 +4673,11 @@
       "date": "2026-08-29",
       "id": "37bf18c6050cfc6b",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "37ee8d612cfd5811",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -3124,14 +4715,39 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "3a1e95ea8d54af54",
+      "plays": 8
+    },
+    {
       "date": "2026-06-02",
       "id": "3a2ee1638d34f016",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "3a2ee1638d34f016",
+      "plays": 4
+    },
+    {
       "date": "2026-06-19",
       "id": "3a82b4f0da0994c1",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3a82b4f0da0994c1",
+      "plays": 12
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3a90726be7a47e43",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3acc5aa51e8b1d5e",
+      "plays": 4
     },
     {
       "date": "2026-05-18",
@@ -3147,6 +4763,11 @@
       "date": "2026-08-29",
       "id": "3aea4d787cfbc03a",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3aea4d787cfbc03a",
+      "plays": 4
     },
     {
       "date": "2026-08-10",
@@ -3189,6 +4810,11 @@
       "plays": 14
     },
     {
+      "date": "2026-10-17",
+      "id": "3b6d00d707753cd1",
+      "plays": 4
+    },
+    {
       "date": "2026-06-07",
       "id": "3b80e4197f63c391",
       "plays": 2
@@ -3197,6 +4823,26 @@
       "date": "2026-06-29",
       "id": "3b80e4197f63c391",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3b920084b2622c36",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3bcfd3a52b3d1ad3",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3bf6d1f31cb5a77e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3c8632d9345c77c7",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -3234,6 +4880,11 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "3decbbbe517cab5d",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "3e1a85a24165e2f9",
       "plays": 2
@@ -3247,6 +4898,11 @@
       "date": "2026-07-20",
       "id": "3ee24807781cd4fe",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "3eeb8f571ff21294",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -3289,9 +4945,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "3fd2d2f6cb324a85",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "3fe7afe1c8d40a8e",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4097e75a33c77fa7",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -3309,6 +4975,11 @@
       "plays": 6
     },
     {
+      "date": "2026-10-17",
+      "id": "414ecad8875dd66c",
+      "plays": 4
+    },
+    {
       "date": "2026-08-10",
       "id": "415f0c8669f14312",
       "plays": 4
@@ -3317,6 +4988,11 @@
       "date": "2026-05-16",
       "id": "4178ea1835d510dd",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "419c751fcca7745c",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -3334,14 +5010,44 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "41bf52fa9242c8ff",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "41c0af399f1068f6",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "41c8a0dfc2355b02",
+      "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "42712814ee9ab92c",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "428a58d506c42f9b",
       "plays": 16
+    },
+    {
+      "date": "2026-10-17",
+      "id": "428a58d506c42f9b",
+      "plays": 18
+    },
+    {
+      "date": "2026-10-17",
+      "id": "42de91b8c90900d3",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "42f577029aa0b84b",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -3352,6 +5058,11 @@
       "date": "2026-07-20",
       "id": "434ae49ea868dfeb",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "434ae49ea868dfeb",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -3374,9 +5085,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "443043b133f48fc3",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "4453c77bc90dc7de",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4453c77bc90dc7de",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -3389,9 +5110,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "44bc172e3c560183",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "4556a6806b3ec6c4",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4561473f9dd65026",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -3439,6 +5170,11 @@
       "plays": 24
     },
     {
+      "date": "2026-10-17",
+      "id": "47684842ea8f2010",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "47a81b5619bcac62",
       "plays": 1
@@ -3457,6 +5193,11 @@
       "date": "2026-08-30",
       "id": "481f191709a597bf",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4835a337d66aed71",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -3519,6 +5260,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "498f01ecedba3059",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "4990a189b5363454",
       "plays": 1
@@ -3532,6 +5278,11 @@
       "date": "2026-06-03",
       "id": "49929a3ac080b958",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "49a056a8d2d999cd",
+      "plays": 4
     },
     {
       "date": "2026-07-03",
@@ -3599,6 +5350,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "49a8e200a97614c3",
+      "plays": 24
+    },
+    {
       "date": "2026-08-30",
       "id": "49d093bb96728e28",
       "plays": 17
@@ -3649,6 +5405,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "4a39cf1ec785c6e4",
+      "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4a7fa9ec97f1d6c6",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "4a85cce2881269a0",
       "plays": 1
@@ -3672,6 +5438,11 @@
       "date": "2026-08-07",
       "id": "4aed676cd7a57e60",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4aed676cd7a57e60",
+      "plays": 4
     },
     {
       "date": "2026-05-28",
@@ -3699,9 +5470,24 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "4bde291cb15a30a0",
+      "plays": 4
+    },
+    {
       "date": "2026-08-23",
       "id": "4c5a86321932abfb",
       "plays": 6
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4c5cee66fcf4d269",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4c6df7d03e01e1d7",
+      "plays": 4
     },
     {
       "date": "2026-06-28",
@@ -3729,6 +5515,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "4d366de1529dbffa",
+      "plays": 8
+    },
+    {
       "date": "2026-08-07",
       "id": "4d5e0917dbf631e9",
       "plays": 1
@@ -3744,6 +5535,11 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "4ddfbcff09cf07fe",
+      "plays": 4
+    },
+    {
       "date": "2026-06-29",
       "id": "4de9fb64cc210ce2",
       "plays": 1
@@ -3752,6 +5548,11 @@
       "date": "2026-05-29",
       "id": "4e3d853591ec9597",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4e3d853591ec9597",
+      "plays": 4
     },
     {
       "date": "2026-05-25",
@@ -3769,9 +5570,29 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "4e8948e2aa55e2e3",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4f2fe4650c8d573d",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4f3152c3169d8ff3",
+      "plays": 8
+    },
+    {
       "date": "2026-07-25",
       "id": "4f453a1d497e2dd2",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "4f453a1d497e2dd2",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -3799,9 +5620,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "4fe2686c00e737b8",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "500909adc93ec556",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "500909adc93ec556",
+      "plays": 4
     },
     {
       "date": "2026-05-02",
@@ -3837,6 +5668,16 @@
       "date": "2026-05-16",
       "id": "505948207245436e",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "505948207245436e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5083c6e278603345",
+      "plays": 4
     },
     {
       "date": "2026-06-07",
@@ -3934,8 +5775,18 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "53abbe627a21c629",
+      "plays": 4
+    },
+    {
       "date": "2026-07-11",
       "id": "53ee8e0decb065f2",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5433aee463df2202",
       "plays": 4
     },
     {
@@ -4004,6 +5855,11 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "558d90d5d56f0671",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "55af9b8ce135a04c",
       "plays": 1
@@ -4039,9 +5895,24 @@
       "plays": 4
     },
     {
+      "date": "2026-10-17",
+      "id": "5695e8a3e3df0360",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "56ac5cfa645af377",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "56b683764201eaad",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "56d04f8e054c8e4d",
+      "plays": 4
     },
     {
       "date": "2026-05-21",
@@ -4049,9 +5920,34 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "573c38df8e2d1ec6",
+      "plays": 24
+    },
+    {
+      "date": "2026-10-17",
+      "id": "575e08a7bdfe9bbd",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "576409748a3e32c9",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "576aa21be413f301",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5796fd353f78df15",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5808fabe191932ad",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -4124,6 +6020,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "59bd30949a3cbce6",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "59c0ddb6b1504166",
       "plays": 1
@@ -4142,6 +6043,11 @@
       "date": "2026-08-21",
       "id": "5a1163a76bb806bc",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5a1163a76bb806bc",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -4164,9 +6070,24 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "5a8893e8efa7a024",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5ad9395b373ca250",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "5aec74dcc306eb0c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5b46ba8ae3c03314",
+      "plays": 4
     },
     {
       "date": "2026-05-21",
@@ -4177,6 +6098,11 @@
       "date": "2026-08-12",
       "id": "5b9bde39180b25c2",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5b9bde39180b25c2",
+      "plays": 4
     },
     {
       "date": "2026-05-21",
@@ -4207,6 +6133,16 @@
       "date": "2026-08-21",
       "id": "5cf2581d4053388a",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5cffa486837957f0",
+      "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5d5780ad9f010d0f",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -4244,6 +6180,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "5dea4f28d6ddc5ce",
+      "plays": 4
+    },
+    {
       "date": "2026-08-21",
       "id": "5def1d25cbaa72df",
       "plays": 1
@@ -4274,6 +6215,16 @@
       "plays": 24
     },
     {
+      "date": "2026-10-17",
+      "id": "5edc1471c1ef5c20",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "5f3b5696b759f2bc",
+      "plays": 4
+    },
+    {
       "date": "2026-04-30",
       "id": "5f68cdbf3f1da1bd",
       "plays": 6
@@ -4294,9 +6245,24 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "601a1ec35533d005",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "60538329b1e36739",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "605ef4db68b1e7df",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6096f8a4d87f65a3",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -4344,6 +6310,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "631623a07f6b0d61",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "63507f8c4486dfcd",
       "plays": 1
@@ -4354,9 +6325,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "6378c5865e918cc0",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "63825a5486676b31",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "63825a5486676b31",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -4399,9 +6380,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "657a2515bbf45223",
+      "plays": 4
+    },
+    {
       "date": "2026-05-10",
       "id": "65d1283fbf587d98",
       "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "663abbbad744258a",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -4429,6 +6420,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "676bdd4050706642",
+      "plays": 4
+    },
+    {
       "date": "2026-05-23",
       "id": "676f5751a4dd092c",
       "plays": 1
@@ -4437,6 +6433,11 @@
       "date": "2026-08-07",
       "id": "676f5751a4dd092c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "67708d018c71f09c",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -4499,6 +6500,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "69a27d0e2c8778fd",
+      "plays": 4
+    },
+    {
       "date": "2026-08-23",
       "id": "69cf95216351214a",
       "plays": 6
@@ -4519,6 +6525,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "6a4ac421e988a0be",
+      "plays": 4
+    },
+    {
       "date": "2026-06-03",
       "id": "6aa0cfe61908afa8",
       "plays": 1
@@ -4537,6 +6548,11 @@
       "date": "2026-05-06",
       "id": "6b11d19cc05a3eae",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6b11d19cc05a3eae",
+      "plays": 4
     },
     {
       "date": "2026-08-21",
@@ -4574,6 +6590,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "6b628346321959c0",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "6b6edcde0e8ffe34",
       "plays": 1
@@ -4589,8 +6610,18 @@
       "plays": 6
     },
     {
+      "date": "2026-10-17",
+      "id": "6ba87d1b5737f2cb",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "6bcadc0a10989943",
+      "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6bce86abd894a7ea",
       "plays": 8
     },
     {
@@ -4632,6 +6663,21 @@
       "date": "2026-08-07",
       "id": "6d5814dfbf65f5d7",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6db44b7c7a1e7b47",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6dfedc87b7683a9d",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6e6e51c873aeebc5",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -4692,6 +6738,16 @@
       "date": "2026-08-31",
       "id": "6f12e4f8f7cb5d9f",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6f194c083bf0c61e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "6f220cd635794bab",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -4774,6 +6830,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "71e3e9ec7fe1654a",
+      "plays": 4
+    },
+    {
       "date": "2026-08-21",
       "id": "71eb1dfbbe3934f7",
       "plays": 1
@@ -4784,9 +6845,24 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "72b115c4b16b018d",
+      "plays": 4
+    },
+    {
       "date": "2026-04-26",
       "id": "72c8c31469a4784d",
       "plays": 10
+    },
+    {
+      "date": "2026-10-17",
+      "id": "72c8c31469a4784d",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "72fe93ba013795e8",
+      "plays": 4
     },
     {
       "date": "2026-06-27",
@@ -4849,6 +6925,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "74108297f0e7cfb6",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "74697dc225007471",
       "plays": 1
@@ -4884,6 +6965,11 @@
       "plays": 24
     },
     {
+      "date": "2026-10-17",
+      "id": "758a0737da2b51f1",
+      "plays": 4
+    },
+    {
       "date": "2026-06-07",
       "id": "75ac71ab312dcc7c",
       "plays": 2
@@ -4897,6 +6983,16 @@
       "date": "2026-08-10",
       "id": "76177a2b2ae72993",
       "plays": 12
+    },
+    {
+      "date": "2026-10-17",
+      "id": "76177a2b2ae72993",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "7628426b19719613",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -4931,6 +7027,11 @@
     {
       "date": "2026-07-15",
       "id": "76785b7599bc2492",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "76b83bae0674a71c",
       "plays": 4
     },
     {
@@ -4974,6 +7075,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "78c5de7cabdaf9ca",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "78ebd253e62bee12",
       "plays": 1
@@ -4994,6 +7100,21 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "79b74cf115e92518",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "79bfe07dd7083433",
+      "plays": 12
+    },
+    {
+      "date": "2026-10-17",
+      "id": "79c5b5fecfe30fbc",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "79fa46d715f532b3",
       "plays": 2
@@ -5002,6 +7123,16 @@
       "date": "2026-09-05",
       "id": "7a5d8936fc36c8a5",
       "plays": 10
+    },
+    {
+      "date": "2026-10-17",
+      "id": "7a6b9c2395f11e6d",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "7abda5c5eeebe2db",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -5079,6 +7210,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "7d2b4bf802bbdf61",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "7db5db7b63931234",
       "plays": 1
@@ -5094,6 +7230,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "7dda5ab9e2ca91ca",
+      "plays": 4
+    },
+    {
       "date": "2026-04-23",
       "id": "7deb174c9cdb9a3b",
       "plays": 4
@@ -5102,6 +7243,11 @@
       "date": "2026-07-15",
       "id": "7e6e5de50918cefc",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "7e8fd31372e1540a",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -5119,6 +7265,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "7eacde864fc4d173",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "7eb21b59ea98492c",
       "plays": 1
@@ -5127,6 +7278,11 @@
       "date": "2026-06-06",
       "id": "7eb21b59ea98492c",
       "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "7eb21b59ea98492c",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -5174,6 +7330,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "7f92f286880e2d82",
+      "plays": 24
+    },
+    {
       "date": "2026-06-29",
       "id": "7f991a9664b83191",
       "plays": 2
@@ -5182,6 +7343,11 @@
       "date": "2026-07-20",
       "id": "7f9e008f8ccd2b5c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "7f9e008f8ccd2b5c",
+      "plays": 8
     },
     {
       "date": "2026-06-16",
@@ -5194,9 +7360,19 @@
       "plays": 24
     },
     {
+      "date": "2026-10-17",
+      "id": "7fcf780b451f5546",
+      "plays": 8
+    },
+    {
       "date": "2026-07-25",
       "id": "800c8d2fb478a41c",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "800c8d2fb478a41c",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -5209,9 +7385,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "805929a10cfafda2",
+      "plays": 4
+    },
+    {
       "date": "2026-05-06",
       "id": "807a0046c81798ec",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "807a0046c81798ec",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -5227,6 +7413,11 @@
       "date": "2026-06-27",
       "id": "80af98f507487e81",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "811fdd5694582581",
+      "plays": 4
     },
     {
       "date": "2026-08-23",
@@ -5257,6 +7448,11 @@
       "date": "2026-08-29",
       "id": "823e13c00fff2c9b",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "827c9a5daa905e86",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -5314,6 +7510,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "83a81a5ac5c4a952",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "83ac63fa1c007682",
       "plays": 1
@@ -5322,6 +7523,11 @@
       "date": "2026-08-07",
       "id": "83ac63fa1c007682",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "83d827abaff47d42",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -5339,6 +7545,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "84b02e4d1d52f90c",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "84f4680652b45c20",
       "plays": 1
@@ -5347,6 +7558,11 @@
       "date": "2026-08-23",
       "id": "84f4680652b45c20",
       "plays": 6
+    },
+    {
+      "date": "2026-10-17",
+      "id": "85006b8aa79203a9",
+      "plays": 4
     },
     {
       "date": "2026-06-15",
@@ -5364,9 +7580,19 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "8544c04cfeb8009b",
+      "plays": 4
+    },
+    {
       "date": "2026-05-25",
       "id": "8572cbc71f8dc761",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8572cbc71f8dc761",
+      "plays": 4
     },
     {
       "date": "2026-06-28",
@@ -5389,6 +7615,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "860e0007b0235ff5",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "861b2fbab25f8ca5",
+      "plays": 4
+    },
+    {
       "date": "2026-04-24",
       "id": "861cc3b82ae76c95",
       "plays": 1
@@ -5404,6 +7640,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "86513ce0c9b7a70b",
+      "plays": 4
+    },
+    {
       "date": "2026-08-21",
       "id": "86a99b4ba416d813",
       "plays": 1
@@ -5417,6 +7658,11 @@
       "date": "2026-06-02",
       "id": "86c962630614097f",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "86c962630614097f",
+      "plays": 4
     },
     {
       "date": "2026-05-02",
@@ -5444,6 +7690,11 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "86f1f909708c1b97",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "87249aea6cc08276",
       "plays": 2
@@ -5459,9 +7710,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "87249aea6cc08276",
+      "plays": 12
+    },
+    {
       "date": "2026-06-02",
       "id": "8755b28e989ef2ec",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "875ea818ac3710fb",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -5504,6 +7765,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "88bfb05f7bd6c9e9",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "88c7737ef72b957b",
       "plays": 1
@@ -5512,6 +7778,11 @@
       "date": "2026-09-05",
       "id": "88c7737ef72b957b",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "88c7737ef72b957b",
+      "plays": 4
     },
     {
       "date": "2026-07-15",
@@ -5569,9 +7840,24 @@
       "plays": 20
     },
     {
+      "date": "2026-10-17",
+      "id": "8a2347a25496e350",
+      "plays": 24
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8a563159ffaf985f",
+      "plays": 8
+    },
+    {
       "date": "2026-05-29",
       "id": "8a5875162fb22825",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8b3d4f7c9801cb11",
+      "plays": 4
     },
     {
       "date": "2026-05-23",
@@ -5614,6 +7900,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "8ca08b896e5e22c4",
+      "plays": 4
+    },
+    {
       "date": "2026-08-30",
       "id": "8cb90c6131b6b3b6",
       "plays": 17
@@ -5622,6 +7913,16 @@
       "date": "2026-05-29",
       "id": "8cf4ce8465b18221",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8cf4ce8465b18221",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8d07f2bd422b39c7",
+      "plays": 4
     },
     {
       "date": "2026-05-28",
@@ -5644,9 +7945,29 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "8d6233cc03a92998",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8db811af9cee5728",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "8dd54911c646b570",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8dd54911c646b570",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8e5b1d0260cc1a85",
+      "plays": 8
     },
     {
       "date": "2026-05-29",
@@ -5674,9 +7995,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "8f50f025e11d2cf4",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "8f6f36969a013747",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "8f74753b0942e507",
+      "plays": 4
     },
     {
       "date": "2026-05-25",
@@ -5692,6 +8023,16 @@
       "date": "2026-07-20",
       "id": "900a7e0198ee7284",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "90704d3feff19be5",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "90c9828e11e0e86c",
+      "plays": 4
     },
     {
       "date": "2026-08-31",
@@ -5719,6 +8060,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "9205fa69576f7b34",
+      "plays": 8
+    },
+    {
       "date": "2026-06-13",
       "id": "9216c3e0620d7105",
       "plays": 1
@@ -5732,6 +8078,16 @@
       "date": "2026-08-12",
       "id": "92319c2714e4a2bc",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9262a8918d807a06",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9267d7b8c3036b88",
+      "plays": 8
     },
     {
       "date": "2026-05-16",
@@ -5752,6 +8108,16 @@
       "date": "2026-06-15",
       "id": "9298a9e2929b94c4",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9298a9e2929b94c4",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "92b85d5c53ec2816",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -5784,6 +8150,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "93cedaa504b8fc3e",
+      "plays": 4
+    },
+    {
       "date": "2026-05-25",
       "id": "93e607346d3a365b",
       "plays": 2
@@ -5802,6 +8173,11 @@
       "date": "2026-06-27",
       "id": "9446043a92d2c454",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "945bbd5ff092aa7f",
+      "plays": 4
     },
     {
       "date": "2026-07-03",
@@ -5861,6 +8237,11 @@
     {
       "date": "2026-08-10",
       "id": "9601a983f5bb2f2d",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "96763a684803c044",
       "plays": 4
     },
     {
@@ -5929,6 +8310,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "97e69fea50b96915",
+      "plays": 16
+    },
+    {
       "date": "2026-08-16",
       "id": "983a9add3d2ca1c0",
       "plays": 2
@@ -5944,9 +8330,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "988b090f32c8f8e2",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "98d237401e3ae0ad",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "98f4ae8bdbaeae64",
+      "plays": 4
     },
     {
       "date": "2026-09-05",
@@ -5969,9 +8365,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "9a244f968a0c57de",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "9a49836af6222944",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9a49836af6222944",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -5982,6 +8388,11 @@
       "date": "2026-08-30",
       "id": "9ac2b76313c817fc",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9ae0473197e35081",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -6009,6 +8420,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "9bd506a4dc83d667",
+      "plays": 4
+    },
+    {
       "date": "2026-06-27",
       "id": "9c357a5224e25363",
       "plays": 2
@@ -6034,6 +8450,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "9c9c3abb3e504c8e",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "9d44d0dbde0c5a84",
       "plays": 1
@@ -6044,9 +8465,19 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "9d44d0dbde0c5a84",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "9d5c2fae6ef03199",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9d5c2fae6ef03199",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -6069,6 +8500,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "9df4f32ab81bf25e",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "9e082f54d9a724b1",
       "plays": 1
@@ -6082,6 +8518,11 @@
       "date": "2026-08-17",
       "id": "9e19ca7d049b651f",
       "plays": 5
+    },
+    {
+      "date": "2026-10-17",
+      "id": "9e3971691bf0db96",
+      "plays": 4
     },
     {
       "date": "2026-08-24",
@@ -6149,6 +8590,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "a00f6cf15e1cfca3",
+      "plays": 4
+    },
+    {
       "date": "2026-09-05",
       "id": "a0307efed2936f32",
       "plays": 2
@@ -6169,14 +8615,29 @@
       "plays": 4
     },
     {
+      "date": "2026-10-17",
+      "id": "a05e82b6f0d5baa6",
+      "plays": 4
+    },
+    {
       "date": "2026-06-28",
       "id": "a06b487dadfb8697",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "a06b487dadfb8697",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "a0ec76403761b6b9",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a0ec9b809de15a76",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -6199,6 +8660,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "a18d46d90582fb59",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "a1e16ca903365dbb",
       "plays": 1
@@ -6212,6 +8678,11 @@
       "date": "2026-05-29",
       "id": "a1e2f2a4ba8fa180",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a1e2f2a4ba8fa180",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -6229,14 +8700,39 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "a26d2793d8bb5338",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a26dfb7d90da1b17",
+      "plays": 4
+    },
+    {
       "date": "2026-06-07",
       "id": "a2786a051472d35e",
       "plays": 6
     },
     {
+      "date": "2026-10-17",
+      "id": "a3295f65cb51d23e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a3372beae201e156",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "a37259e9097b60a1",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a37a06e3c66ce0fe",
+      "plays": 4
     },
     {
       "date": "2026-05-16",
@@ -6284,6 +8780,11 @@
       "plays": 4
     },
     {
+      "date": "2026-10-17",
+      "id": "a48a1a4a9d4eddde",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "a509061243caa4fd",
       "plays": 1
@@ -6309,9 +8810,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "a604892dccfed12b",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "a63fd0c053c742b6",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a68625bdc849f8b4",
+      "plays": 4
     },
     {
       "date": "2026-06-20",
@@ -6349,6 +8860,11 @@
       "plays": 8
     },
     {
+      "date": "2026-10-17",
+      "id": "a6bed31d28e6d896",
+      "plays": 4
+    },
+    {
       "date": "2026-08-22",
       "id": "a6e02528ddac21e1",
       "plays": 5
@@ -6357,6 +8873,11 @@
       "date": "2026-08-12",
       "id": "a703f2393391ac85",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a703f2393391ac85",
+      "plays": 8
     },
     {
       "date": "2026-06-02",
@@ -6374,6 +8895,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "a7467becaec40d00",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "a75c77fb14d68d01",
       "plays": 1
@@ -6387,6 +8913,11 @@
       "date": "2026-08-07",
       "id": "a7a1446f5e823809",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "a7a1446f5e823809",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -6459,6 +8990,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "aa8edfe9a6dfc095",
+      "plays": 4
+    },
+    {
       "date": "2026-05-25",
       "id": "aa91b8d115ecf4a3",
       "plays": 2
@@ -6469,9 +9005,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "aa91b8d115ecf4a3",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "ab15ebcbb01c7b22",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ab6cdb656f0c91a6",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -6482,6 +9028,11 @@
       "date": "2026-07-25",
       "id": "ab8c22fa90b5561a",
       "plays": 24
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ab8c22fa90b5561a",
+      "plays": 8
     },
     {
       "date": "2026-06-02",
@@ -6509,6 +9060,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "ac171dcfe305bde9",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ac2d22b646870484",
+      "plays": 4
+    },
+    {
       "date": "2026-09-05",
       "id": "ac6da87e3323baec",
       "plays": 2
@@ -6529,6 +9090,11 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "ad00baf58d7851ff",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "ad2e16c3526f4d41",
       "plays": 1
@@ -6539,9 +9105,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "ad2e16c3526f4d41",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "ad307860e9787749",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ad5dfd4148bdcdc4",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -6579,6 +9155,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "adf7d79c33ef8d85",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "adf8b09c88d4333b",
+      "plays": 4
+    },
+    {
       "date": "2026-06-07",
       "id": "ae098efff069887d",
       "plays": 9
@@ -6614,6 +9200,16 @@
       "plays": 10
     },
     {
+      "date": "2026-10-17",
+      "id": "b0583330662c74b0",
+      "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b06d8288a84941f4",
+      "plays": 8
+    },
+    {
       "date": "2026-08-07",
       "id": "b0863761f421cf03",
       "plays": 1
@@ -6624,9 +9220,19 @@
       "plays": 17
     },
     {
+      "date": "2026-10-17",
+      "id": "b0bad30d85ca7648",
+      "plays": 4
+    },
+    {
       "date": "2026-08-31",
       "id": "b0f0587a7245b328",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b0f4022ec119acbb",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -6634,9 +9240,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "b104474e816436ab",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "b144e77c4482043e",
       "plays": 10
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b144e77c4482043e",
+      "plays": 24
     },
     {
       "date": "2026-05-26",
@@ -6657,6 +9273,16 @@
       "date": "2026-08-31",
       "id": "b22b6c882a926b27",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b24da5c1a8e22c4f",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b250e39ace41a563",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -6684,6 +9310,21 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "b2c24b9a4c69bdad",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b2ca02defb9dfabc",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b2f19404a507393a",
+      "plays": 4
+    },
+    {
       "date": "2026-08-30",
       "id": "b30b2cb4915a8c5a",
       "plays": 17
@@ -6699,6 +9340,11 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "b3818377101a86f7",
+      "plays": 4
+    },
+    {
       "date": "2026-05-16",
       "id": "b38bc241b76c7986",
       "plays": 5
@@ -6707,6 +9353,11 @@
       "date": "2026-06-03",
       "id": "b38bc241b76c7986",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b3a2d0588c7bc898",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -6754,9 +9405,24 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "b4442973a6365446",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b4571052ade96094",
+      "plays": 4
+    },
+    {
       "date": "2026-08-22",
       "id": "b46e8e64510bdcf5",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b46e8e64510bdcf5",
+      "plays": 8
     },
     {
       "date": "2026-06-04",
@@ -6767,6 +9433,11 @@
       "date": "2026-08-30",
       "id": "b47330689882ee7d",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b4f513bab35b7cbf",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -6794,9 +9465,19 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "b5f1fff06fb5641f",
+      "plays": 16
+    },
+    {
       "date": "2026-08-30",
       "id": "b6189a52bbe73fa1",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b6189a52bbe73fa1",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -6812,6 +9493,11 @@
       "date": "2026-06-02",
       "id": "b6473e2d45d1a781",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b6473e2d45d1a781",
+      "plays": 4
     },
     {
       "date": "2026-05-10",
@@ -6832,6 +9518,11 @@
       "date": "2026-08-12",
       "id": "b6f9c9fec984f2c6",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b75c5d0ac44c6f7c",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -6857,6 +9548,11 @@
       "date": "2026-08-24",
       "id": "b8b3a08e644e1a53",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b8b3a08e644e1a53",
+      "plays": 20
     },
     {
       "date": "2026-08-10",
@@ -6889,9 +9585,24 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "b9c4c58ecda52fb2",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b9d820538b006907",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "b9eae8b2459b418b",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "b9eae8b2459b418b",
+      "plays": 4
     },
     {
       "date": "2026-05-04",
@@ -6944,6 +9655,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "bb18c8e8cf83ae48",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "bb1db580544bfa56",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "bb33625496aadc76",
       "plays": 1
@@ -6952,6 +9673,16 @@
       "date": "2026-06-27",
       "id": "bba7817925cb6779",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "bba7817925cb6779",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "bbddd7292405faf7",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -6964,6 +9695,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "bc7a062b7b6065c5",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "bc822d392043cad9",
+      "plays": 4
+    },
+    {
       "date": "2026-04-26",
       "id": "bcf443a888c0ec76",
       "plays": 10
@@ -6972,6 +9713,11 @@
       "date": "2026-07-15",
       "id": "bcf443a888c0ec76",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "bd64af67bb346586",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -7014,6 +9760,21 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "c09ceb51e8a11ccf",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c0ae768b687942d6",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c0b5480e318be33b",
+      "plays": 4
+    },
+    {
       "date": "2026-06-27",
       "id": "c0e89f0a94e26fd3",
       "plays": 2
@@ -7024,14 +9785,29 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "c0e89f0a94e26fd3",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "c10a089f558a5764",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "c10a089f558a5764",
+      "plays": 4
+    },
+    {
       "date": "2026-07-20",
       "id": "c11e2ddae56b2c65",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c12765a1ae6c108c",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -7089,6 +9865,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "c33b5dfaa2fbb199",
+      "plays": 4
+    },
+    {
       "date": "2026-06-29",
       "id": "c364ddcc84928b05",
       "plays": 1
@@ -7104,9 +9885,29 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "c3697ac209e280a8",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c37def265168ffca",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c3ba890ff36f37dc",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "c3d4849891fae78c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c3ea69ea8887e249",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -7122,6 +9923,16 @@
       "date": "2026-05-10",
       "id": "c4b87351e0d0fe9d",
       "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c4ecf940c7a6965b",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c54d763eeae7bd55",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -7159,9 +9970,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "c703fe76c2ed87c5",
+      "plays": 4
+    },
+    {
       "date": "2026-05-21",
       "id": "c726f060de43aa05",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c726f060de43aa05",
+      "plays": 4
     },
     {
       "date": "2026-05-16",
@@ -7169,9 +9990,19 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "c756c474797c5e3a",
+      "plays": 8
+    },
+    {
       "date": "2026-06-29",
       "id": "c7a73bd07db98261",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c7b8e3a6330d581c",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -7189,6 +10020,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "c83580dbc1ca867e",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "c855ac72a2a20b49",
       "plays": 1
@@ -7202,6 +10038,21 @@
       "date": "2026-08-29",
       "id": "c875603ae9902282",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c886b1f472677bb9",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c896c9a3e31772d9",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c8b240512ab47adc",
+      "plays": 8
     },
     {
       "date": "2026-06-19",
@@ -7222,6 +10073,11 @@
       "date": "2026-06-06",
       "id": "c9938c8825f07a2a",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "c9c33cc6eee6ffee",
+      "plays": 4
     },
     {
       "date": "2026-08-10",
@@ -7294,6 +10150,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "cba186b68262e746",
+      "plays": 4
+    },
+    {
       "date": "2026-05-02",
       "id": "cbe051bf47002ff3",
       "plays": 1
@@ -7344,6 +10205,11 @@
       "plays": 8
     },
     {
+      "date": "2026-10-17",
+      "id": "cc93fafdce6d83e4",
+      "plays": 4
+    },
+    {
       "date": "2026-08-10",
       "id": "cc972f7ca543190d",
       "plays": 4
@@ -7354,6 +10220,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "cc97fa051ce3f23a",
+      "plays": 4
+    },
+    {
       "date": "2026-05-29",
       "id": "cce6f2723eb32e24",
       "plays": 1
@@ -7362,6 +10233,16 @@
       "date": "2026-05-26",
       "id": "cd4229d1bc6aae1c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "cd4d5ab1a3259215",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "cd6f3332af158c39",
+      "plays": 4
     },
     {
       "date": "2026-05-25",
@@ -7404,6 +10285,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "ceac9ddb75cb846d",
+      "plays": 4
+    },
+    {
       "date": "2026-07-25",
       "id": "ced5388e0bf54332",
       "plays": 2
@@ -7422,6 +10308,11 @@
       "date": "2026-06-27",
       "id": "ceef07bb2cba2fa3",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "cef697b6ec82b816",
+      "plays": 4
     },
     {
       "date": "2026-08-31",
@@ -7459,14 +10350,39 @@
       "plays": 7
     },
     {
+      "date": "2026-10-17",
+      "id": "cfe03af88952492a",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "cfe4601f73a3e500",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d011d76905d5089d",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "d02ee2107a8170ee",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "d02ee2107a8170ee",
+      "plays": 4
+    },
+    {
       "date": "2026-08-07",
       "id": "d0bf36229723d8b8",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d1430265fda5604b",
+      "plays": 4
     },
     {
       "date": "2026-08-22",
@@ -7477,6 +10393,11 @@
       "date": "2026-07-20",
       "id": "d2365638a2e276a0",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d2365638a2e276a0",
+      "plays": 4
     },
     {
       "date": "2026-05-16",
@@ -7509,9 +10430,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "d3080ce5a8345fec",
+      "plays": 8
+    },
+    {
       "date": "2026-06-03",
       "id": "d3366c6ddce5599a",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d3513aed9b745d25",
+      "plays": 4
     },
     {
       "date": "2026-05-02",
@@ -7542,6 +10473,11 @@
       "date": "2026-05-18",
       "id": "d44df716956220f7",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d4beb9d0aca95757",
+      "plays": 4
     },
     {
       "date": "2026-04-20",
@@ -7584,9 +10520,19 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "d500cb26e02245f5",
+      "plays": 4
+    },
+    {
       "date": "2026-08-30",
       "id": "d56a603cfe5b8757",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d56a603cfe5b8757",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -7619,6 +10565,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "d622d4a40abb2973",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "d69dc0b9ab3f19c0",
       "plays": 1
@@ -7632,6 +10583,11 @@
       "date": "2026-06-28",
       "id": "d6b088ce38afacd8",
       "plays": 24
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d6b9002abd52c31a",
+      "plays": 4
     },
     {
       "date": "2026-08-24",
@@ -7649,6 +10605,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "d7257df772832c7e",
+      "plays": 12
+    },
+    {
       "date": "2026-07-25",
       "id": "d73eaa2bafef9d6e",
       "plays": 2
@@ -7656,6 +10617,16 @@
     {
       "date": "2026-08-10",
       "id": "d73eaa2bafef9d6e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d73eaa2bafef9d6e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d7ac24d5a8947f57",
       "plays": 4
     },
     {
@@ -7682,6 +10653,11 @@
       "date": "2026-06-08",
       "id": "d7ca2318c6a43dfa",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d7ca2318c6a43dfa",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -7729,6 +10705,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "d913af03785a4e28",
+      "plays": 8
+    },
+    {
       "date": "2026-05-02",
       "id": "d92ab89ce89ea97f",
       "plays": 1
@@ -7737,6 +10718,11 @@
       "date": "2026-05-16",
       "id": "d92ab89ce89ea97f",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "d975211ba8b4b54b",
+      "plays": 4
     },
     {
       "date": "2026-05-02",
@@ -7759,6 +10745,11 @@
       "plays": 5
     },
     {
+      "date": "2026-10-17",
+      "id": "d97a4a886bba83d5",
+      "plays": 16
+    },
+    {
       "date": "2026-08-21",
       "id": "d988548d2112dc40",
       "plays": 1
@@ -7774,6 +10765,11 @@
       "plays": 4
     },
     {
+      "date": "2026-10-17",
+      "id": "da32a13454dc3189",
+      "plays": 4
+    },
+    {
       "date": "2026-07-20",
       "id": "da87845f783fb55b",
       "plays": 1
@@ -7784,6 +10780,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "da9d49d16041ad9d",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "dad893be5e8057f1",
       "plays": 1
@@ -7792,6 +10793,11 @@
       "date": "2026-06-02",
       "id": "dadb60d17647ff1e",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "dadb60d17647ff1e",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -7827,6 +10833,11 @@
       "date": "2026-06-13",
       "id": "dba6572605a113a5",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "dbdfa55618bf0e98",
+      "plays": 4
     },
     {
       "date": "2026-08-21",
@@ -7874,6 +10885,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "dd346d356277c5a7",
+      "plays": 8
+    },
+    {
       "date": "2026-08-07",
       "id": "dd4a676c95745259",
       "plays": 1
@@ -7882,6 +10898,11 @@
       "date": "2026-05-02",
       "id": "dd549a5e18b95a48",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "dd71e1646b582db3",
+      "plays": 4
     },
     {
       "date": "2026-09-05",
@@ -7919,6 +10940,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "de7cc0508d36004e",
+      "plays": 4
+    },
+    {
       "date": "2026-05-02",
       "id": "dec42495cae5f56f",
       "plays": 1
@@ -7939,6 +10965,16 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "dee5edb0d5bde4ed",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "df1f05ccc2f4a7e2",
+      "plays": 16
+    },
+    {
       "date": "2026-06-02",
       "id": "df3313fe2c4585c5",
       "plays": 1
@@ -7957,6 +10993,11 @@
       "date": "2026-08-12",
       "id": "dfa4d0eec39742f2",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "dfbbb418b1cbc658",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -7989,14 +11030,34 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "e0510de33ba7159e",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e079df161e51d8bd",
+      "plays": 4
+    },
+    {
       "date": "2026-04-23",
       "id": "e08367a5638b68c7",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e0904a54f5925cd2",
+      "plays": 4
+    },
+    {
       "date": "2026-08-31",
       "id": "e0b9350cde79a1d7",
       "plays": 3
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e0c8962bbdebee90",
+      "plays": 4
     },
     {
       "date": "2026-06-29",
@@ -8007,6 +11068,11 @@
       "date": "2026-06-02",
       "id": "e11b3ec0fb6b9050",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e11b3ec0fb6b9050",
+      "plays": 4
     },
     {
       "date": "2026-07-04",
@@ -8059,6 +11125,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "e20bd1cd2c39b688",
+      "plays": 4
+    },
+    {
       "date": "2026-06-27",
       "id": "e23562191ecb4647",
       "plays": 2
@@ -8069,14 +11140,34 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e23562191ecb4647",
+      "plays": 4
+    },
+    {
       "date": "2026-06-16",
       "id": "e25bb99f456b291c",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e25bb99f456b291c",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e2895b488f137702",
+      "plays": 8
+    },
+    {
       "date": "2026-05-16",
       "id": "e28d6a456463a5b9",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e28d6a456463a5b9",
+      "plays": 4
     },
     {
       "date": "2026-08-22",
@@ -8089,6 +11180,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e2fa5702175968d6",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e2feaad9e7bfbe7a",
+      "plays": 4
+    },
+    {
       "date": "2026-07-10",
       "id": "e3124f8f92305e91",
       "plays": 2
@@ -8097,6 +11198,11 @@
       "date": "2026-08-29",
       "id": "e39531db7a008775",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e3adf385775a336b",
+      "plays": 4
     },
     {
       "date": "2026-08-21",
@@ -8119,6 +11225,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "e44be02cb0c0f905",
+      "plays": 4
+    },
+    {
       "date": "2026-06-11",
       "id": "e4982959d2d3662c",
       "plays": 1
@@ -8129,14 +11240,29 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e4dc0f609f91000f",
+      "plays": 8
+    },
+    {
       "date": "2026-07-20",
       "id": "e50104b2d893bf61",
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e50b7da130bb5bfa",
+      "plays": 4
+    },
+    {
       "date": "2026-06-02",
       "id": "e52be3d2b2249f80",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e533c3c532dc2c6a",
+      "plays": 4
     },
     {
       "date": "2026-08-12",
@@ -8154,6 +11280,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "e5e679e7e7da94ad",
+      "plays": 12
+    },
+    {
       "date": "2026-08-07",
       "id": "e5e7ac2be1ab51ae",
       "plays": 1
@@ -8164,9 +11295,19 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "e60bdb1d14ff3f40",
+      "plays": 4
+    },
+    {
       "date": "2026-08-12",
       "id": "e645e1bd0dc74c5b",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e645e1bd0dc74c5b",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -8182,6 +11323,11 @@
       "date": "2026-06-11",
       "id": "e739cbbd70bdf7f8",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e772aa287508ff8d",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -8207,6 +11353,21 @@
       "date": "2026-08-15",
       "id": "e7d05da66170da98",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e7d05da66170da98",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e7f32ada94e19ef5",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "e80423258c4c456b",
+      "plays": 4
     },
     {
       "date": "2026-08-29",
@@ -8274,6 +11435,11 @@
       "plays": 5
     },
     {
+      "date": "2026-10-17",
+      "id": "e96046bde4dc449a",
+      "plays": 4
+    },
+    {
       "date": "2026-05-26",
       "id": "e975e0e8508e5696",
       "plays": 1
@@ -8304,6 +11470,16 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "e9e4ec21dc835160",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ea0c850ed2e25f98",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "ea1aaaaddce8ec5b",
       "plays": 1
@@ -8312,6 +11488,16 @@
       "date": "2026-06-27",
       "id": "ea373c691cd48ab3",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ea373c691cd48ab3",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ea4596a3a3372a82",
+      "plays": 4
     },
     {
       "date": "2026-07-25",
@@ -8324,12 +11510,22 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "ea84a8293c9cd325",
+      "plays": 4
+    },
+    {
       "date": "2026-09-05",
       "id": "eaabcf00f3f253a7",
       "plays": 2
     },
     {
       "date": "2026-08-10",
+      "id": "eab60e7de199ba6b",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
       "id": "eab60e7de199ba6b",
       "plays": 4
     },
@@ -8342,6 +11538,16 @@
       "date": "2026-08-07",
       "id": "ead05b4dfbad6e1d",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "eb6353c56baffbc9",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ec1374566f0d9ba8",
+      "plays": 4
     },
     {
       "date": "2026-07-20",
@@ -8359,6 +11565,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "ed23baa03610c082",
+      "plays": 4
+    },
+    {
       "date": "2026-06-03",
       "id": "ed2723605f0dcbf6",
       "plays": 1
@@ -8372,6 +11583,11 @@
       "date": "2026-07-25",
       "id": "ed54d7f66a72f9ad",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ed54d7f66a72f9ad",
+      "plays": 8
     },
     {
       "date": "2026-05-29",
@@ -8429,6 +11645,16 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "ee87dd41c5ba8efe",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "eeba5f9511189f43",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "eebfef0986b23440",
       "plays": 1
@@ -8437,6 +11663,11 @@
       "date": "2026-08-30",
       "id": "eebfef0986b23440",
       "plays": 17
+    },
+    {
+      "date": "2026-10-17",
+      "id": "eebfef0986b23440",
+      "plays": 4
     },
     {
       "date": "2026-04-19",
@@ -8460,6 +11691,11 @@
     },
     {
       "date": "2026-05-28",
+      "id": "eee8d48b66a3e9e7",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
       "id": "eee8d48b66a3e9e7",
       "plays": 4
     },
@@ -8492,6 +11728,26 @@
       "date": "2026-09-05",
       "id": "ef5a66b57fdd1fe8",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "efaef24307bfa308",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "efba598f37f560e6",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f00b25cad8182922",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f00cee4e88ba294e",
+      "plays": 4
     },
     {
       "date": "2026-05-21",
@@ -8574,6 +11830,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "f1a6c07c43ee1909",
+      "plays": 12
+    },
+    {
       "date": "2026-04-20",
       "id": "f1cc741d7d4348d7",
       "plays": 4
@@ -8587,6 +11848,11 @@
       "date": "2026-06-04",
       "id": "f1cc741d7d4348d7",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f1de7435fd5cb19c",
+      "plays": 4
     },
     {
       "date": "2026-04-30",
@@ -8617,6 +11883,11 @@
       "date": "2026-06-30",
       "id": "f2603e959d7cf580",
       "plays": 6
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f2991909ed4dc98c",
+      "plays": 4
     },
     {
       "date": "2026-05-29",
@@ -8654,6 +11925,11 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "f3ecdec3778b8d8a",
+      "plays": 4
+    },
+    {
       "date": "2026-07-05",
       "id": "f42c1ccdd36e13a6",
       "plays": 24
@@ -8664,7 +11940,17 @@
       "plays": 13
     },
     {
+      "date": "2026-10-17",
+      "id": "f42c1ccdd36e13a6",
+      "plays": 4
+    },
+    {
       "date": "2026-08-10",
+      "id": "f4647c8176c27c67",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
       "id": "f4647c8176c27c67",
       "plays": 4
     },
@@ -8674,6 +11960,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "f501fb403a47ea68",
+      "plays": 8
+    },
+    {
       "date": "2026-08-30",
       "id": "f5413771c777d44a",
       "plays": 17
@@ -8681,6 +11972,11 @@
     {
       "date": "2026-08-10",
       "id": "f56510999748380d",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f5810c16b18fb9ec",
       "plays": 4
     },
     {
@@ -8702,6 +11998,11 @@
       "date": "2026-04-20",
       "id": "f677d913ce15ff7c",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f677d913ce15ff7c",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -8734,6 +12035,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "f6fc0fa7b645826f",
+      "plays": 4
+    },
+    {
       "date": "2026-05-16",
       "id": "f704bdbbff96f345",
       "plays": 1
@@ -8752,6 +12058,11 @@
       "date": "2026-07-20",
       "id": "f732d9c62bac9ac5",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f757afabd92874ec",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -8799,6 +12110,11 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "f83c623d521212d0",
+      "plays": 4
+    },
+    {
       "date": "2026-08-29",
       "id": "f83ce3e74a76ad99",
       "plays": 1
@@ -8809,9 +12125,34 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "f8c78ae8225dc38f",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f9094be27c66d15d",
+      "plays": 4
+    },
+    {
       "date": "2026-04-20",
       "id": "f925ecda7bf468ac",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f96c23a09b33275a",
+      "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f96fa44c29aa6730",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "f9918b7e9b7ffe58",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -8832,6 +12173,11 @@
       "date": "2026-08-24",
       "id": "fa0eeebd9830950f",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "fa5487f0f9d9fb18",
+      "plays": 4
     },
     {
       "date": "2026-06-11",
@@ -8869,6 +12215,11 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "fb52df36d80791cf",
+      "plays": 4
+    },
+    {
       "date": "2026-05-28",
       "id": "fbb4bed767ac6a4b",
       "plays": 1
@@ -8877,6 +12228,11 @@
       "date": "2026-06-06",
       "id": "fbc188e0d3d110b0",
       "plays": 8
+    },
+    {
+      "date": "2026-10-17",
+      "id": "fbc188e0d3d110b0",
+      "plays": 4
     },
     {
       "date": "2026-08-30",
@@ -8899,9 +12255,19 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "fc930e2974ce64e2",
+      "plays": 4
+    },
+    {
       "date": "2026-07-20",
       "id": "fcc8bba92db0a20c",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "fd0d3a8deb1837dc",
+      "plays": 4
     },
     {
       "date": "2026-08-07",
@@ -8929,9 +12295,24 @@
       "plays": 3
     },
     {
+      "date": "2026-10-17",
+      "id": "fe3108e540b53dd2",
+      "plays": 4
+    },
+    {
       "date": "2026-09-05",
       "id": "fe53b9ccaa0d2780",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "fe53b9ccaa0d2780",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "fe8fd91c8d378677",
+      "plays": 4
     },
     {
       "date": "2026-06-02",
@@ -8949,9 +12330,29 @@
       "plays": 2
     },
     {
+      "date": "2026-10-17",
+      "id": "fe92f4f8f9ae01d6",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "feac477989ec8fc3",
+      "plays": 4
+    },
+    {
       "date": "2026-06-19",
       "id": "fed2eb96c1275d84",
       "plays": 1
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ff13b48e49bc66d7",
+      "plays": 4
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ff314c6c1d7a3438",
+      "plays": 8
     },
     {
       "date": "2026-06-06",
@@ -8964,12 +12365,22 @@
       "plays": 1
     },
     {
+      "date": "2026-10-17",
+      "id": "ff3d7b179c31433d",
+      "plays": 4
+    },
+    {
       "date": "2026-07-10",
       "id": "ff8df6b3128dc397",
       "plays": 2
+    },
+    {
+      "date": "2026-10-17",
+      "id": "ffe9224779a11d21",
+      "plays": 4
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-16",
-  "snapshot_count": 157
+  "latest_snapshot": "2026-10-17",
+  "snapshot_count": 158
 }
