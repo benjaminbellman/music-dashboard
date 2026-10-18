@@ -1404,7 +1404,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4526,
+      "total_plays": 4408,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1412,11 +1412,7 @@
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 114
-        },
-        {
-          "artist": "Kungs",
-          "plays": 98
+          "plays": 103
         },
         {
           "artist": "Anri",
@@ -1424,7 +1420,11 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 88
+          "plays": 87
+        },
+        {
+          "artist": "Kungs",
+          "plays": 87
         },
         {
           "artist": "Dua Lipa",
@@ -1436,7 +1436,7 @@
         },
         {
           "artist": "Coldplay",
-          "plays": 47
+          "plays": 45
         },
         {
           "artist": "Tom Petty & the Heartbreakers",
@@ -1456,7 +1456,7 @@
         },
         {
           "artist": "Tatsuro Yamashita",
-          "plays": 35
+          "plays": 34
         },
         {
           "artist": "Illit",
@@ -1479,12 +1479,12 @@
           "plays": 31
         },
         {
-          "artist": "PNL",
-          "plays": 30
-        },
-        {
           "artist": "ANOTR",
           "plays": 29
+        },
+        {
+          "artist": "PNL",
+          "plays": 28
         },
         {
           "artist": "ABBA",
@@ -1510,39 +1510,39 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 889
+          "plays": 863
         },
         {
           "genre": "Pop",
-          "plays": 705
+          "plays": 687
         },
         {
           "genre": "Electronic",
-          "plays": 467
+          "plays": 455
         },
         {
           "genre": "Variete Francaise",
-          "plays": 289
-        },
-        {
-          "genre": "Alternative",
-          "plays": 272
+          "plays": 285
         },
         {
           "genre": "Rock",
-          "plays": 267
+          "plays": 265
+        },
+        {
+          "genre": "Alternative",
+          "plays": 248
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 217
+          "plays": 210
         },
         {
           "genre": "City Pop",
-          "plays": 148
+          "plays": 146
         },
         {
           "genre": "Comedy",
-          "plays": 136
+          "plays": 134
         },
         {
           "genre": "mashup",
@@ -1550,19 +1550,19 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 99
+          "plays": 98
         },
         {
           "genre": "Future Funk",
-          "plays": 80
-        },
-        {
-          "genre": "Oldies",
-          "plays": 63
+          "plays": 79
         },
         {
           "genre": "Disco",
           "plays": 63
+        },
+        {
+          "genre": "Oldies",
+          "plays": 61
         },
         {
           "genre": "Soundtrack",
@@ -1581,12 +1581,12 @@
           "plays": 38
         },
         {
-          "genre": "Hip-Hop/Rap",
+          "genre": "Lowfi",
           "plays": 33
         },
         {
-          "genre": "Lowfi",
-          "plays": 33
+          "genre": "Hip-Hop/Rap",
+          "plays": 31
         },
         {
           "genre": "Funk",
@@ -1602,18 +1602,18 @@
         },
         {
           "genre": "R & B",
-          "plays": 27
+          "plays": 26
         },
         {
           "genre": "Latin",
-          "plays": 24
+          "plays": 21
         }
       ],
       "top_tracks": [
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 94,
+          "plays": 83,
           "genre": "Dance"
         },
         {
@@ -12381,6 +12381,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-17",
-  "snapshot_count": 158
+  "latest_snapshot": "2026-10-18",
+  "snapshot_count": 159
 }
