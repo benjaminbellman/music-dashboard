@@ -324,363 +324,10 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 2302,
-      "top_artists": [
-        {
-          "artist": "Bon Entendeur",
-          "plays": 68
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 60
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 40
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 32
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 28
-        },
-        {
-          "artist": "Anri",
-          "plays": 28
-        },
-        {
-          "artist": "Kungs",
-          "plays": 28
-        },
-        {
-          "artist": "ABBA",
-          "plays": 24
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 24
-        },
-        {
-          "artist": "French 79",
-          "plays": 24
-        },
-        {
-          "artist": "Armin van Buuren",
-          "plays": 24
-        },
-        {
-          "artist": "Global Communication",
-          "plays": 24
-        },
-        {
-          "artist": "Rema, Selena Gomez",
-          "plays": 24
-        },
-        {
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 24
-        },
-        {
-          "artist": "Boys Like Girls",
-          "plays": 24
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 20
-        },
-        {
-          "artist": "Avicii",
-          "plays": 20
-        },
-        {
-          "artist": "Justice",
-          "plays": 20
-        },
-        {
-          "artist": "Vantage",
-          "plays": 20
-        },
-        {
-          "artist": "Flight Facilities",
-          "plays": 20
-        },
-        {
-          "artist": "Illit",
-          "plays": 18
-        },
-        {
-          "artist": "Taylor Swift",
-          "plays": 16
-        },
-        {
-          "artist": "Your Favorite Martian",
-          "plays": 16
-        },
-        {
-          "artist": "Calvin Harris",
-          "plays": 16
-        },
-        {
-          "artist": "Robbie Williams",
-          "plays": 16
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "Dance",
-          "plays": 432
-        },
-        {
-          "genre": "Pop",
-          "plays": 428
-        },
-        {
-          "genre": "Electronic",
-          "plays": 228
-        },
-        {
-          "genre": "Alternative",
-          "plays": 180
-        },
-        {
-          "genre": "Rock",
-          "plays": 156
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 120
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 64
-        },
-        {
-          "genre": "Comedy",
-          "plays": 60
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 52
-        },
-        {
-          "genre": "City Pop",
-          "plays": 48
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 48
-        },
-        {
-          "genre": "mashup",
-          "plays": 44
-        },
-        {
-          "genre": "House",
-          "plays": 44
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 44
-        },
-        {
-          "genre": "Disco",
-          "plays": 40
-        },
-        {
-          "genre": "Country",
-          "plays": 28
-        },
-        {
-          "genre": "Oldies",
-          "plays": 24
-        },
-        {
-          "genre": "K-Pop",
-          "plays": 22
-        },
-        {
-          "genre": "Variété française",
-          "plays": 20
-        },
-        {
-          "genre": "Lowfi",
-          "plays": 20
-        },
-        {
-          "genre": "Britpop",
-          "plays": 16
-        },
-        {
-          "genre": "Funk",
-          "plays": 12
-        },
-        {
-          "genre": "French Pop",
-          "plays": 12
-        },
-        {
-          "genre": "World",
-          "plays": 12
-        },
-        {
-          "genre": "J-Pop",
-          "plays": 12
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 24,
-          "genre": "Electronic"
-        },
-        {
-          "song": "DRIVING MY LOVE",
-          "artist": "Anri",
-          "plays": 24,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "The Way (Secret Ingredients Mix)",
-          "artist": "Global Communication",
-          "plays": 24,
-          "genre": "House"
-        },
-        {
-          "song": "Calm Down",
-          "artist": "Rema, Selena Gomez",
-          "plays": 24,
-          "genre": "Pop"
-        },
-        {
-          "song": "Don't Do Me Like That",
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 24,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "The Great Escape",
-          "artist": "Boys Like Girls",
-          "plays": 24,
-          "genre": "Alternative"
-        },
-        {
-          "song": "This Is What It Feels Like",
-          "artist": "Armin van Buuren",
-          "plays": 20,
-          "genre": "Dance"
-        },
-        {
-          "song": "NOT CUTE ANYMORE",
-          "artist": "Illit",
-          "plays": 18,
-          "genre": "K-Pop"
-        },
-        {
-          "song": "Jurassic Park",
-          "artist": "Weird Al Yankovich",
-          "plays": 16,
-          "genre": "Comedy"
-        },
-        {
-          "song": "2012 - 2022 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 16,
-          "genre": "mashup"
-        },
-        {
-          "song": "Golden Cage (Fred Falke Remix)",
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 16,
-          "genre": "Dance"
-        },
-        {
-          "song": "Rain Song",
-          "artist": "Disney",
-          "plays": 16,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Praise you",
-          "artist": "Fatboy Slim",
-          "plays": 12,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Feel",
-          "artist": "Robbie Williams",
-          "plays": 12,
-          "genre": "Rock"
-        },
-        {
-          "song": "Menergy (feat. Sylvester)",
-          "artist": "Patrick Cowley & Purple Disco Machine",
-          "plays": 12,
-          "genre": "Dance"
-        },
-        {
-          "song": "Paprika Opening Full",
-          "artist": "Satoshi Kon",
-          "plays": 12,
-          "genre": "J-Pop"
-        },
-        {
-          "song": "Truth Bites Harder",
-          "artist": "Dog vs. The World",
-          "plays": 12,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Count What You Have Now",
-          "artist": "Vantage",
-          "plays": 12,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "Brazil",
-          "artist": "Declan McKenna",
-          "plays": 8,
-          "genre": "Pop"
-        },
-        {
-          "song": "Ce matin va être une pure soirée (feat. Big Ali, PZK, Dogg Soso & Chris Prolls)",
-          "artist": "Fatal Bazooka",
-          "plays": 8,
-          "genre": "Hip-hop/Rap"
-        },
-        {
-          "song": "Rockabye ft. Sean Paul & Anne-Marie",
-          "artist": "Clean Bandit",
-          "plays": 8,
-          "genre": "Pop"
-        },
-        {
-          "song": "Cruel Summer",
-          "artist": "Taylor Swift",
-          "plays": 8,
-          "genre": "Pop"
-        },
-        {
-          "song": "Lalalove You",
-          "artist": "BB Brunes",
-          "plays": 8,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "I'm Over Dreaming Over You",
-          "artist": "Kylie Minogue",
-          "plays": 8,
-          "genre": "Pop"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
@@ -1764,7 +1411,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7239,
+      "total_plays": 7205,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1780,7 +1427,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 133
+          "plays": 132
         },
         {
           "artist": "442oons",
@@ -1792,7 +1439,7 @@
         },
         {
           "artist": "Anri",
-          "plays": 105
+          "plays": 104
         },
         {
           "artist": "David Guetta",
@@ -1804,7 +1451,7 @@
         },
         {
           "artist": "Calvin Harris",
-          "plays": 77
+          "plays": 76
         },
         {
           "artist": "Michael Jackson",
@@ -1839,12 +1486,12 @@
           "plays": 51
         },
         {
-          "artist": "John Newman",
+          "artist": "Demon",
           "plays": 51
         },
         {
-          "artist": "Demon",
-          "plays": 51
+          "artist": "John Newman",
+          "plays": 50
         },
         {
           "artist": "Supermode",
@@ -1870,31 +1517,31 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1571
+          "plays": 1569
         },
         {
           "genre": "Pop",
-          "plays": 1141
+          "plays": 1139
         },
         {
           "genre": "Electronic",
-          "plays": 811
+          "plays": 809
         },
         {
           "genre": "Variete Francaise",
-          "plays": 535
+          "plays": 534
         },
         {
           "genre": "Alternative",
           "plays": 381
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 352
-        },
-        {
           "genre": "Rock",
           "plays": 351
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 348
         },
         {
           "genre": "Comedy",
@@ -1906,7 +1553,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 192
+          "plays": 191
         },
         {
           "genre": "mashup",
@@ -1922,7 +1569,7 @@
         },
         {
           "genre": "Oldies",
-          "plays": 84
+          "plays": 83
         },
         {
           "genre": "House",
@@ -1930,7 +1577,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 77
+          "plays": 73
         },
         {
           "genre": "French Pop",
@@ -1945,11 +1592,11 @@
           "plays": 42
         },
         {
-          "genre": "Lowfi",
-          "plays": 38
+          "genre": "Funk",
+          "plays": 37
         },
         {
-          "genre": "Funk",
+          "genre": "Lowfi",
           "plays": 37
         },
         {
@@ -2009,7 +1656,7 @@
         {
           "song": "Blame",
           "artist": "Calvin Harris & John Newman",
-          "plays": 51,
+          "plays": 50,
           "genre": "Dance"
         },
         {
@@ -12381,6 +12028,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-19",
-  "snapshot_count": 160
+  "latest_snapshot": "2026-10-20",
+  "snapshot_count": 161
 }
