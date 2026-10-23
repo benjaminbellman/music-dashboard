@@ -1051,27 +1051,27 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4408,
+      "total_plays": 4278,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 161
+          "plays": 159
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 103
+          "plays": 101
         },
         {
           "artist": "Anri",
           "plays": 95
         },
         {
-          "artist": "Bon Entendeur",
+          "artist": "Kungs",
           "plays": 87
         },
         {
-          "artist": "Kungs",
-          "plays": 87
+          "artist": "Bon Entendeur",
+          "plays": 83
         },
         {
           "artist": "Dua Lipa",
@@ -1082,24 +1082,24 @@
           "plays": 48
         },
         {
-          "artist": "Coldplay",
-          "plays": 45
-        },
-        {
           "artist": "Tom Petty & the Heartbreakers",
           "plays": 44
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 43
         },
         {
           "artist": "Jacques Brel",
           "plays": 43
         },
         {
-          "artist": "Flight Facilities",
+          "artist": "Beachcrimes & Tia Tia",
           "plays": 40
         },
         {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40
+          "artist": "Flight Facilities",
+          "plays": 36
         },
         {
           "artist": "Tatsuro Yamashita",
@@ -1112,10 +1112,6 @@
         {
           "artist": "Boys Like Girls",
           "plays": 34
-        },
-        {
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 32
         },
         {
           "artist": "Michael Jackson",
@@ -1152,36 +1148,40 @@
         {
           "artist": "MACROSS 82-99",
           "plays": 26
+        },
+        {
+          "artist": "Avicii",
+          "plays": 24
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 863
+          "plays": 823
         },
         {
           "genre": "Pop",
-          "plays": 687
+          "plays": 675
         },
         {
           "genre": "Electronic",
-          "plays": 455
+          "plays": 443
         },
         {
           "genre": "Variete Francaise",
-          "plays": 285
+          "plays": 275
         },
         {
           "genre": "Rock",
-          "plays": 265
+          "plays": 257
         },
         {
           "genre": "Alternative",
-          "plays": 248
+          "plays": 238
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 210
+          "plays": 208
         },
         {
           "genre": "City Pop",
@@ -1193,11 +1193,11 @@
         },
         {
           "genre": "mashup",
-          "plays": 129
+          "plays": 121
         },
         {
           "genre": "Soft Rock",
-          "plays": 98
+          "plays": 86
         },
         {
           "genre": "Future Funk",
@@ -1205,11 +1205,11 @@
         },
         {
           "genre": "Disco",
-          "plays": 63
+          "plays": 61
         },
         {
           "genre": "Oldies",
-          "plays": 61
+          "plays": 59
         },
         {
           "genre": "Soundtrack",
@@ -1232,10 +1232,6 @@
           "plays": 33
         },
         {
-          "genre": "Hip-Hop/Rap",
-          "plays": 31
-        },
-        {
           "genre": "Funk",
           "plays": 30
         },
@@ -1244,12 +1240,16 @@
           "plays": 30
         },
         {
-          "genre": "Hip-hop/Rap",
-          "plays": 27
+          "genre": "Hip-Hop/Rap",
+          "plays": 29
         },
         {
           "genre": "R & B",
           "plays": 26
+        },
+        {
+          "genre": "Hip-hop/Rap",
+          "plays": 25
         },
         {
           "genre": "Latin",
@@ -1292,12 +1292,6 @@
           "artist": "Boys Like Girls",
           "plays": 34,
           "genre": "Alternative"
-        },
-        {
-          "song": "Me And My Broken Heart",
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 32,
-          "genre": "Dance"
         },
         {
           "song": "Miss You",
@@ -1390,12 +1384,6 @@
           "genre": "Nu-Metal"
         },
         {
-          "song": "Soulreply (Le Nonsense Remix)",
-          "artist": "Le Nonsense",
-          "plays": 19,
-          "genre": "Dance"
-        },
-        {
           "song": "Protect Me From What I Want",
           "artist": "Placebo",
           "plays": 18,
@@ -1406,12 +1394,24 @@
           "artist": "Axwell",
           "plays": 18,
           "genre": "Dance"
+        },
+        {
+          "song": "2012 - 2022 Decade Mix",
+          "artist": "Flight Facilities",
+          "plays": 18,
+          "genre": "mashup"
+        },
+        {
+          "song": "Johnny B. Goode",
+          "artist": "Chuck Berry",
+          "plays": 17,
+          "genre": "Oldies"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 7176,
+      "total_plays": 6909,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1427,14 +1427,10 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 132
+          "plays": 122
         },
         {
           "artist": "442oons",
-          "plays": 109
-        },
-        {
-          "artist": "France Football Anthem",
           "plays": 109
         },
         {
@@ -1450,8 +1446,8 @@
           "plays": 77
         },
         {
-          "artist": "Calvin Harris",
-          "plays": 76
+          "artist": "France Football Anthem",
+          "plays": 69
         },
         {
           "artist": "Michael Jackson",
@@ -1486,18 +1482,6 @@
           "plays": 51
         },
         {
-          "artist": "John Newman",
-          "plays": 50
-        },
-        {
-          "artist": "Supermode",
-          "plays": 48
-        },
-        {
-          "artist": "Luther Vandross",
-          "plays": 48
-        },
-        {
           "artist": "MotorBass",
           "plays": 47
         },
@@ -1512,12 +1496,28 @@
         {
           "artist": "Avicii",
           "plays": 41
+        },
+        {
+          "artist": "KITSCHKRIEG",
+          "plays": 41
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 40
+        },
+        {
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
+        },
+        {
+          "artist": "Tatsuro Yamashita",
+          "plays": 38
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1569
+          "plays": 1440
         },
         {
           "genre": "Pop",
@@ -1529,7 +1529,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 532
+          "plays": 452
         },
         {
           "genre": "Alternative",
@@ -1548,16 +1548,16 @@
           "plays": 246
         },
         {
-          "genre": "Soft Rock",
-          "plays": 193
-        },
-        {
           "genre": "City Pop",
           "plays": 191
         },
         {
           "genre": "mashup",
           "plays": 169
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 145
         },
         {
           "genre": "Future Funk",
@@ -1572,12 +1572,12 @@
           "plays": 83
         },
         {
-          "genre": "House",
-          "plays": 77
-        },
-        {
           "genre": "Soundtrack",
           "plays": 73
+        },
+        {
+          "genre": "House",
+          "plays": 67
         },
         {
           "genre": "French Pop",
@@ -1626,7 +1626,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 109,
+          "plays": 69,
           "genre": "Variete Francaise"
         },
         {
@@ -1648,12 +1648,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Blame",
-          "artist": "Calvin Harris & John Newman",
-          "plays": 50,
-          "genre": "Dance"
-        },
-        {
           "song": "Blunted People",
           "artist": "Demon",
           "plays": 50,
@@ -1664,18 +1658,6 @@
           "artist": "Milky & David Guetta",
           "plays": 50,
           "genre": "Dance"
-        },
-        {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 48,
-          "genre": "Dance"
-        },
-        {
-          "song": "Never Too Much",
-          "artist": "Luther Vandross",
-          "plays": 48,
-          "genre": "Soft Rock"
         },
         {
           "song": "Flying Fingers",
@@ -1700,12 +1682,6 @@
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40,
           "genre": "Electronic"
-        },
-        {
-          "song": "Lait De Coco ( Les Yeux Orange Edit)",
-          "artist": "Maya",
-          "plays": 40,
-          "genre": "Variete Francaise"
         },
         {
           "song": "DRIVING MY LOVE",
@@ -1766,6 +1742,30 @@
           "artist": "French 79",
           "plays": 27,
           "genre": "Electronic"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 27,
+          "genre": "Pop"
+        },
+        {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 26,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
+          "artist": "Anri & MACROSS 82-99",
+          "plays": 26,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Premier League Song",
+          "artist": "442oons",
+          "plays": 25,
+          "genre": "Comedy"
         }
       ]
     },
@@ -12028,6 +12028,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-22",
-  "snapshot_count": 163
+  "latest_snapshot": "2026-10-23",
+  "snapshot_count": 164
 }
