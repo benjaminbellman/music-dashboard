@@ -1051,7 +1051,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4278,
+      "total_plays": 4277,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1157,7 +1157,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 823
+          "plays": 822
         },
         {
           "genre": "Pop",
@@ -1332,7 +1332,7 @@
         {
           "song": "Golden Cage (Fred Falke Remix)",
           "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 24,
+          "plays": 23,
           "genre": "Dance"
         },
         {
@@ -1411,7 +1411,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 6909,
+      "total_plays": 6908,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1517,7 +1517,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1440
+          "plays": 1439
         },
         {
           "genre": "Pop",
@@ -12028,6 +12028,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-23",
-  "snapshot_count": 164
+  "latest_snapshot": "2026-10-24",
+  "snapshot_count": 165
 }
