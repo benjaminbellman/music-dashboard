@@ -1,8 +1,8 @@
 [
   {
     "genre": "Pop",
-    "plays": 35843,
-    "songs": 714
+    "plays": 35844,
+    "songs": 716
   },
   {
     "genre": "Dance",
@@ -617,6 +617,11 @@
   {
     "genre": "Electronica/Dance",
     "plays": 5,
+    "songs": 1
+  },
+  {
+    "genre": "Unspecified",
+    "plays": 0,
     "songs": 1
   }
 ]

@@ -1051,7 +1051,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4277,
+      "total_plays": 4275,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1157,7 +1157,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 822
+          "plays": 820
         },
         {
           "genre": "Pop",
@@ -1330,12 +1330,6 @@
           "genre": "Pop"
         },
         {
-          "song": "Golden Cage (Fred Falke Remix)",
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 23,
-          "genre": "Dance"
-        },
-        {
           "song": "This Is What It Feels Like",
           "artist": "Armin van Buuren",
           "plays": 22,
@@ -1384,6 +1378,12 @@
           "genre": "Nu-Metal"
         },
         {
+          "song": "Golden Cage (Fred Falke Remix)",
+          "artist": "The Whitest Boy Alive & Fred Falke",
+          "plays": 21,
+          "genre": "Dance"
+        },
+        {
           "song": "Protect Me From What I Want",
           "artist": "Placebo",
           "plays": 18,
@@ -1411,7 +1411,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 6908,
+      "total_plays": 6907,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1557,7 +1557,7 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 145
+          "plays": 144
         },
         {
           "genre": "Future Funk",
@@ -12028,6 +12028,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-25",
-  "snapshot_count": 166
+  "latest_snapshot": "2026-10-26",
+  "snapshot_count": 167
 }

@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "count": 101,
+      "count": 102,
       "country": "FR"
     },
     {
@@ -21,7 +21,7 @@
     {
       "rank": 4,
       "artist": "Bon Entendeur",
-      "count": 28,
+      "count": 29,
       "country": "FR"
     },
     {
@@ -305,7 +305,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4761,
+      "plays": 4762,
       "country": "FR"
     },
     {

@@ -58020,6 +58020,21 @@
     "country": "FR"
   },
   {
+    "id": "0c17a0e7f98af612",
+    "song": "Touch (Ben Remix)",
+    "artist": "Daft Punk & Paul Williams",
+    "credits": [
+      "Daft Punk"
+    ],
+    "album": "Random Access Memories (10th Anniversary Edition)",
+    "plays": 1,
+    "duration_sec": 308,
+    "date_added": "2026-10-25T14:59:32",
+    "last_played": "2026-10-25T14:59:45",
+    "genre": "Pop",
+    "country": "FR"
+  },
+  {
     "id": "e8fd82f52f918806",
     "song": "Love To Love You Baby",
     "artist": "Donna Summer",
@@ -58108,6 +58123,36 @@
     "last_played": null,
     "genre": "Classical",
     "country": "DE"
+  },
+  {
+    "id": "23289d30e529e2dd",
+    "song": "Signal Perdu",
+    "artist": "Bon Entendeur & Edouard Bielle",
+    "credits": [
+      "Bon Entendeur"
+    ],
+    "album": "",
+    "plays": 0,
+    "duration_sec": 233,
+    "date_added": "2026-10-25T17:57:38",
+    "last_played": null,
+    "genre": "",
+    "country": "FR"
+  },
+  {
+    "id": "384c5103a5632b88",
+    "song": "Touch (Ben Bellman Remix)",
+    "artist": "Daft Punk, Paul Williams",
+    "credits": [
+      "Daft Punk, Paul Williams"
+    ],
+    "album": "Mariage Ben & Lou",
+    "plays": 0,
+    "duration_sec": 308,
+    "date_added": "2026-10-25T15:02:05",
+    "last_played": null,
+    "genre": "Pop",
+    "country": null
   },
   {
     "id": "9481a3789785adf5",
