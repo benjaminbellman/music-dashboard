@@ -691,7 +691,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 2303,
+      "total_plays": 2302,
       "top_artists": [
         {
           "artist": "Bon Entendeur",
@@ -722,11 +722,11 @@
           "plays": 28
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 25
+          "artist": "ABBA",
+          "plays": 24
         },
         {
-          "artist": "ABBA",
+          "artist": "Dua Lipa",
           "plays": 24
         },
         {
@@ -805,7 +805,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 229
+          "plays": 228
         },
         {
           "genre": "Alternative",
@@ -1411,7 +1411,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 6907,
+      "total_plays": 6876,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1447,7 +1447,7 @@
         },
         {
           "artist": "France Football Anthem",
-          "plays": 69
+          "plays": 66
         },
         {
           "artist": "Michael Jackson",
@@ -1482,10 +1482,6 @@
           "plays": 51
         },
         {
-          "artist": "MotorBass",
-          "plays": 47
-        },
-        {
           "artist": "Jacques Brel",
           "plays": 44
         },
@@ -1512,6 +1508,10 @@
         {
           "artist": "Tatsuro Yamashita",
           "plays": 38
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 38
         }
       ],
       "top_genres": [
@@ -1525,11 +1525,11 @@
         },
         {
           "genre": "Electronic",
-          "plays": 792
+          "plays": 775
         },
         {
           "genre": "Variete Francaise",
-          "plays": 452
+          "plays": 443
         },
         {
           "genre": "Alternative",
@@ -1626,7 +1626,7 @@
         {
           "song": "Sous les lumières de Paris",
           "artist": "France Football Anthem",
-          "plays": 69,
+          "plays": 66,
           "genre": "Variete Francaise"
         },
         {
@@ -1658,12 +1658,6 @@
           "artist": "Milky & David Guetta",
           "plays": 50,
           "genre": "Dance"
-        },
-        {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 47,
-          "genre": "Electronic"
         },
         {
           "song": "Don't Do Me Like That",
@@ -1702,6 +1696,12 @@
           "genre": "Alternative"
         },
         {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 34,
+          "genre": "Electronic"
+        },
+        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
@@ -1738,16 +1738,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 27,
-          "genre": "Electronic"
-        },
-        {
           "song": "Just The Way You Are",
           "artist": "Milky",
           "plays": 27,
           "genre": "Pop"
+        },
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 26,
+          "genre": "Electronic"
         },
         {
           "song": "Pays Imaginaire",
@@ -12028,6 +12028,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-26",
-  "snapshot_count": 167
+  "latest_snapshot": "2026-10-27",
+  "snapshot_count": 168
 }
