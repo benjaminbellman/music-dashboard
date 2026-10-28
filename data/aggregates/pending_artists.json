@@ -1,12 +1,12 @@
 [
   {
     "artist": "Daft Punk, Paul Williams",
-    "attempts": 3,
+    "attempts": 4,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   },
   {
     "artist": "TR3N TEN",
-    "attempts": 12,
+    "attempts": 13,
     "last_error": "mb error: caused by: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)>"
   }
 ]
