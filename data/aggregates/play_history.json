@@ -1411,7 +1411,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 6876,
+      "total_plays": 6843,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1419,7 +1419,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 234
+          "plays": 232
         },
         {
           "artist": "Kungs",
@@ -1435,7 +1435,7 @@
         },
         {
           "artist": "Anri",
-          "plays": 104
+          "plays": 103
         },
         {
           "artist": "David Guetta",
@@ -1517,23 +1517,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1439
+          "plays": 1433
         },
         {
           "genre": "Pop",
-          "plays": 1139
+          "plays": 1131
         },
         {
           "genre": "Electronic",
-          "plays": 775
+          "plays": 768
         },
         {
           "genre": "Variete Francaise",
-          "plays": 443
+          "plays": 438
         },
         {
           "genre": "Alternative",
-          "plays": 381
+          "plays": 380
         },
         {
           "genre": "Rock",
@@ -1553,7 +1553,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 169
+          "plays": 166
         },
         {
           "genre": "Soft Rock",
@@ -1561,7 +1561,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 115
+          "plays": 114
         },
         {
           "genre": "Disco",
@@ -1696,16 +1696,16 @@
           "genre": "Alternative"
         },
         {
-          "song": "Flying Fingers",
-          "artist": "MotorBass",
-          "plays": 34,
-          "genre": "Electronic"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 33,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Flying Fingers",
+          "artist": "MotorBass",
+          "plays": 33,
+          "genre": "Electronic"
         },
         {
           "song": "Billy Jean",
@@ -1744,12 +1744,6 @@
           "genre": "Pop"
         },
         {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 26,
-          "genre": "Electronic"
-        },
-        {
           "song": "Pays Imaginaire",
           "artist": "Polo & Pan",
           "plays": 26,
@@ -1760,6 +1754,12 @@
           "artist": "Anri & MACROSS 82-99",
           "plays": 26,
           "genre": "City Pop"
+        },
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 25,
+          "genre": "Electronic"
         },
         {
           "song": "Premier League Song",
@@ -12028,6 +12028,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-28",
-  "snapshot_count": 169
+  "latest_snapshot": "2026-10-29",
+  "snapshot_count": 170
 }
