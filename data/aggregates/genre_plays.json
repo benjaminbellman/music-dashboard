@@ -1,52 +1,52 @@
 [
   {
     "genre": "Pop",
-    "plays": 35844,
+    "plays": 36132,
     "songs": 716
   },
   {
     "genre": "Dance",
-    "plays": 30665,
+    "plays": 30881,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23674,
+    "plays": 23761,
     "songs": 392
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18396,
+    "plays": 18438,
     "songs": 283
   },
   {
     "genre": "Alternative",
-    "plays": 14216,
+    "plays": 14306,
     "songs": 292
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11820,
+    "plays": 11865,
     "songs": 262
   },
   {
     "genre": "Rock",
-    "plays": 10978,
+    "plays": 11047,
     "songs": 282
   },
   {
     "genre": "Soft Rock",
-    "plays": 6754,
+    "plays": 6763,
     "songs": 74
   },
   {
     "genre": "Future Funk",
-    "plays": 5917,
+    "plays": 5935,
     "songs": 71
   },
   {
     "genre": "Lowfi",
-    "plays": 3903,
+    "plays": 3912,
     "songs": 47
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "genre": "Variété française",
-    "plays": 3461,
+    "plays": 3470,
     "songs": 24
   },
   {
@@ -71,27 +71,27 @@
   },
   {
     "genre": "Comedy",
-    "plays": 3349,
+    "plays": 3391,
     "songs": 93
   },
   {
     "genre": "mashup",
-    "plays": 2864,
+    "plays": 2882,
     "songs": 69
   },
   {
     "genre": "Latin",
-    "plays": 2805,
+    "plays": 2814,
     "songs": 47
   },
   {
     "genre": "Soundtrack",
-    "plays": 2776,
+    "plays": 2785,
     "songs": 69
   },
   {
     "genre": "Britpop",
-    "plays": 2138,
+    "plays": 2147,
     "songs": 8
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1598,
+    "plays": 1625,
     "songs": 28
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "genre": "Funk",
-    "plays": 948,
+    "plays": 957,
     "songs": 12
   },
   {
@@ -125,14 +125,14 @@
     "songs": 13
   },
   {
+    "genre": "Vaporwave",
+    "plays": 755,
+    "songs": 8
+  },
+  {
     "genre": "Europop",
     "plays": 746,
     "songs": 14
-  },
-  {
-    "genre": "Vaporwave",
-    "plays": 746,
-    "songs": 8
   },
   {
     "genre": "R&B/Soul",
@@ -151,7 +151,7 @@
   },
   {
     "genre": "J-Pop",
-    "plays": 449,
+    "plays": 467,
     "songs": 3
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "genre": "K-Pop",
-    "plays": 368,
+    "plays": 404,
     "songs": 7
   },
   {
@@ -295,6 +295,11 @@
     "songs": 2
   },
   {
+    "genre": "Trance",
+    "plays": 89,
+    "songs": 3
+  },
+  {
     "genre": "Soul and R&B",
     "plays": 88,
     "songs": 2
@@ -330,19 +335,14 @@
     "songs": 1
   },
   {
-    "genre": "Trance",
+    "genre": "Pop Latino",
     "plays": 80,
-    "songs": 3
+    "songs": 2
   },
   {
     "genre": "Rock;Electronic",
     "plays": 78,
     "songs": 1
-  },
-  {
-    "genre": "Pop Latino",
-    "plays": 71,
-    "songs": 2
   },
   {
     "genre": "Dance;Trance;Tech",

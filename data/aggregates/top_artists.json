@@ -305,13 +305,13 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4762,
+      "plays": 4798,
       "country": "FR"
     },
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3654,
+      "plays": 3663,
       "country": "FR"
     },
     {
@@ -341,13 +341,13 @@
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1876,
+      "plays": 1885,
       "country": "FR"
     },
     {
       "rank": 8,
       "artist": "Baddiel Skinner",
-      "plays": 1599,
+      "plays": 1608,
       "country": "GB"
     },
     {
@@ -407,7 +407,7 @@
     {
       "rank": 18,
       "artist": "The Weeknd",
-      "plays": 1048,
+      "plays": 1057,
       "country": "CA"
     },
     {
@@ -425,7 +425,7 @@
     {
       "rank": 21,
       "artist": "David Guetta",
-      "plays": 987,
+      "plays": 1005,
       "country": "FR"
     },
     {
@@ -436,15 +436,15 @@
     },
     {
       "rank": 23,
-      "artist": "Beach Boys",
-      "plays": 923,
-      "country": "US"
+      "artist": "Purple Disco Machine",
+      "plays": 943,
+      "country": "DE"
     },
     {
       "rank": 24,
-      "artist": "Purple Disco Machine",
-      "plays": 910,
-      "country": "DE"
+      "artist": "Beach Boys",
+      "plays": 923,
+      "country": "US"
     },
     {
       "rank": 25,
@@ -467,7 +467,7 @@
     {
       "rank": 28,
       "artist": "Night Tempo",
-      "plays": 831,
+      "plays": 840,
       "country": "KR"
     },
     {
@@ -491,7 +491,7 @@
     {
       "rank": 32,
       "artist": "Pink Floyd",
-      "plays": 748,
+      "plays": 757,
       "country": "GB"
     },
     {
@@ -514,15 +514,15 @@
     },
     {
       "rank": 36,
-      "artist": "The Beatles",
-      "plays": 639,
-      "country": "GB"
+      "artist": "Eric Prydz",
+      "plays": 644,
+      "country": "SE"
     },
     {
       "rank": 37,
-      "artist": "Eric Prydz",
-      "plays": 635,
-      "country": "SE"
+      "artist": "The Beatles",
+      "plays": 639,
+      "country": "GB"
     },
     {
       "rank": 38,
@@ -556,21 +556,21 @@
     },
     {
       "rank": 43,
+      "artist": "Madonna",
+      "plays": 578,
+      "country": "US"
+    },
+    {
+      "rank": 44,
       "artist": "MACROSS 82-99",
       "plays": 576,
       "country": "MX"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "artist": "Visitor",
       "plays": 571,
       "country": "AU"
-    },
-    {
-      "rank": 45,
-      "artist": "Madonna",
-      "plays": 569,
-      "country": "US"
     },
     {
       "rank": 46,
@@ -593,7 +593,7 @@
     {
       "rank": 49,
       "artist": "Bee Gees",
-      "plays": 532,
+      "plays": 541,
       "country": "GB"
     },
     {
