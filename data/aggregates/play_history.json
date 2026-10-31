@@ -680,83 +680,15 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 3388,
+      "total_plays": 1086,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 96
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 77
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 73
-        },
-        {
-          "artist": "Patrick Cowley",
           "plays": 36
         },
         {
-          "artist": "Global Communication",
+          "artist": "Purple Disco Machine",
           "plays": 33
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 32
-        },
-        {
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 32
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 30
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 29
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 28
-        },
-        {
-          "artist": "Jimmy Buffett",
-          "plays": 28
-        },
-        {
-          "artist": "Anri",
-          "plays": 28
-        },
-        {
-          "artist": "Kungs",
-          "plays": 28
-        },
-        {
-          "artist": "Illit",
-          "plays": 27
-        },
-        {
-          "artist": "Clean Bandit",
-          "plays": 26
-        },
-        {
-          "artist": "Disney",
-          "plays": 25
-        },
-        {
-          "artist": "ABBA",
-          "plays": 24
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 24
-        },
-        {
-          "artist": "French 79",
-          "plays": 24
         },
         {
           "artist": "TR3N TEN",
@@ -767,7 +699,7 @@
           "plays": 24
         },
         {
-          "artist": "Armin van Buuren",
+          "artist": "Jimmy Buffett",
           "plays": 24
         },
         {
@@ -775,153 +707,177 @@
           "plays": 24
         },
         {
-          "artist": "Rema, Selena Gomez",
+          "artist": "Patrick Cowley",
           "plays": 24
         },
         {
-          "artist": "Tom Petty & the Heartbreakers",
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 24
+        },
+        {
+          "artist": "Mattyeux",
+          "plays": 24
+        },
+        {
+          "artist": "Riize",
+          "plays": 18
+        },
+        {
+          "artist": "Giorgio Moroder",
+          "plays": 18
+        },
+        {
+          "artist": "Poolside",
+          "plays": 18
+        },
+        {
+          "artist": "Clean Bandit",
+          "plays": 18
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 18
+        },
+        {
+          "artist": "Empire of the Sun",
+          "plays": 9
+        },
+        {
+          "artist": "Declan McKenna",
+          "plays": 9
+        },
+        {
+          "artist": "I Monster",
+          "plays": 9
+        },
+        {
+          "artist": "DEEJMD",
+          "plays": 9
+        },
+        {
+          "artist": "DaJugglingFool",
+          "plays": 9
+        },
+        {
+          "artist": "Electronic",
+          "plays": 9
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 9
+        },
+        {
+          "artist": "Journey",
+          "plays": 9
+        },
+        {
+          "artist": "Dire Straits",
+          "plays": 9
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 9
+        },
+        {
+          "artist": "Milky",
+          "plays": 9
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 716
+          "plays": 288
         },
         {
           "genre": "Dance",
-          "plays": 648
-        },
-        {
-          "genre": "Electronic",
-          "plays": 315
+          "plays": 216
         },
         {
           "genre": "Alternative",
-          "plays": 270
+          "plays": 90
+        },
+        {
+          "genre": "Electronic",
+          "plays": 87
         },
         {
           "genre": "Rock",
-          "plays": 225
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 162
+          "plays": 69
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 109
+          "plays": 45
         },
         {
           "genre": "Comedy",
-          "plays": 102
+          "plays": 42
         },
         {
-          "genre": "House",
-          "plays": 71
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 70
-        },
-        {
-          "genre": "mashup",
-          "plays": 62
+          "genre": "Variete Francaise",
+          "plays": 42
         },
         {
           "genre": "K-Pop",
-          "plays": 58
+          "plays": 36
         },
         {
-          "genre": "Soft Rock",
-          "plays": 57
+          "genre": "House",
+          "plays": 27
         },
         {
-          "genre": "Soundtrack",
-          "plays": 53
+          "genre": "mashup",
+          "plays": 18
         },
         {
-          "genre": "City Pop",
-          "plays": 48
-        },
-        {
-          "genre": "Disco",
-          "plays": 40
+          "genre": "Future Funk",
+          "plays": 18
         },
         {
           "genre": "J-Pop",
-          "plays": 30
+          "plays": 18
         },
         {
-          "genre": "Variété française",
-          "plays": 29
+          "genre": "Soft Rock",
+          "plays": 9
         },
         {
-          "genre": "Lowfi",
-          "plays": 29
-        },
-        {
-          "genre": "Country",
-          "plays": 28
+          "genre": "Trance",
+          "plays": 9
         },
         {
           "genre": "Britpop",
-          "plays": 25
-        },
-        {
-          "genre": "Oldies",
-          "plays": 24
-        },
-        {
-          "genre": "Funk",
-          "plays": 21
+          "plays": 9
         },
         {
           "genre": "Latin",
-          "plays": 17
+          "plays": 9
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 9
+        },
+        {
+          "genre": "Variété française",
+          "plays": 9
+        },
+        {
+          "genre": "Funk",
+          "plays": 9
+        },
+        {
+          "genre": "Lowfi",
+          "plays": 9
+        },
+        {
+          "genre": "Vaporwave",
+          "plays": 9
         },
         {
           "genre": "Pop Latino",
-          "plays": 13
+          "plays": 9
         }
       ],
       "top_tracks": [
-        {
-          "song": "Menergy (feat. Sylvester)",
-          "artist": "Patrick Cowley & Purple Disco Machine",
-          "plays": 36,
-          "genre": "Dance"
-        },
-        {
-          "song": "The Way (Secret Ingredients Mix)",
-          "artist": "Global Communication",
-          "plays": 33,
-          "genre": "House"
-        },
-        {
-          "song": "Me And My Broken Heart",
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 32,
-          "genre": "Dance"
-        },
-        {
-          "song": "Margaritaville",
-          "artist": "Jimmy Buffett",
-          "plays": 28,
-          "genre": "Rock"
-        },
-        {
-          "song": "NOT CUTE ANYMORE",
-          "artist": "Illit",
-          "plays": 27,
-          "genre": "K-Pop"
-        },
-        {
-          "song": "Memories",
-          "artist": "French 79",
-          "plays": 24,
-          "genre": "Electronic"
-        },
         {
           "song": "Bomboclat Wallahi",
           "artist": "TR3N TEN",
@@ -935,16 +891,10 @@
           "genre": "Electronic"
         },
         {
-          "song": "DRIVING MY LOVE",
-          "artist": "Anri",
+          "song": "Margaritaville",
+          "artist": "Jimmy Buffett",
           "plays": 24,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 24,
-          "genre": "Dance"
+          "genre": "Rock"
         },
         {
           "song": "What the Cat ?",
@@ -953,22 +903,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Calm Down",
-          "artist": "Rema, Selena Gomez",
+          "song": "Menergy (feat. Sylvester)",
+          "artist": "Patrick Cowley & Purple Disco Machine",
           "plays": 24,
-          "genre": "Pop"
+          "genre": "Dance"
         },
         {
-          "song": "Don't Do Me Like That",
-          "artist": "Tom Petty & the Heartbreakers",
+          "song": "Me And My Broken Heart",
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 24,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "The Great Escape",
-          "artist": "Boys Like Girls",
-          "plays": 24,
-          "genre": "Alternative"
+          "genre": "Dance"
         },
         {
           "song": "VHS",
@@ -979,20 +923,8 @@
         {
           "song": "Get A Guitar",
           "artist": "Riize",
-          "plays": 22,
+          "plays": 18,
           "genre": "K-Pop"
-        },
-        {
-          "song": "Paprika Opening Full",
-          "artist": "Satoshi Kon",
-          "plays": 21,
-          "genre": "J-Pop"
-        },
-        {
-          "song": "This Is What It Feels Like",
-          "artist": "Armin van Buuren",
-          "plays": 20,
-          "genre": "Dance"
         },
         {
           "song": "And the Sea (Pixelated Remix)",
@@ -1001,40 +933,100 @@
           "genre": "Dance"
         },
         {
+          "song": "We Are The People",
+          "artist": "Empire of the Sun",
+          "plays": 9,
+          "genre": "Alternative"
+        },
+        {
           "song": "Brazil",
           "artist": "Declan McKenna",
-          "plays": 17,
+          "plays": 9,
           "genre": "Pop"
         },
         {
-          "song": "Jurassic Park",
-          "artist": "Weird Al Yankovich",
-          "plays": 16,
-          "genre": "Comedy"
+          "song": "Daydream In Blue",
+          "artist": "I Monster",
+          "plays": 9,
+          "genre": "Alternative"
         },
         {
-          "song": "2012 - 2022 Decade Mix",
-          "artist": "Flight Facilities",
-          "plays": 16,
-          "genre": "mashup"
-        },
-        {
-          "song": "Golden Cage (Fred Falke Remix)",
-          "artist": "The Whitest Boy Alive & Fred Falke",
-          "plays": 16,
+          "song": "Too Late Now",
+          "artist": "DEEJMD",
+          "plays": 9,
           "genre": "Dance"
         },
         {
-          "song": "Rain Song",
-          "artist": "Disney",
-          "plays": 16,
-          "genre": "Soundtrack"
+          "song": "Why is the Rum Gone",
+          "artist": "DaJugglingFool",
+          "plays": 9,
+          "genre": "Dance"
+        },
+        {
+          "song": "Disappointed",
+          "artist": "Electronic",
+          "plays": 9,
+          "genre": "Pop"
+        },
+        {
+          "song": "Circus",
+          "artist": "Britney Spears",
+          "plays": 9,
+          "genre": "Pop"
+        },
+        {
+          "song": "Any Way You Want It",
+          "artist": "Journey",
+          "plays": 9,
+          "genre": "Rock"
+        },
+        {
+          "song": "Doin' It Right (feat. Panda Bear)",
+          "artist": "Daft Punk",
+          "plays": 9,
+          "genre": "Pop"
+        },
+        {
+          "song": "Why Worry",
+          "artist": "Dire Straits",
+          "plays": 9,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "Save Your Tears",
+          "artist": "The Weeknd",
+          "plays": 9,
+          "genre": "Pop"
+        },
+        {
+          "song": "Just The Way You Are",
+          "artist": "Milky",
+          "plays": 9,
+          "genre": "Pop"
+        },
+        {
+          "song": "It's My Life",
+          "artist": "No Doubt",
+          "plays": 9,
+          "genre": "Rock"
+        },
+        {
+          "song": "1, 2, 3, 4",
+          "artist": "Plain White Ts",
+          "plays": 9,
+          "genre": "Pop"
         },
         {
           "song": "Can I Call You Tonight",
           "artist": "Dayglow",
-          "plays": 13,
+          "plays": 9,
           "genre": "Alternative"
+        },
+        {
+          "song": "Sarkozik",
+          "artist": "Sinik",
+          "plays": 9,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
@@ -1760,7 +1752,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7929,
+      "total_plays": 7914,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1827,12 +1819,12 @@
           "plays": 52
         },
         {
-          "artist": "Flight Facilities",
+          "artist": "Demon",
           "plays": 51
         },
         {
-          "artist": "Demon",
-          "plays": 51
+          "artist": "Flight Facilities",
+          "plays": 50
         },
         {
           "artist": "Britney Spears",
@@ -1870,19 +1862,19 @@
         },
         {
           "genre": "Pop",
-          "plays": 1419
+          "plays": 1418
         },
         {
           "genre": "Electronic",
-          "plays": 855
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 480
+          "plays": 854
         },
         {
           "genre": "Alternative",
           "plays": 470
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 468
         },
         {
           "genre": "Rock",
@@ -1902,7 +1894,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 184
+          "plays": 183
         },
         {
           "genre": "Soft Rock",
@@ -12912,6 +12904,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-30",
-  "snapshot_count": 171
+  "latest_snapshot": "2026-10-31",
+  "snapshot_count": 172
 }
