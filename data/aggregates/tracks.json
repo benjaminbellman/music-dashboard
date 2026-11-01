@@ -7065,6 +7065,21 @@
     "country": "NL"
   },
   {
+    "id": "bcf443a888c0ec76",
+    "song": "Magnolias for Ever (Fred Falke Remix)",
+    "artist": "Claude François & Fred Falke",
+    "credits": [
+      "Claude François"
+    ],
+    "album": "",
+    "plays": 107,
+    "duration_sec": 432,
+    "date_added": "2025-03-04T04:42:53",
+    "last_played": "2026-10-31T12:55:17",
+    "genre": "House",
+    "country": "FR"
+  },
+  {
     "id": "2c5eeff4bad1af97",
     "song": "Forget About The World [Daft Punk Remix] - Musiqu",
     "artist": "Gabrielle & Daft Punk",
@@ -7423,21 +7438,6 @@
     "date_added": "2020-10-27T07:29:19",
     "last_played": "2024-05-07T17:05:36",
     "genre": "Electronic",
-    "country": "FR"
-  },
-  {
-    "id": "bcf443a888c0ec76",
-    "song": "Magnolias for Ever (Fred Falke Remix)",
-    "artist": "Claude François & Fred Falke",
-    "credits": [
-      "Claude François"
-    ],
-    "album": "",
-    "plays": 104,
-    "duration_sec": 432,
-    "date_added": "2025-03-04T04:42:53",
-    "last_played": "2026-07-14T08:29:22",
-    "genre": "House",
     "country": "FR"
   },
   {

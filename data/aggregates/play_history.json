@@ -323,12 +323,16 @@
     {
       "date": "2026-10-30",
       "plays": 1086
+    },
+    {
+      "date": "2026-11-01",
+      "plays": 3
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 1086,
+      "total_plays": 1089,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -470,7 +474,7 @@
         },
         {
           "genre": "House",
-          "plays": 27
+          "plays": 30
         },
         {
           "genre": "mashup",
@@ -680,7 +684,7 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1086,
+      "total_plays": 1089,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -822,7 +826,7 @@
         },
         {
           "genre": "House",
-          "plays": 27
+          "plays": 30
         },
         {
           "genre": "mashup",
@@ -1032,7 +1036,7 @@
     },
     "30d": {
       "days": 30,
-      "total_plays": 3388,
+      "total_plays": 3391,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1170,7 +1174,7 @@
         },
         {
           "genre": "House",
-          "plays": 71
+          "plays": 74
         },
         {
           "genre": "Future Funk",
@@ -1392,7 +1396,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5361,
+      "total_plays": 5364,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1546,7 +1550,7 @@
         },
         {
           "genre": "House",
-          "plays": 76
+          "plays": 79
         },
         {
           "genre": "K-Pop",
@@ -1752,7 +1756,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7914,
+      "total_plays": 7917,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1906,7 +1910,7 @@
         },
         {
           "genre": "House",
-          "plays": 94
+          "plays": 97
         },
         {
           "genre": "Disco",
@@ -2112,7 +2116,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 8367,
+      "total_plays": 8370,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -2266,7 +2270,7 @@
         },
         {
           "genre": "House",
-          "plays": 105
+          "plays": 108
         },
         {
           "genre": "Disco",
@@ -10073,6 +10077,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-01",
+      "id": "bcf443a888c0ec76",
+      "plays": 3
+    },
+    {
       "date": "2026-10-17",
       "id": "bd64af67bb346586",
       "plays": 4
@@ -12904,6 +12913,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-10-31",
-  "snapshot_count": 172
+  "latest_snapshot": "2026-11-01",
+  "snapshot_count": 173
 }
