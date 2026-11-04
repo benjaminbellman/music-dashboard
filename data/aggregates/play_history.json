@@ -332,27 +332,10 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 3,
-      "top_artists": [
-        {
-          "artist": "Claude François",
-          "plays": 3
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "House",
-          "plays": 3
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 3,
-          "genre": "House"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "14d": {
       "days": 14,
@@ -12585,6 +12568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-03",
-  "snapshot_count": 174
+  "latest_snapshot": "2026-11-04",
+  "snapshot_count": 175
 }
