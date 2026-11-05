@@ -1051,7 +1051,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5364,
+      "total_plays": 5257,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1059,19 +1059,19 @@
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 134
+          "plays": 133
         },
         {
           "artist": "Anri",
-          "plays": 95
-        },
-        {
-          "artist": "Bon Entendeur",
-          "plays": 92
+          "plays": 94
         },
         {
           "artist": "Kungs",
           "plays": 87
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 86
         },
         {
           "artist": "Dua Lipa",
@@ -1086,10 +1086,6 @@
           "plays": 44
         },
         {
-          "artist": "Coldplay",
-          "plays": 43
-        },
-        {
           "artist": "Jacques Brel",
           "plays": 43
         },
@@ -1098,8 +1094,12 @@
           "plays": 43
         },
         {
+          "artist": "Coldplay",
+          "plays": 41
+        },
+        {
           "artist": "Patrick Cowley",
-          "plays": 42
+          "plays": 41
         },
         {
           "artist": "Beachcrimes & Tia Tia",
@@ -1107,19 +1107,15 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 37
-        },
-        {
-          "artist": "Flight Facilities",
           "plays": 36
-        },
-        {
-          "artist": "Tatsuro Yamashita",
-          "plays": 34
         },
         {
           "artist": "Boys Like Girls",
           "plays": 34
+        },
+        {
+          "artist": "Flight Facilities",
+          "plays": 33
         },
         {
           "artist": "Global Communication",
@@ -1142,6 +1138,10 @@
           "plays": 31
         },
         {
+          "artist": "Tatsuro Yamashita",
+          "plays": 29
+        },
+        {
           "artist": "ANOTR",
           "plays": 29
         },
@@ -1157,51 +1157,51 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1036
+          "plays": 1016
         },
         {
           "genre": "Pop",
-          "plays": 963
+          "plays": 947
         },
         {
           "genre": "Electronic",
-          "plays": 530
-        },
-        {
-          "genre": "Alternative",
-          "plays": 328
+          "plays": 518
         },
         {
           "genre": "Rock",
-          "plays": 326
+          "plays": 322
+        },
+        {
+          "genre": "Alternative",
+          "plays": 320
         },
         {
           "genre": "Variete Francaise",
-          "plays": 317
+          "plays": 307
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 253
+          "plays": 249
         },
         {
           "genre": "Comedy",
-          "plays": 176
+          "plays": 174
         },
         {
           "genre": "City Pop",
-          "plays": 146
-        },
-        {
-          "genre": "mashup",
           "plays": 139
         },
         {
+          "genre": "mashup",
+          "plays": 133
+        },
+        {
           "genre": "Future Funk",
-          "plays": 97
+          "plays": 95
         },
         {
           "genre": "Soft Rock",
-          "plays": 95
+          "plays": 92
         },
         {
           "genre": "House",
@@ -1213,15 +1213,15 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 66
+          "plays": 65
         },
         {
           "genre": "Disco",
-          "plays": 61
+          "plays": 60
         },
         {
           "genre": "Oldies",
-          "plays": 59
+          "plays": 58
         },
         {
           "genre": "Variété française",
@@ -1229,26 +1229,26 @@
         },
         {
           "genre": "Lowfi",
-          "plays": 42
+          "plays": 40
         },
         {
           "genre": "Funk",
           "plays": 39
         },
         {
-          "genre": "J-Pop",
-          "plays": 31
-        },
-        {
           "genre": "Latin",
           "plays": 30
         },
         {
-          "genre": "Country",
+          "genre": "J-Pop",
           "plays": 30
         },
         {
           "genre": "Hip-Hop/Rap",
+          "plays": 29
+        },
+        {
+          "genre": "Country",
           "plays": 29
         },
         {
@@ -1284,7 +1284,7 @@
         {
           "song": "Menergy (feat. Sylvester)",
           "artist": "Patrick Cowley & Purple Disco Machine",
-          "plays": 38,
+          "plays": 37,
           "genre": "Dance"
         },
         {
@@ -1378,18 +1378,6 @@
           "genre": "K-Pop"
         },
         {
-          "song": "This Is What It Feels Like",
-          "artist": "Armin van Buuren",
-          "plays": 22,
-          "genre": "Dance"
-        },
-        {
-          "song": "Paprika Opening Full",
-          "artist": "Satoshi Kon",
-          "plays": 22,
-          "genre": "J-Pop"
-        },
-        {
           "song": "Les flamandes",
           "artist": "Jacques Brel",
           "plays": 22,
@@ -1406,6 +1394,18 @@
           "artist": "Jacques Brel",
           "plays": 21,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Awkward Rap",
+          "artist": "Collegehumor",
+          "plays": 21,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Save Dat Money (Feat. Fetty Wap and Rich Homie Quan)",
+          "artist": "Lil Dicky",
+          "plays": 21,
+          "genre": "Hip Hop/Rap"
         }
       ]
     },
@@ -12568,6 +12568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-04",
-  "snapshot_count": 175
+  "latest_snapshot": "2026-11-05",
+  "snapshot_count": 176
 }
