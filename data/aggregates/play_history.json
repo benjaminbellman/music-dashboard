@@ -1411,7 +1411,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7886,
+      "total_plays": 7814,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1419,7 +1419,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 268
+          "plays": 260
         },
         {
           "artist": "Kungs",
@@ -1517,15 +1517,15 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1649
+          "plays": 1641
         },
         {
           "genre": "Pop",
-          "plays": 1417
+          "plays": 1409
         },
         {
           "genre": "Electronic",
-          "plays": 830
+          "plays": 814
         },
         {
           "genre": "Alternative",
@@ -1541,7 +1541,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 393
+          "plays": 385
         },
         {
           "genre": "Comedy",
@@ -1549,7 +1549,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 191
+          "plays": 183
         },
         {
           "genre": "mashup",
@@ -1568,20 +1568,20 @@
           "plays": 94
         },
         {
-          "genre": "Disco",
-          "plays": 84
-        },
-        {
-          "genre": "Oldies",
-          "plays": 83
-        },
-        {
           "genre": "Soundtrack",
           "plays": 82
         },
         {
           "genre": "K-Pop",
           "plays": 78
+        },
+        {
+          "genre": "Disco",
+          "plays": 76
+        },
+        {
+          "genre": "Oldies",
+          "plays": 75
         },
         {
           "genre": "Variété française",
@@ -12568,6 +12568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-05",
-  "snapshot_count": 176
+  "latest_snapshot": "2026-11-06",
+  "snapshot_count": 177
 }
