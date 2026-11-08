@@ -1051,11 +1051,11 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5257,
+      "total_plays": 5157,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 195
+          "plays": 191
         },
         {
           "artist": "Purple Disco Machine",
@@ -1114,10 +1114,6 @@
           "plays": 34
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 33
-        },
-        {
           "artist": "Global Communication",
           "plays": 33
         },
@@ -1142,6 +1138,10 @@
           "plays": 29
         },
         {
+          "artist": "Flight Facilities",
+          "plays": 29
+        },
+        {
           "artist": "ANOTR",
           "plays": 29
         },
@@ -1157,27 +1157,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1016
+          "plays": 1004
         },
         {
           "genre": "Pop",
-          "plays": 947
+          "plays": 915
         },
         {
           "genre": "Electronic",
-          "plays": 518
+          "plays": 506
         },
         {
           "genre": "Rock",
-          "plays": 322
+          "plays": 318
         },
         {
           "genre": "Alternative",
-          "plays": 320
+          "plays": 316
         },
         {
           "genre": "Variete Francaise",
-          "plays": 307
+          "plays": 295
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1189,11 +1189,11 @@
         },
         {
           "genre": "City Pop",
-          "plays": 139
+          "plays": 135
         },
         {
           "genre": "mashup",
-          "plays": 133
+          "plays": 129
         },
         {
           "genre": "Future Funk",
@@ -1213,7 +1213,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 65
+          "plays": 61
         },
         {
           "genre": "Disco",
@@ -12568,6 +12568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-06",
-  "snapshot_count": 177
+  "latest_snapshot": "2026-11-08",
+  "snapshot_count": 178
 }
