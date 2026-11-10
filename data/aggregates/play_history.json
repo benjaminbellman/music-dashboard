@@ -1051,7 +1051,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5157,
+      "total_plays": 5114,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1071,11 +1071,11 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 86
+          "plays": 84
         },
         {
           "artist": "Dua Lipa",
-          "plays": 52
+          "plays": 51
         },
         {
           "artist": "Benjamin Bellman",
@@ -1107,7 +1107,7 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 36
+          "plays": 35
         },
         {
           "artist": "Boys Like Girls",
@@ -1157,47 +1157,47 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1004
+          "plays": 995
         },
         {
           "genre": "Pop",
-          "plays": 915
+          "plays": 908
         },
         {
           "genre": "Electronic",
-          "plays": 506
-        },
-        {
-          "genre": "Rock",
-          "plays": 318
+          "plays": 503
         },
         {
           "genre": "Alternative",
-          "plays": 316
+          "plays": 312
+        },
+        {
+          "genre": "Rock",
+          "plays": 310
         },
         {
           "genre": "Variete Francaise",
-          "plays": 295
+          "plays": 294
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 249
+          "plays": 248
         },
         {
           "genre": "Comedy",
-          "plays": 174
+          "plays": 173
         },
         {
           "genre": "City Pop",
-          "plays": 135
+          "plays": 134
         },
         {
           "genre": "mashup",
-          "plays": 129
+          "plays": 128
         },
         {
           "genre": "Future Funk",
-          "plays": 95
+          "plays": 93
         },
         {
           "genre": "Soft Rock",
@@ -1228,28 +1228,28 @@
           "plays": 47
         },
         {
-          "genre": "Lowfi",
-          "plays": 40
-        },
-        {
           "genre": "Funk",
           "plays": 39
         },
         {
-          "genre": "Latin",
-          "plays": 30
+          "genre": "Lowfi",
+          "plays": 39
         },
         {
           "genre": "J-Pop",
           "plays": 30
         },
         {
-          "genre": "Hip-Hop/Rap",
+          "genre": "Latin",
           "plays": 29
         },
         {
           "genre": "Country",
           "plays": 29
+        },
+        {
+          "genre": "Hip-Hop/Rap",
+          "plays": 28
         },
         {
           "genre": "R & B",
@@ -12568,6 +12568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-09",
-  "snapshot_count": 179
+  "latest_snapshot": "2026-11-10",
+  "snapshot_count": 180
 }
