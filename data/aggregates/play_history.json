@@ -1051,7 +1051,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5114,
+      "total_plays": 5021,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1059,19 +1059,19 @@
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 133
+          "plays": 106
         },
         {
           "artist": "Anri",
           "plays": 94
         },
         {
-          "artist": "Kungs",
-          "plays": 87
-        },
-        {
           "artist": "Bon Entendeur",
           "plays": 84
+        },
+        {
+          "artist": "Kungs",
+          "plays": 60
         },
         {
           "artist": "Dua Lipa",
@@ -1130,19 +1130,11 @@
           "plays": 31
         },
         {
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31
-        },
-        {
           "artist": "Tatsuro Yamashita",
           "plays": 29
         },
         {
           "artist": "Flight Facilities",
-          "plays": 29
-        },
-        {
-          "artist": "ANOTR",
           "plays": 29
         },
         {
@@ -1152,12 +1144,20 @@
         {
           "artist": "PNL",
           "plays": 28
+        },
+        {
+          "artist": "Clean Bandit",
+          "plays": 26
+        },
+        {
+          "artist": "Disney",
+          "plays": 26
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 995
+          "plays": 917
         },
         {
           "genre": "Pop",
@@ -1165,7 +1165,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 503
+          "plays": 502
         },
         {
           "genre": "Alternative",
@@ -1181,7 +1181,7 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 248
+          "plays": 235
         },
         {
           "genre": "Comedy",
@@ -1189,7 +1189,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 134
+          "plays": 133
         },
         {
           "genre": "mashup",
@@ -1260,7 +1260,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 83,
+          "plays": 56,
           "genre": "Dance"
         },
         {
@@ -1309,18 +1309,6 @@
           "song": "Me And My Broken Heart",
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 32,
-          "genre": "Dance"
-        },
-        {
-          "song": "Miss You",
-          "artist": "Oliver Tree & Robin Schulz",
-          "plays": 31,
-          "genre": "Dance"
-        },
-        {
-          "song": "Talk To You [No Art]",
-          "artist": "ANOTR ft. 54 Ultra",
-          "plays": 29,
           "genre": "Dance"
         },
         {
@@ -1406,12 +1394,24 @@
           "artist": "Lil Dicky",
           "plays": 21,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "down the gust of wind",
+          "artist": "Benjamin Bellman",
+          "plays": 21,
+          "genre": "mashup"
+        },
+        {
+          "song": "This Is What It Feels Like",
+          "artist": "Armin van Buuren",
+          "plays": 21,
+          "genre": "Dance"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 7814,
+      "total_plays": 7748,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1419,7 +1419,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 260
+          "plays": 259
         },
         {
           "artist": "Kungs",
@@ -1427,7 +1427,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 131
+          "plays": 129
         },
         {
           "artist": "442oons",
@@ -1435,7 +1435,7 @@
         },
         {
           "artist": "Anri",
-          "plays": 103
+          "plays": 102
         },
         {
           "artist": "David Guetta",
@@ -1451,15 +1451,15 @@
         },
         {
           "artist": "Michael Jackson",
-          "plays": 60
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 56
+          "plays": 59
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 56
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 55
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1517,31 +1517,31 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1641
+          "plays": 1636
         },
         {
           "genre": "Pop",
-          "plays": 1409
+          "plays": 1393
         },
         {
           "genre": "Electronic",
-          "plays": 814
+          "plays": 795
         },
         {
           "genre": "Alternative",
-          "plays": 470
+          "plays": 469
         },
         {
           "genre": "Variete Francaise",
-          "plays": 468
+          "plays": 465
         },
         {
           "genre": "Rock",
-          "plays": 419
+          "plays": 418
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 385
+          "plays": 383
         },
         {
           "genre": "Comedy",
@@ -1553,15 +1553,15 @@
         },
         {
           "genre": "mashup",
-          "plays": 182
+          "plays": 181
         },
         {
           "genre": "Soft Rock",
-          "plays": 153
+          "plays": 147
         },
         {
           "genre": "Future Funk",
-          "plays": 132
+          "plays": 131
         },
         {
           "genre": "House",
@@ -1576,11 +1576,11 @@
           "plays": 78
         },
         {
-          "genre": "Disco",
-          "plays": 76
+          "genre": "Oldies",
+          "plays": 75
         },
         {
-          "genre": "Oldies",
+          "genre": "Disco",
           "plays": 75
         },
         {
@@ -1732,12 +1732,6 @@
           "genre": "House"
         },
         {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 33,
-          "genre": "Soft Rock"
-        },
-        {
           "song": "Billy Jean",
           "artist": "Michael Jackson",
           "plays": 32,
@@ -1766,6 +1760,12 @@
           "artist": "Madison Avenue",
           "plays": 28,
           "genre": "Dance"
+        },
+        {
+          "song": "Down On The Corner",
+          "artist": "Creedence Clearwater Revival",
+          "plays": 27,
+          "genre": "Soft Rock"
         }
       ]
     },
@@ -12568,6 +12568,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-10",
-  "snapshot_count": 180
+  "latest_snapshot": "2026-11-12",
+  "snapshot_count": 181
 }
