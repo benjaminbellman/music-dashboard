@@ -339,353 +339,25 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 1089,
+      "total_plays": 3,
       "top_artists": [
         {
-          "artist": "Daft Punk",
-          "plays": 36
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 33
-        },
-        {
-          "artist": "TR3N TEN",
-          "plays": 24
-        },
-        {
-          "artist": "Knightlife",
-          "plays": 24
-        },
-        {
-          "artist": "Jimmy Buffett",
-          "plays": 24
-        },
-        {
-          "artist": "Camellia",
-          "plays": 24
-        },
-        {
-          "artist": "Patrick Cowley",
-          "plays": 24
-        },
-        {
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 24
-        },
-        {
-          "artist": "Mattyeux",
-          "plays": 24
-        },
-        {
-          "artist": "Riize",
-          "plays": 18
-        },
-        {
-          "artist": "Giorgio Moroder",
-          "plays": 18
-        },
-        {
-          "artist": "Poolside",
-          "plays": 18
-        },
-        {
-          "artist": "Clean Bandit",
-          "plays": 18
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 18
-        },
-        {
-          "artist": "Empire of the Sun",
-          "plays": 9
-        },
-        {
-          "artist": "Declan McKenna",
-          "plays": 9
-        },
-        {
-          "artist": "I Monster",
-          "plays": 9
-        },
-        {
-          "artist": "DEEJMD",
-          "plays": 9
-        },
-        {
-          "artist": "DaJugglingFool",
-          "plays": 9
-        },
-        {
-          "artist": "Electronic",
-          "plays": 9
-        },
-        {
-          "artist": "Britney Spears",
-          "plays": 9
-        },
-        {
-          "artist": "Journey",
-          "plays": 9
-        },
-        {
-          "artist": "Dire Straits",
-          "plays": 9
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 9
-        },
-        {
-          "artist": "Milky",
-          "plays": 9
+          "artist": "Claude François",
+          "plays": 3
         }
       ],
       "top_genres": [
         {
-          "genre": "Pop",
-          "plays": 288
-        },
-        {
-          "genre": "Dance",
-          "plays": 216
-        },
-        {
-          "genre": "Alternative",
-          "plays": 90
-        },
-        {
-          "genre": "Electronic",
-          "plays": 87
-        },
-        {
-          "genre": "Rock",
-          "plays": 69
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 45
-        },
-        {
-          "genre": "Comedy",
-          "plays": 42
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 42
-        },
-        {
-          "genre": "K-Pop",
-          "plays": 36
-        },
-        {
           "genre": "House",
-          "plays": 30
-        },
-        {
-          "genre": "mashup",
-          "plays": 18
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 18
-        },
-        {
-          "genre": "J-Pop",
-          "plays": 18
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 9
-        },
-        {
-          "genre": "Trance",
-          "plays": 9
-        },
-        {
-          "genre": "Britpop",
-          "plays": 9
-        },
-        {
-          "genre": "Latin",
-          "plays": 9
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 9
-        },
-        {
-          "genre": "Variété française",
-          "plays": 9
-        },
-        {
-          "genre": "Funk",
-          "plays": 9
-        },
-        {
-          "genre": "Lowfi",
-          "plays": 9
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 9
-        },
-        {
-          "genre": "Pop Latino",
-          "plays": 9
+          "plays": 3
         }
       ],
       "top_tracks": [
         {
-          "song": "Bomboclat Wallahi",
-          "artist": "TR3N TEN",
-          "plays": 24,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Discotirso",
-          "artist": "Knightlife",
-          "plays": 24,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Margaritaville",
-          "artist": "Jimmy Buffett",
-          "plays": 24,
-          "genre": "Rock"
-        },
-        {
-          "song": "What the Cat ?",
-          "artist": "Camellia",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Menergy (feat. Sylvester)",
-          "artist": "Patrick Cowley & Purple Disco Machine",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "Me And My Broken Heart",
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 24,
-          "genre": "Dance"
-        },
-        {
-          "song": "VHS",
-          "artist": "Mattyeux",
-          "plays": 24,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Get A Guitar",
-          "artist": "Riize",
-          "plays": 18,
-          "genre": "K-Pop"
-        },
-        {
-          "song": "And the Sea (Pixelated Remix)",
-          "artist": "Poolside",
-          "plays": 18,
-          "genre": "Dance"
-        },
-        {
-          "song": "We Are The People",
-          "artist": "Empire of the Sun",
-          "plays": 9,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Brazil",
-          "artist": "Declan McKenna",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Daydream In Blue",
-          "artist": "I Monster",
-          "plays": 9,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Too Late Now",
-          "artist": "DEEJMD",
-          "plays": 9,
-          "genre": "Dance"
-        },
-        {
-          "song": "Why is the Rum Gone",
-          "artist": "DaJugglingFool",
-          "plays": 9,
-          "genre": "Dance"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Circus",
-          "artist": "Britney Spears",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Any Way You Want It",
-          "artist": "Journey",
-          "plays": 9,
-          "genre": "Rock"
-        },
-        {
-          "song": "Doin' It Right (feat. Panda Bear)",
-          "artist": "Daft Punk",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Why Worry",
-          "artist": "Dire Straits",
-          "plays": 9,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Save Your Tears",
-          "artist": "The Weeknd",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "It's My Life",
-          "artist": "No Doubt",
-          "plays": 9,
-          "genre": "Rock"
-        },
-        {
-          "song": "1, 2, 3, 4",
-          "artist": "Plain White Ts",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 9,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Sarkozik",
-          "artist": "Sinik",
-          "plays": 9,
-          "genre": "Hip Hop/Rap"
+          "song": "Magnolias for Ever (Fred Falke Remix)",
+          "artist": "Claude François & Fred Falke",
+          "plays": 3,
+          "genre": "House"
         }
       ]
     },
@@ -1051,7 +723,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5021,
+      "total_plays": 5015,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1177,7 +849,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 294
+          "plays": 290
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1189,7 +861,7 @@
         },
         {
           "genre": "City Pop",
-          "plays": 133
+          "plays": 131
         },
         {
           "genre": "mashup",
@@ -1411,7 +1083,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7748,
+      "total_plays": 7746,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1525,7 +1197,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 795
+          "plays": 793
         },
         {
           "genre": "Alternative",
@@ -12568,6 +12240,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-12",
-  "snapshot_count": 181
+  "latest_snapshot": "2026-11-13",
+  "snapshot_count": 182
 }
