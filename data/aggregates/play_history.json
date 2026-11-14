@@ -723,15 +723,15 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5015,
+      "total_plays": 4981,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 191
+          "plays": 189
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 106
+          "plays": 103
         },
         {
           "artist": "Anri",
@@ -743,7 +743,7 @@
         },
         {
           "artist": "Kungs",
-          "plays": 60
+          "plays": 58
         },
         {
           "artist": "Dua Lipa",
@@ -770,11 +770,11 @@
           "plays": 41
         },
         {
-          "artist": "Patrick Cowley",
-          "plays": 41
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 40
         },
         {
-          "artist": "Beachcrimes & Tia Tia",
+          "artist": "Patrick Cowley",
           "plays": 40
         },
         {
@@ -828,16 +828,16 @@
       ],
       "top_genres": [
         {
-          "genre": "Dance",
-          "plays": 917
+          "genre": "Pop",
+          "plays": 904
         },
         {
-          "genre": "Pop",
-          "plays": 908
+          "genre": "Dance",
+          "plays": 899
         },
         {
           "genre": "Electronic",
-          "plays": 502
+          "plays": 500
         },
         {
           "genre": "Alternative",
@@ -845,11 +845,11 @@
         },
         {
           "genre": "Rock",
-          "plays": 310
+          "plays": 308
         },
         {
           "genre": "Variete Francaise",
-          "plays": 290
+          "plays": 286
         },
         {
           "genre": "Hip Hop/Rap",
@@ -868,12 +868,12 @@
           "plays": 128
         },
         {
-          "genre": "Future Funk",
-          "plays": 93
-        },
-        {
           "genre": "Soft Rock",
           "plays": 92
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 89
         },
         {
           "genre": "House",
@@ -932,7 +932,7 @@
         {
           "song": "Substitution (Official Music Video) ft. Julian Perretta",
           "artist": "Kungs & Purple Disco Machine",
-          "plays": 56,
+          "plays": 54,
           "genre": "Dance"
         },
         {
@@ -956,7 +956,7 @@
         {
           "song": "Menergy (feat. Sylvester)",
           "artist": "Patrick Cowley & Purple Disco Machine",
-          "plays": 37,
+          "plays": 36,
           "genre": "Dance"
         },
         {
@@ -1083,7 +1083,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7746,
+      "total_plays": 7729,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1189,23 +1189,23 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1636
+          "plays": 1634
         },
         {
           "genre": "Pop",
-          "plays": 1393
+          "plays": 1391
         },
         {
           "genre": "Electronic",
-          "plays": 793
+          "plays": 792
         },
         {
           "genre": "Alternative",
-          "plays": 469
+          "plays": 466
         },
         {
           "genre": "Variete Francaise",
-          "plays": 465
+          "plays": 463
         },
         {
           "genre": "Rock",
@@ -1213,19 +1213,19 @@
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 383
+          "plays": 382
         },
         {
           "genre": "Comedy",
-          "plays": 288
-        },
-        {
-          "genre": "City Pop",
-          "plays": 183
+          "plays": 287
         },
         {
           "genre": "mashup",
           "plays": 181
+        },
+        {
+          "genre": "City Pop",
+          "plays": 180
         },
         {
           "genre": "Soft Rock",
@@ -12240,6 +12240,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-13",
-  "snapshot_count": 182
+  "latest_snapshot": "2026-11-14",
+  "snapshot_count": 183
 }
