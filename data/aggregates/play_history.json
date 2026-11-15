@@ -339,27 +339,10 @@
     },
     "14d": {
       "days": 14,
-      "total_plays": 3,
-      "top_artists": [
-        {
-          "artist": "Claude François",
-          "plays": 3
-        }
-      ],
-      "top_genres": [
-        {
-          "genre": "House",
-          "plays": 3
-        }
-      ],
-      "top_tracks": [
-        {
-          "song": "Magnolias for Ever (Fred Falke Remix)",
-          "artist": "Claude François & Fred Falke",
-          "plays": 3,
-          "genre": "House"
-        }
-      ]
+      "total_plays": 0,
+      "top_artists": [],
+      "top_genres": [],
+      "top_tracks": []
     },
     "30d": {
       "days": 30,
@@ -723,15 +706,11 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4981,
+      "total_plays": 4947,
       "top_artists": [
         {
           "artist": "Daft Punk",
           "plays": 189
-        },
-        {
-          "artist": "Purple Disco Machine",
-          "plays": 103
         },
         {
           "artist": "Anri",
@@ -742,16 +721,16 @@
           "plays": 84
         },
         {
-          "artist": "Kungs",
-          "plays": 58
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 51
+          "artist": "Purple Disco Machine",
+          "plays": 79
         },
         {
           "artist": "Benjamin Bellman",
           "plays": 48
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 46
         },
         {
           "artist": "Tom Petty & the Heartbreakers",
@@ -780,6 +759,10 @@
         {
           "artist": "David Guetta",
           "plays": 35
+        },
+        {
+          "artist": "Kungs",
+          "plays": 34
         },
         {
           "artist": "Boys Like Girls",
@@ -833,7 +816,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 899
+          "plays": 870
         },
         {
           "genre": "Electronic",
@@ -876,12 +859,12 @@
           "plays": 89
         },
         {
-          "genre": "House",
-          "plays": 79
-        },
-        {
           "genre": "K-Pop",
           "plays": 75
+        },
+        {
+          "genre": "House",
+          "plays": 74
         },
         {
           "genre": "Soundtrack",
@@ -930,12 +913,6 @@
       ],
       "top_tracks": [
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 54,
-          "genre": "Dance"
-        },
-        {
           "song": "Don't Do Me Like That",
           "artist": "Tom Petty & the Heartbreakers",
           "plays": 44,
@@ -981,6 +958,12 @@
           "song": "Me And My Broken Heart",
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 32,
+          "genre": "Dance"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 30,
           "genre": "Dance"
         },
         {
@@ -12240,6 +12223,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-14",
-  "snapshot_count": 183
+  "latest_snapshot": "2026-11-15",
+  "snapshot_count": 184
 }
