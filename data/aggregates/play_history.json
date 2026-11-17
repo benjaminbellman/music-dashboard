@@ -1058,7 +1058,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7729,
+      "total_plays": 7669,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1078,7 +1078,7 @@
         },
         {
           "artist": "442oons",
-          "plays": 109
+          "plays": 102
         },
         {
           "artist": "Anri",
@@ -1134,7 +1134,7 @@
         },
         {
           "artist": "Britney Spears",
-          "plays": 49
+          "plays": 48
         },
         {
           "artist": "Polo & Pan",
@@ -1164,35 +1164,35 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1634
+          "plays": 1623
         },
         {
           "genre": "Pop",
-          "plays": 1391
+          "plays": 1378
         },
         {
           "genre": "Electronic",
-          "plays": 792
-        },
-        {
-          "genre": "Alternative",
-          "plays": 466
+          "plays": 785
         },
         {
           "genre": "Variete Francaise",
           "plays": 463
         },
         {
+          "genre": "Alternative",
+          "plays": 462
+        },
+        {
           "genre": "Rock",
-          "plays": 418
+          "plays": 415
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 382
+          "plays": 380
         },
         {
           "genre": "Comedy",
-          "plays": 287
+          "plays": 280
         },
         {
           "genre": "mashup",
@@ -1208,15 +1208,15 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 131
+          "plays": 130
         },
         {
           "genre": "House",
-          "plays": 94
+          "plays": 92
         },
         {
           "genre": "Soundtrack",
-          "plays": 82
+          "plays": 81
         },
         {
           "genre": "K-Pop",
@@ -1228,15 +1228,15 @@
         },
         {
           "genre": "Disco",
-          "plays": 75
+          "plays": 73
         },
         {
           "genre": "Variété française",
-          "plays": 57
+          "plays": 56
         },
         {
           "genre": "French Pop",
-          "plays": 55
+          "plays": 54
         },
         {
           "genre": "Funk",
@@ -1259,7 +1259,7 @@
           "plays": 33
         },
         {
-          "genre": "R & B",
+          "genre": "Soul and R&B",
           "plays": 33
         }
       ],
@@ -12215,6 +12215,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-16",
-  "snapshot_count": 185
+  "latest_snapshot": "2026-11-17",
+  "snapshot_count": 186
 }
