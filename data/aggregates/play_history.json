@@ -1058,7 +1058,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7669,
+      "total_plays": 7663,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1077,12 +1077,12 @@
           "plays": 129
         },
         {
-          "artist": "442oons",
+          "artist": "Anri",
           "plays": 102
         },
         {
-          "artist": "Anri",
-          "plays": 102
+          "artist": "442oons",
+          "plays": 97
         },
         {
           "artist": "David Guetta",
@@ -1090,7 +1090,7 @@
         },
         {
           "artist": "Milky",
-          "plays": 86
+          "plays": 85
         },
         {
           "artist": "France Football Anthem",
@@ -1168,7 +1168,7 @@
         },
         {
           "genre": "Pop",
-          "plays": 1378
+          "plays": 1377
         },
         {
           "genre": "Electronic",
@@ -1192,7 +1192,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 280
+          "plays": 275
         },
         {
           "genre": "mashup",
@@ -1277,12 +1277,6 @@
           "genre": "Variete Francaise"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 59,
-          "genre": "Comedy"
-        },
-        {
           "song": "Me And My Broken Heart",
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 56,
@@ -1293,6 +1287,12 @@
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 55,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 54,
+          "genre": "Comedy"
         },
         {
           "song": "Talk To You [No Art]",
@@ -1351,7 +1351,7 @@
         {
           "song": "Just The Way You Are",
           "artist": "Milky",
-          "plays": 36,
+          "plays": 35,
           "genre": "Pop"
         },
         {
@@ -12215,6 +12215,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-17",
-  "snapshot_count": 186
+  "latest_snapshot": "2026-11-18",
+  "snapshot_count": 187
 }
