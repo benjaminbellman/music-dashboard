@@ -698,7 +698,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4947,
+      "total_plays": 4897,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -714,7 +714,7 @@
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 79
+          "plays": 75
         },
         {
           "artist": "Benjamin Bellman",
@@ -746,15 +746,11 @@
         },
         {
           "artist": "Patrick Cowley",
-          "plays": 40
+          "plays": 38
         },
         {
           "artist": "David Guetta",
           "plays": 35
-        },
-        {
-          "artist": "Kungs",
-          "plays": 34
         },
         {
           "artist": "Boys Like Girls",
@@ -775,6 +771,10 @@
         {
           "artist": "Michael Jackson",
           "plays": 31
+        },
+        {
+          "artist": "Kungs",
+          "plays": 30
         },
         {
           "artist": "Tatsuro Yamashita",
@@ -804,31 +804,31 @@
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 904
+          "plays": 897
         },
         {
           "genre": "Dance",
-          "plays": 870
+          "plays": 851
         },
         {
           "genre": "Electronic",
-          "plays": 500
+          "plays": 496
         },
         {
           "genre": "Alternative",
-          "plays": 312
+          "plays": 310
         },
         {
           "genre": "Rock",
-          "plays": 308
+          "plays": 307
         },
         {
           "genre": "Variete Francaise",
-          "plays": 286
+          "plays": 284
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 235
+          "plays": 234
         },
         {
           "genre": "Comedy",
@@ -848,7 +848,7 @@
         },
         {
           "genre": "Future Funk",
-          "plays": 89
+          "plays": 87
         },
         {
           "genre": "K-Pop",
@@ -860,7 +860,7 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 61
+          "plays": 60
         },
         {
           "genre": "Disco",
@@ -876,11 +876,11 @@
         },
         {
           "genre": "Funk",
-          "plays": 39
+          "plays": 38
         },
         {
           "genre": "Lowfi",
-          "plays": 39
+          "plays": 38
         },
         {
           "genre": "J-Pop",
@@ -888,15 +888,15 @@
         },
         {
           "genre": "Latin",
-          "plays": 29
+          "plays": 28
         },
         {
           "genre": "Country",
-          "plays": 29
+          "plays": 28
         },
         {
           "genre": "Hip-Hop/Rap",
-          "plays": 28
+          "plays": 26
         },
         {
           "genre": "R & B",
@@ -953,16 +953,16 @@
           "genre": "Dance"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 30,
-          "genre": "Dance"
-        },
-        {
           "song": "Margaritaville",
           "artist": "Jimmy Buffett",
           "plays": 28,
           "genre": "Rock"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 26,
+          "genre": "Dance"
         },
         {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
@@ -1058,7 +1058,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7663,
+      "total_plays": 7618,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1066,7 +1066,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 259
+          "plays": 257
         },
         {
           "artist": "Kungs",
@@ -1074,27 +1074,27 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 129
+          "plays": 128
         },
         {
           "artist": "Anri",
           "plays": 102
         },
         {
-          "artist": "442oons",
-          "plays": 97
-        },
-        {
           "artist": "David Guetta",
           "plays": 97
         },
         {
-          "artist": "Milky",
-          "plays": 85
+          "artist": "442oons",
+          "plays": 90
         },
         {
           "artist": "France Football Anthem",
           "plays": 66
+        },
+        {
+          "artist": "Milky",
+          "plays": 61
         },
         {
           "artist": "Michael Jackson",
@@ -1157,22 +1157,22 @@
           "plays": 43
         },
         {
-          "artist": "Avicii",
+          "artist": "KITSCHKRIEG",
           "plays": 41
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1623
+          "plays": 1619
         },
         {
           "genre": "Pop",
-          "plays": 1377
+          "plays": 1352
         },
         {
           "genre": "Electronic",
-          "plays": 785
+          "plays": 778
         },
         {
           "genre": "Variete Francaise",
@@ -1192,7 +1192,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 275
+          "plays": 268
         },
         {
           "genre": "mashup",
@@ -1212,7 +1212,7 @@
         },
         {
           "genre": "House",
-          "plays": 92
+          "plays": 90
         },
         {
           "genre": "Soundtrack",
@@ -1289,12 +1289,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 54,
-          "genre": "Comedy"
-        },
-        {
           "song": "Talk To You [No Art]",
           "artist": "ANOTR ft. 54 Ultra",
           "plays": 53,
@@ -1311,6 +1305,12 @@
           "artist": "Milky & David Guetta",
           "plays": 50,
           "genre": "Dance"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 47,
+          "genre": "Comedy"
         },
         {
           "song": "Don't Do Me Like That",
@@ -1347,12 +1347,6 @@
           "artist": "Dayglow",
           "plays": 38,
           "genre": "Alternative"
-        },
-        {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 35,
-          "genre": "Pop"
         },
         {
           "song": "Pays Imaginaire",
@@ -1413,6 +1407,12 @@
           "artist": "Creedence Clearwater Revival",
           "plays": 27,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
+          "artist": "Anri & MACROSS 82-99",
+          "plays": 26,
+          "genre": "City Pop"
         }
       ]
     },
@@ -12215,6 +12215,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-18",
-  "snapshot_count": 187
+  "latest_snapshot": "2026-11-19",
+  "snapshot_count": 188
 }
