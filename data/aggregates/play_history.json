@@ -698,11 +698,11 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4897,
+      "total_plays": 4852,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 189
+          "plays": 188
         },
         {
           "artist": "Anri",
@@ -710,15 +710,15 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 84
+          "plays": 83
         },
         {
           "artist": "Purple Disco Machine",
-          "plays": 75
+          "plays": 73
         },
         {
           "artist": "Benjamin Bellman",
-          "plays": 48
+          "plays": 47
         },
         {
           "artist": "Dua Lipa",
@@ -773,10 +773,6 @@
           "plays": 31
         },
         {
-          "artist": "Kungs",
-          "plays": 30
-        },
-        {
           "artist": "Tatsuro Yamashita",
           "plays": 29
         },
@@ -793,34 +789,38 @@
           "plays": 28
         },
         {
+          "artist": "Kungs",
+          "plays": 28
+        },
+        {
           "artist": "Clean Bandit",
           "plays": 26
         },
         {
-          "artist": "Disney",
+          "artist": "Chromeo",
           "plays": 26
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 897
+          "plays": 887
         },
         {
           "genre": "Dance",
-          "plays": 851
+          "plays": 839
         },
         {
           "genre": "Electronic",
-          "plays": 496
+          "plays": 495
         },
         {
           "genre": "Alternative",
-          "plays": 310
+          "plays": 308
         },
         {
           "genre": "Rock",
-          "plays": 307
+          "plays": 299
         },
         {
           "genre": "Variete Francaise",
@@ -832,7 +832,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 173
+          "plays": 168
         },
         {
           "genre": "City Pop",
@@ -840,7 +840,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 128
+          "plays": 125
         },
         {
           "genre": "Soft Rock",
@@ -859,12 +859,12 @@
           "plays": 74
         },
         {
-          "genre": "Soundtrack",
+          "genre": "Disco",
           "plays": 60
         },
         {
-          "genre": "Disco",
-          "plays": 60
+          "genre": "Soundtrack",
+          "plays": 59
         },
         {
           "genre": "Oldies",
@@ -895,12 +895,12 @@
           "plays": 28
         },
         {
-          "genre": "Hip-Hop/Rap",
+          "genre": "R & B",
           "plays": 26
         },
         {
-          "genre": "R & B",
-          "plays": 26
+          "genre": "Hip-hop/Rap",
+          "plays": 25
         }
       ],
       "top_tracks": [
@@ -959,12 +959,6 @@
           "genre": "Rock"
         },
         {
-          "song": "Substitution (Official Music Video) ft. Julian Perretta",
-          "artist": "Kungs & Purple Disco Machine",
-          "plays": 26,
-          "genre": "Dance"
-        },
-        {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
           "artist": "Anri & MACROSS 82-99",
           "plays": 26,
@@ -987,6 +981,12 @@
           "artist": "Knightlife",
           "plays": 24,
           "genre": "Electronic"
+        },
+        {
+          "song": "Substitution (Official Music Video) ft. Julian Perretta",
+          "artist": "Kungs & Purple Disco Machine",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "What the Cat ?",
@@ -12215,6 +12215,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-19",
-  "snapshot_count": 188
+  "latest_snapshot": "2026-11-20",
+  "snapshot_count": 189
 }
