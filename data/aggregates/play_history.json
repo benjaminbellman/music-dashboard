@@ -698,7 +698,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4852,
+      "total_plays": 4807,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -710,7 +710,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 83
+          "plays": 77
         },
         {
           "artist": "Purple Disco Machine",
@@ -737,16 +737,16 @@
           "plays": 43
         },
         {
-          "artist": "Coldplay",
-          "plays": 41
-        },
-        {
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40
         },
         {
           "artist": "Patrick Cowley",
           "plays": 38
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 35
         },
         {
           "artist": "David Guetta",
@@ -777,10 +777,6 @@
           "plays": 29
         },
         {
-          "artist": "Flight Facilities",
-          "plays": 29
-        },
-        {
           "artist": "Jimmy Buffett",
           "plays": 28
         },
@@ -797,22 +793,26 @@
           "plays": 26
         },
         {
-          "artist": "Chromeo",
+          "artist": "Flight Facilities",
+          "plays": 26
+        },
+        {
+          "artist": "MACROSS 82-99",
           "plays": 26
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 887
+          "plays": 875
         },
         {
           "genre": "Dance",
-          "plays": 839
+          "plays": 821
         },
         {
           "genre": "Electronic",
-          "plays": 495
+          "plays": 489
         },
         {
           "genre": "Alternative",
@@ -840,7 +840,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 125
+          "plays": 122
         },
         {
           "genre": "Soft Rock",
@@ -887,10 +887,6 @@
           "plays": 30
         },
         {
-          "genre": "Latin",
-          "plays": 28
-        },
-        {
           "genre": "Country",
           "plays": 28
         },
@@ -900,6 +896,10 @@
         },
         {
           "genre": "Hip-hop/Rap",
+          "plays": 25
+        },
+        {
+          "genre": "Hip-Hop/Rap",
           "plays": 25
         }
       ],
@@ -1058,7 +1058,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 7618,
+      "total_plays": 7533,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1074,7 +1074,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 128
+          "plays": 125
         },
         {
           "artist": "Anri",
@@ -1082,11 +1082,11 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 97
+          "plays": 93
         },
         {
           "artist": "442oons",
-          "plays": 90
+          "plays": 79
         },
         {
           "artist": "France Football Anthem",
@@ -1164,27 +1164,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1619
+          "plays": 1608
         },
         {
           "genre": "Pop",
-          "plays": 1352
+          "plays": 1339
         },
         {
           "genre": "Electronic",
-          "plays": 778
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 463
+          "plays": 762
         },
         {
           "genre": "Alternative",
-          "plays": 462
+          "plays": 457
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 456
         },
         {
           "genre": "Rock",
-          "plays": 415
+          "plays": 413
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1192,7 +1192,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 268
+          "plays": 254
         },
         {
           "genre": "mashup",
@@ -1204,7 +1204,7 @@
         },
         {
           "genre": "Soft Rock",
-          "plays": 147
+          "plays": 145
         },
         {
           "genre": "Future Funk",
@@ -1212,7 +1212,7 @@
         },
         {
           "genre": "House",
-          "plays": 90
+          "plays": 88
         },
         {
           "genre": "Soundtrack",
@@ -1220,15 +1220,15 @@
         },
         {
           "genre": "K-Pop",
-          "plays": 78
-        },
-        {
-          "genre": "Oldies",
-          "plays": 75
+          "plays": 76
         },
         {
           "genre": "Disco",
           "plays": 73
+        },
+        {
+          "genre": "Oldies",
+          "plays": 70
         },
         {
           "genre": "Variété française",
@@ -1239,12 +1239,12 @@
           "plays": 54
         },
         {
-          "genre": "Funk",
+          "genre": "Lowfi",
           "plays": 46
         },
         {
-          "genre": "Lowfi",
-          "plays": 46
+          "genre": "Funk",
+          "plays": 43
         },
         {
           "genre": "Latin",
@@ -1307,12 +1307,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 47,
-          "genre": "Comedy"
-        },
-        {
           "song": "Don't Do Me Like That",
           "artist": "Tom Petty & the Heartbreakers",
           "plays": 44,
@@ -1347,6 +1341,12 @@
           "artist": "Dayglow",
           "plays": 38,
           "genre": "Alternative"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 36,
+          "genre": "Comedy"
         },
         {
           "song": "Pays Imaginaire",
@@ -1397,16 +1397,16 @@
           "genre": "Rock"
         },
         {
-          "song": "Don't call me baby (Mousse T Extended Remix)",
-          "artist": "Madison Avenue",
-          "plays": 28,
-          "genre": "Dance"
-        },
-        {
           "song": "Down On The Corner",
           "artist": "Creedence Clearwater Revival",
           "plays": 27,
           "genre": "Soft Rock"
+        },
+        {
+          "song": "Don't call me baby (Mousse T Extended Remix)",
+          "artist": "Madison Avenue",
+          "plays": 26,
+          "genre": "Dance"
         },
         {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
@@ -12215,6 +12215,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-20",
-  "snapshot_count": 189
+  "latest_snapshot": "2026-11-21",
+  "snapshot_count": 190
 }
