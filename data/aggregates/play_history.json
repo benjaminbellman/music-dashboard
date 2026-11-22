@@ -698,7 +698,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 4807,
+      "total_plays": 4771,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -749,10 +749,6 @@
           "plays": 35
         },
         {
-          "artist": "David Guetta",
-          "plays": 35
-        },
-        {
           "artist": "Boys Like Girls",
           "plays": 34
         },
@@ -761,19 +757,23 @@
           "plays": 33
         },
         {
+          "artist": "David Guetta",
+          "plays": 32
+        },
+        {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 32
         },
         {
           "artist": "The Weeknd",
-          "plays": 31
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 31
+          "plays": 30
         },
         {
           "artist": "Tatsuro Yamashita",
+          "plays": 29
+        },
+        {
+          "artist": "Michael Jackson",
           "plays": 29
         },
         {
@@ -793,30 +793,30 @@
           "plays": 26
         },
         {
-          "artist": "Flight Facilities",
+          "artist": "MACROSS 82-99",
           "plays": 26
         },
         {
-          "artist": "MACROSS 82-99",
-          "plays": 26
+          "artist": "ABBA",
+          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 875
+          "plays": 863
         },
         {
           "genre": "Dance",
-          "plays": 821
+          "plays": 811
         },
         {
           "genre": "Electronic",
-          "plays": 489
+          "plays": 486
         },
         {
           "genre": "Alternative",
-          "plays": 308
+          "plays": 307
         },
         {
           "genre": "Rock",
@@ -824,7 +824,7 @@
         },
         {
           "genre": "Variete Francaise",
-          "plays": 284
+          "plays": 283
         },
         {
           "genre": "Hip Hop/Rap",
@@ -832,7 +832,7 @@
         },
         {
           "genre": "Comedy",
-          "plays": 168
+          "plays": 167
         },
         {
           "genre": "City Pop",
@@ -840,15 +840,15 @@
         },
         {
           "genre": "mashup",
-          "plays": 122
+          "plays": 121
         },
         {
           "genre": "Soft Rock",
-          "plays": 92
+          "plays": 91
         },
         {
           "genre": "Future Funk",
-          "plays": 87
+          "plays": 86
         },
         {
           "genre": "K-Pop",
@@ -864,11 +864,11 @@
         },
         {
           "genre": "Soundtrack",
-          "plays": 59
+          "plays": 58
         },
         {
           "genre": "Oldies",
-          "plays": 58
+          "plays": 57
         },
         {
           "genre": "Variété française",
@@ -1049,16 +1049,16 @@
           "genre": "mashup"
         },
         {
-          "song": "This Is What It Feels Like",
-          "artist": "Armin van Buuren",
+          "song": "Evolution",
+          "artist": "Korn",
           "plays": 21,
-          "genre": "Dance"
+          "genre": "Nu-Metal"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 7533,
+      "total_plays": 7496,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1066,7 +1066,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 257
+          "plays": 256
         },
         {
           "artist": "Kungs",
@@ -1074,7 +1074,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 125
+          "plays": 122
         },
         {
           "artist": "Anri",
@@ -1082,7 +1082,7 @@
         },
         {
           "artist": "David Guetta",
-          "plays": 93
+          "plays": 91
         },
         {
           "artist": "442oons",
@@ -1121,12 +1121,12 @@
           "plays": 53
         },
         {
-          "artist": "Benjamin Bellman",
-          "plays": 52
-        },
-        {
           "artist": "Demon",
           "plays": 51
+        },
+        {
+          "artist": "Benjamin Bellman",
+          "plays": 50
         },
         {
           "artist": "Flight Facilities",
@@ -1164,27 +1164,27 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1608
+          "plays": 1602
         },
         {
           "genre": "Pop",
-          "plays": 1339
+          "plays": 1334
         },
         {
           "genre": "Electronic",
-          "plays": 762
+          "plays": 756
         },
         {
           "genre": "Alternative",
-          "plays": 457
+          "plays": 454
         },
         {
           "genre": "Variete Francaise",
-          "plays": 456
+          "plays": 453
         },
         {
           "genre": "Rock",
-          "plays": 413
+          "plays": 412
         },
         {
           "genre": "Hip Hop/Rap",
@@ -1195,16 +1195,16 @@
           "plays": 254
         },
         {
-          "genre": "mashup",
-          "plays": 181
-        },
-        {
           "genre": "City Pop",
           "plays": 180
         },
         {
+          "genre": "mashup",
+          "plays": 177
+        },
+        {
           "genre": "Soft Rock",
-          "plays": 145
+          "plays": 144
         },
         {
           "genre": "Future Funk",
@@ -1212,7 +1212,7 @@
         },
         {
           "genre": "House",
-          "plays": 88
+          "plays": 87
         },
         {
           "genre": "Soundtrack",
@@ -1220,15 +1220,15 @@
         },
         {
           "genre": "K-Pop",
-          "plays": 76
+          "plays": 75
         },
         {
           "genre": "Disco",
-          "plays": 73
+          "plays": 72
         },
         {
           "genre": "Oldies",
-          "plays": 70
+          "plays": 69
         },
         {
           "genre": "Variété française",
@@ -1403,16 +1403,16 @@
           "genre": "Soft Rock"
         },
         {
-          "song": "Don't call me baby (Mousse T Extended Remix)",
-          "artist": "Madison Avenue",
-          "plays": 26,
-          "genre": "Dance"
-        },
-        {
           "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
           "artist": "Anri & MACROSS 82-99",
           "plays": 26,
           "genre": "City Pop"
+        },
+        {
+          "song": "Premier League Song",
+          "artist": "442oons",
+          "plays": 25,
+          "genre": "Comedy"
         }
       ]
     },
@@ -12215,6 +12215,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-21",
-  "snapshot_count": 190
+  "latest_snapshot": "2026-11-22",
+  "snapshot_count": 191
 }
