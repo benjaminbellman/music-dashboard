@@ -1,37 +1,37 @@
 [
   {
     "genre": "Pop",
-    "plays": 36132,
-    "songs": 716
+    "plays": 36347,
+    "songs": 715
   },
   {
     "genre": "Dance",
-    "plays": 30881,
+    "plays": 31103,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23761,
+    "plays": 23833,
     "songs": 392
   },
   {
     "genre": "Variete Francaise",
-    "plays": 18438,
-    "songs": 283
+    "plays": 18552,
+    "songs": 284
   },
   {
     "genre": "Alternative",
-    "plays": 14306,
+    "plays": 14378,
     "songs": 292
   },
   {
     "genre": "Hip Hop/Rap",
-    "plays": 11865,
+    "plays": 11931,
     "songs": 262
   },
   {
     "genre": "Rock",
-    "plays": 11047,
+    "plays": 11143,
     "songs": 282
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "genre": "Future Funk",
-    "plays": 5935,
+    "plays": 5971,
     "songs": 71
   },
   {
@@ -56,38 +56,38 @@
   },
   {
     "genre": "Oldies",
-    "plays": 3790,
+    "plays": 3808,
     "songs": 64
   },
   {
     "genre": "Variété française",
-    "plays": 3470,
+    "plays": 3500,
     "songs": 24
   },
   {
     "genre": "City Pop",
-    "plays": 3411,
+    "plays": 3453,
     "songs": 49
   },
   {
     "genre": "Comedy",
-    "plays": 3391,
+    "plays": 3415,
     "songs": 93
   },
   {
     "genre": "mashup",
-    "plays": 2882,
+    "plays": 2894,
+    "songs": 72
+  },
+  {
+    "genre": "Soundtrack",
+    "plays": 2821,
     "songs": 69
   },
   {
     "genre": "Latin",
     "plays": 2814,
     "songs": 47
-  },
-  {
-    "genre": "Soundtrack",
-    "plays": 2785,
-    "songs": 69
   },
   {
     "genre": "Britpop",
@@ -101,7 +101,7 @@
   },
   {
     "genre": "House",
-    "plays": 1628,
+    "plays": 1640,
     "songs": 28
   },
   {
@@ -111,28 +111,28 @@
   },
   {
     "genre": "Country",
-    "plays": 1107,
+    "plays": 1113,
     "songs": 19
   },
   {
     "genre": "Funk",
-    "plays": 957,
+    "plays": 963,
     "songs": 12
   },
   {
     "genre": "Folk",
-    "plays": 784,
+    "plays": 796,
     "songs": 13
+  },
+  {
+    "genre": "Europop",
+    "plays": 764,
+    "songs": 14
   },
   {
     "genre": "Vaporwave",
     "plays": 755,
     "songs": 8
-  },
-  {
-    "genre": "Europop",
-    "plays": 746,
-    "songs": 14
   },
   {
     "genre": "R&B/Soul",
@@ -146,7 +146,7 @@
   },
   {
     "genre": "Psychedlic Rock",
-    "plays": 469,
+    "plays": 475,
     "songs": 10
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "genre": "Jazz",
-    "plays": 354,
+    "plays": 360,
     "songs": 10
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "genre": "R&B",
-    "plays": 247,
+    "plays": 253,
     "songs": 5
   },
   {
@@ -230,6 +230,11 @@
     "songs": 7
   },
   {
+    "genre": "Nu Disco / Funk",
+    "plays": 210,
+    "songs": 4
+  },
+  {
     "genre": "Vocal",
     "plays": 207,
     "songs": 10
@@ -238,11 +243,6 @@
     "genre": "Metal",
     "plays": 204,
     "songs": 6
-  },
-  {
-    "genre": "Nu Disco / Funk",
-    "plays": 204,
-    "songs": 4
   },
   {
     "genre": "Electroswing",
@@ -256,7 +256,7 @@
   },
   {
     "genre": "Musique francophone",
-    "plays": 157,
+    "plays": 163,
     "songs": 4
   },
   {
@@ -265,14 +265,14 @@
     "songs": 5
   },
   {
+    "genre": "Hip-Hop",
+    "plays": 122,
+    "songs": 6
+  },
+  {
     "genre": "Hard Rock",
     "plays": 117,
     "songs": 3
-  },
-  {
-    "genre": "Hip-Hop",
-    "plays": 116,
-    "songs": 6
   },
   {
     "genre": "House;Electronic;Dance;Club",
@@ -620,7 +620,7 @@
     "songs": 1
   },
   {
-    "genre": "Unspecified",
+    "genre": "Music",
     "plays": 0,
     "songs": 1
   }

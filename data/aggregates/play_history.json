@@ -327,29 +327,747 @@
     {
       "date": "2026-11-01",
       "plays": 3
+    },
+    {
+      "date": "2026-11-24",
+      "plays": 1146
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 0,
-      "top_artists": [],
-      "top_genres": [],
-      "top_tracks": []
+      "total_plays": 1146,
+      "top_artists": [
+        {
+          "artist": "Bon Entendeur",
+          "plays": 36
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 36
+        },
+        {
+          "artist": "Anri",
+          "plays": 30
+        },
+        {
+          "artist": "Maes, Ninho",
+          "plays": 24
+        },
+        {
+          "artist": "Avicii",
+          "plays": 24
+        },
+        {
+          "artist": "Supermode",
+          "plays": 24
+        },
+        {
+          "artist": "Matchbox Twenty",
+          "plays": 24
+        },
+        {
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 18
+        },
+        {
+          "artist": "Nicky Romero",
+          "plays": 18
+        },
+        {
+          "artist": "Night Tempo",
+          "plays": 18
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 18
+        },
+        {
+          "artist": "Myles Smith",
+          "plays": 12
+        },
+        {
+          "artist": "Tseba",
+          "plays": 12
+        },
+        {
+          "artist": "Breakbot",
+          "plays": 12
+        },
+        {
+          "artist": "Lola Marsh",
+          "plays": 12
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 12
+        },
+        {
+          "artist": "Kate Bush",
+          "plays": 12
+        },
+        {
+          "artist": "Tony Igy",
+          "plays": 12
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 12
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 12
+        },
+        {
+          "artist": "Kate Ryan",
+          "plays": 12
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 12
+        },
+        {
+          "artist": "Lewis Capaldi",
+          "plays": 12
+        },
+        {
+          "artist": "Cartoon Network",
+          "plays": 12
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Dance",
+          "plays": 222
+        },
+        {
+          "genre": "Pop",
+          "plays": 216
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 114
+        },
+        {
+          "genre": "Rock",
+          "plays": 96
+        },
+        {
+          "genre": "Alternative",
+          "plays": 72
+        },
+        {
+          "genre": "Electronic",
+          "plays": 72
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 66
+        },
+        {
+          "genre": "City Pop",
+          "plays": 42
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 36
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 36
+        },
+        {
+          "genre": "Variété française",
+          "plays": 30
+        },
+        {
+          "genre": "Comedy",
+          "plays": 24
+        },
+        {
+          "genre": "Oldies",
+          "plays": 18
+        },
+        {
+          "genre": "Europop",
+          "plays": 18
+        },
+        {
+          "genre": "mashup",
+          "plays": 12
+        },
+        {
+          "genre": "Folk",
+          "plays": 12
+        },
+        {
+          "genre": "House",
+          "plays": 12
+        },
+        {
+          "genre": "Nu Disco / Funk",
+          "plays": 6
+        },
+        {
+          "genre": "R&B",
+          "plays": 6
+        },
+        {
+          "genre": "Jazz",
+          "plays": 6
+        },
+        {
+          "genre": "Hip-Hop",
+          "plays": 6
+        },
+        {
+          "genre": "Funk",
+          "plays": 6
+        },
+        {
+          "genre": "Musique francophone",
+          "plays": 6
+        },
+        {
+          "genre": "Country",
+          "plays": 6
+        },
+        {
+          "genre": "Psychedlic Rock",
+          "plays": 6
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Distant",
+          "artist": "Maes, Ninho",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "How Far We've Come",
+          "artist": "Matchbox Twenty",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER",
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "I Could Be the One [Avicii vs Nicky Romero] [Noonie Bao Acoustic Mix]",
+          "artist": "Avicii & Nicky Romero",
+          "plays": 18,
+          "genre": "Dance"
+        },
+        {
+          "song": "Can't stop the Loneliness",
+          "artist": "Anri & Night Tempo",
+          "plays": 18,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "L'equipe a jojo",
+          "artist": "Joe Dassin",
+          "plays": 18,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Nice To Meet You",
+          "artist": "Myles Smith",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Must Be Love (feat. Electric Fields)",
+          "artist": "Tseba",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Something Stupid",
+          "artist": "Lola Marsh",
+          "plays": 12,
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Running up that Hill",
+          "artist": "Kate Bush",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Astronomia (Medieval Tavern Version)",
+          "artist": "Tony Igy",
+          "plays": 12,
+          "genre": "Folk"
+        },
+        {
+          "song": "Désenchantée",
+          "artist": "Kate Ryan",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "L'amour",
+          "artist": "Bon Entendeur & Moulidgi",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Someone You Loved (Future Humans Remix)",
+          "artist": "Lewis Capaldi",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Around the World / Harder Better Faster Stronger",
+          "artist": "Daft Punk",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Anywhere",
+          "artist": "Rita Ora",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Call On Me",
+          "artist": "Daft Punk (Thomas Bangalter & DJ Falcon as Together)",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Cry For You",
+          "artist": "September",
+          "plays": 12,
+          "genre": "Europop"
+        },
+        {
+          "song": "Johnny B. Goode",
+          "artist": "Chuck Berry",
+          "plays": 6,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Windy Summer",
+          "artist": "Anri",
+          "plays": 6,
+          "genre": "City Pop"
+        },
+        {
+          "song": "High Life",
+          "artist": "Daft Punk",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "Oui ou Non",
+          "artist": "Angèle",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "With Love",
+          "artist": "Hilary Duff",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "Starships",
+          "artist": "Nicki Minaj",
+          "plays": 6,
+          "genre": "Hip Hop/Rap"
+        }
+      ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 0,
-      "top_artists": [],
-      "top_genres": [],
-      "top_tracks": []
+      "total_plays": 1146,
+      "top_artists": [
+        {
+          "artist": "Bon Entendeur",
+          "plays": 36
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 36
+        },
+        {
+          "artist": "Anri",
+          "plays": 30
+        },
+        {
+          "artist": "Maes, Ninho",
+          "plays": 24
+        },
+        {
+          "artist": "Avicii",
+          "plays": 24
+        },
+        {
+          "artist": "Supermode",
+          "plays": 24
+        },
+        {
+          "artist": "Matchbox Twenty",
+          "plays": 24
+        },
+        {
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 18
+        },
+        {
+          "artist": "Nicky Romero",
+          "plays": 18
+        },
+        {
+          "artist": "Night Tempo",
+          "plays": 18
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 18
+        },
+        {
+          "artist": "Myles Smith",
+          "plays": 12
+        },
+        {
+          "artist": "Tseba",
+          "plays": 12
+        },
+        {
+          "artist": "Breakbot",
+          "plays": 12
+        },
+        {
+          "artist": "Lola Marsh",
+          "plays": 12
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 12
+        },
+        {
+          "artist": "Kate Bush",
+          "plays": 12
+        },
+        {
+          "artist": "Tony Igy",
+          "plays": 12
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 12
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 12
+        },
+        {
+          "artist": "Kate Ryan",
+          "plays": 12
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 12
+        },
+        {
+          "artist": "Lewis Capaldi",
+          "plays": 12
+        },
+        {
+          "artist": "Cartoon Network",
+          "plays": 12
+        }
+      ],
+      "top_genres": [
+        {
+          "genre": "Dance",
+          "plays": 222
+        },
+        {
+          "genre": "Pop",
+          "plays": 216
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 114
+        },
+        {
+          "genre": "Rock",
+          "plays": 96
+        },
+        {
+          "genre": "Alternative",
+          "plays": 72
+        },
+        {
+          "genre": "Electronic",
+          "plays": 72
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 66
+        },
+        {
+          "genre": "City Pop",
+          "plays": 42
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 36
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 36
+        },
+        {
+          "genre": "Variété française",
+          "plays": 30
+        },
+        {
+          "genre": "Comedy",
+          "plays": 24
+        },
+        {
+          "genre": "Oldies",
+          "plays": 18
+        },
+        {
+          "genre": "Europop",
+          "plays": 18
+        },
+        {
+          "genre": "mashup",
+          "plays": 12
+        },
+        {
+          "genre": "Folk",
+          "plays": 12
+        },
+        {
+          "genre": "House",
+          "plays": 12
+        },
+        {
+          "genre": "Nu Disco / Funk",
+          "plays": 6
+        },
+        {
+          "genre": "R&B",
+          "plays": 6
+        },
+        {
+          "genre": "Jazz",
+          "plays": 6
+        },
+        {
+          "genre": "Hip-Hop",
+          "plays": 6
+        },
+        {
+          "genre": "Funk",
+          "plays": 6
+        },
+        {
+          "genre": "Musique francophone",
+          "plays": 6
+        },
+        {
+          "genre": "Country",
+          "plays": 6
+        },
+        {
+          "genre": "Psychedlic Rock",
+          "plays": 6
+        }
+      ],
+      "top_tracks": [
+        {
+          "song": "Distant",
+          "artist": "Maes, Ninho",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 24,
+          "genre": "Dance"
+        },
+        {
+          "song": "How Far We've Come",
+          "artist": "Matchbox Twenty",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER",
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "I Could Be the One [Avicii vs Nicky Romero] [Noonie Bao Acoustic Mix]",
+          "artist": "Avicii & Nicky Romero",
+          "plays": 18,
+          "genre": "Dance"
+        },
+        {
+          "song": "Can't stop the Loneliness",
+          "artist": "Anri & Night Tempo",
+          "plays": 18,
+          "genre": "Future Funk"
+        },
+        {
+          "song": "L'equipe a jojo",
+          "artist": "Joe Dassin",
+          "plays": 18,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "Nice To Meet You",
+          "artist": "Myles Smith",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Must Be Love (feat. Electric Fields)",
+          "artist": "Tseba",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Something Stupid",
+          "artist": "Lola Marsh",
+          "plays": 12,
+          "genre": "Soundtrack"
+        },
+        {
+          "song": "Running up that Hill",
+          "artist": "Kate Bush",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Astronomia (Medieval Tavern Version)",
+          "artist": "Tony Igy",
+          "plays": 12,
+          "genre": "Folk"
+        },
+        {
+          "song": "Désenchantée",
+          "artist": "Kate Ryan",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "L'amour",
+          "artist": "Bon Entendeur & Moulidgi",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Someone You Loved (Future Humans Remix)",
+          "artist": "Lewis Capaldi",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Around the World / Harder Better Faster Stronger",
+          "artist": "Daft Punk",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Anywhere",
+          "artist": "Rita Ora",
+          "plays": 12,
+          "genre": "Pop"
+        },
+        {
+          "song": "Call On Me",
+          "artist": "Daft Punk (Thomas Bangalter & DJ Falcon as Together)",
+          "plays": 12,
+          "genre": "Dance"
+        },
+        {
+          "song": "Cry For You",
+          "artist": "September",
+          "plays": 12,
+          "genre": "Europop"
+        },
+        {
+          "song": "Johnny B. Goode",
+          "artist": "Chuck Berry",
+          "plays": 6,
+          "genre": "Oldies"
+        },
+        {
+          "song": "Windy Summer",
+          "artist": "Anri",
+          "plays": 6,
+          "genre": "City Pop"
+        },
+        {
+          "song": "High Life",
+          "artist": "Daft Punk",
+          "plays": 6,
+          "genre": "Dance"
+        },
+        {
+          "song": "Oui ou Non",
+          "artist": "Angèle",
+          "plays": 6,
+          "genre": "Variete Francaise"
+        },
+        {
+          "song": "With Love",
+          "artist": "Hilary Duff",
+          "plays": 6,
+          "genre": "Pop"
+        },
+        {
+          "song": "Starships",
+          "artist": "Nicki Minaj",
+          "plays": 6,
+          "genre": "Hip Hop/Rap"
+        }
+      ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 1089,
+      "total_plays": 2235,
       "top_artists": [
         {
           "artist": "Daft Punk",
+          "plays": 54
+        },
+        {
+          "artist": "Bon Entendeur",
+          "plays": 45
+        },
+        {
+          "artist": "Joe Dassin",
           "plays": 36
         },
         {
@@ -357,7 +1075,31 @@
           "plays": 33
         },
         {
+          "artist": "Anri",
+          "plays": 30
+        },
+        {
           "artist": "TR3N TEN",
+          "plays": 30
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 30
+        },
+        {
+          "artist": "Night Tempo",
+          "plays": 27
+        },
+        {
+          "artist": "Maes, Ninho",
+          "plays": 24
+        },
+        {
+          "artist": "Avicii",
+          "plays": 24
+        },
+        {
+          "artist": "Supermode",
           "plays": 24
         },
         {
@@ -366,6 +1108,10 @@
         },
         {
           "artist": "Jimmy Buffett",
+          "plays": 24
+        },
+        {
+          "artist": "Matchbox Twenty",
           "plays": 24
         },
         {
@@ -385,7 +1131,23 @@
           "plays": 24
         },
         {
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24
+        },
+        {
+          "artist": "The Weeknd",
+          "plays": 21
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 21
+        },
+        {
           "artist": "Riize",
+          "plays": 18
+        },
+        {
+          "artist": "Nicky Romero",
           "plays": 18
         },
         {
@@ -395,112 +1157,88 @@
         {
           "artist": "Poolside",
           "plays": 18
-        },
-        {
-          "artist": "Clean Bandit",
-          "plays": 18
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 18
-        },
-        {
-          "artist": "Empire of the Sun",
-          "plays": 9
-        },
-        {
-          "artist": "Declan McKenna",
-          "plays": 9
-        },
-        {
-          "artist": "I Monster",
-          "plays": 9
-        },
-        {
-          "artist": "DEEJMD",
-          "plays": 9
-        },
-        {
-          "artist": "DaJugglingFool",
-          "plays": 9
-        },
-        {
-          "artist": "Electronic",
-          "plays": 9
-        },
-        {
-          "artist": "Britney Spears",
-          "plays": 9
-        },
-        {
-          "artist": "Journey",
-          "plays": 9
-        },
-        {
-          "artist": "Dire Straits",
-          "plays": 9
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 9
-        },
-        {
-          "artist": "Milky",
-          "plays": 9
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 288
+          "plays": 504
         },
         {
           "genre": "Dance",
-          "plays": 216
-        },
-        {
-          "genre": "Alternative",
-          "plays": 90
-        },
-        {
-          "genre": "Electronic",
-          "plays": 87
+          "plays": 438
         },
         {
           "genre": "Rock",
-          "plays": 69
+          "plays": 165
         },
         {
-          "genre": "Hip Hop/Rap",
-          "plays": 45
+          "genre": "Alternative",
+          "plays": 162
         },
         {
-          "genre": "Comedy",
-          "plays": 42
+          "genre": "Electronic",
+          "plays": 159
         },
         {
           "genre": "Variete Francaise",
+          "plays": 156
+        },
+        {
+          "genre": "Hip Hop/Rap",
+          "plays": 111
+        },
+        {
+          "genre": "Comedy",
+          "plays": 66
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 54
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 45
+        },
+        {
+          "genre": "City Pop",
           "plays": 42
+        },
+        {
+          "genre": "House",
+          "plays": 42
+        },
+        {
+          "genre": "Variété française",
+          "plays": 39
         },
         {
           "genre": "K-Pop",
           "plays": 36
         },
         {
-          "genre": "House",
+          "genre": "mashup",
           "plays": 30
         },
         {
-          "genre": "mashup",
+          "genre": "Oldies",
           "plays": 18
         },
         {
-          "genre": "Future Funk",
+          "genre": "Europop",
           "plays": 18
         },
         {
           "genre": "J-Pop",
           "plays": 18
+        },
+        {
+          "genre": "Funk",
+          "plays": 15
+        },
+        {
+          "genre": "Folk",
+          "plays": 12
         },
         {
           "genre": "Soft Rock",
@@ -519,27 +1257,7 @@
           "plays": 9
         },
         {
-          "genre": "Soundtrack",
-          "plays": 9
-        },
-        {
-          "genre": "Variété française",
-          "plays": 9
-        },
-        {
-          "genre": "Funk",
-          "plays": 9
-        },
-        {
           "genre": "Lowfi",
-          "plays": 9
-        },
-        {
-          "genre": "Vaporwave",
-          "plays": 9
-        },
-        {
-          "genre": "Pop Latino",
           "plays": 9
         }
       ],
@@ -547,8 +1265,20 @@
         {
           "song": "Bomboclat Wallahi",
           "artist": "TR3N TEN",
-          "plays": 24,
+          "plays": 30,
           "genre": "Comedy"
+        },
+        {
+          "song": "Distant",
+          "artist": "Maes, Ninho",
+          "plays": 24,
+          "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 24,
+          "genre": "Dance"
         },
         {
           "song": "Discotirso",
@@ -559,6 +1289,12 @@
         {
           "song": "Margaritaville",
           "artist": "Jimmy Buffett",
+          "plays": 24,
+          "genre": "Rock"
+        },
+        {
+          "song": "How Far We've Come",
+          "artist": "Matchbox Twenty",
           "plays": 24,
           "genre": "Rock"
         },
@@ -587,10 +1323,28 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER",
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
           "song": "Get A Guitar",
           "artist": "Riize",
           "plays": 18,
           "genre": "K-Pop"
+        },
+        {
+          "song": "I Could Be the One [Avicii vs Nicky Romero] [Noonie Bao Acoustic Mix]",
+          "artist": "Avicii & Nicky Romero",
+          "plays": 18,
+          "genre": "Dance"
+        },
+        {
+          "song": "Can't stop the Loneliness",
+          "artist": "Anri & Night Tempo",
+          "plays": 18,
+          "genre": "Future Funk"
         },
         {
           "song": "And the Sea (Pixelated Remix)",
@@ -599,130 +1353,110 @@
           "genre": "Dance"
         },
         {
-          "song": "We Are The People",
-          "artist": "Empire of the Sun",
-          "plays": 9,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Brazil",
-          "artist": "Declan McKenna",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Daydream In Blue",
-          "artist": "I Monster",
-          "plays": 9,
-          "genre": "Alternative"
+          "song": "L'equipe a jojo",
+          "artist": "Joe Dassin",
+          "plays": 18,
+          "genre": "Variete Francaise"
         },
         {
           "song": "Too Late Now",
           "artist": "DEEJMD",
-          "plays": 9,
+          "plays": 15,
           "genre": "Dance"
-        },
-        {
-          "song": "Why is the Rum Gone",
-          "artist": "DaJugglingFool",
-          "plays": 9,
-          "genre": "Dance"
-        },
-        {
-          "song": "Disappointed",
-          "artist": "Electronic",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Circus",
-          "artist": "Britney Spears",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Any Way You Want It",
-          "artist": "Journey",
-          "plays": 9,
-          "genre": "Rock"
-        },
-        {
-          "song": "Doin' It Right (feat. Panda Bear)",
-          "artist": "Daft Punk",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Why Worry",
-          "artist": "Dire Straits",
-          "plays": 9,
-          "genre": "Soft Rock"
         },
         {
           "song": "Save Your Tears",
           "artist": "The Weeknd",
-          "plays": 9,
+          "plays": 15,
           "genre": "Pop"
         },
         {
-          "song": "Just The Way You Are",
-          "artist": "Milky",
-          "plays": 9,
-          "genre": "Pop"
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 15,
+          "genre": "Electronic"
         },
         {
-          "song": "It's My Life",
-          "artist": "No Doubt",
-          "plays": 9,
-          "genre": "Rock"
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 15,
+          "genre": "House"
         },
         {
-          "song": "1, 2, 3, 4",
-          "artist": "Plain White Ts",
-          "plays": 9,
-          "genre": "Pop"
-        },
-        {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 9,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Sarkozik",
-          "artist": "Sinik",
-          "plays": 9,
+          "song": "Mood ft. Iann Dior",
+          "artist": "24kGoldn",
+          "plays": 15,
           "genre": "Hip Hop/Rap"
+        },
+        {
+          "song": "Thank u, next",
+          "artist": "Ariana Grande",
+          "plays": 15,
+          "genre": "Pop"
+        },
+        {
+          "song": "Ecuador (MaxRiven Remix)",
+          "artist": "Sash!",
+          "plays": 15,
+          "genre": "Dance"
+        },
+        {
+          "song": "Bleu, blanc, rouge",
+          "artist": "Omar et Fred",
+          "plays": 15,
+          "genre": "Variété française"
+        },
+        {
+          "song": "Complicated",
+          "artist": "Avril Lavigne",
+          "plays": 15,
+          "genre": "Pop"
         }
       ]
     },
     "90d": {
       "days": 90,
-      "total_plays": 4771,
+      "total_plays": 5917,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 188
+          "plays": 206
         },
         {
           "artist": "Anri",
-          "plays": 94
+          "plays": 124
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 77
+          "plays": 113
         },
         {
           "artist": "Purple Disco Machine",
           "plays": 73
         },
         {
+          "artist": "Joe Dassin",
+          "plays": 61
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 58
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 53
+        },
+        {
           "artist": "Benjamin Bellman",
           "plays": 47
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 46
+          "artist": "Avicii",
+          "plays": 44
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 44
         },
         {
           "artist": "Tom Petty & the Heartbreakers",
@@ -737,27 +1471,27 @@
           "plays": 43
         },
         {
+          "artist": "The Weeknd",
+          "plays": 42
+        },
+        {
           "artist": "Beachcrimes & Tia Tia",
           "plays": 40
+        },
+        {
+          "artist": "Global Communication",
+          "plays": 39
         },
         {
           "artist": "Patrick Cowley",
           "plays": 38
         },
         {
-          "artist": "Coldplay",
-          "plays": 35
-        },
-        {
           "artist": "Boys Like Girls",
           "plays": 34
         },
         {
-          "artist": "Global Communication",
-          "plays": 33
-        },
-        {
-          "artist": "David Guetta",
+          "artist": "Matchbox Twenty",
           "plays": 32
         },
         {
@@ -765,130 +1499,114 @@
           "plays": 32
         },
         {
-          "artist": "The Weeknd",
+          "artist": "MACROSS 82-99",
+          "plays": 32
+        },
+        {
+          "artist": "Night Tempo",
+          "plays": 31
+        },
+        {
+          "artist": "French 79",
+          "plays": 30
+        },
+        {
+          "artist": "TR3N TEN",
           "plays": 30
         },
         {
           "artist": "Tatsuro Yamashita",
           "plays": 29
-        },
-        {
-          "artist": "Michael Jackson",
-          "plays": 29
-        },
-        {
-          "artist": "Jimmy Buffett",
-          "plays": 28
-        },
-        {
-          "artist": "PNL",
-          "plays": 28
-        },
-        {
-          "artist": "Kungs",
-          "plays": 28
-        },
-        {
-          "artist": "Clean Bandit",
-          "plays": 26
-        },
-        {
-          "artist": "MACROSS 82-99",
-          "plays": 26
-        },
-        {
-          "artist": "ABBA",
-          "plays": 25
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 863
+          "plays": 1079
         },
         {
           "genre": "Dance",
-          "plays": 811
+          "plays": 1033
         },
         {
           "genre": "Electronic",
-          "plays": 486
-        },
-        {
-          "genre": "Alternative",
-          "plays": 307
-        },
-        {
-          "genre": "Rock",
-          "plays": 299
+          "plays": 558
         },
         {
           "genre": "Variete Francaise",
-          "plays": 283
+          "plays": 397
+        },
+        {
+          "genre": "Rock",
+          "plays": 395
+        },
+        {
+          "genre": "Alternative",
+          "plays": 379
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 234
+          "plays": 300
         },
         {
           "genre": "Comedy",
-          "plays": 167
+          "plays": 191
         },
         {
           "genre": "City Pop",
-          "plays": 131
+          "plays": 173
         },
         {
           "genre": "mashup",
-          "plays": 121
+          "plays": 133
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 122
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 94
         },
         {
           "genre": "Soft Rock",
           "plays": 91
         },
         {
-          "genre": "Future Funk",
+          "genre": "House",
           "plays": 86
+        },
+        {
+          "genre": "Variété française",
+          "plays": 77
+        },
+        {
+          "genre": "Oldies",
+          "plays": 75
         },
         {
           "genre": "K-Pop",
           "plays": 75
         },
         {
-          "genre": "House",
-          "plays": 74
-        },
-        {
           "genre": "Disco",
           "plays": 60
         },
         {
-          "genre": "Soundtrack",
-          "plays": 58
-        },
-        {
-          "genre": "Oldies",
-          "plays": 57
-        },
-        {
-          "genre": "Variété française",
-          "plays": 47
-        },
-        {
           "genre": "Funk",
-          "plays": 38
+          "plays": 44
         },
         {
           "genre": "Lowfi",
           "plays": 38
         },
         {
-          "genre": "J-Pop",
-          "plays": 30
+          "genre": "Country",
+          "plays": 34
         },
         {
-          "genre": "Country",
-          "plays": 28
+          "genre": "J-Pop",
+          "plays": 30
         },
         {
           "genre": "R & B",
@@ -923,6 +1641,12 @@
           "genre": "Electronic"
         },
         {
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 39,
+          "genre": "House"
+        },
+        {
           "song": "Menergy (feat. Sylvester)",
           "artist": "Patrick Cowley & Purple Disco Machine",
           "plays": 36,
@@ -941,15 +1665,33 @@
           "genre": "Alternative"
         },
         {
-          "song": "The Way (Secret Ingredients Mix)",
-          "artist": "Global Communication",
-          "plays": 33,
-          "genre": "House"
-        },
-        {
           "song": "Me And My Broken Heart",
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
           "plays": 32,
+          "genre": "Dance"
+        },
+        {
+          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
+          "artist": "Anri & MACROSS 82-99",
+          "plays": 32,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 30,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Bomboclat Wallahi",
+          "artist": "TR3N TEN",
+          "plays": 30,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 28,
           "genre": "Dance"
         },
         {
@@ -959,22 +1701,16 @@
           "genre": "Rock"
         },
         {
-          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
-          "artist": "Anri & MACROSS 82-99",
-          "plays": 26,
-          "genre": "City Pop"
+          "song": "How Far We've Come",
+          "artist": "Matchbox Twenty",
+          "plays": 28,
+          "genre": "Rock"
         },
         {
-          "song": "Memories",
-          "artist": "French 79",
+          "song": "Distant",
+          "artist": "Maes, Ninho",
           "plays": 24,
-          "genre": "Electronic"
-        },
-        {
-          "song": "Bomboclat Wallahi",
-          "artist": "TR3N TEN",
-          "plays": 24,
-          "genre": "Comedy"
+          "genre": "Hip Hop/Rap"
         },
         {
           "song": "Discotirso",
@@ -1007,58 +1743,40 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER",
+          "artist": "S. Kiyotaka & Omega Tribe",
+          "plays": 24,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Johnny B. Goode",
+          "artist": "Chuck Berry",
+          "plays": 23,
+          "genre": "Oldies"
+        },
+        {
           "song": "Get A Guitar",
           "artist": "Riize",
           "plays": 22,
           "genre": "K-Pop"
         },
         {
+          "song": "I Could Be the One [Avicii vs Nicky Romero] [Noonie Bao Acoustic Mix]",
+          "artist": "Avicii & Nicky Romero",
+          "plays": 22,
+          "genre": "Dance"
+        },
+        {
           "song": "Les flamandes",
           "artist": "Jacques Brel",
           "plays": 22,
           "genre": "Variété française"
-        },
-        {
-          "song": "New Rules",
-          "artist": "Dua Lipa",
-          "plays": 21,
-          "genre": "Pop"
-        },
-        {
-          "song": "Les moutons",
-          "artist": "Jacques Brel",
-          "plays": 21,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Awkward Rap",
-          "artist": "Collegehumor",
-          "plays": 21,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Save Dat Money (Feat. Fetty Wap and Rich Homie Quan)",
-          "artist": "Lil Dicky",
-          "plays": 21,
-          "genre": "Hip Hop/Rap"
-        },
-        {
-          "song": "down the gust of wind",
-          "artist": "Benjamin Bellman",
-          "plays": 21,
-          "genre": "mashup"
-        },
-        {
-          "song": "Evolution",
-          "artist": "Korn",
-          "plays": 21,
-          "genre": "Nu-Metal"
         }
       ]
     },
     "180d": {
       "days": 180,
-      "total_plays": 7496,
+      "total_plays": 8583,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1066,7 +1784,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 256
+          "plays": 273
         },
         {
           "artist": "Kungs",
@@ -1074,23 +1792,39 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 122
+          "plays": 158
         },
         {
           "artist": "Anri",
-          "plays": 102
+          "plays": 126
         },
         {
           "artist": "David Guetta",
-          "plays": 91
+          "plays": 103
         },
         {
           "artist": "442oons",
-          "plays": 79
+          "plays": 73
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 71
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 71
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 66
         },
         {
           "artist": "France Football Anthem",
           "plays": 66
+        },
+        {
+          "artist": "Avicii",
+          "plays": 64
         },
         {
           "artist": "Milky",
@@ -1101,20 +1835,20 @@
           "plays": 59
         },
         {
-          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
-          "plays": 56
+          "artist": "Polo & Pan",
+          "plays": 59
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 55
+          "artist": "DJ Alex Man, PHURS, Andreea Flavia",
+          "plays": 56
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
           "plays": 55
         },
         {
-          "artist": "Coldplay",
-          "plays": 53
+          "artist": "Britney Spears",
+          "plays": 54
         },
         {
           "artist": "ANOTR",
@@ -1133,12 +1867,8 @@
           "plays": 49
         },
         {
-          "artist": "Britney Spears",
-          "plays": 48
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 47
+          "artist": "The Weeknd",
+          "plays": 45
         },
         {
           "artist": "Jacques Brel",
@@ -1147,76 +1877,72 @@
         {
           "artist": "Patrick Cowley",
           "plays": 44
-        },
-        {
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 44
-        },
-        {
-          "artist": "Illit",
-          "plays": 43
-        },
-        {
-          "artist": "KITSCHKRIEG",
-          "plays": 41
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1602
+          "plays": 1823
         },
         {
           "genre": "Pop",
-          "plays": 1334
+          "plays": 1544
         },
         {
           "genre": "Electronic",
-          "plays": 756
-        },
-        {
-          "genre": "Alternative",
-          "plays": 454
+          "plays": 824
         },
         {
           "genre": "Variete Francaise",
-          "plays": 453
+          "plays": 567
+        },
+        {
+          "genre": "Alternative",
+          "plays": 514
         },
         {
           "genre": "Rock",
-          "plays": 412
+          "plays": 508
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 380
+          "plays": 446
         },
         {
           "genre": "Comedy",
-          "plays": 254
+          "plays": 272
         },
         {
           "genre": "City Pop",
-          "plays": 180
+          "plays": 222
         },
         {
           "genre": "mashup",
-          "plays": 177
+          "plays": 189
+        },
+        {
+          "genre": "Future Funk",
+          "plays": 158
         },
         {
           "genre": "Soft Rock",
           "plays": 144
         },
         {
-          "genre": "Future Funk",
-          "plays": 130
+          "genre": "Soundtrack",
+          "plays": 117
         },
         {
           "genre": "House",
-          "plays": 87
+          "plays": 95
         },
         {
-          "genre": "Soundtrack",
-          "plays": 81
+          "genre": "Oldies",
+          "plays": 86
+        },
+        {
+          "genre": "Variété française",
+          "plays": 86
         },
         {
           "genre": "K-Pop",
@@ -1227,39 +1953,31 @@
           "plays": 72
         },
         {
-          "genre": "Oldies",
-          "plays": 69
-        },
-        {
-          "genre": "Variété française",
-          "plays": 56
-        },
-        {
           "genre": "French Pop",
           "plays": 54
+        },
+        {
+          "genre": "Funk",
+          "plays": 49
         },
         {
           "genre": "Lowfi",
           "plays": 46
         },
         {
-          "genre": "Funk",
-          "plays": 43
-        },
-        {
           "genre": "Latin",
           "plays": 42
+        },
+        {
+          "genre": "Country",
+          "plays": 39
         },
         {
           "genre": "Hip-Hop/Rap",
           "plays": 36
         },
         {
-          "genre": "Country",
-          "plays": 33
-        },
-        {
-          "genre": "Soul and R&B",
+          "genre": "Europop",
           "plays": 33
         }
       ],
@@ -1319,6 +2037,12 @@
           "genre": "K-Pop"
         },
         {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 41,
+          "genre": "Electronic"
+        },
+        {
           "song": "GUT GENUG",
           "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
           "plays": 41,
@@ -1337,22 +2061,10 @@
           "genre": "Dance"
         },
         {
-          "song": "Can I Call You Tonight",
-          "artist": "Dayglow",
-          "plays": 38,
-          "genre": "Alternative"
-        },
-        {
-          "song": "Who won the Premier League ?  Arsenal!",
-          "artist": "442oons",
-          "plays": 36,
-          "genre": "Comedy"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 35,
-          "genre": "Electronic"
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 39,
+          "genre": "House"
         },
         {
           "song": "DRIVING MY LOVE",
@@ -1367,10 +2079,10 @@
           "genre": "Alternative"
         },
         {
-          "song": "The Way (Secret Ingredients Mix)",
-          "artist": "Global Communication",
-          "plays": 33,
-          "genre": "House"
+          "song": "Can I Call You Tonight",
+          "artist": "Dayglow",
+          "plays": 32,
+          "genre": "Alternative"
         },
         {
           "song": "Billy Jean",
@@ -1379,54 +2091,60 @@
           "genre": "Soul and R&B"
         },
         {
+          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
+          "artist": "Anri & MACROSS 82-99",
+          "plays": 32,
+          "genre": "City Pop"
+        },
+        {
+          "song": "Who won the Premier League ?  Arsenal!",
+          "artist": "442oons",
+          "plays": 32,
+          "genre": "Comedy"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 31,
+          "genre": "Dance"
+        },
+        {
+          "song": "Désenchantée",
+          "artist": "Kate Ryan",
+          "plays": 31,
+          "genre": "Pop"
+        },
+        {
+          "song": "Memories",
+          "artist": "French 79",
+          "plays": 30,
+          "genre": "Electronic"
+        },
+        {
+          "song": "Bomboclat Wallahi",
+          "artist": "TR3N TEN",
+          "plays": 30,
+          "genre": "Comedy"
+        },
+        {
           "song": "Disappointed",
           "artist": "Electronic",
           "plays": 29,
           "genre": "Pop"
-        },
-        {
-          "song": "The Ballet Girl",
-          "artist": "Aden Foyer",
-          "plays": 29,
-          "genre": "Pop"
-        },
-        {
-          "song": "Margaritaville",
-          "artist": "Jimmy Buffett",
-          "plays": 28,
-          "genre": "Rock"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 27,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "Remember Summer Days (MACROSS 82-99 Bootleg)",
-          "artist": "Anri & MACROSS 82-99",
-          "plays": 26,
-          "genre": "City Pop"
-        },
-        {
-          "song": "Premier League Song",
-          "artist": "442oons",
-          "plays": 25,
-          "genre": "Comedy"
         }
       ]
     },
     "365d": {
       "days": 365,
-      "total_plays": 8370,
+      "total_plays": 9516,
       "top_artists": [
+        {
+          "artist": "Daft Punk",
+          "plays": 292
+        },
         {
           "artist": "Purple Disco Machine",
           "plays": 275
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 274
         },
         {
           "artist": "Kungs",
@@ -1434,7 +2152,11 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 142
+          "plays": 178
+        },
+        {
+          "artist": "Anri",
+          "plays": 135
         },
         {
           "artist": "France Football Anthem",
@@ -1445,12 +2167,8 @@
           "plays": 110
         },
         {
-          "artist": "Anri",
-          "plays": 105
-        },
-        {
           "artist": "David Guetta",
-          "plays": 97
+          "plays": 109
         },
         {
           "artist": "Milky",
@@ -1461,6 +2179,30 @@
           "plays": 77
         },
         {
+          "artist": "Supermode",
+          "plays": 74
+        },
+        {
+          "artist": "Coldplay",
+          "plays": 71
+        },
+        {
+          "artist": "Joe Dassin",
+          "plays": 71
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 68
+        },
+        {
+          "artist": "Avicii",
+          "plays": 65
+        },
+        {
+          "artist": "Polo & Pan",
+          "plays": 61
+        },
+        {
           "artist": "Michael Jackson",
           "plays": 60
         },
@@ -1469,8 +2211,8 @@
           "plays": 58
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 56
+          "artist": "Britney Spears",
+          "plays": 55
         },
         {
           "artist": "Oliver Tree & Robin Schulz",
@@ -1479,10 +2221,6 @@
         {
           "artist": "Luther Vandross",
           "plays": 54
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 53
         },
         {
           "artist": "ANOTR",
@@ -1499,116 +2237,100 @@
         {
           "artist": "John Newman",
           "plays": 51
-        },
-        {
-          "artist": "Demon",
-          "plays": 51
-        },
-        {
-          "artist": "Supermode",
-          "plays": 50
-        },
-        {
-          "artist": "Britney Spears",
-          "plays": 49
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 49
-        },
-        {
-          "artist": "MotorBass",
-          "plays": 47
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1797
+          "plays": 2019
         },
         {
           "genre": "Pop",
-          "plays": 1432
+          "plays": 1648
         },
         {
           "genre": "Electronic",
-          "plays": 899
+          "plays": 971
         },
         {
           "genre": "Variete Francaise",
-          "plays": 581
+          "plays": 695
         },
         {
           "genre": "Alternative",
-          "plays": 471
+          "plays": 543
         },
         {
           "genre": "Rock",
-          "plays": 423
+          "plays": 519
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 401
+          "plays": 467
         },
         {
           "genre": "Comedy",
-          "plays": 289
+          "plays": 313
+        },
+        {
+          "genre": "City Pop",
+          "plays": 235
         },
         {
           "genre": "Soft Rock",
           "plays": 208
         },
         {
-          "genre": "City Pop",
-          "plays": 193
-        },
-        {
           "genre": "mashup",
-          "plays": 189
+          "plays": 201
         },
         {
           "genre": "Future Funk",
-          "plays": 133
+          "plays": 169
+        },
+        {
+          "genre": "Soundtrack",
+          "plays": 122
         },
         {
           "genre": "House",
-          "plays": 108
+          "plays": 120
+        },
+        {
+          "genre": "Oldies",
+          "plays": 104
+        },
+        {
+          "genre": "Variété française",
+          "plays": 87
         },
         {
           "genre": "Disco",
           "plays": 87
         },
         {
-          "genre": "Oldies",
-          "plays": 86
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 86
-        },
-        {
           "genre": "K-Pop",
           "plays": 78
-        },
-        {
-          "genre": "Variété française",
-          "plays": 57
         },
         {
           "genre": "French Pop",
           "plays": 55
         },
         {
+          "genre": "Funk",
+          "plays": 52
+        },
+        {
           "genre": "Lowfi",
           "plays": 47
         },
         {
-          "genre": "Funk",
-          "plays": 46
-        },
-        {
           "genre": "Latin",
           "plays": 42
+        },
+        {
+          "genre": "Country",
+          "plays": 41
         },
         {
           "genre": "Vaporwave",
@@ -1617,10 +2339,6 @@
         {
           "genre": "Hip-Hop/Rap",
           "plays": 36
-        },
-        {
-          "genre": "Country",
-          "plays": 35
         }
       ],
       "top_tracks": [
@@ -1635,6 +2353,12 @@
           "artist": "France Football Anthem",
           "plays": 111,
           "genre": "Variete Francaise"
+        },
+        {
+          "song": "Tell Me Why",
+          "artist": "Supermode",
+          "plays": 74,
+          "genre": "Dance"
         },
         {
           "song": "Who won the Premier League ?  Arsenal!",
@@ -1673,12 +2397,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 50,
-          "genre": "Dance"
-        },
-        {
           "song": "Blunted People",
           "artist": "Demon",
           "plays": 50,
@@ -1709,6 +2427,12 @@
           "genre": "K-Pop"
         },
         {
+          "song": "Pays Imaginaire",
+          "artist": "Polo & Pan",
+          "plays": 41,
+          "genre": "Electronic"
+        },
+        {
           "song": "GUT GENUG",
           "artist": "KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
           "plays": 41,
@@ -1733,6 +2457,12 @@
           "genre": "Variete Francaise"
         },
         {
+          "song": "The Way (Secret Ingredients Mix)",
+          "artist": "Global Communication",
+          "plays": 39,
+          "genre": "House"
+        },
+        {
           "song": "Can I Call You Tonight",
           "artist": "Dayglow",
           "plays": 38,
@@ -1743,12 +2473,6 @@
           "artist": "Milky",
           "plays": 36,
           "genre": "Pop"
-        },
-        {
-          "song": "Pays Imaginaire",
-          "artist": "Polo & Pan",
-          "plays": 35,
-          "genre": "Electronic"
         },
         {
           "song": "DRIVING MY LOVE",
@@ -1763,16 +2487,10 @@
           "genre": "Alternative"
         },
         {
-          "song": "The Way (Secret Ingredients Mix)",
-          "artist": "Global Communication",
+          "song": "Memories",
+          "artist": "French 79",
           "plays": 33,
-          "genre": "House"
-        },
-        {
-          "song": "Down On The Corner",
-          "artist": "Creedence Clearwater Revival",
-          "plays": 33,
-          "genre": "Soft Rock"
+          "genre": "Electronic"
         }
       ]
     }
@@ -1799,9 +2517,19 @@
       "plays": 17
     },
     {
+      "date": "2026-11-24",
+      "id": "0065da1043bfb896",
+      "plays": 6
+    },
+    {
       "date": "2026-08-07",
       "id": "00729e9008f119a7",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "00729e9008f119a7",
+      "plays": 12
     },
     {
       "date": "2026-05-21",
@@ -1862,6 +2590,16 @@
       "date": "2026-08-07",
       "id": "0266944dec5899c2",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "0266944dec5899c2",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "02baf0fc29b9ab5b",
+      "plays": 24
     },
     {
       "date": "2026-05-29",
@@ -1964,6 +2702,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "059894de66c892ae",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "05a5b416c33ef0f1",
       "plays": 4
@@ -2002,6 +2745,11 @@
       "date": "2026-06-07",
       "id": "06048179b9d5ea26",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "06048179b9d5ea26",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -2164,6 +2912,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "08b2a73536b86bfc",
+      "plays": 12
+    },
+    {
       "date": "2026-06-27",
       "id": "095c908a685fe81c",
       "plays": 2
@@ -2177,6 +2930,11 @@
       "date": "2026-08-21",
       "id": "09b91837ee234e82",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "09b91837ee234e82",
+      "plays": 6
     },
     {
       "date": "2026-05-21",
@@ -2219,6 +2977,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "0ac9f25ee52b3d98",
+      "plays": 6
+    },
+    {
       "date": "2026-05-25",
       "id": "0ad14b09d6e39f3b",
       "plays": 2
@@ -2237,6 +3000,11 @@
       "date": "2026-10-17",
       "id": "0b362c421fa8fae9",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "0b362c421fa8fae9",
+      "plays": 18
     },
     {
       "date": "2026-06-28",
@@ -2319,6 +3087,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "0d11067e3d8ee184",
+      "plays": 6
+    },
+    {
       "date": "2026-05-21",
       "id": "0d136f172542fc08",
       "plays": 1
@@ -2369,6 +3142,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "0e5e354318baa412",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "0e641ac78a0c807c",
       "plays": 4
@@ -2402,6 +3180,11 @@
       "date": "2026-08-29",
       "id": "0efa95cd5017fd1f",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "0f0d15a6f9c08a55",
+      "plays": 6
     },
     {
       "date": "2026-05-16",
@@ -2469,6 +3252,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "0fae6e9b0b874dca",
+      "plays": 6
+    },
+    {
       "date": "2026-05-29",
       "id": "0fbd0fb74bd76746",
       "plays": 1
@@ -2489,6 +3277,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "10aa4102b2f9af7c",
+      "plays": 6
+    },
+    {
       "date": "2026-08-07",
       "id": "10b635739d95ccca",
       "plays": 1
@@ -2499,9 +3292,19 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "10ec9650a95fd6a7",
+      "plays": 6
+    },
+    {
       "date": "2026-10-30",
       "id": "10ee51f66ec12c4e",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "10ee51f66ec12c4e",
+      "plays": 6
     },
     {
       "date": "2026-10-30",
@@ -2599,6 +3402,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "125fd55b49f40a54",
+      "plays": 24
+    },
+    {
       "date": "2026-08-21",
       "id": "1266f506fe9195a9",
       "plays": 1
@@ -2654,6 +3462,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "12f8e3534cf7e5c3",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "130e167e04c0a7f3",
       "plays": 8
@@ -2672,6 +3485,11 @@
       "date": "2026-10-17",
       "id": "1328a6dcf554aec8",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "1382a66037e8b904",
+      "plays": 12
     },
     {
       "date": "2026-07-25",
@@ -2712,6 +3530,11 @@
       "date": "2026-10-17",
       "id": "13e8cf251a8c4ad2",
       "plays": 24
+    },
+    {
+      "date": "2026-11-24",
+      "id": "13e8cf251a8c4ad2",
+      "plays": 6
     },
     {
       "date": "2026-06-11",
@@ -2904,6 +3727,11 @@
       "plays": 8
     },
     {
+      "date": "2026-11-24",
+      "id": "177cbe4332d7766f",
+      "plays": 6
+    },
+    {
       "date": "2026-07-20",
       "id": "17872499a2243f57",
       "plays": 1
@@ -3054,6 +3882,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "1b9427d7f3fa84c9",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "1baedb9f99ba692f",
       "plays": 4
@@ -3062,6 +3895,11 @@
       "date": "2026-08-22",
       "id": "1be357c034291151",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "1be357c034291151",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -3077,6 +3915,11 @@
       "date": "2026-09-05",
       "id": "1c525f0d7d22baf4",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "1caa31bc94af65d6",
+      "plays": 18
     },
     {
       "date": "2026-10-17",
@@ -3129,6 +3972,11 @@
       "plays": 9
     },
     {
+      "date": "2026-11-24",
+      "id": "1d612ab5719d5e1a",
+      "plays": 6
+    },
+    {
       "date": "2026-09-05",
       "id": "1e18ab1a07bfab3f",
       "plays": 2
@@ -3154,6 +4002,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "1e3db6276a874366",
+      "plays": 6
+    },
+    {
       "date": "2026-06-27",
       "id": "1e4a4a17b6130f0a",
       "plays": 2
@@ -3169,9 +4022,19 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "1e914657018a9f6c",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "1ead6b5ed4a399ad",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "1ed1202b97b44f11",
+      "plays": 6
     },
     {
       "date": "2026-06-11",
@@ -3244,6 +4107,11 @@
       "plays": 24
     },
     {
+      "date": "2026-11-24",
+      "id": "1fd3bc754833115e",
+      "plays": 6
+    },
+    {
       "date": "2026-06-16",
       "id": "1fe00a419773d760",
       "plays": 1
@@ -3272,6 +4140,11 @@
       "date": "2026-08-12",
       "id": "208e1e50ff836ffe",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "208e1e50ff836ffe",
+      "plays": 12
     },
     {
       "date": "2026-10-17",
@@ -3344,9 +4217,19 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "22c9458ceb44c194",
+      "plays": 6
+    },
+    {
       "date": "2026-06-16",
       "id": "22f3564a7f7d7fa6",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "23289d30e529e2dd",
+      "plays": 6
     },
     {
       "date": "2026-06-03",
@@ -3367,6 +4250,11 @@
       "date": "2026-10-17",
       "id": "2476adafbe2a2ebe",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "247e0135bb57b64f",
+      "plays": 6
     },
     {
       "date": "2026-08-07",
@@ -3444,6 +4332,11 @@
       "plays": 3
     },
     {
+      "date": "2026-11-24",
+      "id": "2612f6881a711a9f",
+      "plays": 6
+    },
+    {
       "date": "2026-08-30",
       "id": "26133d0de4057421",
       "plays": 17
@@ -3457,6 +4350,11 @@
       "date": "2026-05-26",
       "id": "26bb54469fe091a6",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "26f997a7c1a6dbdc",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -3492,6 +4390,11 @@
       "date": "2026-08-24",
       "id": "284b8d3f68ff722e",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "284b8d3f68ff722e",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -3542,6 +4445,11 @@
       "date": "2026-05-16",
       "id": "29c77a4d46fcea4e",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "29c77a4d46fcea4e",
+      "plays": 12
     },
     {
       "date": "2026-06-27",
@@ -3597,6 +4505,11 @@
       "date": "2026-10-17",
       "id": "2b7fefa22267a161",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "2ba64273b22925d8",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -3939,6 +4852,11 @@
       "plays": 8
     },
     {
+      "date": "2026-11-24",
+      "id": "33bcc0c84e9a5043",
+      "plays": 6
+    },
+    {
       "date": "2026-08-24",
       "id": "33cd3468be618389",
       "plays": 1
@@ -4097,6 +5015,11 @@
       "date": "2026-08-22",
       "id": "383fa8c2733b0b33",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "384c5103a5632b88",
+      "plays": 6
     },
     {
       "date": "2026-07-20",
@@ -4299,6 +5222,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "3decbbbe517cab5d",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "3e1a85a24165e2f9",
       "plays": 2
@@ -4429,6 +5357,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "41bf52fa9242c8ff",
+      "plays": 6
+    },
+    {
       "date": "2026-05-21",
       "id": "41c0af399f1068f6",
       "plays": 1
@@ -4549,6 +5482,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "4556a6806b3ec6c4",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "4561473f9dd65026",
       "plays": 4
@@ -4579,6 +5517,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "468b87cd033b246b",
+      "plays": 6
+    },
+    {
       "date": "2026-08-31",
       "id": "468f844d1d80f0a9",
       "plays": 3
@@ -4602,6 +5545,11 @@
       "date": "2026-10-30",
       "id": "475328419492f99b",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "475328419492f99b",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -4639,6 +5587,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "48485f671515e755",
+      "plays": 6
+    },
+    {
       "date": "2026-05-26",
       "id": "484bde16bab2f7f1",
       "plays": 1
@@ -4647,6 +5600,11 @@
       "date": "2026-09-05",
       "id": "48915ee0a4eda798",
       "plays": 10
+    },
+    {
+      "date": "2026-11-24",
+      "id": "48bf2db95d55819f",
+      "plays": 6
     },
     {
       "date": "2026-04-23",
@@ -4667,6 +5625,11 @@
       "date": "2026-07-10",
       "id": "4933321cc73490be",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "4933321cc73490be",
+      "plays": 6
     },
     {
       "date": "2026-06-27",
@@ -4959,6 +5922,11 @@
       "plays": 8
     },
     {
+      "date": "2026-11-24",
+      "id": "4d366de1529dbffa",
+      "plays": 6
+    },
+    {
       "date": "2026-10-30",
       "id": "4d55daa93872517c",
       "plays": 9
@@ -4987,6 +5955,11 @@
       "date": "2026-06-29",
       "id": "4de9fb64cc210ce2",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "4dfdb51ba0693e63",
+      "plays": 6
     },
     {
       "date": "2026-05-29",
@@ -5029,9 +6002,19 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "4f2fe4650c8d573d",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "4f3152c3169d8ff3",
       "plays": 8
+    },
+    {
+      "date": "2026-11-24",
+      "id": "4f3152c3169d8ff3",
+      "plays": 6
     },
     {
       "date": "2026-07-25",
@@ -5067,6 +6050,11 @@
       "date": "2026-05-18",
       "id": "4fd758d29ea4f75f",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "4fd758d29ea4f75f",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -5172,6 +6160,11 @@
       "date": "2026-08-22",
       "id": "5130005cb8985edd",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "5130005cb8985edd",
+      "plays": 12
     },
     {
       "date": "2026-08-30",
@@ -5289,6 +6282,16 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "5498bd83b9138adb",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "5540fec30a927037",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "5551d97d7c5205c6",
       "plays": 1
@@ -5329,6 +6332,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "55af9b8ce135a04c",
+      "plays": 6
+    },
+    {
       "date": "2026-06-29",
       "id": "566c8f7fad54d95a",
       "plays": 1
@@ -5349,9 +6357,19 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "567c7c87a448e9b6",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "5695e8a3e3df0360",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "5695e8a3e3df0360",
+      "plays": 6
     },
     {
       "date": "2026-08-07",
@@ -5369,6 +6387,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "56d04f8e054c8e4d",
+      "plays": 24
+    },
+    {
       "date": "2026-05-21",
       "id": "57141685fd592cd7",
       "plays": 1
@@ -5382,6 +6405,11 @@
       "date": "2026-10-30",
       "id": "573c38df8e2d1ec6",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "573c38df8e2d1ec6",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -5404,6 +6432,16 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "57a33d303852e4b5",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "57da56135aa1716d",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "5808fabe191932ad",
       "plays": 4
@@ -5417,6 +6455,11 @@
       "date": "2026-10-30",
       "id": "58507343348b79a8",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "58507343348b79a8",
+      "plays": 6
     },
     {
       "date": "2026-05-16",
@@ -5474,6 +6517,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "599f18d3bbf38975",
+      "plays": 6
+    },
+    {
       "date": "2026-06-29",
       "id": "59a6c495bcbd06b9",
       "plays": 1
@@ -5492,6 +6540,11 @@
       "date": "2026-10-17",
       "id": "59bd30949a3cbce6",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "59bd30949a3cbce6",
+      "plays": 6
     },
     {
       "date": "2026-06-11",
@@ -5564,6 +6617,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "5b854bc1ceb6780c",
+      "plays": 6
+    },
+    {
       "date": "2026-05-21",
       "id": "5b9bde39180b25c2",
       "plays": 1
@@ -5587,6 +6645,16 @@
       "date": "2026-08-29",
       "id": "5bb972f7d39ec1ef",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "5bb972f7d39ec1ef",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "5beff67ee2adbc06",
+      "plays": 6
     },
     {
       "date": "2026-09-05",
@@ -5704,6 +6772,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "5f3b5696b759f2bc",
+      "plays": 6
+    },
+    {
       "date": "2026-04-30",
       "id": "5f68cdbf3f1da1bd",
       "plays": 6
@@ -5754,6 +6827,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "6096f8a4d87f65a3",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "60a61c6b714f26b8",
       "plays": 1
@@ -5779,6 +6857,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "61c3602571c04b29",
+      "plays": 6
+    },
+    {
       "date": "2026-06-29",
       "id": "61f53b8505bd4d63",
       "plays": 1
@@ -5802,6 +6885,11 @@
       "date": "2026-08-22",
       "id": "62e4d8f2ab59dc7c",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "63117ef68d464532",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -5849,6 +6937,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "64bc58402dfe606e",
+      "plays": 6
+    },
+    {
       "date": "2026-08-12",
       "id": "652a0051fd33409e",
       "plays": 1
@@ -5857,6 +6950,11 @@
       "date": "2026-09-05",
       "id": "653390f62ea61802",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "653390f62ea61802",
+      "plays": 6
     },
     {
       "date": "2026-06-07",
@@ -5902,6 +7000,11 @@
       "date": "2026-08-07",
       "id": "6673a412a8740631",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "667ae318502195a2",
+      "plays": 6
     },
     {
       "date": "2026-06-19",
@@ -6039,6 +7142,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "6a47ae308b691c58",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "6a4ac421e988a0be",
       "plays": 4
@@ -6107,6 +7215,11 @@
       "date": "2026-08-12",
       "id": "6b59ca46e523659e",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "6b59ca46e523659e",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -6384,6 +7497,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "72c8c31469a4784d",
+      "plays": 12
+    },
+    {
       "date": "2026-10-17",
       "id": "72fe93ba013795e8",
       "plays": 4
@@ -6589,6 +7707,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "77270b994d482841",
+      "plays": 6
+    },
+    {
       "date": "2026-05-28",
       "id": "7739c1ed1a2540bd",
       "plays": 2
@@ -6612,6 +7735,11 @@
       "date": "2026-10-17",
       "id": "78c5de7cabdaf9ca",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "78d71b2471217c15",
+      "plays": 6
     },
     {
       "date": "2026-06-02",
@@ -6679,6 +7807,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "7ad08c517a15058a",
+      "plays": 6
+    },
+    {
       "date": "2026-04-20",
       "id": "7ad42f196b7ee3f7",
       "plays": 2
@@ -6712,6 +7845,11 @@
       "date": "2026-10-30",
       "id": "7c0af8847b84428a",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "7c0af8847b84428a",
+      "plays": 6
     },
     {
       "date": "2026-08-31",
@@ -6769,6 +7907,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "7dced0577e1ac714",
+      "plays": 6
+    },
+    {
       "date": "2026-05-25",
       "id": "7dda5ab9e2ca91ca",
       "plays": 2
@@ -6789,6 +7932,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "7e34296a0288efa9",
+      "plays": 6
+    },
+    {
       "date": "2026-07-15",
       "id": "7e6e5de50918cefc",
       "plays": 1
@@ -6797,6 +7945,11 @@
       "date": "2026-10-17",
       "id": "7e8fd31372e1540a",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "7e8fd31372e1540a",
+      "plays": 12
     },
     {
       "date": "2026-07-20",
@@ -6844,6 +7997,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "7ec017429a4bd820",
+      "plays": 6
+    },
+    {
       "date": "2026-04-30",
       "id": "7f2e6f83890c2007",
       "plays": 3
@@ -6872,6 +8030,11 @@
       "date": "2026-08-12",
       "id": "7f2e6f83890c2007",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "7f3ac96a58ed8a19",
+      "plays": 12
     },
     {
       "date": "2026-08-16",
@@ -6922,6 +8085,11 @@
       "date": "2026-10-17",
       "id": "800c8d2fb478a41c",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "803a6ecdcb9a171a",
+      "plays": 6
     },
     {
       "date": "2026-08-07",
@@ -7044,6 +8212,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "834802eec6202911",
+      "plays": 6
+    },
+    {
       "date": "2026-06-27",
       "id": "835640b44cacb0b4",
       "plays": 2
@@ -7052,6 +8225,11 @@
       "date": "2026-10-30",
       "id": "838da729ca4c486c",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "838da729ca4c486c",
+      "plays": 6
     },
     {
       "date": "2026-07-15",
@@ -7134,6 +8312,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "851f64f20166b693",
+      "plays": 6
+    },
+    {
       "date": "2026-08-22",
       "id": "852b4f0b48f3cde0",
       "plays": 3
@@ -7182,6 +8365,11 @@
       "date": "2026-10-17",
       "id": "861b2fbab25f8ca5",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "861b2fbab25f8ca5",
+      "plays": 6
     },
     {
       "date": "2026-04-24",
@@ -7319,6 +8507,11 @@
       "plays": 9
     },
     {
+      "date": "2026-11-24",
+      "id": "87a602a27588a118",
+      "plays": 6
+    },
+    {
       "date": "2026-08-22",
       "id": "87a7673bd9b31484",
       "plays": 1
@@ -7337,6 +8530,11 @@
       "date": "2026-08-22",
       "id": "87dcbe30136d7b27",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "880d338eccc9b537",
+      "plays": 6
     },
     {
       "date": "2026-05-04",
@@ -7444,6 +8642,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "8b3d4f7c9801cb11",
+      "plays": 6
+    },
+    {
       "date": "2026-05-23",
       "id": "8b3e51f6bf8ed5e2",
       "plays": 2
@@ -7482,6 +8685,11 @@
       "date": "2026-06-02",
       "id": "8c52e86316b4f5b0",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "8c52e86316b4f5b0",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -7532,6 +8740,11 @@
       "date": "2026-10-17",
       "id": "8d6233cc03a92998",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "8d6233cc03a92998",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -7592,6 +8805,11 @@
       "date": "2026-10-17",
       "id": "8f74753b0942e507",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "8fc15e63b8c27153",
+      "plays": 6
     },
     {
       "date": "2026-05-25",
@@ -7989,6 +9207,11 @@
       "plays": 9
     },
     {
+      "date": "2026-11-24",
+      "id": "9a87cd8176eafa3a",
+      "plays": 6
+    },
+    {
       "date": "2026-08-30",
       "id": "9ac2b76313c817fc",
       "plays": 17
@@ -8002,6 +9225,11 @@
       "date": "2026-08-07",
       "id": "9b2b3eb2a7a85e13",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "9b4db0e8ee661a82",
+      "plays": 6
     },
     {
       "date": "2026-10-30",
@@ -8284,6 +9512,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "a18020275fc6a7aa",
+      "plays": 6
+    },
+    {
       "date": "2026-06-02",
       "id": "a18d46d90582fb59",
       "plays": 1
@@ -8324,6 +9557,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "a204184c9d205e43",
+      "plays": 6
+    },
+    {
       "date": "2026-08-12",
       "id": "a23d1ab79c3835a5",
       "plays": 1
@@ -8357,6 +9595,16 @@
       "date": "2026-10-17",
       "id": "a3372beae201e156",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "a3474d8f968131e2",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "a36a476c260f6d67",
+      "plays": 6
     },
     {
       "date": "2026-07-25",
@@ -8394,6 +9642,16 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "a3d72f5ac280a92c",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "a3db8d6101cc2aa8",
+      "plays": 6
+    },
+    {
       "date": "2026-07-20",
       "id": "a44f79dad7889bbd",
       "plays": 1
@@ -8427,6 +9685,11 @@
       "date": "2026-08-31",
       "id": "a523469dd602b358",
       "plays": 3
+    },
+    {
+      "date": "2026-11-24",
+      "id": "a55ebe09d4908eec",
+      "plays": 6
     },
     {
       "date": "2026-08-31",
@@ -8564,6 +9827,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "a7cf0396e2819ab3",
+      "plays": 6
+    },
+    {
       "date": "2026-08-23",
       "id": "a8d3d55418b1a0ae",
       "plays": 6
@@ -8677,6 +9945,11 @@
       "date": "2026-06-02",
       "id": "abe3b8cede1ac305",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "abe3b8cede1ac305",
+      "plays": 6
     },
     {
       "date": "2026-07-20",
@@ -8827,6 +10100,11 @@
       "date": "2026-10-30",
       "id": "af00730cc177779d",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "af00730cc177779d",
+      "plays": 6
     },
     {
       "date": "2026-10-30",
@@ -9224,6 +10502,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "b9182b7674ac9731",
+      "plays": 6
+    },
+    {
       "date": "2026-08-31",
       "id": "b93c256eac7714d0",
       "plays": 3
@@ -9232,6 +10515,16 @@
       "date": "2026-07-20",
       "id": "b9852e5fd4a58bfb",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "b9852e5fd4a58bfb",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "b99d826761636271",
+      "plays": 24
     },
     {
       "date": "2026-08-07",
@@ -9389,6 +10682,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "bda4038798c2b89a",
+      "plays": 6
+    },
+    {
       "date": "2026-08-30",
       "id": "bdd83d5f5e949495",
       "plays": 17
@@ -9462,6 +10760,11 @@
       "date": "2026-10-17",
       "id": "c0e89f0a94e26fd3",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "c0eb9d11d47384cb",
+      "plays": 6
     },
     {
       "date": "2026-06-02",
@@ -9579,6 +10882,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "c37def265168ffca",
+      "plays": 12
+    },
+    {
       "date": "2026-10-17",
       "id": "c3ba890ff36f37dc",
       "plays": 4
@@ -9639,9 +10947,19 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "c59cc5288afe9464",
+      "plays": 6
+    },
+    {
       "date": "2026-10-30",
       "id": "c60dbd0580ed2e97",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "c61aa7b4483d6af5",
+      "plays": 6
     },
     {
       "date": "2026-09-05",
@@ -9667,6 +10985,11 @@
       "date": "2026-10-17",
       "id": "c703fe76c2ed87c5",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "c70c28f914091663",
+      "plays": 6
     },
     {
       "date": "2026-05-21",
@@ -9719,6 +11042,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "c83c42e18bebf65a",
+      "plays": 6
+    },
+    {
       "date": "2026-08-29",
       "id": "c855ac72a2a20b49",
       "plays": 1
@@ -9757,6 +11085,16 @@
       "date": "2026-06-19",
       "id": "c8f7ecb296240069",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "c8f7ecb296240069",
+      "plays": 18
+    },
+    {
+      "date": "2026-11-24",
+      "id": "c93c91de9e6ebe40",
+      "plays": 6
     },
     {
       "date": "2026-05-10",
@@ -9832,6 +11170,11 @@
       "date": "2026-05-21",
       "id": "caed4dc01d38427c",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "caee1e64bbfe597a",
+      "plays": 6
     },
     {
       "date": "2026-08-31",
@@ -9924,6 +11267,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "cca19ad10699e080",
+      "plays": 6
+    },
+    {
       "date": "2026-05-29",
       "id": "cce6f2723eb32e24",
       "plays": 1
@@ -9974,9 +11322,19 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "ce82a9f572f0dbd1",
+      "plays": 12
+    },
+    {
       "date": "2026-07-14",
       "id": "ce8b954e54f83412",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "ce8b954e54f83412",
+      "plays": 6
     },
     {
       "date": "2026-07-25",
@@ -9987,6 +11345,11 @@
       "date": "2026-10-17",
       "id": "ceac9ddb75cb846d",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "ceac9ddb75cb846d",
+      "plays": 6
     },
     {
       "date": "2026-07-25",
@@ -10009,6 +11372,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-24",
+      "id": "ceef07bb2cba2fa3",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "cef697b6ec82b816",
       "plays": 4
@@ -10022,6 +11390,11 @@
       "date": "2026-10-30",
       "id": "cef99a9ea0096baa",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "cf020f91bcbc263a",
+      "plays": 6
     },
     {
       "date": "2026-08-07",
@@ -10114,6 +11487,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "d2365638a2e276a0",
+      "plays": 6
+    },
+    {
       "date": "2026-05-16",
       "id": "d26b5297e5a97dcf",
       "plays": 2
@@ -10149,6 +11527,11 @@
       "plays": 8
     },
     {
+      "date": "2026-11-24",
+      "id": "d3080ce5a8345fec",
+      "plays": 6
+    },
+    {
       "date": "2026-06-03",
       "id": "d3366c6ddce5599a",
       "plays": 1
@@ -10182,6 +11565,11 @@
       "date": "2026-08-24",
       "id": "d36a4ba5f890b719",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "d36a4ba5f890b719",
+      "plays": 6
     },
     {
       "date": "2026-06-02",
@@ -10374,6 +11762,11 @@
       "plays": 3
     },
     {
+      "date": "2026-11-24",
+      "id": "d7be4d4cd1a4c283",
+      "plays": 6
+    },
+    {
       "date": "2026-06-08",
       "id": "d7ca2318c6a43dfa",
       "plays": 3
@@ -10439,9 +11832,19 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "d91387c7234460d1",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "d913af03785a4e28",
       "plays": 8
+    },
+    {
+      "date": "2026-11-24",
+      "id": "d913af03785a4e28",
+      "plays": 6
     },
     {
       "date": "2026-05-02",
@@ -10542,6 +11945,11 @@
       "date": "2026-07-25",
       "id": "db11fe978906a7f3",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "db3900d6458d5c80",
+      "plays": 6
     },
     {
       "date": "2026-08-12",
@@ -10654,6 +12062,11 @@
       "plays": 6
     },
     {
+      "date": "2026-11-24",
+      "id": "ddb1f977a5b8f280",
+      "plays": 6
+    },
+    {
       "date": "2026-08-24",
       "id": "de1d7f30d44b2108",
       "plays": 1
@@ -10699,6 +12112,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "dec42495cae5f56f",
+      "plays": 6
+    },
+    {
       "date": "2026-08-30",
       "id": "ded3be34248a2c54",
       "plays": 17
@@ -10717,6 +12135,11 @@
       "date": "2026-10-17",
       "id": "dee5edb0d5bde4ed",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "def45be48c0a548c",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -10784,6 +12207,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "e0510de33ba7159e",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "e079df161e51d8bd",
       "plays": 4
@@ -10842,6 +12270,11 @@
       "date": "2026-09-05",
       "id": "e11ec853ef599068",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "e15de2eb99691f2a",
+      "plays": 12
     },
     {
       "date": "2026-06-03",
@@ -10949,6 +12382,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "e2feaad9e7bfbe7a",
+      "plays": 6
+    },
+    {
       "date": "2026-07-10",
       "id": "e3124f8f92305e91",
       "plays": 2
@@ -10982,6 +12420,11 @@
       "date": "2026-09-05",
       "id": "e423b437ea588892",
       "plays": 2
+    },
+    {
+      "date": "2026-11-24",
+      "id": "e423b437ea588892",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -11109,6 +12552,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "e7a862216103ca2b",
+      "plays": 6
+    },
+    {
       "date": "2026-07-10",
       "id": "e7d05da66170da98",
       "plays": 2
@@ -11147,6 +12595,11 @@
       "date": "2026-10-30",
       "id": "e80423258c4c456b",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "e8363daa635ac4d0",
+      "plays": 6
     },
     {
       "date": "2026-10-30",
@@ -11424,9 +12877,19 @@
       "plays": 8
     },
     {
+      "date": "2026-11-24",
+      "id": "edb74ee88ee5cb57",
+      "plays": 6
+    },
+    {
       "date": "2026-10-30",
       "id": "edba4cc659641cdb",
       "plays": 9
+    },
+    {
+      "date": "2026-11-24",
+      "id": "ee35ac23b65a4a61",
+      "plays": 6
     },
     {
       "date": "2026-08-21",
@@ -11544,6 +13007,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "efd06afdc325eacf",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "f00b25cad8182922",
       "plays": 4
@@ -11644,6 +13112,11 @@
       "plays": 12
     },
     {
+      "date": "2026-11-24",
+      "id": "f1a6c07c43ee1909",
+      "plays": 6
+    },
+    {
       "date": "2026-04-20",
       "id": "f1cc741d7d4348d7",
       "plays": 4
@@ -11659,9 +13132,19 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "f1cc741d7d4348d7",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "f1de7435fd5cb19c",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "f1de7435fd5cb19c",
+      "plays": 6
     },
     {
       "date": "2026-04-30",
@@ -11691,6 +13174,11 @@
     {
       "date": "2026-06-30",
       "id": "f2603e959d7cf580",
+      "plays": 6
+    },
+    {
+      "date": "2026-11-24",
+      "id": "f28ec308039500d3",
       "plays": 6
     },
     {
@@ -11742,6 +13230,11 @@
       "date": "2026-10-17",
       "id": "f3ecdec3778b8d8a",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "f402ff4a70f10093",
+      "plays": 6
     },
     {
       "date": "2026-07-05",
@@ -11924,6 +13417,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "f82953aef354ddfb",
+      "plays": 6
+    },
+    {
       "date": "2026-05-25",
       "id": "f8303a3d69e3af4d",
       "plays": 2
@@ -11957,6 +13455,11 @@
       "date": "2026-10-17",
       "id": "f9094be27c66d15d",
       "plays": 4
+    },
+    {
+      "date": "2026-11-24",
+      "id": "f90b035f6a0aaaaa",
+      "plays": 6
     },
     {
       "date": "2026-04-20",
@@ -11997,6 +13500,11 @@
       "date": "2026-08-24",
       "id": "fa0eeebd9830950f",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "fa14c8b457250e8f",
+      "plays": 6
     },
     {
       "date": "2026-10-17",
@@ -12042,6 +13550,11 @@
       "date": "2026-08-22",
       "id": "faeff5140a8c1aa1",
       "plays": 1
+    },
+    {
+      "date": "2026-11-24",
+      "id": "faeff5140a8c1aa1",
+      "plays": 6
     },
     {
       "date": "2026-09-05",
@@ -12179,6 +13692,11 @@
       "plays": 1
     },
     {
+      "date": "2026-11-24",
+      "id": "fed2eb96c1275d84",
+      "plays": 6
+    },
+    {
       "date": "2026-10-17",
       "id": "ff13b48e49bc66d7",
       "plays": 4
@@ -12204,6 +13722,11 @@
       "plays": 4
     },
     {
+      "date": "2026-11-24",
+      "id": "ff3d7b179c31433d",
+      "plays": 6
+    },
+    {
       "date": "2026-07-10",
       "id": "ff8df6b3128dc397",
       "plays": 2
@@ -12215,6 +13738,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-23",
-  "snapshot_count": 192
+  "latest_snapshot": "2026-11-24",
+  "snapshot_count": 193
 }

@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "count": 102,
+      "count": 101,
       "country": "FR"
     },
     {
@@ -14,15 +14,15 @@
     },
     {
       "rank": 3,
-      "artist": "Coldplay",
+      "artist": "Bon Entendeur",
       "count": 31,
-      "country": "GB"
+      "country": "FR"
     },
     {
       "rank": 4,
-      "artist": "Bon Entendeur",
-      "count": 29,
-      "country": "FR"
+      "artist": "Coldplay",
+      "count": 31,
+      "country": "GB"
     },
     {
       "rank": 5,
@@ -305,19 +305,19 @@
     {
       "rank": 1,
       "artist": "Daft Punk",
-      "plays": 4798,
+      "plays": 4815,
       "country": "FR"
     },
     {
       "rank": 2,
       "artist": "Bon Entendeur",
-      "plays": 3663,
+      "plays": 3699,
       "country": "FR"
     },
     {
       "rank": 3,
       "artist": "Joe Dassin",
-      "plays": 3265,
+      "plays": 3301,
       "country": "FR"
     },
     {
@@ -329,19 +329,19 @@
     {
       "rank": 5,
       "artist": "Dua Lipa",
-      "plays": 2439,
+      "plays": 2451,
       "country": "GB"
     },
     {
       "rank": 6,
       "artist": "Coldplay",
-      "plays": 2193,
+      "plays": 2211,
       "country": "GB"
     },
     {
       "rank": 7,
       "artist": "Polo & Pan",
-      "plays": 1885,
+      "plays": 1897,
       "country": "FR"
     },
     {
@@ -353,7 +353,7 @@
     {
       "rank": 9,
       "artist": "Lifelike",
-      "plays": 1290,
+      "plays": 1302,
       "country": "FR"
     },
     {
@@ -382,15 +382,15 @@
     },
     {
       "rank": 14,
-      "artist": "Renaud",
-      "plays": 1133,
-      "country": "FR"
+      "artist": "Anri",
+      "plays": 1146,
+      "country": "JP"
     },
     {
       "rank": 15,
-      "artist": "Anri",
-      "plays": 1116,
-      "country": "JP"
+      "artist": "Renaud",
+      "plays": 1139,
+      "country": "FR"
     },
     {
       "rank": 16,
@@ -407,7 +407,7 @@
     {
       "rank": 18,
       "artist": "The Weeknd",
-      "plays": 1057,
+      "plays": 1069,
       "country": "CA"
     },
     {
@@ -418,20 +418,20 @@
     },
     {
       "rank": 20,
+      "artist": "David Guetta",
+      "plays": 1017,
+      "country": "FR"
+    },
+    {
+      "rank": 21,
       "artist": "442oons",
       "plays": 1008,
       "country": "GB"
     },
     {
-      "rank": 21,
-      "artist": "David Guetta",
-      "plays": 1005,
-      "country": "FR"
-    },
-    {
       "rank": 22,
       "artist": "Serge Gainsbourg",
-      "plays": 980,
+      "plays": 986,
       "country": "FR"
     },
     {
@@ -467,13 +467,13 @@
     {
       "rank": 28,
       "artist": "Night Tempo",
-      "plays": 840,
+      "plays": 858,
       "country": "KR"
     },
     {
       "rank": 29,
       "artist": "Synapson",
-      "plays": 820,
+      "plays": 826,
       "country": "FR"
     },
     {
@@ -497,7 +497,7 @@
     {
       "rank": 33,
       "artist": "Maroon 5",
-      "plays": 682,
+      "plays": 688,
       "country": "US"
     },
     {
@@ -514,15 +514,15 @@
     },
     {
       "rank": 36,
-      "artist": "Eric Prydz",
-      "plays": 644,
-      "country": "SE"
+      "artist": "The Beatles",
+      "plays": 645,
+      "country": "GB"
     },
     {
       "rank": 37,
-      "artist": "The Beatles",
-      "plays": 639,
-      "country": "GB"
+      "artist": "Eric Prydz",
+      "plays": 644,
+      "country": "SE"
     },
     {
       "rank": 38,
@@ -533,7 +533,7 @@
     {
       "rank": 39,
       "artist": "Modern Talking",
-      "plays": 625,
+      "plays": 631,
       "country": "DE"
     },
     {
@@ -545,38 +545,38 @@
     {
       "rank": 41,
       "artist": "Tame Impala",
-      "plays": 606,
+      "plays": 612,
       "country": "AU"
     },
     {
       "rank": 42,
-      "artist": "Johnny Cash",
-      "plays": 582,
-      "country": "US"
+      "artist": "Avicii",
+      "plays": 590,
+      "country": "SE"
     },
     {
       "rank": 43,
-      "artist": "Madonna",
-      "plays": 578,
+      "artist": "Johnny Cash",
+      "plays": 588,
       "country": "US"
     },
     {
       "rank": 44,
       "artist": "MACROSS 82-99",
-      "plays": 576,
+      "plays": 582,
       "country": "MX"
     },
     {
       "rank": 45,
-      "artist": "Visitor",
-      "plays": 571,
-      "country": "AU"
+      "artist": "Madonna",
+      "plays": 578,
+      "country": "US"
     },
     {
       "rank": 46,
-      "artist": "Avicii",
-      "plays": 566,
-      "country": "SE"
+      "artist": "Visitor",
+      "plays": 571,
+      "country": "AU"
     },
     {
       "rank": 47,
@@ -598,9 +598,9 @@
     },
     {
       "rank": 50,
-      "artist": "Pitbull",
-      "plays": 531,
-      "country": "US"
+      "artist": "Vantage",
+      "plays": 536,
+      "country": "JP"
     }
   ]
 }
