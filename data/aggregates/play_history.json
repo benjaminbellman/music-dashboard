@@ -1776,7 +1776,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 8583,
+      "total_plays": 8503,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1784,7 +1784,7 @@
         },
         {
           "artist": "Daft Punk",
-          "plays": 273
+          "plays": 268
         },
         {
           "artist": "Kungs",
@@ -1796,31 +1796,31 @@
         },
         {
           "artist": "Anri",
-          "plays": 126
+          "plays": 125
         },
         {
           "artist": "David Guetta",
-          "plays": 103
+          "plays": 102
         },
         {
           "artist": "442oons",
           "plays": 73
         },
         {
-          "artist": "Coldplay",
-          "plays": 71
-        },
-        {
           "artist": "Joe Dassin",
           "plays": 71
         },
         {
-          "artist": "Dua Lipa",
-          "plays": 66
+          "artist": "Coldplay",
+          "plays": 70
         },
         {
           "artist": "France Football Anthem",
           "plays": 66
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 65
         },
         {
           "artist": "Avicii",
@@ -1831,12 +1831,12 @@
           "plays": 61
         },
         {
-          "artist": "Michael Jackson",
+          "artist": "Polo & Pan",
           "plays": 59
         },
         {
-          "artist": "Polo & Pan",
-          "plays": 59
+          "artist": "Michael Jackson",
+          "plays": 58
         },
         {
           "artist": "DJ Alex Man, PHURS, Andreea Flavia",
@@ -1868,65 +1868,65 @@
         },
         {
           "artist": "The Weeknd",
-          "plays": 45
-        },
-        {
-          "artist": "Jacques Brel",
           "plays": 44
         },
         {
           "artist": "Patrick Cowley",
+          "plays": 44
+        },
+        {
+          "artist": "Tom Petty & the Heartbreakers",
           "plays": 44
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1823
+          "plays": 1813
         },
         {
           "genre": "Pop",
-          "plays": 1544
+          "plays": 1532
         },
         {
           "genre": "Electronic",
-          "plays": 824
+          "plays": 818
         },
         {
           "genre": "Variete Francaise",
-          "plays": 567
+          "plays": 562
         },
         {
           "genre": "Alternative",
-          "plays": 514
+          "plays": 506
         },
         {
           "genre": "Rock",
-          "plays": 508
+          "plays": 505
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 446
+          "plays": 443
         },
         {
           "genre": "Comedy",
-          "plays": 272
+          "plays": 270
         },
         {
           "genre": "City Pop",
-          "plays": 222
+          "plays": 221
         },
         {
           "genre": "mashup",
-          "plays": 189
+          "plays": 187
         },
         {
           "genre": "Future Funk",
-          "plays": 158
+          "plays": 157
         },
         {
           "genre": "Soft Rock",
-          "plays": 144
+          "plays": 143
         },
         {
           "genre": "Soundtrack",
@@ -1950,7 +1950,7 @@
         },
         {
           "genre": "Disco",
-          "plays": 72
+          "plays": 70
         },
         {
           "genre": "French Pop",
@@ -1966,7 +1966,7 @@
         },
         {
           "genre": "Latin",
-          "plays": 42
+          "plays": 40
         },
         {
           "genre": "Country",
@@ -2109,12 +2109,6 @@
           "genre": "Dance"
         },
         {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 31,
-          "genre": "Pop"
-        },
-        {
           "song": "Memories",
           "artist": "French 79",
           "plays": 30,
@@ -2125,6 +2119,12 @@
           "artist": "TR3N TEN",
           "plays": 30,
           "genre": "Comedy"
+        },
+        {
+          "song": "Désenchantée",
+          "artist": "Kate Ryan",
+          "plays": 30,
+          "genre": "Pop"
         },
         {
           "song": "Disappointed",
@@ -13738,6 +13738,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-24",
-  "snapshot_count": 193
+  "latest_snapshot": "2026-11-25",
+  "snapshot_count": 194
 }
