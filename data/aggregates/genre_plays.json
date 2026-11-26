@@ -6,12 +6,12 @@
   },
   {
     "genre": "Dance",
-    "plays": 31103,
+    "plays": 31107,
     "songs": 492
   },
   {
     "genre": "Electronic",
-    "plays": 23833,
+    "plays": 23835,
     "songs": 392
   },
   {
@@ -76,8 +76,8 @@
   },
   {
     "genre": "mashup",
-    "plays": 2894,
-    "songs": 72
+    "plays": 2901,
+    "songs": 74
   },
   {
     "genre": "Soundtrack",
@@ -617,6 +617,11 @@
   {
     "genre": "Electronica/Dance",
     "plays": 5,
+    "songs": 1
+  },
+  {
+    "genre": "Unspecified",
+    "plays": 0,
     "songs": 1
   },
   {

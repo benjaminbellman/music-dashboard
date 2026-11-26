@@ -331,16 +331,20 @@
     {
       "date": "2026-11-24",
       "plays": 1146
+    },
+    {
+      "date": "2026-11-26",
+      "plays": 12
     }
   ],
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 1146,
+      "total_plays": 1158,
       "top_artists": [
         {
           "artist": "Bon Entendeur",
-          "plays": 36
+          "plays": 42
         },
         {
           "artist": "Joe Dassin",
@@ -385,6 +389,10 @@
         {
           "artist": "Coldplay",
           "plays": 18
+        },
+        {
+          "artist": "Lifelike",
+          "plays": 14
         },
         {
           "artist": "Myles Smith",
@@ -433,16 +441,12 @@
         {
           "artist": "Lewis Capaldi",
           "plays": 12
-        },
-        {
-          "artist": "Cartoon Network",
-          "plays": 12
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 222
+          "plays": 226
         },
         {
           "genre": "Pop",
@@ -457,11 +461,11 @@
           "plays": 96
         },
         {
-          "genre": "Alternative",
-          "plays": 72
+          "genre": "Electronic",
+          "plays": 74
         },
         {
-          "genre": "Electronic",
+          "genre": "Alternative",
           "plays": 72
         },
         {
@@ -493,12 +497,12 @@
           "plays": 18
         },
         {
-          "genre": "Europop",
+          "genre": "mashup",
           "plays": 18
         },
         {
-          "genre": "mashup",
-          "plays": 12
+          "genre": "Europop",
+          "plays": 18
         },
         {
           "genre": "Folk",
@@ -657,6 +661,12 @@
           "genre": "Europop"
         },
         {
+          "song": "Nightwalk",
+          "artist": "Lifelike",
+          "plays": 8,
+          "genre": "Electronic"
+        },
+        {
           "song": "Johnny B. Goode",
           "artist": "Chuck Berry",
           "plays": 6,
@@ -685,22 +695,16 @@
           "artist": "Hilary Duff",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Starships",
-          "artist": "Nicki Minaj",
-          "plays": 6,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "14d": {
       "days": 14,
-      "total_plays": 1146,
+      "total_plays": 1158,
       "top_artists": [
         {
           "artist": "Bon Entendeur",
-          "plays": 36
+          "plays": 42
         },
         {
           "artist": "Joe Dassin",
@@ -745,6 +749,10 @@
         {
           "artist": "Coldplay",
           "plays": 18
+        },
+        {
+          "artist": "Lifelike",
+          "plays": 14
         },
         {
           "artist": "Myles Smith",
@@ -793,16 +801,12 @@
         {
           "artist": "Lewis Capaldi",
           "plays": 12
-        },
-        {
-          "artist": "Cartoon Network",
-          "plays": 12
         }
       ],
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 222
+          "plays": 226
         },
         {
           "genre": "Pop",
@@ -817,11 +821,11 @@
           "plays": 96
         },
         {
-          "genre": "Alternative",
-          "plays": 72
+          "genre": "Electronic",
+          "plays": 74
         },
         {
-          "genre": "Electronic",
+          "genre": "Alternative",
           "plays": 72
         },
         {
@@ -853,12 +857,12 @@
           "plays": 18
         },
         {
-          "genre": "Europop",
+          "genre": "mashup",
           "plays": 18
         },
         {
-          "genre": "mashup",
-          "plays": 12
+          "genre": "Europop",
+          "plays": 18
         },
         {
           "genre": "Folk",
@@ -1017,6 +1021,12 @@
           "genre": "Europop"
         },
         {
+          "song": "Nightwalk",
+          "artist": "Lifelike",
+          "plays": 8,
+          "genre": "Electronic"
+        },
+        {
           "song": "Johnny B. Goode",
           "artist": "Chuck Berry",
           "plays": 6,
@@ -1045,18 +1055,12 @@
           "artist": "Hilary Duff",
           "plays": 6,
           "genre": "Pop"
-        },
-        {
-          "song": "Starships",
-          "artist": "Nicki Minaj",
-          "plays": 6,
-          "genre": "Hip Hop/Rap"
         }
       ]
     },
     "30d": {
       "days": 30,
-      "total_plays": 2235,
+      "total_plays": 2247,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1064,7 +1068,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 45
+          "plays": 51
         },
         {
           "artist": "Joe Dassin",
@@ -1166,7 +1170,7 @@
         },
         {
           "genre": "Dance",
-          "plays": 438
+          "plays": 442
         },
         {
           "genre": "Rock",
@@ -1178,7 +1182,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 159
+          "plays": 161
         },
         {
           "genre": "Variete Francaise",
@@ -1218,7 +1222,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 30
+          "plays": 36
         },
         {
           "genre": "Oldies",
@@ -1416,7 +1420,7 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5917,
+      "total_plays": 5929,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -1428,7 +1432,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 113
+          "plays": 119
         },
         {
           "artist": "Purple Disco Machine",
@@ -1526,11 +1530,11 @@
         },
         {
           "genre": "Dance",
-          "plays": 1033
+          "plays": 1037
         },
         {
           "genre": "Electronic",
-          "plays": 558
+          "plays": 560
         },
         {
           "genre": "Variete Francaise",
@@ -1558,7 +1562,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 133
+          "plays": 139
         },
         {
           "genre": "Future Funk",
@@ -1776,7 +1780,7 @@
     },
     "180d": {
       "days": 180,
-      "total_plays": 8503,
+      "total_plays": 8515,
       "top_artists": [
         {
           "artist": "Purple Disco Machine",
@@ -1792,7 +1796,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 158
+          "plays": 164
         },
         {
           "artist": "Anri",
@@ -1882,7 +1886,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 1813
+          "plays": 1817
         },
         {
           "genre": "Pop",
@@ -1890,7 +1894,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 818
+          "plays": 820
         },
         {
           "genre": "Variete Francaise",
@@ -1918,7 +1922,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 187
+          "plays": 193
         },
         {
           "genre": "Future Funk",
@@ -2136,7 +2140,7 @@
     },
     "365d": {
       "days": 365,
-      "total_plays": 9516,
+      "total_plays": 9528,
       "top_artists": [
         {
           "artist": "Daft Punk",
@@ -2152,7 +2156,7 @@
         },
         {
           "artist": "Bon Entendeur",
-          "plays": 178
+          "plays": 184
         },
         {
           "artist": "Anri",
@@ -2242,7 +2246,7 @@
       "top_genres": [
         {
           "genre": "Dance",
-          "plays": 2019
+          "plays": 2023
         },
         {
           "genre": "Pop",
@@ -2250,7 +2254,7 @@
         },
         {
           "genre": "Electronic",
-          "plays": 971
+          "plays": 973
         },
         {
           "genre": "Variete Francaise",
@@ -2282,7 +2286,7 @@
         },
         {
           "genre": "mashup",
-          "plays": 201
+          "plays": 207
         },
         {
           "genre": "Future Funk",
@@ -5225,6 +5229,11 @@
       "date": "2026-11-24",
       "id": "3decbbbe517cab5d",
       "plays": 6
+    },
+    {
+      "date": "2026-11-26",
+      "id": "3dfa7ab2927d77bf",
+      "plays": 2
     },
     {
       "date": "2026-06-02",
@@ -8957,6 +8966,11 @@
       "plays": 2
     },
     {
+      "date": "2026-11-26",
+      "id": "93b11f5b6e9ab3a9",
+      "plays": 2
+    },
+    {
       "date": "2026-10-17",
       "id": "93cedaa504b8fc3e",
       "plays": 4
@@ -9090,6 +9104,11 @@
       "date": "2026-08-29",
       "id": "97635591faa58f4e",
       "plays": 1
+    },
+    {
+      "date": "2026-11-26",
+      "id": "97bbc1dc11c86f78",
+      "plays": 6
     },
     {
       "date": "2026-07-04",
@@ -11572,6 +11591,11 @@
       "plays": 6
     },
     {
+      "date": "2026-11-26",
+      "id": "d36a4ba5f890b719",
+      "plays": 2
+    },
+    {
       "date": "2026-06-02",
       "id": "d44b23bf5be26661",
       "plays": 1
@@ -13738,6 +13762,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-25",
-  "snapshot_count": 194
+  "latest_snapshot": "2026-11-26",
+  "snapshot_count": 195
 }
