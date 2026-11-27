@@ -340,361 +340,63 @@
   "windows": {
     "3d": {
       "days": 3,
-      "total_plays": 1158,
+      "total_plays": 12,
       "top_artists": [
         {
           "artist": "Bon Entendeur",
-          "plays": 42
+          "plays": 6
         },
         {
-          "artist": "Joe Dassin",
-          "plays": 36
+          "artist": "Watermät",
+          "plays": 2
         },
         {
-          "artist": "Anri",
-          "plays": 30
-        },
-        {
-          "artist": "Maes, Ninho",
-          "plays": 24
-        },
-        {
-          "artist": "Avicii",
-          "plays": 24
-        },
-        {
-          "artist": "Supermode",
-          "plays": 24
-        },
-        {
-          "artist": "Matchbox Twenty",
-          "plays": 24
-        },
-        {
-          "artist": "S. Kiyotaka & Omega Tribe",
-          "plays": 24
-        },
-        {
-          "artist": "Daft Punk",
-          "plays": 18
-        },
-        {
-          "artist": "Nicky Romero",
-          "plays": 18
-        },
-        {
-          "artist": "Night Tempo",
-          "plays": 18
-        },
-        {
-          "artist": "Coldplay",
-          "plays": 18
+          "artist": "La Roux",
+          "plays": 2
         },
         {
           "artist": "Lifelike",
-          "plays": 14
-        },
-        {
-          "artist": "Myles Smith",
-          "plays": 12
-        },
-        {
-          "artist": "Tseba",
-          "plays": 12
-        },
-        {
-          "artist": "Breakbot",
-          "plays": 12
-        },
-        {
-          "artist": "Lola Marsh",
-          "plays": 12
-        },
-        {
-          "artist": "The Weeknd",
-          "plays": 12
-        },
-        {
-          "artist": "Kate Bush",
-          "plays": 12
-        },
-        {
-          "artist": "Tony Igy",
-          "plays": 12
-        },
-        {
-          "artist": "Dua Lipa",
-          "plays": 12
-        },
-        {
-          "artist": "Polo & Pan",
-          "plays": 12
-        },
-        {
-          "artist": "Kate Ryan",
-          "plays": 12
-        },
-        {
-          "artist": "David Guetta",
-          "plays": 12
-        },
-        {
-          "artist": "Lewis Capaldi",
-          "plays": 12
+          "plays": 2
         }
       ],
       "top_genres": [
         {
+          "genre": "mashup",
+          "plays": 6
+        },
+        {
           "genre": "Dance",
-          "plays": 226
-        },
-        {
-          "genre": "Pop",
-          "plays": 216
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 114
-        },
-        {
-          "genre": "Rock",
-          "plays": 96
+          "plays": 4
         },
         {
           "genre": "Electronic",
-          "plays": 74
-        },
-        {
-          "genre": "Alternative",
-          "plays": 72
-        },
-        {
-          "genre": "Hip Hop/Rap",
-          "plays": 66
-        },
-        {
-          "genre": "City Pop",
-          "plays": 42
-        },
-        {
-          "genre": "Soundtrack",
-          "plays": 36
-        },
-        {
-          "genre": "Future Funk",
-          "plays": 36
-        },
-        {
-          "genre": "Variété française",
-          "plays": 30
-        },
-        {
-          "genre": "Comedy",
-          "plays": 24
-        },
-        {
-          "genre": "Oldies",
-          "plays": 18
-        },
-        {
-          "genre": "mashup",
-          "plays": 18
-        },
-        {
-          "genre": "Europop",
-          "plays": 18
-        },
-        {
-          "genre": "Folk",
-          "plays": 12
-        },
-        {
-          "genre": "House",
-          "plays": 12
-        },
-        {
-          "genre": "Nu Disco / Funk",
-          "plays": 6
-        },
-        {
-          "genre": "R&B",
-          "plays": 6
-        },
-        {
-          "genre": "Jazz",
-          "plays": 6
-        },
-        {
-          "genre": "Hip-Hop",
-          "plays": 6
-        },
-        {
-          "genre": "Funk",
-          "plays": 6
-        },
-        {
-          "genre": "Musique francophone",
-          "plays": 6
-        },
-        {
-          "genre": "Country",
-          "plays": 6
-        },
-        {
-          "genre": "Psychedlic Rock",
-          "plays": 6
+          "plays": 2
         }
       ],
       "top_tracks": [
         {
-          "song": "Distant",
-          "artist": "Maes, Ninho",
-          "plays": 24,
-          "genre": "Hip Hop/Rap"
+          "song": "Decade Mixtape 2010's",
+          "artist": "Bon Entendeur",
+          "plays": 6,
+          "genre": "mashup"
         },
         {
-          "song": "Tell Me Why",
-          "artist": "Supermode",
-          "plays": 24,
+          "song": "Bullit (Official Music Video)",
+          "artist": "Watermät",
+          "plays": 2,
           "genre": "Dance"
         },
         {
-          "song": "How Far We've Come",
-          "artist": "Matchbox Twenty",
-          "plays": 24,
-          "genre": "Rock"
-        },
-        {
-          "song": "FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER",
-          "artist": "S. Kiyotaka & Omega Tribe",
-          "plays": 24,
-          "genre": "City Pop"
-        },
-        {
-          "song": "I Could Be the One [Avicii vs Nicky Romero] [Noonie Bao Acoustic Mix]",
-          "artist": "Avicii & Nicky Romero",
-          "plays": 18,
+          "song": "Bulletproof",
+          "artist": "La Roux",
+          "plays": 2,
           "genre": "Dance"
-        },
-        {
-          "song": "Can't stop the Loneliness",
-          "artist": "Anri & Night Tempo",
-          "plays": 18,
-          "genre": "Future Funk"
-        },
-        {
-          "song": "L'equipe a jojo",
-          "artist": "Joe Dassin",
-          "plays": 18,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "Nice To Meet You",
-          "artist": "Myles Smith",
-          "plays": 12,
-          "genre": "Pop"
-        },
-        {
-          "song": "Must Be Love (feat. Electric Fields)",
-          "artist": "Tseba",
-          "plays": 12,
-          "genre": "Pop"
-        },
-        {
-          "song": "Something Stupid",
-          "artist": "Lola Marsh",
-          "plays": 12,
-          "genre": "Soundtrack"
-        },
-        {
-          "song": "Running up that Hill",
-          "artist": "Kate Bush",
-          "plays": 12,
-          "genre": "Pop"
-        },
-        {
-          "song": "Astronomia (Medieval Tavern Version)",
-          "artist": "Tony Igy",
-          "plays": 12,
-          "genre": "Folk"
-        },
-        {
-          "song": "Désenchantée",
-          "artist": "Kate Ryan",
-          "plays": 12,
-          "genre": "Pop"
-        },
-        {
-          "song": "L'amour",
-          "artist": "Bon Entendeur & Moulidgi",
-          "plays": 12,
-          "genre": "Dance"
-        },
-        {
-          "song": "Someone You Loved (Future Humans Remix)",
-          "artist": "Lewis Capaldi",
-          "plays": 12,
-          "genre": "Dance"
-        },
-        {
-          "song": "Around the World / Harder Better Faster Stronger",
-          "artist": "Daft Punk",
-          "plays": 12,
-          "genre": "Dance"
-        },
-        {
-          "song": "Anywhere",
-          "artist": "Rita Ora",
-          "plays": 12,
-          "genre": "Pop"
-        },
-        {
-          "song": "Call On Me",
-          "artist": "Daft Punk (Thomas Bangalter & DJ Falcon as Together)",
-          "plays": 12,
-          "genre": "Dance"
-        },
-        {
-          "song": "Cry For You",
-          "artist": "September",
-          "plays": 12,
-          "genre": "Europop"
         },
         {
           "song": "Nightwalk",
           "artist": "Lifelike",
-          "plays": 8,
+          "plays": 2,
           "genre": "Electronic"
-        },
-        {
-          "song": "Johnny B. Goode",
-          "artist": "Chuck Berry",
-          "plays": 6,
-          "genre": "Oldies"
-        },
-        {
-          "song": "Windy Summer",
-          "artist": "Anri",
-          "plays": 6,
-          "genre": "City Pop"
-        },
-        {
-          "song": "High Life",
-          "artist": "Daft Punk",
-          "plays": 6,
-          "genre": "Dance"
-        },
-        {
-          "song": "Oui ou Non",
-          "artist": "Angèle",
-          "plays": 6,
-          "genre": "Variete Francaise"
-        },
-        {
-          "song": "With Love",
-          "artist": "Hilary Duff",
-          "plays": 6,
-          "genre": "Pop"
         }
       ]
     },
@@ -1420,11 +1122,11 @@
     },
     "90d": {
       "days": 90,
-      "total_plays": 5929,
+      "total_plays": 5738,
       "top_artists": [
         {
           "artist": "Daft Punk",
-          "plays": 206
+          "plays": 205
         },
         {
           "artist": "Anri",
@@ -1444,7 +1146,7 @@
         },
         {
           "artist": "Dua Lipa",
-          "plays": 58
+          "plays": 57
         },
         {
           "artist": "Coldplay",
@@ -1452,7 +1154,7 @@
         },
         {
           "artist": "Benjamin Bellman",
-          "plays": 47
+          "plays": 46
         },
         {
           "artist": "Avicii",
@@ -1463,24 +1165,12 @@
           "plays": 44
         },
         {
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 44
-        },
-        {
           "artist": "Jacques Brel",
-          "plays": 43
-        },
-        {
-          "artist": "Illit",
-          "plays": 43
-        },
-        {
-          "artist": "The Weeknd",
           "plays": 42
         },
         {
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40
+          "artist": "The Weeknd",
+          "plays": 41
         },
         {
           "artist": "Global Communication",
@@ -1489,10 +1179,6 @@
         {
           "artist": "Patrick Cowley",
           "plays": 38
-        },
-        {
-          "artist": "Boys Like Girls",
-          "plays": 34
         },
         {
           "artist": "Matchbox Twenty",
@@ -1519,38 +1205,54 @@
           "plays": 30
         },
         {
-          "artist": "Tatsuro Yamashita",
-          "plays": 29
+          "artist": "Michael Jackson",
+          "plays": 28
+        },
+        {
+          "artist": "Supermode",
+          "plays": 28
+        },
+        {
+          "artist": "Jimmy Buffett",
+          "plays": 28
+        },
+        {
+          "artist": "Kungs",
+          "plays": 28
+        },
+        {
+          "artist": "PNL",
+          "plays": 27
         }
       ],
       "top_genres": [
         {
           "genre": "Pop",
-          "plays": 1079
+          "plays": 1052
         },
         {
           "genre": "Dance",
-          "plays": 1037
+          "plays": 1028
         },
         {
           "genre": "Electronic",
-          "plays": 560
-        },
-        {
-          "genre": "Variete Francaise",
-          "plays": 397
+          "plays": 532
         },
         {
           "genre": "Rock",
-          "plays": 395
+          "plays": 389
+        },
+        {
+          "genre": "Variete Francaise",
+          "plays": 384
         },
         {
           "genre": "Alternative",
-          "plays": 379
+          "plays": 364
         },
         {
           "genre": "Hip Hop/Rap",
-          "plays": 300
+          "plays": 287
         },
         {
           "genre": "Comedy",
@@ -1558,23 +1260,19 @@
         },
         {
           "genre": "City Pop",
-          "plays": 173
+          "plays": 164
         },
         {
           "genre": "mashup",
-          "plays": 139
+          "plays": 133
         },
         {
           "genre": "Future Funk",
-          "plays": 122
+          "plays": 120
         },
         {
           "genre": "Soundtrack",
-          "plays": 94
-        },
-        {
-          "genre": "Soft Rock",
-          "plays": 91
+          "plays": 93
         },
         {
           "genre": "House",
@@ -1582,19 +1280,23 @@
         },
         {
           "genre": "Variété française",
-          "plays": 77
+          "plays": 76
+        },
+        {
+          "genre": "Soft Rock",
+          "plays": 70
         },
         {
           "genre": "Oldies",
-          "plays": 75
-        },
-        {
-          "genre": "K-Pop",
-          "plays": 75
+          "plays": 61
         },
         {
           "genre": "Disco",
-          "plays": 60
+          "plays": 59
+        },
+        {
+          "genre": "K-Pop",
+          "plays": 58
         },
         {
           "genre": "Funk",
@@ -1613,37 +1315,19 @@
           "plays": 30
         },
         {
-          "genre": "R & B",
-          "plays": 26
-        },
-        {
           "genre": "Hip-hop/Rap",
           "plays": 25
         },
         {
-          "genre": "Hip-Hop/Rap",
+          "genre": "Britpop",
+          "plays": 25
+        },
+        {
+          "genre": "R & B",
           "plays": 25
         }
       ],
       "top_tracks": [
-        {
-          "song": "Don't Do Me Like That",
-          "artist": "Tom Petty & the Heartbreakers",
-          "plays": 44,
-          "genre": "Soft Rock"
-        },
-        {
-          "song": "NOT CUTE ANYMORE",
-          "artist": "Illit",
-          "plays": 43,
-          "genre": "K-Pop"
-        },
-        {
-          "song": "Elevator",
-          "artist": "Beachcrimes & Tia Tia",
-          "plays": 40,
-          "genre": "Electronic"
-        },
         {
           "song": "The Way (Secret Ingredients Mix)",
           "artist": "Global Communication",
@@ -1661,12 +1345,6 @@
           "artist": "Anri",
           "plays": 34,
           "genre": "City Pop"
-        },
-        {
-          "song": "The Great Escape",
-          "artist": "Boys Like Girls",
-          "plays": 34,
-          "genre": "Alternative"
         },
         {
           "song": "Me And My Broken Heart",
@@ -1711,6 +1389,12 @@
           "genre": "Rock"
         },
         {
+          "song": "NOT CUTE ANYMORE",
+          "artist": "Illit",
+          "plays": 27,
+          "genre": "K-Pop"
+        },
+        {
           "song": "Distant",
           "artist": "Maes, Ninho",
           "plays": 24,
@@ -1729,6 +1413,12 @@
           "genre": "Dance"
         },
         {
+          "song": "Elevator",
+          "artist": "Beachcrimes & Tia Tia",
+          "plays": 24,
+          "genre": "Electronic"
+        },
+        {
           "song": "What the Cat ?",
           "artist": "Camellia",
           "plays": 24,
@@ -1739,6 +1429,18 @@
           "artist": "Rema, Selena Gomez",
           "plays": 24,
           "genre": "Pop"
+        },
+        {
+          "song": "Don't Do Me Like That",
+          "artist": "Tom Petty & the Heartbreakers",
+          "plays": 24,
+          "genre": "Soft Rock"
+        },
+        {
+          "song": "The Great Escape",
+          "artist": "Boys Like Girls",
+          "plays": 24,
+          "genre": "Alternative"
         },
         {
           "song": "VHS",
@@ -1771,10 +1473,10 @@
           "genre": "Dance"
         },
         {
-          "song": "Les flamandes",
-          "artist": "Jacques Brel",
-          "plays": 22,
-          "genre": "Variété française"
+          "song": "New Rules",
+          "artist": "Dua Lipa",
+          "plays": 21,
+          "genre": "Pop"
         }
       ]
     },
@@ -13762,6 +13464,6 @@
     }
   ],
   "first_snapshot": "2026-04-18",
-  "latest_snapshot": "2026-11-26",
-  "snapshot_count": 195
+  "latest_snapshot": "2026-11-27",
+  "snapshot_count": 196
 }
